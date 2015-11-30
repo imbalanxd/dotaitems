@@ -1,4 +1,4 @@
-import os, sys, urllib.request, json, vdf, copy
+import os, sys, urllib.request, json, vdf, copy, IndexPatch
 
 demo = False
 currentVersionId = None
@@ -29,6 +29,7 @@ def main():
 			latestVersion["id"] = latestVersionId
 			indexData[str(len(indexData) + 1)] = latestVersion
 			saveIndexData(indexData)
+	IndexPatch.main();
 	
 def getIndexData():
 	raw = open("index.json", encoding="utf-8")
@@ -62,7 +63,7 @@ def getFullData(fullItemUrl):
 		return vdf.loads(url.read().decode("utf-8"))
 
 def getFullDataFromFile():
-	raw = open("demo\\items_game.txt", encoding="utf-8")
+	raw = open("demo/items_game.txt", encoding="utf-8")
 	return vdf.loads(raw.read())
 
 def getItemsDict(fullDict):
@@ -74,16 +75,20 @@ def writeDictionaryToFile(dict, file):
 	file.closed
 
 def saveFullItemDataForVersionId(fullDict, versionId):
-	writeDictionaryToFile(fullDict, versionId+"\\items_game.txt")
+	writeDictionaryToFile(fullDict, versionId+"/items_game.txt")
 
 def saveWearableItemDataForVersionId(wearableDict, versionId):
-	writeDictionaryToFile(wearableDict, versionId+"\\itemlist.json")
+	writeDictionaryToFile(wearableDict, versionId+"/itemlist.json")
 
 def saveNewWearableItemDataForVersionId(newWearableDict, versionId):
-	writeDictionaryToFile(newWearableDict, versionId+"\\newitemlist.json")
+	writeDictionaryToFile(newWearableDict, versionId+"/newitemlist.json")
 
 def getWearableItemsForVersionId(versionId):
-	raw = open(versionId+"\\itemlist.json", encoding="utf-8")
+	raw = open(versionId+"/itemlist.json", encoding="utf-8")
+	return json.loads(raw.read())
+
+def getNewWearableItemsForVersionId(versionId):
+	raw = open(versionId+"/newitemlist.json", encoding="utf-8")
 	return json.loads(raw.read())
 
 def getWearableItems(itemsDict):
@@ -112,9 +117,6 @@ def findNewWearableItems(oldDict, newDict):
 					if(item in oldDict[key]):
 						del diffDict[key][item]
 	return diffDict
-
-
-
 
 if __name__ == "__main__":
 	main()

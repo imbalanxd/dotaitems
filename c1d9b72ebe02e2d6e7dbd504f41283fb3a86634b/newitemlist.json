@@ -1,0 +1,760 @@
+{
+    "A": {
+        "Algid Falcon Bracer": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/drow/arvalias_legacy_arms/arvalias_legacy_arms",
+            "item_name": "#DOTA_Item_Algid_Falcon_Bracer",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Bracers",
+            "model_player": "models/items/drow/arvalias_legacy_arms/arvalias_legacy_arms.vmdl",
+            "name": "Algid Falcon Bracer",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_drow_ranger": "1"
+            }
+        },
+        "Algid Falcon Cape": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/drow/arvalias_legacy_back/arvalias_legacy_back",
+            "item_name": "#DOTA_Item_Algid_Falcon_Cape",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Cape",
+            "model_player": "models/items/drow/arvalias_legacy_back/arvalias_legacy_back.vmdl",
+            "name": "Algid Falcon Cape",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_drow_ranger": "1"
+            }
+        },
+        "Algid Falcon Greaves": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/heroes/drow/drow_legs",
+            "item_name": "#DOTA_Item_Algid_Falcon_Greaves",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "legs",
+            "item_type_name": "#DOTA_WearableType_Greaves",
+            "model_player": "models/items/drow/arvalias_legacy_legs/arvalias_legacy_legs.vmdl",
+            "name": "Algid Falcon Greaves",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_drow_ranger": "1"
+            }
+        },
+        "Algid Falcon Helm": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/drow/arvalias_legacy_head/arvalias_legacy_head",
+            "item_name": "#DOTA_Item_Algid_Falcon_Helm",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helm",
+            "model_player": "models/items/drow/arvalias_legacy_head/arvalias_legacy_head.vmdl",
+            "name": "Algid Falcon Helm",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_drow_ranger": "1"
+            }
+        },
+        "Algid Falcon Pauldron": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/drow/arvalias_legacy_shoulder/arvalias_legacy_shoulder",
+            "item_name": "#DOTA_Item_Algid_Falcon_Pauldron",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Pauldrons",
+            "model_player": "models/items/drow/arvalias_legacy_shoulder/arvalias_legacy_shoulder.vmdl",
+            "name": "Algid Falcon Pauldron",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_drow_ranger": "1"
+            }
+        },
+        "Algid Falcon Quiver": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/heroes/drow/drow_quiver",
+            "item_name": "#DOTA_Item_Algid_Falcon_Quiver",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "misc",
+            "item_type_name": "#DOTA_WearableType_Quiver",
+            "model_player": "models/items/drow/arvalias_legacy_misc/arvalias_legacy_misc.vmdl",
+            "name": "Algid Falcon Quiver",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_drow_ranger": "1"
+            }
+        },
+        "Algid Legacy": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/drow/arvalias_legacy_weapon/arvalias_legacy_weapon",
+            "item_description": "#DOTA_Item_Desc_Algid_Legacy",
+            "item_name": "#DOTA_Item_Algid_Legacy",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_type_name": "#DOTA_WearableType_Bow",
+            "model_player": "models/items/drow/arvalias_legacy_weapon/arvalias_legacy_weapon.vmdl",
+            "name": "Algid Legacy",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_drow_ranger": "1"
+            },
+            "visuals": {
+                "alternate_icons": {
+                    "0": {
+                        "icon_path": "econ/items/drow/arvalias_legacy_weapon/arvalias_legacy_weapon"
+                    },
+                    "1": {
+                        "icon_path": "econ/items/drow/arvalias_legacy_weapon/arvalias_legacy_weapon_particle"
+                    }
+                },
+                "asset_modifier0": {
+                    "modifier": "particles/units/heroes/hero_drow/drow_bowstring.vpcf",
+                    "style": "0",
+                    "type": "particle_create"
+                },
+                "asset_modifier1": {
+                    "modifier": "particles/econ/items/drow/drow_arvalias_legacy/drow_bowstring_arvalias.vpcf",
+                    "style": "1",
+                    "type": "particle_create"
+                },
+                "skin": "0",
+                "styles": {
+                    "0": {
+                        "alternate_icon": "0",
+                        "name": "#Algid_Legacy_Default"
+                    },
+                    "1": {
+                        "alternate_icon": "1",
+                        "name": "#Algid_Legacy_Particle",
+                        "unlock": {
+                            "item": "Tribute Upgrade Infuser - Fall Season 2015",
+                            "price": "1"
+                        }
+                    }
+                }
+            }
+        },
+        "Armor of Flightless Fury": {
+            "creation_date": "2013-03-25",
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/vengefulspirit/flightless_fury_shoulder/flightless_fury_shoulder",
+            "item_name": "#DOTA_Item_Armor_of_Flightless_Fury",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Armor",
+            "model_player": "models/items/vengefulspirit/flightless_fury_shoulder/flightless_fury_shoulder.vmdl",
+            "name": "Armor of Flightless Fury",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_vengefulspirit": "1"
+            }
+        },
+        "Armor of the Fearful Aria": {
+            "creation_date": "2015-06-22",
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/phantom_assassin/toll_of_the_fearful_aria_shoulder/toll_of_the_fearful_aria_shoulder",
+            "item_description": "#DOTA_Item_Desc_Armor_of_the_Fearful_Aria",
+            "item_name": "#DOTA_Item_Armor_of_the_Fearful_Aria",
+            "item_rarity": "mythical",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Armor",
+            "model_player": "models/items/phantom_assassin/toll_of_the_fearful_aria_shoulder/toll_of_the_fearful_aria_shoulder.vmdl",
+            "name": "Armor of the Fearful Aria",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_phantom_assassin": "1"
+            },
+            "visuals": {
+                "alternate_icons": {
+                    "0": {
+                        "icon_path": "econ/items/phantom_assassin/toll_of_the_fearful_aria_shoulder/toll_of_the_fearful_aria_shoulder"
+                    },
+                    "1": {
+                        "icon_path": "econ/items/phantom_assassin/toll_of_the_fearful_aria_shoulder/toll_of_the_fearful_aria_shoulder_particle"
+                    }
+                },
+                "asset_modifier0": {
+                    "modifier": "particles/econ/items/phantom_assassin/phantom_assassin_echoes_aria/pa_echoes_aria_ambient.vpcf",
+                    "style": "1",
+                    "type": "particle_create"
+                },
+                "skin": "0",
+                "styles": {
+                    "0": {
+                        "alternate_icon": "0",
+                        "name": "#Armor_of_the_Fearful_Aria_Default"
+                    },
+                    "1": {
+                        "alternate_icon": "1",
+                        "name": "#Armor_of_the_Fearful_Aria_Particle",
+                        "unlock": {
+                            "item": "Tribute Upgrade Infuser - Fall Season 2015",
+                            "price": "1"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "B": {
+        "Baton of the Spiteful Eye": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/shadowshaman/eyedancer_wrath_weapon/eyedancer_wrath_weapon",
+            "item_name": "#DOTA_Item_Baton_of_the_Spiteful_Eye",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "model_player": "models/items/shadowshaman/eyedancer_wrath_weapon/eyedancer_wrath_weapon.vmdl",
+            "name": "Baton of the Spiteful Eye",
+            "particle_folder": "particles/units/heroes/hero_shadowshaman",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shadow_shaman": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "particles/units/heroes/hero_shadowshaman/shadowshaman_stick_r.vpcf",
+                    "modifier": "particles/error/null.vpcf",
+                    "type": "particle"
+                },
+                "asset_modifier1": {
+                    "modifier": "particles/econ/items/shadow_shaman/shadow_shaman_spiteful/shadowshaman_stick_spite_r.vpcf",
+                    "type": "particle_create"
+                }
+            }
+        },
+        "Blade of Flightless Fury": {
+            "creation_date": "2013-03-25",
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/vengefulspirit/flightless_fury_weapon/flightless_fury_weapon",
+            "item_description": "#DOTA_Item_Desc_Blade_of_Flightless_Fury",
+            "item_name": "#DOTA_Item_Blade_of_Flightless_Fury",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_type_name": "#DOTA_WearableType_Blade",
+            "model_player": "models/items/vengefulspirit/flightless_fury_weapon/flightless_fury_weapon.vmdl",
+            "name": "Blade of Flightless Fury",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_vengefulspirit": "1"
+            },
+            "visuals": {
+                "alternate_icons": {
+                    "0": {
+                        "icon_path": "econ/items/vengefulspirit/flightless_fury_weapon/flightless_fury_weapon"
+                    },
+                    "1": {
+                        "icon_path": "econ/items/vengefulspirit/flightless_fury_weapon/flightless_fury_weapon_particle"
+                    }
+                },
+                "asset_modifier0": {
+                    "modifier": "particles/econ/items/vengeful/vengeful_flightless/vengeful_flightless_weapon_ambient.vpcf",
+                    "style": "1",
+                    "type": "particle_create"
+                },
+                "skin": "0",
+                "skip_model_combine": "0",
+                "styles": {
+                    "0": {
+                        "alternate_icon": "0",
+                        "name": "#Blade_of_Flightless_Fury_Default"
+                    },
+                    "1": {
+                        "alternate_icon": "1",
+                        "name": "#Blade_of_Flightless_Fury_Particle",
+                        "unlock": {
+                            "item": "Tribute Upgrade Infuser - Fall Season 2015",
+                            "price": "1"
+                        }
+                    }
+                }
+            }
+        },
+        "Burning Jacks": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/batrider/fiery_heart_belt/fiery_heart_belt",
+            "item_name": "#DOTA_Item_Burning_Jacks",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Bomb",
+            "model_player": "models/items/batrider/fiery_heart_belt/fiery_heart_belt.vmdl",
+            "name": "Burning Jacks",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_batrider": "1"
+            }
+        }
+    },
+    "C": {
+        "Cap of Erupting Wrath": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/magnataur/rage_of_volcano_natives_head/rage_of_volcano_natives_head",
+            "item_name": "#DOTA_Item_Cap_of_Erupting_Wrath",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Cap",
+            "model_player": "models/items/magnataur/rage_of_volcano_natives_head/rage_of_volcano_natives_head.vmdl",
+            "name": "Cap of Erupting Wrath",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_magnataur": "1"
+            }
+        },
+        "Cap of the Jack Bomber": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/batrider/fiery_heart_head/fiery_heart_head",
+            "item_name": "#DOTA_Item_Cap_of_the_Jack_Bomber",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Cap",
+            "model_player": "models/items/batrider/fiery_heart_head/fiery_heart_head.vmdl",
+            "name": "Cap of the Jack Bomber",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_batrider": "1"
+            }
+        },
+        "Cloak of the Jack Bomber": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/batrider/fiery_heart_shoulder/fiery_heart_shoulder",
+            "item_name": "#DOTA_Item_Cloak_of_the_Jack_Bomber",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Cloak",
+            "model_player": "models/items/batrider/fiery_heart_shoulder/fiery_heart_shoulder.vmdl",
+            "name": "Cloak of the Jack Bomber",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_batrider": "1"
+            }
+        },
+        "Curve of the Fearful Aria": {
+            "creation_date": "2015-06-22",
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/phantom_assassin/toll_of_the_fearful_aria_weapon/toll_of_the_fearful_aria_weapon",
+            "item_description": "#DOTA_Item_Desc_Curve_of_the_Fearful_Aria",
+            "item_name": "#DOTA_Item_Curve_of_the_Fearful_Aria",
+            "item_rarity": "mythical",
+            "item_type_name": "#DOTA_WearableType_Blade",
+            "model_player": "models/items/phantom_assassin/toll_of_the_fearful_aria_weapon/toll_of_the_fearful_aria_weapon.vmdl",
+            "name": "Curve of the Fearful Aria",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_phantom_assassin": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "particles/econ/items/phantom_assassin/phantom_assassin_weapon_generic.psf",
+                    "modifier": "particles/models/items/phantom_assassin/toll_of_the_fearful_aria_weapon/toll_of_the_fearful_aria_weapon.psf",
+                    "type": "particle_snapshot"
+                },
+                "asset_modifier1": {
+                    "asset": "particles/units/heroes/hero_phantom_assassin/phantom_assassin_ambient_blade.vpcf",
+                    "modifier": "particles/econ/items/phantom_assassin/phantom_assassin_weapon_generic/phantom_assassin_ambient_blade_generic.vpcf",
+                    "replacement_type": "PARTICLE_REPLACE_NONE",
+                    "type": "particle"
+                }
+            }
+        }
+    },
+    "G": {
+        "Girdle of Erupting Wrath": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/magnataur/rage_of_volcano_natives_belt/rage_of_volcano_natives_belt",
+            "item_name": "#DOTA_Item_Girdle_of_Erupting_Wrath",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Girdle",
+            "model_player": "models/items/magnataur/rage_of_volcano_natives_belt/rage_of_volcano_natives_belt.vmdl",
+            "name": "Girdle of Erupting Wrath",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_magnataur": "1"
+            }
+        },
+        "Glimpse of the Spiteful Eye": {
+            "creation_date": "2015-04-14",
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/shadowshaman/serpent_ward/eyedancer_wrath_ward/eyedancer_wrath_ward_npc_dota_shadow_shaman_ward_1",
+            "item_name": "#DOTA_Item_Glimpse_of_the_Spiteful_Eye",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "summon",
+            "item_type_name": "#DOTA_WearableType_Ward",
+            "name": "Glimpse of the Spiteful Eye",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shadow_shaman": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "npc_dota_shadow_shaman_ward",
+                    "modifier": "models/items/shadowshaman/serpent_ward/eyedancer_wrath_ward/eyedancer_wrath_ward.vmdl",
+                    "type": "entity_model"
+                }
+            }
+        },
+        "Greaves of Flightless Fury": {
+            "creation_date": "2013-03-25",
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/vengefulspirit/flightless_fury_legs/flightless_fury_legs",
+            "item_name": "#DOTA_Item_Greaves_of_Flightless_Fury",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "legs",
+            "item_type_name": "#DOTA_WearableType_Greaves",
+            "model_player": "models/items/vengefulspirit/flightless_fury_legs/flightless_fury_legs.vmdl",
+            "name": "Greaves of Flightless Fury",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_vengefulspirit": "1"
+            }
+        }
+    },
+    "H": {
+        "Helmet of Flightless Fury": {
+            "creation_date": "2013-03-25",
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/vengefulspirit/flightless_fury_head/flightless_fury_head",
+            "item_name": "#DOTA_Item_Helmet_of_Flightless_Fury",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helmet",
+            "model_player": "models/items/vengefulspirit/flightless_fury_head/flightless_fury_head.vmdl",
+            "name": "Helmet of Flightless Fury",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_vengefulspirit": "1"
+            }
+        },
+        "Horn of Erupting Wrath": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/magnataur/rage_of_volcano_natives_misc/rage_of_volcano_natives_misc",
+            "item_name": "#DOTA_Item_Horn_of_Erupting_Wrath",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "misc",
+            "item_type_name": "#DOTA_WearableType_Horn",
+            "model_player": "models/items/magnataur/rage_of_volcano_natives_misc/rage_of_volcano_natives_misc.vmdl",
+            "name": "Horn of Erupting Wrath",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_magnataur": "1"
+            }
+        }
+    },
+    "I": {
+        "Infuser Model Fall 2015": {
+            "creation_date": "2015-10-26",
+            "hidden": "1",
+            "image_inventory": "econ/testitem_slot_empty",
+            "item_name": "#DOTA_Item_Infuser_Model_Fall_2015",
+            "item_rarity": "rare",
+            "item_slot": "ability2",
+            "item_type_name": "#DOTA_WearableType_Ability_Modifier",
+            "name": "Infuser Model Fall 2015",
+            "particle_folder": "particles/econ/events/fall_major_2015",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_juggernaut": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "npc_dota_juggernaut_healing_ward",
+                    "modifier": "models/ui/3d_infuser/3d_infuser_model.vmdl",
+                    "type": "entity_model"
+                },
+                "asset_modifier1": {
+                    "asset": "particles/units/heroes/hero_juggernaut/juggernaut_healing_ward.vpcf",
+                    "modifier": "particles/econ/events/fall_major_2015/infuser_fall_ambient_2015.vpcf",
+                    "type": "particle"
+                },
+                "asset_modifier2": {
+                    "asset": "juggernaut_healing_ward",
+                    "scale_size": "4",
+                    "type": "entity_scale"
+                }
+            }
+        }
+    },
+    "M": {
+        "Mantle of the Spiteful Eye": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/shadowshaman/eyedancer_wrath_arms/eyedancer_wrath_arms",
+            "item_name": "#DOTA_Item_Mantle_of_the_Spiteful_Eye",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Mantle",
+            "model_player": "models/items/shadowshaman/eyedancer_wrath_arms/eyedancer_wrath_arms.vmdl",
+            "name": "Mantle of the Spiteful Eye",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shadow_shaman": "1"
+            }
+        }
+    },
+    "O": {
+        "Off-Hand Baton of the Spiteful Eye": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/shadowshaman/eyedancer_wrath_offhand/eyedancer_wrath_offhand",
+            "item_name": "#DOTA_Item_OffHand_Baton_of_the_Spiteful_Eye",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "offhand_weapon",
+            "item_type_name": "#DOTA_WearableType_OffHand_Weapon",
+            "model_player": "models/items/shadowshaman/eyedancer_wrath_offhand/eyedancer_wrath_offhand.vmdl",
+            "name": "Off-Hand Baton of the Spiteful Eye",
+            "particle_folder": "particles/units/heroes/hero_shadowshaman",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shadow_shaman": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "particles/units/heroes/hero_shadowshaman/shadowshaman_stick_l.vpcf",
+                    "modifier": "particles/error/null.vpcf",
+                    "type": "particle"
+                },
+                "asset_modifier1": {
+                    "modifier": "particles/econ/items/shadow_shaman/shadow_shaman_spiteful/shadowshaman_stick_spite_l.vpcf",
+                    "type": "particle_create"
+                }
+            }
+        }
+    },
+    "P": {
+        "Pauldron of Erupting Wrath": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/magnataur/rage_of_volcano_natives_arms/rage_of_volcano_natives_arms",
+            "item_name": "#DOTA_Item_Pauldron_of_Erupting_Wrath",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Pauldron",
+            "model_player": "models/items/magnataur/rage_of_volcano_natives_arms/rage_of_volcano_natives_arms.vmdl",
+            "name": "Pauldron of Erupting Wrath",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_magnataur": "1"
+            }
+        }
+    },
+    "Q": {
+        "Queen of the Jack Bomber": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/batrider/fiery_heart_mount/fiery_heart_mount",
+            "item_description": "#DOTA_Item_Desc_Queen_of_the_Jack_Bomber",
+            "item_name": "#DOTA_Item_Queen_of_the_Jack_Bomber",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "mount",
+            "item_type_name": "#DOTA_WearableType_Mount",
+            "model_player": "models/items/batrider/fiery_heart_mount/fiery_heart_mount.vmdl",
+            "name": "Queen of the Jack Bomber",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_batrider": "1"
+            },
+            "visuals": {
+                "alternate_icons": {
+                    "0": {
+                        "icon_path": "econ/items/batrider/fiery_heart_mount/fiery_heart_mount"
+                    },
+                    "1": {
+                        "icon_path": "econ/items/batrider/fiery_heart_mount/fiery_heart_mount_particle"
+                    }
+                },
+                "asset_modifier0": {
+                    "modifier": "particles/econ/items/batrider/burning_jack_bomber/burning_jack_bomber_ambient.vpcf",
+                    "style": "1",
+                    "type": "particle_create"
+                },
+                "skin": "0",
+                "styles": {
+                    "0": {
+                        "alternate_icon": "0",
+                        "name": "#Queen_of_the_Jack_Bomber_Default"
+                    },
+                    "1": {
+                        "alternate_icon": "1",
+                        "name": "#Queen_of_the_Jack_Bomber_Particle",
+                        "unlock": {
+                            "item": "Tribute Upgrade Infuser - Fall Season 2015",
+                            "price": "1"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "S": {
+        "Sash of the Fearful Aria": {
+            "creation_date": "2015-06-22",
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/phantom_assassin/toll_of_the_fearful_aria_belt/toll_of_the_fearful_aria_belt",
+            "item_description": "#DOTA_Item_Desc_Sash_of_the_Fearful_Aria",
+            "item_name": "#DOTA_Item_Sash_of_the_Fearful_Aria",
+            "item_rarity": "mythical",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Sash",
+            "model_player": "models/items/phantom_assassin/toll_of_the_fearful_aria_belt/toll_of_the_fearful_aria_belt.vmdl",
+            "name": "Sash of the Fearful Aria",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_phantom_assassin": "1"
+            }
+        },
+        "Shade of the Spiteful Eye": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/shadowshaman/eyedancer_wrath_head/eyedancer_wrath_head",
+            "item_description": "#DOTA_Item_Desc_Shade_of_the_Spiteful_Eye",
+            "item_name": "#DOTA_Item_Shade_of_the_Spiteful_Eye",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Hat",
+            "model_player": "models/items/shadowshaman/eyedancer_wrath_head/eyedancer_wrath_head.vmdl",
+            "name": "Shade of the Spiteful Eye",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shadow_shaman": "1"
+            },
+            "visuals": {
+                "alternate_icons": {
+                    "0": {
+                        "icon_path": "econ/items/shadowshaman/eyedancer_wrath_head/eyedancer_wrath_head"
+                    },
+                    "1": {
+                        "icon_path": "econ/items/shadowshaman/eyedancer_wrath_head/eyedancer_wrath_head_particle"
+                    }
+                },
+                "asset_modifier0": {
+                    "modifier": "particles/econ/items/shadow_shaman/shadow_shaman_spiteful/shadowshaman_stick_spite_head.vpcf",
+                    "style": "1",
+                    "type": "particle_create"
+                },
+                "skin": "0",
+                "styles": {
+                    "0": {
+                        "alternate_icon": "0",
+                        "name": "#Shade_of_the_Spiteful_Eye_Default"
+                    },
+                    "1": {
+                        "alternate_icon": "1",
+                        "name": "#Shade_of_the_Spiteful_Eye_Particle",
+                        "unlock": {
+                            "item": "Tribute Upgrade Infuser - Fall Season 2015",
+                            "price": "1"
+                        }
+                    }
+                }
+            }
+        },
+        "Sigil of the Spiteful Eye": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/shadowshaman/eyedancer_wrath_belt/eyedancer_wrath_belt",
+            "item_name": "#DOTA_Item_Sigil_of_the_Spiteful_Eye",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Sigil",
+            "model_player": "models/items/shadowshaman/eyedancer_wrath_belt/eyedancer_wrath_belt.vmdl",
+            "name": "Sigil of the Spiteful Eye",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shadow_shaman": "1"
+            }
+        },
+        "Slab of Erupting Wrath": {
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/magnataur/rage_of_volcano_natives_weapon/rage_of_volcano_natives_weapon",
+            "item_description": "#DOTA_Item_Desc_Slab_of_Erupting_Wrath",
+            "item_name": "#DOTA_Item_Slab_of_Erupting_Wrath",
+            "item_quality": "normal",
+            "item_rarity": "mythical",
+            "model_player": "models/items/magnataur/rage_of_volcano_natives_weapon/rage_of_volcano_natives_weapon.vmdl",
+            "name": "Slab of Erupting Wrath",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_magnataur": "1"
+            },
+            "visuals": {
+                "alternate_icons": {
+                    "0": {
+                        "icon_path": "econ/items/magnataur/rage_of_volcano_natives_weapon/rage_of_volcano_natives_weapon"
+                    },
+                    "1": {
+                        "icon_path": "econ/items/magnataur/rage_of_volcano_natives_weapon/rage_of_volcano_natives_weapon_particle"
+                    }
+                },
+                "asset_modifier0": {
+                    "modifier": "particles/econ/items/magnataur/magnus_erupting_wrath/magnus_erupting_wrath.vpcf",
+                    "style": "1",
+                    "type": "particle_create"
+                },
+                "skin": "0",
+                "styles": {
+                    "0": {
+                        "alternate_icon": "0",
+                        "name": "#Slab_of_Erupting_Wrath_Default"
+                    },
+                    "1": {
+                        "alternate_icon": "1",
+                        "name": "#Slab_of_Erupting_Wrath_Particle",
+                        "unlock": {
+                            "item": "Tribute Upgrade Infuser - Fall Season 2015",
+                            "price": "1"
+                        }
+                    }
+                }
+            }
+        },
+        "Style of the Fearful Aria": {
+            "creation_date": "2015-06-22",
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/phantom_assassin/toll_of_the_fearful_aria_head/toll_of_the_fearful_aria_head",
+            "item_description": "#DOTA_Item_Desc_Style_of_the_Fearful_Aria",
+            "item_name": "#DOTA_Item_Style_of_the_Fearful_Aria",
+            "item_rarity": "mythical",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Style",
+            "model_player": "models/items/phantom_assassin/toll_of_the_fearful_aria_head/toll_of_the_fearful_aria_head.vmdl",
+            "name": "Style of the Fearful Aria",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_phantom_assassin": "1"
+            }
+        }
+    },
+    "T": {
+        "Trail of the Fearful Aria": {
+            "creation_date": "2015-06-22",
+            "event_id": "EVENT_ID_FALL_MAJOR_2015",
+            "image_inventory": "econ/items/phantom_assassin/toll_of_the_fearful_aria_back/toll_of_the_fearful_aria_back",
+            "item_description": "#DOTA_Item_Desc_Trail_of_the_Fearful_Aria",
+            "item_name": "#DOTA_Item_Trail_of_the_Fearful_Aria",
+            "item_rarity": "mythical",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Cape",
+            "model_player": "models/items/phantom_assassin/toll_of_the_fearful_aria_back/toll_of_the_fearful_aria_back.vmdl",
+            "name": "Trail of the Fearful Aria",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_phantom_assassin": "1"
+            }
+        }
+    }
+}

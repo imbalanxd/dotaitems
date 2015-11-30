@@ -1,0 +1,36 @@
+{
+    "G": {
+        "Gilded Edge": {
+            "creation_date": "2015-07-21",
+            "image_inventory": "econ/testitem_slot_empty",
+            "item_description": "#DOTA_Item_Desc_Copy_of_Pale_Edge",
+            "item_name": "#DOTA_Item_Gilded_Edge",
+            "item_quality": "genuine",
+            "item_rarity": "mythical",
+            "model_player": "models/items/slark/pale_justice/pale_justice.mdl",
+            "name": "Gilded Edge",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_slark": "1"
+            },
+            "visuals": {
+                "skin": "1"
+            }
+        }
+    },
+    "P": {
+        "Pale Edge": {
+            "creation_date": "2015-07-07",
+            "image_inventory": "econ/testitem_slot_empty",
+            "item_name": "#DOTA_Item_Pale_Edge",
+            "item_quality": "genuine",
+            "item_rarity": "mythical",
+            "model_player": "models/items/slark/pale_justice/pale_justice.mdl",
+            "name": "Pale Edge",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_slark": "1"
+            }
+        }
+    }
+}

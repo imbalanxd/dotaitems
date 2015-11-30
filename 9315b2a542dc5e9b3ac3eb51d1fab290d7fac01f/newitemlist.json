@@ -1,0 +1,706 @@
+{
+    "A": {
+        "Armor of the Tree Punisher": {
+            "creation_date": "2015-07-01",
+            "image_inventory": "econ/items/shredder/treepunisher_armor/treepunisher_armor",
+            "item_name": "#DOTA_Item_Armor_of_the_Tree_Punisher",
+            "item_rarity": "uncommon",
+            "item_slot": "armor",
+            "item_type_name": "#DOTA_WearableType_Armor",
+            "model_player": "models/items/shredder/treepunisher_armor/treepunisher_armor.mdl",
+            "name": "Armor of the Tree Punisher",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            }
+        }
+    },
+    "B": {
+        "Barrel of the Bogatyr": {
+            "creation_date": "2015-06-30",
+            "image_inventory": "econ/items/pudge/bogatyr_pudge_belt_lv/bogatyr_pudge_belt_lv",
+            "item_name": "#DOTA_Item_Barrel_of_the_Bogatyr",
+            "item_rarity": "rare",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Belt",
+            "model_player": "models/items/pudge/bogatyr_pudge_belt_lv/bogatyr_pudge_belt_lv.mdl",
+            "name": "Barrel of the Bogatyr",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_pudge": "1"
+            }
+        }
+    },
+    "C": {
+        "Call of the Mistral Fiend": {
+            "creation_date": "2015-07-08",
+            "image_inventory": "econ/items/abaddon/mark_of_the_mistral_fiend_weapon/mark_of_the_mistral_fiend_weapon",
+            "item_name": "#DOTA_Item_Call_of_the_Mistral_Fiend",
+            "model_player": "models/items/abaddon/mark_of_the_mistral_fiend_weapon/mark_of_the_mistral_fiend_weapon.mdl",
+            "name": "Call of the Mistral Fiend",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_abaddon": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "particles/models/heroes/abaddon/abaddon_sword_default.psf",
+                    "modifier": "particles/models/items/abaddon/mark_of_the_mistral_fiend_weapon/mark_of_the_mistral_fiend_weapon.psf",
+                    "type": "particle_snapshot"
+                },
+                "attached_particlesystem0": {
+                    "system": "abaddon_blade"
+                },
+                "skip_model_combine": "1"
+            }
+        },
+        "Cape of the Mistral Fiend": {
+            "creation_date": "2015-07-08",
+            "image_inventory": "econ/items/abaddon/mark_of_the_mistral_fiend_back/mark_of_the_mistral_fiend_back",
+            "item_name": "#DOTA_Item_Cape_of_the_Mistral_Fiend",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Cape",
+            "model_player": "models/items/abaddon/mark_of_the_mistral_fiend_back/mark_of_the_mistral_fiend_back.mdl",
+            "name": "Cape of the Mistral Fiend",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_abaddon": "1"
+            }
+        },
+        "Cloak of the Gruesome Embrace": {
+            "creation_date": "2015-06-30",
+            "image_inventory": "econ/items/lion/ancient_evil_back/ancient_evil_back",
+            "item_name": "#DOTA_Item_Cloak_of_the_Gruesome_Embrace",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Cloak",
+            "model_player": "models/items/lion/ancient_evil_back/ancient_evil_back.mdl",
+            "name": "Cloak of the Gruesome Embrace",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_lion": "1"
+            }
+        },
+        "Crest of the Shaded Eulogy": {
+            "creation_date": "2015-07-03",
+            "image_inventory": "econ/items/death_prophet/burial_robes_head/burial_robes_head",
+            "item_name": "#DOTA_Item_Crest_of_the_Shaded_Eulogy",
+            "item_rarity": "uncommon",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Crest",
+            "model_player": "models/items/death_prophet/burial_robes_head/burial_robes_head.mdl",
+            "name": "Crest of the Shaded Eulogy",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_death_prophet": "1"
+            }
+        },
+        "Cruel Mace of the Bogatyr": {
+            "creation_date": "2015-06-30",
+            "image_inventory": "econ/items/pudge/bogatyr_pudge_offhand_lv/bogatyr_pudge_offhand_lv",
+            "item_name": "#DOTA_Item_Cruel_Mace_of_the_Bogatyr",
+            "item_rarity": "uncommon",
+            "item_slot": "offhand_weapon",
+            "item_type_name": "#DOTA_WearableType_Mace",
+            "model_player": "models/items/pudge/bogatyr_pudge_offhand_lv/bogatyr_pudge_offhand_lv.mdl",
+            "name": "Cruel Mace of the Bogatyr",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_pudge": "1"
+            }
+        },
+        "Cuirass of the Wurmblood": {
+            "creation_date": "2015-07-08",
+            "image_inventory": "econ/items/dragon_knight/wurmblood_shoulder/wurmblood_shoulder",
+            "item_name": "#DOTA_Item_Cuirass_of_the_Wurmblood",
+            "item_rarity": "rare",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Cuirass",
+            "model_player": "models/items/dragon_knight/wurmblood_shoulder/wurmblood_shoulder.mdl",
+            "name": "Cuirass of the Wurmblood",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_dragon_knight": "1"
+            }
+        }
+    },
+    "D": {
+        "Dress of the Shaded Eulogy": {
+            "creation_date": "2015-07-03",
+            "image_inventory": "econ/items/death_prophet/burial_robes_legs/burial_robes_legs",
+            "item_name": "#DOTA_Item_Dress_of_the_Shaded_Eulogy",
+            "item_rarity": "uncommon",
+            "item_slot": "legs",
+            "item_type_name": "#DOTA_WearableType_Dress",
+            "model_player": "models/items/death_prophet/burial_robes_legs/burial_robes_legs.mdl",
+            "name": "Dress of the Shaded Eulogy",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_death_prophet": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "models/items/death_prophet/burial_robes_vortex/burial_robes_vortex.mdl",
+                    "type": "additional_wearable"
+                }
+            }
+        }
+    },
+    "E": {
+        "Emblem of the Crested Dawn": {
+            "creation_date": "2015-07-10",
+            "image_inventory": "econ/items/skywrath_mage/blessing_of_the_crested_dawn_arms/blessing_of_the_crested_dawn_arms",
+            "item_name": "#DOTA_Item_Emblem_of_the_Crested_Dawn",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Bracers",
+            "model_player": "models/items/skywrath_mage/blessing_of_the_crested_dawn_arms/blessing_of_the_crested_dawn_arms.mdl",
+            "name": "Emblem of the Crested Dawn",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_skywrath_mage": "1"
+            }
+        }
+    },
+    "F": {
+        "Fins of the Shivshell Crawler": {
+            "creation_date": "2015-07-01",
+            "image_inventory": "econ/items/slark/shivshell_back/shivshell_back",
+            "item_name": "#DOTA_Item_Fins_of_the_Shivshell_Crawler",
+            "item_rarity": "uncommon",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Fins",
+            "model_player": "models/items/slark/shivshell_back/shivshell_back.mdl",
+            "name": "Fins of the Shivshell Crawler",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_slark": "1"
+            }
+        }
+    },
+    "G": {
+        "Gauntlet of the Shivshell Crawler": {
+            "creation_date": "2015-07-01",
+            "image_inventory": "econ/items/slark/shivshell_arms/shivshell_arms",
+            "item_name": "#DOTA_Item_Gauntlet_of_the_Shivshell_Crawler",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Gauntlet",
+            "model_player": "models/items/slark/shivshell_arms/shivshell_arms.mdl",
+            "name": "Gauntlet of the Shivshell Crawler",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_slark": "1"
+            }
+        },
+        "Gauntlets of the Wurmblood": {
+            "creation_date": "2015-07-08",
+            "image_inventory": "econ/items/dragon_knight/wurmblood_arms/wurmblood_arms",
+            "item_name": "#DOTA_Item_Gauntlets_of_the_Wurmblood",
+            "item_rarity": "uncommon",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Gauntlets",
+            "model_player": "models/items/dragon_knight/wurmblood_arms/wurmblood_arms.mdl",
+            "name": "Gauntlets of the Wurmblood",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_dragon_knight": "1"
+            }
+        },
+        "Goggles of the Tree Punisher": {
+            "creation_date": "2015-07-01",
+            "image_inventory": "econ/items/shredder/treepunisher_head/treepunisher_head",
+            "item_name": "#DOTA_Item_Goggles_of_the_Tree_Punisher",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Goggles",
+            "model_player": "models/items/shredder/treepunisher_head/treepunisher_head.mdl",
+            "name": "Goggles of the Tree Punisher",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            }
+        },
+        "Grip of the Tree Punisher": {
+            "creation_date": "2015-07-01",
+            "image_inventory": "econ/items/shredder/treepunisher_weapon/treepunisher_weapon",
+            "item_name": "#DOTA_Item_Grip_of_the_Tree_Punisher",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Grip",
+            "model_player": "models/items/shredder/treepunisher_weapon/treepunisher_weapon.mdl",
+            "name": "Grip of the Tree Punisher",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            }
+        },
+        "Guard of the Shivshell Crawler": {
+            "creation_date": "2015-07-01",
+            "image_inventory": "econ/items/slark/shivshell_shoulder/shivshell_shoulder",
+            "item_name": "#DOTA_Item_Guard_of_the_Shivshell_Crawler",
+            "item_rarity": "rare",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Guard",
+            "model_player": "models/items/slark/shivshell_shoulder/shivshell_shoulder.mdl",
+            "name": "Guard of the Shivshell Crawler",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_slark": "1"
+            }
+        }
+    },
+    "H": {
+        "Helm of the Mistral Fiend": {
+            "creation_date": "2015-07-08",
+            "image_inventory": "econ/items/abaddon/mark_of_the_mistral_fiend_head/mark_of_the_mistral_fiend_head",
+            "item_description": "#DOTA_Item_Desc_Helm_of_the_Mistral_Fiend",
+            "item_name": "#DOTA_Item_Helm_of_the_Mistral_Fiend",
+            "item_rarity": "rare",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helm",
+            "model_player": "models/items/abaddon/mark_of_the_mistral_fiend_head/mark_of_the_mistral_fiend_head.mdl",
+            "name": "Helm of the Mistral Fiend",
+            "prefab": "wearable",
+            "static_attributes": {
+                "static socket 1": {
+                    "attribute_class": "socket",
+                    "value": "socket { required_hero: 'npc_dota_hero_abaddon' gem_def_index: 3005 } asset_modifier: 162"
+                }
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_abaddon": "1"
+            }
+        },
+        "Helm of the Shivshell Crawler": {
+            "creation_date": "2015-07-01",
+            "image_inventory": "econ/items/slark/shivshell_head/shivshell_head",
+            "item_name": "#DOTA_Item_Helm_of_the_Shivshell_Crawler",
+            "item_rarity": "uncommon",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helm",
+            "model_player": "models/items/slark/shivshell_head/shivshell_head.mdl",
+            "name": "Helm of the Shivshell Crawler",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_slark": "1"
+            }
+        },
+        "Helm of the Wurmblood": {
+            "creation_date": "2015-07-08",
+            "image_inventory": "econ/items/dragon_knight/wurmblood_head/wurmblood_head",
+            "item_name": "#DOTA_Item_Helm_of_the_Wurmblood",
+            "item_rarity": "uncommon",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helm",
+            "model_player": "models/items/dragon_knight/wurmblood_head/wurmblood_head.mdl",
+            "name": "Helm of the Wurmblood",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_dragon_knight": "1"
+            }
+        }
+    },
+    "L": {
+        "Lance of the Wurmblood": {
+            "creation_date": "2015-07-08",
+            "image_inventory": "econ/items/dragon_knight/wurmblood_weapon/wurmblood_weapon",
+            "item_name": "#DOTA_Item_Lance_of_the_Wurmblood",
+            "item_rarity": "mythical",
+            "item_type_name": "#DOTA_WearableType_Lance",
+            "model_player": "models/items/dragon_knight/wurmblood_weapon/wurmblood_weapon.mdl",
+            "name": "Lance of the Wurmblood",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_dragon_knight": "1"
+            }
+        }
+    },
+    "M": {
+        "Mantle of the Shaded Eulogy": {
+            "creation_date": "2015-07-03",
+            "image_inventory": "econ/items/death_prophet/burial_robes_armor/burial_robes_armor",
+            "item_name": "#DOTA_Item_Mantle_of_the_Shaded_Eulogy",
+            "item_rarity": "rare",
+            "item_slot": "armor",
+            "item_type_name": "#DOTA_WearableType_Mantle",
+            "model_player": "models/items/death_prophet/burial_robes_armor/burial_robes_armor.mdl",
+            "name": "Mantle of the Shaded Eulogy",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_death_prophet": "1"
+            }
+        },
+        "Mistral": {
+            "creation_date": "2015-07-08",
+            "image_inventory": "econ/items/abaddon/mark_of_the_mistral_fiend_mount/mark_of_the_mistral_fiend_mount",
+            "item_name": "#DOTA_Item_Mistral",
+            "item_rarity": "rare",
+            "item_slot": "mount",
+            "item_type_name": "#DOTA_WearableType_Mount",
+            "model_player": "models/items/abaddon/mark_of_the_mistral_fiend_mount/mark_of_the_mistral_fiend_mount.mdl",
+            "name": "Mistral",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_abaddon": "1"
+            }
+        }
+    },
+    "O": {
+        "Old Helmet of the Bogatyr": {
+            "creation_date": "2015-06-30",
+            "image_inventory": "econ/items/pudge/bogatyr_pudge_head/bogatyr_pudge_head",
+            "item_name": "#DOTA_Item_Old_Helmet_of_the_Bogatyr",
+            "item_rarity": "uncommon",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helmet",
+            "model_player": "models/items/pudge/bogatyr_pudge_head/bogatyr_pudge_head.mdl",
+            "name": "Old Helmet of the Bogatyr",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_pudge": "1"
+            }
+        }
+    },
+    "P": {
+        "Pauldrons of the Mistral Fiend": {
+            "creation_date": "2015-07-08",
+            "image_inventory": "econ/items/abaddon/mark_of_the_mistral_fiend_shoulder/mark_of_the_mistral_fiend_shoulder",
+            "item_name": "#DOTA_Item_Pauldrons_of_the_Mistral_Fiend",
+            "item_rarity": "uncommon",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Pauldrons",
+            "model_player": "models/items/abaddon/mark_of_the_mistral_fiend_shoulder/mark_of_the_mistral_fiend_shoulder.mdl",
+            "name": "Pauldrons of the Mistral Fiend",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_abaddon": "1"
+            }
+        },
+        "Planks of the Bogatyr": {
+            "creation_date": "2015-06-30",
+            "image_inventory": "econ/items/pudge/bogatyr_pudge_shoulder_lv/bogatyr_pudge_shoulder_lv",
+            "item_name": "#DOTA_Item_Planks_of_the_Bogatyr",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Planks",
+            "model_player": "models/items/pudge/bogatyr_pudge_shoulder_lv/bogatyr_pudge_shoulder_lv.mdl",
+            "name": "Planks of the Bogatyr",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_pudge": "1"
+            }
+        },
+        "Plates of the Crested Dawn": {
+            "creation_date": "2015-07-10",
+            "image_inventory": "econ/items/skywrath_mage/blessing_of_the_crested_dawn_shoulder/blessing_of_the_crested_dawn_shoulder",
+            "item_name": "#DOTA_Item_Plates_of_the_Crested_Dawn",
+            "item_rarity": "uncommon",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Pauldrons",
+            "model_player": "models/items/skywrath_mage/blessing_of_the_crested_dawn_shoulder/blessing_of_the_crested_dawn_shoulder.mdl",
+            "name": "Plates of the Crested Dawn",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_skywrath_mage": "1"
+            }
+        },
+        "Plates of the Tree Punisher": {
+            "creation_date": "2015-07-01",
+            "image_inventory": "econ/items/shredder/treepunisher_shoulder/treepunisher_shoulder",
+            "item_name": "#DOTA_Item_Plates_of_the_Tree_Punisher",
+            "item_rarity": "uncommon",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Plates",
+            "model_player": "models/items/shredder/treepunisher_shoulder/treepunisher_shoulder.mdl",
+            "name": "Plates of the Tree Punisher",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            }
+        }
+    },
+    "R": {
+        "Rustclaw": {
+            "creation_date": "2015-06-30",
+            "image_inventory": "econ/items/pudge/bogatyr_pudge_weapon_lv/bogatyr_pudge_weapon_lv",
+            "item_name": "#DOTA_Item_Rustclaw",
+            "item_rarity": "rare",
+            "item_type_name": "#DOTA_WearableType_Axe",
+            "model_player": "models/items/pudge/bogatyr_pudge_weapon_lv/bogatyr_pudge_weapon_lv.mdl",
+            "name": "Rustclaw",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_pudge": "1"
+            },
+            "visuals": {
+                "skip_model_combine": "1"
+            }
+        }
+    },
+    "S": {
+        "Saw of the Tree Punisher": {
+            "creation_date": "2015-07-01",
+            "image_inventory": "econ/items/shredder/treepunisher_offhand/treepunisher_offhand",
+            "item_name": "#DOTA_Item_Saw_of_the_Tree_Punisher",
+            "item_rarity": "uncommon",
+            "item_slot": "offhand_weapon",
+            "item_type_name": "#DOTA_WearableType_Saw",
+            "model_player": "models/items/shredder/treepunisher_offhand/treepunisher_offhand.mdl",
+            "name": "Saw of the Tree Punisher",
+            "particle_file": "particles/econ/items/timbersaw/hero_timbersaw_tree_punisher.pcf",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            },
+            "visuals": {
+                "attached_particlesystem0": {
+                    "system": "shredder_ambient_tree_punisher"
+                }
+            }
+        },
+        "Scepter of the Gruesome Embrace": {
+            "creation_date": "2015-06-30",
+            "image_inventory": "econ/items/lion/ancient_evil_weapon/ancient_evil_weapon",
+            "item_name": "#DOTA_Item_Scepter_of_the_Gruesome_Embrace",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Scepter",
+            "model_player": "models/items/lion/ancient_evil_weapon/ancient_evil_weapon.mdl",
+            "name": "Scepter of the Gruesome Embrace",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_lion": "1"
+            }
+        },
+        "Seat of the Tree Punisher": {
+            "creation_date": "2015-07-01",
+            "image_inventory": "econ/items/shredder/treepunisher_back/treepunisher_back",
+            "item_name": "#DOTA_Item_Seat_of_the_Tree_Punisher",
+            "item_rarity": "rare",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Seat",
+            "model_player": "models/items/shredder/treepunisher_back/treepunisher_back.mdl",
+            "name": "Seat of the Tree Punisher",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            }
+        },
+        "Shell Shiv": {
+            "creation_date": "2015-07-01",
+            "image_inventory": "econ/items/slark/shivshell_weapon/shivshell_weapon",
+            "item_name": "#DOTA_Item_Shell_Shiv",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Shiv",
+            "model_player": "models/items/slark/shivshell_weapon/shivshell_weapon.mdl",
+            "name": "Shell Shiv",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_slark": "1"
+            }
+        },
+        "Shield of the Bogatyr": {
+            "creation_date": "2015-06-30",
+            "image_inventory": "econ/items/pudge/bogatyr_pudge_back_lv/bogatyr_pudge_back_lv",
+            "item_name": "#DOTA_Item_Shield_of_the_Bogatyr",
+            "item_rarity": "uncommon",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Shield",
+            "model_player": "models/items/pudge/bogatyr_pudge_back_lv/bogatyr_pudge_back_lv.mdl",
+            "name": "Shield of the Bogatyr",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_pudge": "1"
+            }
+        },
+        "Shield of the Wurmblood": {
+            "creation_date": "2015-07-08",
+            "image_inventory": "econ/items/dragon_knight/wurmblood_shield/wurmblood_shield",
+            "item_name": "#DOTA_Item_Shield_of_the_Wurmblood",
+            "item_rarity": "rare",
+            "item_slot": "offhand_weapon",
+            "item_type_name": "#DOTA_WearableType_Shield",
+            "model_player": "models/items/dragon_knight/wurmblood_shield/wurmblood_shield.mdl",
+            "name": "Shield of the Wurmblood",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_dragon_knight": "1"
+            }
+        },
+        "Skirt of the Crested Dawn": {
+            "creation_date": "2015-07-10",
+            "image_inventory": "econ/items/skywrath_mage/blessing_of_the_crested_dawn_skirt/blessing_of_the_crested_dawn_skirt",
+            "item_name": "#DOTA_Item_Skirt_of_the_Crested_Dawn",
+            "item_rarity": "uncommon",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Skirt",
+            "model_player": "models/items/skywrath_mage/blessing_of_the_crested_dawn_skirt/blessing_of_the_crested_dawn_skirt.mdl",
+            "name": "Skirt of the Crested Dawn",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_skywrath_mage": "1"
+            }
+        },
+        "Sleeve of the Bogatyr": {
+            "creation_date": "2015-06-30",
+            "image_inventory": "econ/items/pudge/bogatyr_pudge_arms_lv/bogatyr_pudge_arms_lv",
+            "item_name": "#DOTA_Item_Sleeve_of_the_Bogatyr",
+            "item_rarity": "uncommon",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Sleeve",
+            "model_player": "models/items/pudge/bogatyr_pudge_arms_lv/bogatyr_pudge_arms_lv.mdl",
+            "name": "Sleeve of the Bogatyr",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_pudge": "1"
+            }
+        },
+        "Span of the Crested Dawn": {
+            "creation_date": "2015-07-10",
+            "image_inventory": "econ/items/skywrath_mage/blessing_of_the_crested_dawn_back/blessing_of_the_crested_dawn_back",
+            "item_name": "#DOTA_Item_Span_of_the_Crested_Dawn",
+            "item_rarity": "uncommon",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Wings",
+            "model_player": "models/items/skywrath_mage/blessing_of_the_crested_dawn_back/blessing_of_the_crested_dawn_back.mdl",
+            "name": "Span of the Crested Dawn",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_skywrath_mage": "1"
+            }
+        },
+        "Staff of the Crested Dawn": {
+            "creation_date": "2015-07-10",
+            "image_inventory": "econ/items/skywrath_mage/blessing_of_the_crested_dawn_weapon/blessing_of_the_crested_dawn_weapon",
+            "item_name": "#DOTA_Item_Staff_of_the_Crested_Dawn",
+            "item_rarity": "rare",
+            "item_type_name": "#DOTA_WearableType_Staff",
+            "model_player": "models/items/skywrath_mage/blessing_of_the_crested_dawn_weapon/blessing_of_the_crested_dawn_weapon.mdl",
+            "name": "Staff of the Crested Dawn",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_skywrath_mage": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "particles/particle_snapshots/skywrath_mage/skywrath_mage_staff_default.psf",
+                    "modifier": "particles/models/items/skywrath_mage/blessing_of_the_crested_dawn_weapon/blessing_of_the_crested_dawn_weapon.psf",
+                    "type": "particle_snapshot"
+                },
+                "attached_particlesystem0": {
+                    "system": "skywrath_mage_staff_ambient_generic"
+                }
+            }
+        }
+    },
+    "T": {
+        "Tails of the Shaded Eulogy": {
+            "creation_date": "2015-07-03",
+            "image_inventory": "econ/items/death_prophet/burial_robes_belt/burial_robes_belt",
+            "item_name": "#DOTA_Item_Tails_of_the_Shaded_Eulogy",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Belt",
+            "model_player": "models/items/death_prophet/burial_robes_belt/burial_robes_belt.mdl",
+            "name": "Tails of the Shaded Eulogy",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_death_prophet": "1"
+            }
+        },
+        "Talon of the Gruesome Embrace": {
+            "creation_date": "2015-06-30",
+            "image_inventory": "econ/items/lion/ancient_evil_gauntlets/ancient_evil_gauntlets",
+            "item_name": "#DOTA_Item_Talon_of_the_Gruesome_Embrace",
+            "item_rarity": "rare",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Talon",
+            "model_player": "models/items/lion/ancient_evil_gauntlets/ancient_evil_gauntlets.mdl",
+            "name": "Talon of the Gruesome Embrace",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_lion": "1"
+            }
+        },
+        "Tassets of the Wurmblood": {
+            "creation_date": "2015-07-08",
+            "image_inventory": "econ/items/dragon_knight/wurmblood_back/wurmblood_back",
+            "item_name": "#DOTA_Item_Tassets_of_the_Wurmblood",
+            "item_rarity": "uncommon",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Tassets",
+            "model_player": "models/items/dragon_knight/wurmblood_back/wurmblood_back.mdl",
+            "name": "Tassets of the Wurmblood",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_dragon_knight": "1"
+            }
+        }
+    },
+    "V": {
+        "Virtue of the Crested Dawn": {
+            "creation_date": "2015-07-10",
+            "image_inventory": "econ/items/skywrath_mage/blessing_of_the_crested_dawn_head/blessing_of_the_crested_dawn_head",
+            "item_description": "#DOTA_Item_Desc_Virtue_of_the_Crested_Dawn",
+            "item_name": "#DOTA_Item_Virtue_of_the_Crested_Dawn",
+            "item_rarity": "rare",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helm",
+            "model_player": "models/items/skywrath_mage/blessing_of_the_crested_dawn_head/blessing_of_the_crested_dawn_head.mdl",
+            "name": "Virtue of the Crested Dawn",
+            "prefab": "wearable",
+            "static_attributes": {
+                "static socket 1": {
+                    "attribute_class": "socket",
+                    "value": "socket { required_hero: 'npc_dota_hero_skywrath_mage' gem_def_index: 3005 } asset_modifier: 163"
+                }
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_skywrath_mage": "1"
+            }
+        },
+        "Visage of the Gruesome Embrace": {
+            "creation_date": "2015-06-30",
+            "image_inventory": "econ/items/lion/ancient_evil_helm/ancient_evil_helm",
+            "item_name": "#DOTA_Item_Visage_of_the_Gruesome_Embrace",
+            "item_rarity": "uncommon",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helm",
+            "model_player": "models/items/lion/ancient_evil_helm/ancient_evil_helm.mdl",
+            "name": "Visage of the Gruesome Embrace",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_lion": "1"
+            }
+        }
+    },
+    "W": {
+        "Witnesses of the Shaded Eulogy": {
+            "creation_date": "2015-07-03",
+            "image_inventory": "econ/items/death_prophet/shaded_eulogy",
+            "item_name": "#DOTA_Item_Witnesses_of_the_Shaded_Eulogy",
+            "item_rarity": "uncommon",
+            "item_slot": "ability_ultimate",
+            "item_type_name": "#DOTA_WearableType_Ghosts",
+            "name": "Witnesses of the Shaded Eulogy",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_death_prophet": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "dota_death_prophet_exorcism_spirit",
+                    "modifier": "models/items/death_prophet/exorcism/burial_robes_spirit/burial_robes_spirit.mdl",
+                    "type": "entity_model"
+                }
+            }
+        },
+        "Writhe of the Gruesome Embrace": {
+            "creation_date": "2015-06-30",
+            "image_inventory": "econ/items/lion/ancient_evil_shoulders/ancient_evil_shoulders",
+            "item_name": "#DOTA_Item_Writhe_of_the_Gruesome_Embrace",
+            "item_rarity": "uncommon",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Mantle",
+            "model_player": "models/items/lion/ancient_evil_shoulders/ancient_evil_shoulders.mdl",
+            "name": "Writhe of the Gruesome Embrace",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_lion": "1"
+            }
+        }
+    }
+}
