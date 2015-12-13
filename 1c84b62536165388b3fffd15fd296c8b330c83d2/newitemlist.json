@@ -1,0 +1,908 @@
+{
+    "A": {
+        "Armor of Broken Scale": {
+            "image_inventory": "econ/items/antimage/tarrasque_scale_armor/tarrasque_scale_armor",
+            "item_name": "#DOTA_Item_Armor_of_Broken_Scale",
+            "item_quality": "normal",
+            "item_rarity": "rare",
+            "item_slot": "armor",
+            "item_type_name": "#DOTA_WearableType_Armor",
+            "model_player": "models/items/antimage/tarrasque_scale_armor/tarrasque_scale_armor.vmdl",
+            "name": "Armor of Broken Scale",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_antimage": "1"
+            }
+        },
+        "Armor of Utter Eradication": {
+            "image_inventory": "econ/items/shredder/siege_golem_armor/siege_golem_armor",
+            "item_name": "#DOTA_Item_Armor_of_Utter_Eradication",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "armor",
+            "item_type_name": "#DOTA_WearableType_Armor",
+            "model_player": "models/items/shredder/siege_golem_armor/siege_golem_armor.vmdl",
+            "name": "Armor of Utter Eradication",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            },
+            "visuals": {
+                "skip_model_combine": "1"
+            }
+        }
+    },
+    "B": {
+        "Barbed Saw of Utter Eradication": {
+            "image_inventory": "econ/items/shredder/siege_golem_offhand/siege_golem_offhand",
+            "item_name": "#DOTA_Item_Barbed_Saw_of_Utter_Eradication",
+            "item_quality": "normal",
+            "item_rarity": "rare",
+            "item_slot": "offhand_weapon",
+            "item_type_name": "#DOTA_WearableType_Saw",
+            "model_player": "models/items/shredder/siege_golem_offhand/siege_golem_offhand.vmdl",
+            "name": "Barbed Saw of Utter Eradication",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "modifier": "particles/units/heroes/hero_shredder/shredder_ambient_saw.vpcf",
+                    "type": "particle_create"
+                },
+                "skip_model_combine": "1"
+            }
+        },
+        "Belt of Broken Scale": {
+            "image_inventory": "econ/items/antimage/tarrasque_scale_belt/tarrasque_scale_belt",
+            "item_name": "#DOTA_Item_Belt_of_Broken_Scale",
+            "item_quality": "normal",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Belt",
+            "model_player": "models/items/antimage/tarrasque_scale_belt/tarrasque_scale_belt.vmdl",
+            "name": "Belt of Broken Scale",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_antimage": "1"
+            }
+        },
+        "Belt of the Bloodroot Guard": {
+            "image_inventory": "econ/items/phantom_assassin/phantom_knight_belt/phantom_knight_belt",
+            "item_name": "#DOTA_Item_Belt_of_the_Bloodroot_Guard",
+            "item_quality": "normal",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Belt",
+            "model_player": "models/items/phantom_assassin/phantom_knight_belt/phantom_knight_belt.vmdl",
+            "name": "Belt of the Bloodroot Guard",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_phantom_assassin": "1"
+            }
+        },
+        "Belt of the Crimson Beast": {
+            "creation_date": "2013-06-26",
+            "image_inventory": "econ/items/earthshaker/siege_beast_belt/siege_beast_belt",
+            "item_name": "#DOTA_Item_Belt_of_the_Crimson_Beast",
+            "item_quality": "normal",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Belt",
+            "model_player": "models/items/earthshaker/siege_beast_belt/siege_beast_belt.vmdl",
+            "name": "Belt of the Crimson Beast",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_earthshaker": "1"
+            }
+        },
+        "Belt of the Endless Plane": {
+            "image_inventory": "econ/items/faceless_void/elements_of_oblivion_belt/elements_of_oblivion_belt",
+            "item_name": "#DOTA_Item_Belt_of_the_Endless_Plane",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Belt",
+            "model_player": "models/items/faceless_void/elements_of_oblivion_belt/elements_of_oblivion_belt.vmdl",
+            "name": "Belt of the Endless Plane",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_faceless_void": "1"
+            }
+        },
+        "Blade of Broken Scale": {
+            "image_inventory": "econ/items/antimage/tarrasque_scale_weapon/tarrasque_scale_weapon",
+            "item_name": "#DOTA_Item_Blade_of_Broken_Scale",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Base",
+            "model_player": "models/items/antimage/tarrasque_scale_weapon/tarrasque_scale_weapon.vmdl",
+            "name": "Blade of Broken Scale",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_antimage": "1"
+            }
+        },
+        "Blade of the Bloodroot Guard": {
+            "image_inventory": "econ/items/phantom_assassin/phantom_knight_weapon/phantom_knight_weapon",
+            "item_name": "#DOTA_Item_Blade_of_the_Bloodroot_Guard",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Blade",
+            "model_player": "models/items/phantom_assassin/phantom_knight_weapon/phantom_knight_weapon.vmdl",
+            "name": "Blade of the Bloodroot Guard",
+            "particle_folder": "particles/econ/items/phantom_assassin/phantom_assassin_weapon_generic",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_phantom_assassin": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "particles/units/heroes/hero_phantom_assassin/phantom_assassin_ambient_blade.vpcf",
+                    "modifier": "particles/econ/items/phantom_assassin/phantom_assassin_weapon_generic/phantom_assassin_ambient_blade_generic.vpcf",
+                    "type": "particle"
+                },
+                "asset_modifier3": {
+                    "asset": "particles/econ/items/phantom_assassin/phantom_assassin_weapon_generic.psf",
+                    "modifier": "particles/models/items/phantom_assassin/phantom_knight_weapon/phantom_knight_weapon_fx.psf",
+                    "type": "particle_snapshot"
+                }
+            }
+        },
+        "Bracers of Broken Scale": {
+            "image_inventory": "econ/items/antimage/tarrasque_scale_arms/tarrasque_scale_arms",
+            "item_name": "#DOTA_Item_Bracers_of_Broken_Scale",
+            "item_quality": "normal",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Bracers",
+            "model_player": "models/items/antimage/tarrasque_scale_arms/tarrasque_scale_arms.vmdl",
+            "name": "Bracers of Broken Scale",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_antimage": "1"
+            }
+        },
+        "Bracers of the Crimson Beast": {
+            "creation_date": "2013-06-26",
+            "image_inventory": "econ/items/earthshaker/siege_beast_arms/siege_beast_arms",
+            "item_name": "#DOTA_Item_Bracers_of_the_Crimson_Beast",
+            "item_quality": "normal",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Bracers",
+            "model_player": "models/items/earthshaker/siege_beast_arms/siege_beast_arms.vmdl",
+            "name": "Bracers of the Crimson Beast",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_earthshaker": "1"
+            }
+        },
+        "Bracers of the Endless Plane": {
+            "image_inventory": "econ/items/faceless_void/elements_of_oblivion_arms/elements_of_oblivion_arms",
+            "item_name": "#DOTA_Item_Bracers_of_the_Endless_Plane",
+            "item_quality": "normal",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Bracers",
+            "model_player": "models/items/faceless_void/elements_of_oblivion_arms/elements_of_oblivion_arms.vmdl",
+            "name": "Bracers of the Endless Plane",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_faceless_void": "1"
+            }
+        }
+    },
+    "C": {
+        "Cape of Arcane Defiance": {
+            "image_inventory": "econ/items/rubick/set_of_defiance_back/set_of_defiance_back",
+            "item_name": "#DOTA_Item_Cape_of_Arcane_Defiance",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Cape",
+            "model_player": "models/items/rubick/set_of_defiance_back/set_of_defiance_back.vmdl",
+            "name": "Cape of Arcane Defiance",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_rubick": "1"
+            }
+        },
+        "Cape of Falconside Armor": {
+            "image_inventory": "econ/items/windrunner/armaments_of_the_wind_back/armaments_of_the_wind_back",
+            "item_name": "#DOTA_Item_Cape_of_Falconside_Armor",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Cape",
+            "model_player": "models/items/windrunner/armaments_of_the_wind_back/armaments_of_the_wind_back.vmdl",
+            "name": "Cape of Falconside Armor",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_windrunner": "1"
+            }
+        },
+        "Cape of the Bloodroot Guard": {
+            "image_inventory": "econ/items/phantom_assassin/phantom_knight_back/phantom_knight_back",
+            "item_name": "#DOTA_Item_Cape_of_the_Bloodroot_Guard",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Cape",
+            "model_player": "models/items/phantom_assassin/phantom_knight_back/phantom_knight_back.vmdl",
+            "name": "Cape of the Bloodroot Guard",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_phantom_assassin": "1"
+            }
+        },
+        "Cape of the Glacial Magnolia": {
+            "image_inventory": "econ/items/crystal_maiden/magnolia_back/magnolia_back",
+            "item_name": "#DOTA_Item_Cape_of_the_Glacial_Magnolia",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Cape",
+            "model_player": "models/items/crystal_maiden/magnolia_back/magnolia_back.vmdl",
+            "name": "Cape of the Glacial Magnolia",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_crystal_maiden": "1"
+            }
+        },
+        "Claw of Utter Eradication": {
+            "image_inventory": "econ/items/shredder/siege_golem_weapon/siege_golem_weapon",
+            "item_name": "#DOTA_Item_Claw_of_Utter_Eradication",
+            "item_quality": "normal",
+            "item_type_name": "#DOTA_WearableType_Claw",
+            "model_player": "models/items/shredder/siege_golem_weapon/siege_golem_weapon.vmdl",
+            "name": "Claw of Utter Eradication",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            },
+            "visuals": {
+                "skip_model_combine": "1"
+            }
+        },
+        "Cockpit of Utter Eradication": {
+            "image_inventory": "econ/items/shredder/siege_golem_back/siege_golem_back",
+            "item_name": "#DOTA_Item_Cockpit_of_Utter_Eradication",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Cockpit",
+            "model_player": "models/items/shredder/siege_golem_back/siege_golem_back.vmdl",
+            "name": "Cockpit of Utter Eradication",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            }
+        }
+    },
+    "D": {
+        "Dagger of Twilight Shade": {
+            "image_inventory": "econ/items/queenofpain/twilight_shade_weapon/twilight_shade_weapon",
+            "item_name": "#DOTA_Item_Dagger_of_Twilight_Shade",
+            "item_quality": "normal",
+            "item_rarity": "rare",
+            "item_type_name": "#DOTA_WearableType_Dagger",
+            "model_player": "models/items/queenofpain/twilight_shade_weapon/twilight_shade_weapon.vmdl",
+            "name": "Dagger of Twilight Shade",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_queenofpain": "1"
+            }
+        }
+    },
+    "F": {
+        "Falconside": {
+            "image_inventory": "econ/items/windrunner/armaments_of_the_wind_weapon/armaments_of_the_wind_weapon",
+            "item_name": "#DOTA_Item_Falconside",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Bow",
+            "model_player": "models/items/windrunner/armaments_of_the_wind_weapon/armaments_of_the_wind_weapon.vmdl",
+            "name": "Falconside",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_windrunner": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "modifier": "particles/units/heroes/hero_windrunner/windrunner_bowstring.vpcf",
+                    "type": "particle_create"
+                }
+            }
+        }
+    },
+    "G": {
+        "Glaive of the Night Grove": {
+            "creation_date": "2013-05-30",
+            "image_inventory": "econ/items/luna/conqueror_of_the_dark_moon_weapon/conqueror_of_the_dark_moon_weapon",
+            "item_name": "#DOTA_Item_Glaive_of_the_Night_Grove",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Glaive",
+            "model_player": "models/items/luna/conqueror_of_the_dark_moon_weapon/conqueror_of_the_dark_moon_weapon.vmdl",
+            "name": "Glaive of the Night Grove",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_luna": "1"
+            }
+        },
+        "Goggles of Utter Eradication": {
+            "image_inventory": "econ/items/shredder/siege_golem_head/siege_golem_head",
+            "item_name": "#DOTA_Item_Goggles_of_Utter_Eradication",
+            "item_quality": "normal",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Goggles_",
+            "model_player": "models/items/shredder/siege_golem_head/siege_golem_head.vmdl",
+            "name": "Goggles of Utter Eradication",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            }
+        },
+        "Guards of Utter Eradication": {
+            "image_inventory": "econ/items/shredder/siege_golem_shoulder/siege_golem_shoulder",
+            "item_name": "#DOTA_Item_Guards_of_Utter_Eradication",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Guards",
+            "model_player": "models/items/shredder/siege_golem_shoulder/siege_golem_shoulder.vmdl",
+            "name": "Guards of Utter Eradication",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            }
+        }
+    },
+    "H": {
+        "Helm of Broken Scale": {
+            "image_inventory": "econ/items/antimage/tarrasque_scale_head/tarrasque_scale_head",
+            "item_name": "#DOTA_Item_Helm_of_Broken_Scale",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helm",
+            "model_player": "models/items/antimage/tarrasque_scale_head/tarrasque_scale_head.vmdl",
+            "name": "Helm of Broken Scale",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_antimage": "1"
+            }
+        },
+        "Helm of the Bloodroot Guard": {
+            "image_inventory": "econ/items/phantom_assassin/phantom_knight_head/phantom_knight_head",
+            "item_name": "#DOTA_Item_Helm_of_the_Bloodroot_Guard",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helm",
+            "model_player": "models/items/phantom_assassin/phantom_knight_head/phantom_knight_head.vmdl",
+            "name": "Helm of the Bloodroot Guard",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_phantom_assassin": "1"
+            }
+        },
+        "Helm of the Endless Plane": {
+            "image_inventory": "econ/items/faceless_void/elements_of_oblivion_head/elements_of_oblivion_head",
+            "item_name": "#DOTA_Item_Helm_of_the_Endless_Plane",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "body_head",
+            "item_type_name": "#DOTA_WearableType_Helm",
+            "model_player": "models/items/faceless_void/elements_of_oblivion_head/elements_of_oblivion_head.vmdl",
+            "name": "Helm of the Endless Plane",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_faceless_void": "1"
+            }
+        },
+        "Hood of Arcane Defiance": {
+            "image_inventory": "econ/items/rubick/set_of_defiance_head/set_of_defiance_head",
+            "item_name": "#DOTA_Item_Hood_of_Arcane_Defiance",
+            "item_quality": "normal",
+            "item_rarity": "rare",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Hood",
+            "model_player": "models/items/rubick/set_of_defiance_head/set_of_defiance_head.vmdl",
+            "name": "Hood of Arcane Defiance",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_rubick": "1"
+            }
+        },
+        "Hood of Diviner's Embrace": {
+            "image_inventory": "econ/items/rubick/embrace_force_blue_head/embrace_force_blue_head",
+            "item_description": "#DOTA_Item_Desc_Rubicks_Head",
+            "item_name": "#DOTA_Item_Hood_of_Diviners_Embrace",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Hood",
+            "model_player": "models/items/rubick/embrace_force_blue_head/embrace_force_blue_head.vmdl",
+            "name": "Hood of Diviner's Embrace",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "12/10/2015",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_rubick": "1"
+            }
+        }
+    },
+    "M": {
+        "Mace of the Endless Plane": {
+            "image_inventory": "econ/items/faceless_void/elements_of_oblivion_weapon/elements_of_oblivion_weapon",
+            "item_name": "#DOTA_Item_Mace_of_the_Endless_Plane",
+            "item_quality": "normal",
+            "item_rarity": "rare",
+            "item_type_name": "#DOTA_WearableType_Mace",
+            "model_player": "models/items/faceless_void/elements_of_oblivion_weapon/elements_of_oblivion_weapon.vmdl",
+            "name": "Mace of the Endless Plane",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_faceless_void": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "modifier": "particles/units/heroes/hero_faceless_void/faceless_void_weapon_glow.vpcf",
+                    "type": "particle_create"
+                }
+            }
+        },
+        "Mantle of Arcane Defiance": {
+            "image_inventory": "econ/items/rubick/set_of_defiance_shoulder/set_of_defiance_shoulder",
+            "item_name": "#DOTA_Item_Mantle_of_Arcane_Defiance",
+            "item_quality": "normal",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Mantle",
+            "model_player": "models/items/rubick/set_of_defiance_shoulder/set_of_defiance_shoulder.vmdl",
+            "name": "Mantle of Arcane Defiance",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_rubick": "1"
+            }
+        },
+        "Mantle of Diviner's Embrace": {
+            "image_inventory": "econ/items/rubick/embrace_force_blue_shoulder/embrace_force_blue_shoulder",
+            "item_description": "#DOTA_Item_Desc_Rubicks_Shoulder_Armor",
+            "item_name": "#DOTA_Item_Mantle_of_Diviners_Embrace",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Mantle",
+            "model_player": "models/items/rubick/embrace_force_blue_shoulder/embrace_force_blue_shoulder.vmdl",
+            "name": "Mantle of Diviner's Embrace",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "12/10/2015",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_rubick": "1"
+            }
+        },
+        "Mantle of the Glacial Magnolia": {
+            "image_inventory": "econ/items/crystal_maiden/magnolia_shoulder/magnolia_shoulder",
+            "item_name": "#DOTA_Item_Mantle_of_the_Glacial_Magnolia",
+            "item_quality": "normal",
+            "item_rarity": "rare",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Mantle",
+            "model_player": "models/items/crystal_maiden/magnolia_shoulder/magnolia_shoulder.vmdl",
+            "name": "Mantle of the Glacial Magnolia",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_crystal_maiden": "1"
+            }
+        },
+        "Marauder's Armor": {
+            "creation_date": "2014-08-27",
+            "image_inventory": "econ/items/terrorblade/marauders_armor/marauders_armor",
+            "item_name": "#DOTA_Item_Marauders_Armor",
+            "item_slot": "armor",
+            "item_type_name": "#DOTA_WearableType_Armor",
+            "model_player": "models/items/terrorblade/marauders_armor/marauders_armor.vmdl",
+            "name": "Marauder's Armor",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_terrorblade": "1"
+            }
+        },
+        "Marauder's Blades": {
+            "creation_date": "2014-08-27",
+            "image_inventory": "econ/items/terrorblade/marauders_weapon/marauders_weapon",
+            "item_name": "#DOTA_Item_Marauders_Blades",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Blades",
+            "model_player": "models/items/terrorblade/marauders_weapon/marauders_weapon.vmdl",
+            "name": "Marauder's Blades",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_terrorblade": "1"
+            }
+        },
+        "Marauder's Crown": {
+            "creation_date": "2014-08-27",
+            "image_inventory": "econ/items/terrorblade/marauders_head/marauders_head",
+            "item_name": "#DOTA_Item_Marauders_Crown",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Crown",
+            "model_player": "models/items/terrorblade/marauders_head/marauders_head.vmdl",
+            "name": "Marauder's Crown",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_terrorblade": "1"
+            }
+        },
+        "Marauder's Demon Form": {
+            "creation_date": "2014-08-27",
+            "image_inventory": "econ/items/terrorblade/marauders_demon/marauders_demon_models/items/terrorblade/marauders_demon/marauders_demon",
+            "item_name": "#DOTA_Item_Marauders_Demon_Form",
+            "item_rarity": "rare",
+            "item_slot": "ability3",
+            "item_type_name": "#DOTA_WearableType_Demon_Form",
+            "name": "Marauder's Demon Form",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_terrorblade": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "models/heroes/terrorblade/demon.vmdl",
+                    "modifier": "models/items/terrorblade/marauders_demon/marauders_demon.vmdl",
+                    "type": "hero_model_change"
+                }
+            }
+        },
+        "Marauder's Wings": {
+            "creation_date": "2014-08-27",
+            "image_inventory": "econ/items/terrorblade/marauders_back/marauders_back",
+            "item_name": "#DOTA_Item_Marauders_Wings",
+            "item_rarity": "rare",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Wings",
+            "model_player": "models/items/terrorblade/marauders_back/marauders_back.vmdl",
+            "name": "Marauder's Wings",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_terrorblade": "1"
+            }
+        },
+        "Mask of the Crimson Beast": {
+            "image_inventory": "econ/items/earthshaker/siege_beast_head/siege_beast_head",
+            "item_name": "#DOTA_Item_Mask_of_the_Crimson_Beast",
+            "item_quality": "normal",
+            "item_rarity": "rare",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Mask",
+            "model_player": "models/items/earthshaker/siege_beast_head/siege_beast_head.vmdl",
+            "name": "Mask of the Crimson Beast",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_earthshaker": "1"
+            }
+        }
+    },
+    "O": {
+        "Offhand Blade of Broken Scale": {
+            "image_inventory": "econ/items/antimage/tarrasque_scale_offhand/tarrasque_scale_offhand",
+            "item_name": "#DOTA_Item_Offhand_Blade_of_Broken_Scale",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "offhand_weapon",
+            "item_type_name": "#DOTA_WearableType_Glaive",
+            "model_player": "models/items/antimage/tarrasque_scale_offhand/tarrasque_scale_offhand.vmdl",
+            "name": "Offhand Blade of Broken Scale",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_antimage": "1"
+            }
+        }
+    },
+    "P": {
+        "Pauldron of the Endless Plane": {
+            "image_inventory": "econ/items/faceless_void/elements_of_oblivion_shoulder/elements_of_oblivion_shoulder",
+            "item_name": "#DOTA_Item_Pauldron_of_the_Endless_Plane",
+            "item_quality": "normal",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Pauldron",
+            "model_player": "models/items/faceless_void/elements_of_oblivion_shoulder/elements_of_oblivion_shoulder.vmdl",
+            "name": "Pauldron of the Endless Plane",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_faceless_void": "1"
+            }
+        },
+        "Pauldrons of Falconside Armor": {
+            "image_inventory": "econ/items/windrunner/armaments_of_the_wind_shoulder/armaments_of_the_wind_shoulder",
+            "item_name": "#DOTA_Item_Pauldrons_of_Falconside_Armor",
+            "item_quality": "normal",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Pauldrons",
+            "model_player": "models/items/windrunner/armaments_of_the_wind_shoulder/armaments_of_the_wind_shoulder.vmdl",
+            "name": "Pauldrons of Falconside Armor",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_windrunner": "1"
+            }
+        },
+        "Pauldrons of the Night Grove": {
+            "creation_date": "2013-05-30",
+            "image_inventory": "econ/items/luna/conqueror_of_the_dark_moon_shoulder/conqueror_of_the_dark_moon_shoulder",
+            "item_name": "#DOTA_Item_Pauldrons_of_the_Night_Grove",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Pauldrons",
+            "model_player": "models/items/luna/conqueror_of_the_dark_moon_shoulder/conqueror_of_the_dark_moon_shoulder.vmdl",
+            "name": "Pauldrons of the Night Grove",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_luna": "1"
+            }
+        }
+    },
+    "Q": {
+        "Quiver of Falconside Armor": {
+            "image_inventory": "econ/items/windrunner/armaments_of_the_wind_offhand/armaments_of_the_wind_offhand",
+            "item_name": "#DOTA_Item_Quiver_of_Falconside_Armor",
+            "item_quality": "normal",
+            "item_rarity": "rare",
+            "item_slot": "offhand_weapon",
+            "item_type_name": "#DOTA_WearableType_Quiver",
+            "model_player": "models/items/windrunner/armaments_of_the_wind_offhand/armaments_of_the_wind_offhand.vmdl",
+            "name": "Quiver of Falconside Armor",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_windrunner": "1"
+            }
+        }
+    },
+    "R": {
+        "Robe of Diviner's Embrace": {
+            "image_inventory": "econ/items/rubick/embrace_force_blue_back/embrace_force_blue_back",
+            "item_description": "#DOTA_Item_Desc_Rubicks_Cape",
+            "item_name": "#DOTA_Item_Robe_of_Diviners_Embrace",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Robe",
+            "model_player": "models/items/rubick/embrace_force_blue_back/embrace_force_blue_back.vmdl",
+            "name": "Robe of Diviner's Embrace",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "12/10/2015",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_rubick": "1"
+            }
+        }
+    },
+    "S": {
+        "Sash of Twilight Shade": {
+            "image_inventory": "econ/items/queenofpain/twilight_shade_shoulder/twilight_shade_shoulder",
+            "item_name": "#DOTA_Item_Sash_of_Twilight_Shade",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Sash",
+            "model_player": "models/items/queenofpain/twilight_shade_shoulder/twilight_shade_shoulder.vmdl",
+            "name": "Sash of Twilight Shade",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_queenofpain": "1"
+            }
+        },
+        "Shield of the Night Grove": {
+            "creation_date": "2013-05-30",
+            "image_inventory": "econ/items/luna/conqueror_of_the_dark_moon_offhand/conqueror_of_the_dark_moon_offhand",
+            "item_name": "#DOTA_Item_Shield_of_the_Night_Grove",
+            "item_quality": "normal",
+            "item_slot": "offhand_weapon",
+            "item_type_name": "#DOTA_WearableType_Shield",
+            "model_player": "models/items/luna/conqueror_of_the_dark_moon_offhand/conqueror_of_the_dark_moon_offhand.vmdl",
+            "name": "Shield of the Night Grove",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_luna": "1"
+            }
+        },
+        "Sleeves of the Glacial Magnolia": {
+            "image_inventory": "econ/items/crystal_maiden/magnolia_arms/magnolia_arms",
+            "item_name": "#DOTA_Item_Sleeves_of_the_Glacial_Magnolia",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Sleeves",
+            "model_player": "models/items/crystal_maiden/magnolia_arms/magnolia_arms.vmdl",
+            "name": "Sleeves of the Glacial Magnolia",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_crystal_maiden": "1"
+            }
+        },
+        "Staff of Arcane Defiance": {
+            "image_inventory": "econ/items/rubick/set_of_defiance_weapon/set_of_defiance_weapon",
+            "item_name": "#DOTA_Item_Staff_of_Arcane_Defiance",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Staff",
+            "model_player": "models/items/rubick/set_of_defiance_weapon/set_of_defiance_weapon.vmdl",
+            "name": "Staff of Arcane Defiance",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_rubick": "1"
+            }
+        },
+        "Staff of Diviner's Embrace": {
+            "image_inventory": "econ/items/rubick/embrace_force_blue_weapon/embrace_force_blue_weapon",
+            "item_description": "#DOTA_Item_Desc_Rubicks_Staff",
+            "item_name": "#DOTA_Item_Staff_of_Diviners_Embrace",
+            "item_quality": "normal",
+            "item_rarity": "rare",
+            "item_type_name": "#DOTA_WearableType_Staff",
+            "model_player": "models/items/rubick/embrace_force_blue_weapon/embrace_force_blue_weapon.vmdl",
+            "name": "Staff of Diviner's Embrace",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "12/10/2015",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_rubick": "1"
+            }
+        },
+        "Staff of the Glacial Magnolia": {
+            "image_inventory": "econ/items/crystal_maiden/magnolia_weapon/magnolia_weapon",
+            "item_name": "#DOTA_Item_Staff_of_the_Glacial_Magnolia",
+            "item_quality": "normal",
+            "item_type_name": "#DOTA_WearableType_Staff",
+            "model_player": "models/items/crystal_maiden/magnolia_weapon/magnolia_weapon.vmdl",
+            "name": "Staff of the Glacial Magnolia",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_crystal_maiden": "1"
+            }
+        },
+        "Style of Twilight Shade": {
+            "image_inventory": "econ/items/queenofpain/twilight_shade_head/twilight_shade_head",
+            "item_name": "#DOTA_Item_Style_of_Twilight_Shade",
+            "item_quality": "normal",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Style",
+            "model_player": "models/items/queenofpain/twilight_shade_head/twilight_shade_head.vmdl",
+            "name": "Style of Twilight Shade",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_queenofpain": "1"
+            }
+        },
+        "Style of the Glacial Magnolia": {
+            "image_inventory": "econ/items/crystal_maiden/magnolia_head/magnolia_head",
+            "item_name": "#DOTA_Item_Style_of_the_Glacial_Magnolia",
+            "item_quality": "normal",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Style",
+            "model_player": "models/items/crystal_maiden/magnolia_head/magnolia_head.vmdl",
+            "name": "Style of the Glacial Magnolia",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_crystal_maiden": "1"
+            }
+        },
+        "Style of the Night Grove": {
+            "creation_date": "2013-05-30",
+            "image_inventory": "econ/items/luna/conqueror_of_the_dark_moon_head/conqueror_of_the_dark_moon_head",
+            "item_name": "#DOTA_Item_Style_of_the_Night_Grove",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Style",
+            "model_player": "models/items/luna/conqueror_of_the_dark_moon_head/conqueror_of_the_dark_moon_head.vmdl",
+            "name": "Style of the Night Grove",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_luna": "1"
+            }
+        }
+    },
+    "T": {
+        "Tiara of Falconside Armor": {
+            "image_inventory": "econ/items/windrunner/armaments_of_the_wind_head/armaments_of_the_wind_head",
+            "item_name": "#DOTA_Item_Tiara_of_Falconside_Armor",
+            "item_quality": "normal",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Tiara",
+            "model_player": "models/items/windrunner/armaments_of_the_wind_head/armaments_of_the_wind_head.vmdl",
+            "name": "Tiara of Falconside Armor",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_windrunner": "1"
+            }
+        },
+        "Totem of the Crimson Beast": {
+            "creation_date": "2013-06-26",
+            "image_inventory": "econ/items/earthshaker/siege_beast_weapon/siege_beast_weapon",
+            "item_name": "#DOTA_Item_Totem_of_the_Crimson_Beast",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Totem",
+            "model_player": "models/items/earthshaker/siege_beast_weapon/siege_beast_weapon.vmdl",
+            "name": "Totem of the Crimson Beast",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_earthshaker": "1"
+            }
+        }
+    },
+    "V": {
+        "Vest of the Bloodroot Guard": {
+            "image_inventory": "econ/items/phantom_assassin/phantom_knight_shoulder/phantom_knight_shoulder",
+            "item_name": "#DOTA_Item_Vest_of_the_Bloodroot_Guard",
+            "item_quality": "normal",
+            "item_rarity": "rare",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Vest",
+            "model_player": "models/items/phantom_assassin/phantom_knight_shoulder/phantom_knight_shoulder.vmdl",
+            "name": "Vest of the Bloodroot Guard",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_phantom_assassin": "1"
+            }
+        }
+    },
+    "W": {
+        "Wings of Twilight Shade": {
+            "image_inventory": "econ/items/queenofpain/twilight_shade_back/twilight_shade_back",
+            "item_name": "#DOTA_Item_Wings_of_Twilight_Shade",
+            "item_quality": "normal",
+            "item_rarity": "uncommon",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Wings",
+            "model_player": "models/items/queenofpain/twilight_shade_back/twilight_shade_back.vmdl",
+            "name": "Wings of Twilight Shade",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_queenofpain": "1"
+            }
+        },
+        "Wraps of Broken Scale": {
+            "creation_date": "2015-05-20",
+            "image_inventory": "econ/items/antimage/tarrasque_scale_shoulder/tarrasque_scale_shoulder",
+            "item_name": "#DOTA_Item_Wraps_of_Broken_Scale",
+            "item_quality": "normal",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Wraps",
+            "model_player": "models/items/antimage/tarrasque_scale_shoulder/tarrasque_scale_shoulder.vmdl",
+            "name": "Wraps of Broken Scale",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_antimage": "1"
+            }
+        }
+    },
+    "Y": {
+        "Ykmir": {
+            "creation_date": "2013-05-30",
+            "image_inventory": "econ/items/luna/conqueror_of_the_dark_moon_mount/conqueror_of_the_dark_moon_mount",
+            "item_name": "#DOTA_Item_Ykmir",
+            "item_quality": "normal",
+            "item_rarity": "rare",
+            "item_slot": "mount",
+            "item_type_name": "#DOTA_WearableType_Mount",
+            "model_player": "models/items/luna/conqueror_of_the_dark_moon_mount/conqueror_of_the_dark_moon_mount.vmdl",
+            "name": "Ykmir",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_luna": "1"
+            }
+        }
+    }
+}
