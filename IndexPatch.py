@@ -5,9 +5,8 @@ SEP = os.path.sep;
 def main():
 	indexData = getIndexData()
 	for entry in indexData:
-		# print(time.strftime('%Y-%m-%d %H:%M:%S', 
-			# time.localtime(os.stat(indexData[entry]["id"]).st_mtime)) +" "+indexData[entry]["id"])
-		indexData[entry]["time"] = os.stat(indexData[entry]["id"]).st_mtime;
+		if("time" not in indexData[entry]):
+			indexData[entry]["time"] = os.stat(indexData[entry]["id"]).st_mtime;
 	saveIndexData(indexData)
 
 def getIndexData():
