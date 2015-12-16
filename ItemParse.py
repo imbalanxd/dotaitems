@@ -6,7 +6,7 @@ latestVersionId = None
 indexData = None
 
 def main():
-	indexData = getIndexData()
+	getIndexData()
 	currentVersionId = getCurrentVersionId(indexData)
 	latestVersionId = getLatestVersionId();
 
@@ -32,11 +32,20 @@ def main():
 	IndexPatch.main();
 	
 def getIndexData():
-	raw = open("index.json", encoding="utf-8")
-	return json.loads(raw.read())
+	global indexData;
+	if indexData is None:
+		raw = open("index.json", encoding="utf-8")
+		indexData = json.loads(raw.read())
+	return indexData
 
 def saveIndexData(indexData):
 	writeDictionaryToFile(indexData, "index.json")
+
+def getIndexForVersionId(versionId):
+	global indexData;
+	for version in indexData:
+		if(indexData[version]["id"] == versionId):
+			return version
 
 def getCurrentVersionId(indexDict=None):
 	if(indexDict is None):
