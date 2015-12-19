@@ -9,7 +9,7 @@ def main():
 	getIndexData()
 	currentVersionId = getCurrentVersionId(indexData)
 	latestVersionId = getLatestVersionId();
-
+	
 	if(currentVersionId == latestVersionId):
 		print("No update required")
 	else:
@@ -22,7 +22,7 @@ def main():
 			saveFullItemDataForVersionId(gameItemsDict, latestVersionId)
 		latestWearableItems = getWearableItems(getItemsDict(gameItemsDict))
 		saveWearableItemDataForVersionId(latestWearableItems, latestVersionId)
-		currentWearableItems = getWearableItemsForVersionId(currentVersionId)
+		currentWearableItems = getWearableItemsForVersionIdNew(currentVersionId)
 		saveNewWearableItemDataForVersionId(findNewWearableItems(currentWearableItems, latestWearableItems), latestVersionId)
 		if(not demo):
 			latestVersion = {}
@@ -46,6 +46,10 @@ def getIndexForVersionId(versionId):
 	for version in indexData:
 		if(indexData[version]["id"] == versionId):
 			return version
+
+def getVersionIdForIndex(index):
+	global indexData
+	return indexData[str(index)]["id"]
 
 def getCurrentVersionId(indexDict=None):
 	if(indexDict is None):
@@ -95,6 +99,19 @@ def saveNewWearableItemDataForVersionId(newWearableDict, versionId):
 def getWearableItemsForVersionId(versionId):
 	raw = open(versionId+"/itemlist.json", encoding="utf-8")
 	return json.loads(raw.read())
+
+def getWearableItemsForVersionIdNew(versionId):
+	verIndex = int(getIndexForVersionId(versionId))
+	wearableDict = json.loads(open("default/itemlist.json", encoding="utf-8").read())
+	for i in range (2, verIndex + 1):
+		newDict = json.loads(open(getVersionIdForIndex(i)+"/newitemlist.json", encoding="utf-8").read())
+		for alpha in newDict:
+			if(alpha in wearableDict):
+				wearableDict[alpha].update(newDict[alpha])
+			else:
+				wearableDict[alpha] = newDict[alpha]
+	writeDictionaryToFile(wearableDict, "testnewitemlist.json")
+	return wearableDict
 
 def getNewWearableItemsForVersionId(versionId):
 	raw = open(versionId+"/newitemlist.json", encoding="utf-8")

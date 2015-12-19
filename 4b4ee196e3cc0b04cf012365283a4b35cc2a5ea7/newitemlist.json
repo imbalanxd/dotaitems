@@ -1,0 +1,196 @@
+{
+    "A": {},
+    "B": {},
+    "C": {},
+    "D": {},
+    "E": {},
+    "F": {},
+    "G": {},
+    "H": {},
+    "I": {},
+    "J": {},
+    "K": {},
+    "L": {},
+    "M": {},
+    "N": {},
+    "O": {},
+    "P": {},
+    "Q": {},
+    "R": {},
+    "S": {},
+    "T": {
+        "Tempest Helm of the Thundergod": {
+            "creation_date": "2015-10-22",
+            "forced_item_quality": "exalted",
+            "image_inventory": "econ/items/zeus/tempest_helm/zeus_arcana",
+            "item_description": "#DOTA_Item_Desc_Tempest_Helm_of_the_Thundergod",
+            "item_name": "#DOTA_Item_Tempest_Helm_of_the_Thundergod",
+            "item_quality": "exalted",
+            "item_rarity": "arcana",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helmet",
+            "model_player": "models/heroes/zeus/zeus_hair_arcana.vmdl",
+            "name": "Tempest Helm of the Thundergod",
+            "override_attack_attachments": "1",
+            "particle_folder": "particles/econ/items/zeus/lightning_weapon_fx",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "12/14/2015",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_zuus": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "ALL",
+                    "modifier": "arcana",
+                    "type": "activity"
+                },
+                "asset_modifier1": {
+                    "asset": "arcana",
+                    "style": "0",
+                    "type": "response_criteria"
+                },
+                "asset_modifier10": {
+                    "asset": "particles/units/heroes/hero_zuus/zuus_thundergods_wrath.vpcf",
+                    "modifier": "particles/econ/items/zeus/arcana_chariot/zeus_arcana_thundergods_wrath.vpcf",
+                    "type": "particle"
+                },
+                "asset_modifier11": {
+                    "asset": "particles/items_fx/blink_dagger_end.vpcf",
+                    "modifier": "particles/econ/items/zeus/arcana_chariot/zeus_arcana_blink_end.vpcf",
+                    "type": "particle"
+                },
+                "asset_modifier12": {
+                    "asset": "particles/items_fx/blink_dagger_start.vpcf",
+                    "modifier": "particles/econ/items/zeus/arcana_chariot/zeus_arcana_blink_start.vpcf",
+                    "type": "particle"
+                },
+                "asset_modifier13": {
+                    "asset": "DOTA_Item.BlinkDagger.Activate",
+                    "modifier": "Hero_Zeus.BlinkDagger.Arcana",
+                    "style": "0",
+                    "type": "sound"
+                },
+                "asset_modifier14": {
+                    "asset": "Hero_Zuus.GodsWrath.PreCast",
+                    "modifier": "Hero_Zuus.GodsWrath.PreCast.Arcana",
+                    "style": "0",
+                    "type": "sound"
+                },
+                "asset_modifier15": {
+                    "level": "1",
+                    "type": "arcana_level"
+                },
+                "asset_modifier16": {
+                    "asset": "zuus_thundergods_wrath",
+                    "modifier": "zuus_thundergods_wrath_alt1",
+                    "type": "ability_icon"
+                },
+                "asset_modifier17": {
+                    "asset": "npc_dota_hero_zuus",
+                    "force_display": "1",
+                    "modifier": "npc_dota_hero_zuus_alt1",
+                    "type": "icon_replacement"
+                },
+                "asset_modifier18": {
+                    "asset": "zuus_static_field",
+                    "modifier": "zuus_static_field_alt1",
+                    "type": "ability_icon"
+                },
+                "asset_modifier2": {
+                    "asset": "npc_dota_hero_zuus",
+                    "modifier": "models/heroes/zeus/zeus_arcana.vmdl",
+                    "type": "entity_model"
+                },
+                "asset_modifier3": {
+                    "asset": "particles/units/heroes/hero_zeus/zeus_ambient_eyes.vpcf",
+                    "modifier": "particles/econ/items/zeus/arcana_chariot/zeus_ambient_arcana_eyes.vpcf",
+                    "style": "0",
+                    "type": "particle"
+                },
+                "asset_modifier4": {
+                    "modifier": "particles/econ/items/zeus/arcana_chariot/zeus_arcana_chariot.vpcf",
+                    "type": "particle_create"
+                },
+                "asset_modifier5": {
+                    "asset": "particles/units/heroes/hero_zeus/zues_kill_empty.vpcf",
+                    "modifier": "particles/econ/items/zeus/arcana_chariot/zeus_arcana_kill_remnant.vpcf",
+                    "type": "particle"
+                },
+                "asset_modifier6": {
+                    "asset": "models/heroes/zeus/zeus_vest.vmdl",
+                    "modifier": "models/development/invisiblebox.vmdl",
+                    "type": "model"
+                },
+                "asset_modifier7": {
+                    "asset": "models/heroes/zeus/zeus_bracers.vmdl",
+                    "modifier": "models/development/invisiblebox.vmdl",
+                    "type": "model"
+                },
+                "asset_modifier8": {
+                    "asset": "particles/units/heroes/hero_zuus/zuus_thundergods_wrath_start.vpcf",
+                    "modifier": "particles/econ/items/zeus/arcana_chariot/zeus_arcana_thundergods_wrath_start.vpcf",
+                    "style": "0",
+                    "type": "particle"
+                },
+                "asset_modifier9": {
+                    "offset": "200",
+                    "type": "healthbar_offset"
+                },
+                "skip_model_combine": "1"
+            }
+        },
+        "Thundergod's Bare Arms": {
+            "creation_date": "2015-12-08",
+            "image_inventory": "econ/items/zeus/tempest_helm/thundergods_bare_arms",
+            "item_description": "#DOTA_Item_Desc_Thundergods_Bare_Arms",
+            "item_name": "#DOTA_Item_Thundergods_Bare_Arms",
+            "item_rarity": "legendary",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Arms",
+            "model_player": "models/development/invisiblebox.vmdl",
+            "name": "Thundergod's Bare Arms",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "12/14/2015",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_zuus": "1"
+            },
+            "visuals": {
+                "skip_model_combine": "1"
+            }
+        },
+        "Thundergod's Bare Chest": {
+            "creation_date": "2015-12-08",
+            "image_inventory": "econ/items/zeus/tempest_helm/thundergods_bare_chest",
+            "item_description": "#DOTA_Item_Desc_Thundergods_Bare_Chest",
+            "item_name": "#DOTA_Item_Thundergods_Bare_Chest",
+            "item_rarity": "legendary",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Chest",
+            "model_player": "models/development/invisiblebox.vmdl",
+            "name": "Thundergod's Bare Chest",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "12/14/2015",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_zuus": "1"
+            },
+            "visuals": {
+                "skip_model_combine": "1"
+            }
+        }
+    },
+    "V": {},
+    "W": {},
+    "Y": {}
+}
