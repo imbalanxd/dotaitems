@@ -1,0 +1,427 @@
+{
+    "A": {
+        "Armlet of Reckless Vigor": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/huskar/armor_of_reckless_vigor_arms/armor_of_reckless_vigor_arms",
+            "item_name": "#DOTA_Item_Armlet_of_Reckless_Vigor",
+            "item_rarity": "uncommon",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Armlet",
+            "model_player": "models/items/huskar/armor_of_reckless_vigor_arms/armor_of_reckless_vigor_arms.vmdl",
+            "name": "Armlet of Reckless Vigor",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_huskar": "1"
+            }
+        },
+        "Armor of the Elusive Destroyer": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/sand_king/elusive_destroyer_shoulder/elusive_destroyer_shoulder",
+            "item_name": "#DOTA_Item_Armor_of_the_Elusive_Destroyer",
+            "item_rarity": "uncommon",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Armor",
+            "model_player": "models/items/sand_king/elusive_destroyer_shoulder/elusive_destroyer_shoulder.vmdl",
+            "name": "Armor of the Elusive Destroyer",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_sand_king": "1"
+            }
+        }
+    },
+    "B": {
+        "Belt of the Azurite Warden": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/magnataur/defender_of_joerlak_belt/defender_of_joerlak_belt",
+            "item_name": "#DOTA_Item_Belt_of_the_Azurite_Warden",
+            "item_rarity": "uncommon",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Belt",
+            "model_player": "models/items/magnataur/defender_of_joerlak_belt/defender_of_joerlak_belt.vmdl",
+            "name": "Belt of the Azurite Warden",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/14/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_magnataur": "1"
+            }
+        },
+        "Blade of Reckless Vigor": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/huskar/armor_of_reckless_vigor_offhand/armor_of_reckless_vigor_offhand",
+            "item_name": "#DOTA_Item_Blade_of_Reckless_Vigor",
+            "item_rarity": "uncommon",
+            "item_slot": "offhand_weapon",
+            "item_type_name": "#DOTA_WearableType_Blade",
+            "model_player": "models/items/huskar/armor_of_reckless_vigor_offhand/armor_of_reckless_vigor_offhand.vmdl",
+            "name": "Blade of Reckless Vigor",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_huskar": "1"
+            }
+        },
+        "Bracers of the Azurite Warden": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/magnataur/defender_of_joerlak_arms/defender_of_joerlak_arms",
+            "item_name": "#DOTA_Item_Bracers_of_the_Azurite_Warden",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Bracers",
+            "model_player": "models/items/magnataur/defender_of_joerlak_arms/defender_of_joerlak_arms.vmdl",
+            "name": "Bracers of the Azurite Warden",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/14/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_magnataur": "1"
+            }
+        },
+        "Bracers of the Gelid Touch": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/rikimaru/frosty_blow_arms/frosty_blow_arms",
+            "item_name": "#DOTA_Item_Bracers_of_the_Gelid_Touch",
+            "item_rarity": "uncommon",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Bracers",
+            "model_player": "models/items/rikimaru/frosty_blow_arms/frosty_blow_arms.vmdl",
+            "name": "Bracers of the Gelid Touch",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_riki": "1"
+            }
+        }
+    },
+    "C": {
+        "Claws of the Elusive Destroyer": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/sand_king/elusive_destroyer_arms/elusive_destroyer_arms",
+            "item_name": "#DOTA_Item_Claws_of_the_Elusive_Destroyer",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Claws",
+            "model_player": "models/items/sand_king/elusive_destroyer_arms/elusive_destroyer_arms.vmdl",
+            "name": "Claws of the Elusive Destroyer",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_sand_king": "1"
+            }
+        },
+        "Colar of the Gelid Touch": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/rikimaru/frosty_blow_shoulder/frosty_blow_shoulder",
+            "item_name": "#DOTA_Item_Colar_of_the_Gelid_Touch",
+            "item_rarity": "rare",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_shoulder",
+            "model_player": "models/items/rikimaru/frosty_blow_shoulder/frosty_blow_shoulder.vmdl",
+            "name": "Colar of the Gelid Touch",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_riki": "1"
+            }
+        }
+    },
+    "D": {
+        "Dagger of the Gelid Touch": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/rikimaru/frosty_blow_weapon/frosty_blow_weapon",
+            "item_name": "#DOTA_Item_Dagger_of_the_Gelid_Touch",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Dagger",
+            "model_player": "models/items/rikimaru/frosty_blow_weapon/frosty_blow_weapon.vmdl",
+            "name": "Dagger of the Gelid Touch",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_riki": "1"
+            }
+        }
+    },
+    "E": {},
+    "F": {},
+    "G": {
+        "Goatee of the Gelid Touch": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/rikimaru/frosty_blow_head/frosty_blow_head",
+            "item_name": "#DOTA_Item_Goatee_of_the_Gelid_Touch",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Style",
+            "model_player": "models/items/rikimaru/frosty_blow_head/frosty_blow_head.vmdl",
+            "name": "Goatee of the Gelid Touch",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_riki": "1"
+            }
+        }
+    },
+    "H": {
+        "Halberd of the Azurite Warden": {
+            "creation_date": "2016-01-12",
+            "image_inventory": "econ/items/magnataur/defender_of_joerlak_weapon/defender_of_joerlak_weapon",
+            "item_name": "#DOTA_Item_Halberd_of_the_Azurite_Warden",
+            "item_rarity": "rare",
+            "item_type_name": "#DOTA_WearableType_Halberd",
+            "model_player": "models/items/magnataur/defender_of_joerlak_weapon/defender_of_joerlak_weapon.vmdl",
+            "name": "Halberd of the Azurite Warden",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/14/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_magnataur": "1"
+            }
+        },
+        "Helm of the Azurite Warden": {
+            "creation_date": "2016-01-12",
+            "image_inventory": "econ/items/magnataur/defender_of_joerlak_head/defender_of_joerlak_head",
+            "item_name": "#DOTA_Item_Helm_of_the_Azurite_Warden",
+            "item_rarity": "uncommon",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helm",
+            "model_player": "models/items/magnataur/defender_of_joerlak_head/defender_of_joerlak_head.vmdl",
+            "name": "Helm of the Azurite Warden",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/14/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_magnataur": "1"
+            }
+        },
+        "Horn of the Azurite Warden": {
+            "creation_date": "2016-01-12",
+            "image_inventory": "econ/items/magnataur/defender_of_joerlak_misc/defender_of_joerlak_misc",
+            "item_name": "#DOTA_Item_Horn_of_the_Azurite_Warden",
+            "item_rarity": "uncommon",
+            "item_slot": "misc",
+            "item_type_name": "#DOTA_WearableType_Horn",
+            "model_player": "models/items/magnataur/defender_of_joerlak_misc/defender_of_joerlak_misc.vmdl",
+            "name": "Horn of the Azurite Warden",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/14/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_magnataur": "1"
+            }
+        }
+    },
+    "I": {},
+    "J": {},
+    "K": {
+        "Katar of the Gelid Touch": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/rikimaru/frosty_blow_offhand/frosty_blow_offhand",
+            "item_name": "#DOTA_Item_Katar_of_the_Gelid_Touch",
+            "item_rarity": "uncommon",
+            "item_slot": "offhand_weapon",
+            "item_type_name": "#DOTA_WearableType_Dagger",
+            "model_player": "models/items/rikimaru/frosty_blow_offhand/frosty_blow_offhand.vmdl",
+            "name": "Katar of the Gelid Touch",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_riki": "1"
+            }
+        }
+    },
+    "L": {
+        "Legs of the Elusive Destroyer": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/sand_king/elusive_destroyer_legs/elusive_destroyer_legs",
+            "item_name": "#DOTA_Item_Legs_of_the_Elusive_Destroyer",
+            "item_rarity": "uncommon",
+            "item_slot": "legs",
+            "item_type_name": "#DOTA_WearableType_Legs",
+            "model_player": "models/items/sand_king/elusive_destroyer_legs/elusive_destroyer_legs.vmdl",
+            "name": "Legs of the Elusive Destroyer",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_sand_king": "1"
+            }
+        }
+    },
+    "M": {},
+    "N": {},
+    "O": {},
+    "P": {},
+    "Q": {},
+    "R": {},
+    "S": {
+        "Skull of the Elusive Destroyer": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/sand_king/elusive_destroyer_head/elusive_destroyer_head",
+            "item_name": "#DOTA_Item_Skull_of_the_Elusive_Destroyer",
+            "item_rarity": "uncommon",
+            "item_slot": "body_head",
+            "item_type_name": "#DOTA_WearableType_Skull",
+            "model_player": "models/items/sand_king/elusive_destroyer_head/elusive_destroyer_head.vmdl",
+            "name": "Skull of the Elusive Destroyer",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_sand_king": "1"
+            }
+        },
+        "Spear of Reckless Vigor": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/huskar/armor_of_reckless_vigor_weapon/armor_of_reckless_vigor_weapon",
+            "item_name": "#DOTA_Item_Spear_of_Reckless_Vigor",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Spear",
+            "model_player": "models/items/huskar/armor_of_reckless_vigor_weapon/armor_of_reckless_vigor_weapon.vmdl",
+            "name": "Spear of Reckless Vigor",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_huskar": "1"
+            }
+        },
+        "Spikes of Reckless Vigor": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/huskar/armor_of_reckless_vigor_shoulder/armor_of_reckless_vigor_shoulder",
+            "item_name": "#DOTA_Item_Spikes_of_Reckless_Vigor",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Spike",
+            "model_player": "models/items/huskar/armor_of_reckless_vigor_shoulder/armor_of_reckless_vigor_shoulder.vmdl",
+            "name": "Spikes of Reckless Vigor",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_huskar": "1"
+            }
+        },
+        "Style of Reckless Vigor": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/huskar/armor_of_reckless_vigor_head/armor_of_reckless_vigor_head",
+            "item_name": "#DOTA_Item_Style_of_Reckless_Vigor",
+            "item_rarity": "rare",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Style",
+            "model_player": "models/items/huskar/armor_of_reckless_vigor_head/armor_of_reckless_vigor_head.vmdl",
+            "name": "Style of Reckless Vigor",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_huskar": "1"
+            }
+        }
+    },
+    "T": {
+        "Tail of the Elusive Destroyer": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/sand_king/elusive_destroyer_back/elusive_destroyer_back",
+            "item_name": "#DOTA_Item_Tail_of_the_Elusive_Destroyer",
+            "item_rarity": "rare",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Tail",
+            "model_player": "models/items/sand_king/elusive_destroyer_back/elusive_destroyer_back.vmdl",
+            "name": "Tail of the Elusive Destroyer",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_sand_king": "1"
+            }
+        },
+        "Tail of the Gelid Touch": {
+            "creation_date": "2016-01-13",
+            "image_inventory": "econ/items/rikimaru/frosty_blow_tail/frosty_blow_tail",
+            "item_name": "#DOTA_Item_Tail_of_the_Gelid_Touch",
+            "item_rarity": "uncommon",
+            "item_slot": "tail",
+            "item_type_name": "#DOTA_WearableType_Tail",
+            "model_player": "models/items/rikimaru/frosty_blow_tail/frosty_blow_tail.vmdl",
+            "name": "Tail of the Gelid Touch",
+            "prefab": "wearable",
+            "price_info": {
+                "category_tags": "Equipment",
+                "date": "1/13/2016",
+                "price": "0"
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_riki": "1"
+            }
+        }
+    },
+    "V": {},
+    "W": {},
+    "Y": {}
+}
