@@ -1,0 +1,431 @@
+{
+    "A": {
+        "Armor of the Narcissistic Leech": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/pugna/narcissistic_leech_shoulder/narcissistic_leech_shoulder",
+            "item_name": "#DOTA_Item_Armor_of_the_Narcissistic_Leech",
+            "item_rarity": "uncommon",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Armor",
+            "model_player": "models/items/pugna/narcissistic_leech_shoulder/narcissistic_leech_shoulder.vmdl",
+            "name": "Armor of the Narcissistic Leech",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_pugna": "1"
+            }
+        }
+    },
+    "B": {
+        "Belt of the Elemental Realms": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/spirit_breaker/elemental_realms_belt/elemental_realms_belt",
+            "item_name": "#DOTA_Item_Belt_of_the_Elemental_Realms",
+            "item_rarity": "uncommon",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Belt",
+            "model_player": "models/items/spirit_breaker/elemental_realms_belt/elemental_realms_belt.vmdl",
+            "name": "Belt of the Elemental Realms",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_spirit_breaker": "1"
+            }
+        },
+        "Belt of the Narcissistic Leech": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/pugna/narcissistic_leech_belt/narcissistic_leech_belt",
+            "item_name": "#DOTA_Item_Belt_of_the_Narcissistic_Leech",
+            "item_rarity": "uncommon",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Belt",
+            "model_player": "models/items/pugna/narcissistic_leech_belt/narcissistic_leech_belt.vmdl",
+            "name": "Belt of the Narcissistic Leech",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_pugna": "1"
+            }
+        },
+        "Bracers of the Elemental Realms": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/spirit_breaker/elemental_realms_arms/elemental_realms_arms",
+            "item_name": "#DOTA_Item_Bracers_of_the_Elemental_Realms",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Bracers",
+            "model_player": "models/items/spirit_breaker/elemental_realms_arms/elemental_realms_arms.vmdl",
+            "name": "Bracers of the Elemental Realms",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_spirit_breaker": "1"
+            }
+        }
+    },
+    "C": {
+        "Cape of Enveloping Despair": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/abaddon/haze_whisperer_back/haze_whisperer_back",
+            "item_name": "#DOTA_Item_Cape_of_Enveloping_Despair",
+            "item_rarity": "uncommon",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Cape",
+            "model_player": "models/items/abaddon/haze_whisperer_back/haze_whisperer_back.vmdl",
+            "name": "Cape of Enveloping Despair",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_abaddon": "1"
+            }
+        },
+        "Cape of the Narcissistic Leech": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/pugna/narcissistic_leech_back/narcissistic_leech_back",
+            "item_name": "#DOTA_Item_Cape_of_the_Narcissistic_Leech",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Cape",
+            "model_player": "models/items/pugna/narcissistic_leech_back/narcissistic_leech_back.vmdl",
+            "name": "Cape of the Narcissistic Leech",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_pugna": "1"
+            }
+        },
+        "Carapace of the Ironclad Mold": {
+            "creation_date": "2016-01-11",
+            "image_inventory": "econ/items/sand_king/iron_sting_shoulder/iron_sting_shoulder",
+            "item_name": "#DOTA_Item_Carapace_of_the_Ironclad_Mold",
+            "item_rarity": "uncommon",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Carapace",
+            "model_player": "models/items/sand_king/iron_sting_shoulder/iron_sting_shoulder.vmdl",
+            "name": "Carapace of the Ironclad Mold",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_sand_king": "1"
+            }
+        },
+        "Claws of the Ironclad Mold": {
+            "creation_date": "2016-01-11",
+            "image_inventory": "econ/items/sand_king/iron_sting_arms/iron_sting_arms",
+            "item_name": "#DOTA_Item_Claws_of_the_Ironclad_Mold",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Claws",
+            "model_player": "models/items/sand_king/iron_sting_arms/iron_sting_arms.vmdl",
+            "name": "Claws of the Ironclad Mold",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_sand_king": "1"
+            }
+        },
+        "Cluster of Chronoptic Synthesis": {
+            "creation_date": "2016-01-07",
+            "image_inventory": "econ/items/leshrac/dc_synthesis_back/dc_synthesis_back",
+            "item_name": "#DOTA_Item_Cluster_of_Chronoptic_Synthesis",
+            "item_rarity": "uncommon",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Spikes",
+            "model_player": "models/items/leshrac/dc_synthesis_back/dc_synthesis_back.vmdl",
+            "name": "Cluster of Chronoptic Synthesis",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_leshrac": "1"
+            }
+        }
+    },
+    "D": {},
+    "E": {},
+    "F": {
+        "Flail of the Elemental Realms": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/spirit_breaker/elemental_realms_weapon/elemental_realms_weapon",
+            "item_name": "#DOTA_Item_Flail_of_the_Elemental_Realms",
+            "item_rarity": "rare",
+            "item_type_name": "#DOTA_WearableType_Flail",
+            "model_player": "models/items/spirit_breaker/elemental_realms_weapon/elemental_realms_weapon.vmdl",
+            "name": "Flail of the Elemental Realms",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_spirit_breaker": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "modifier": "particles/units/heroes/hero_spirit_breaker/spirit_breaker_ambient_flame.vpcf",
+                    "type": "particle_create"
+                }
+            }
+        }
+    },
+    "G": {},
+    "H": {
+        "Halberd of Enveloping Despair": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/abaddon/haze_whisperer_weapon/haze_whisperer_weapon",
+            "item_name": "#DOTA_Item_Halberd_of_Enveloping_Despair",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Halberd",
+            "model_player": "models/items/abaddon/haze_whisperer_weapon/haze_whisperer_weapon.vmdl",
+            "name": "Halberd of Enveloping Despair",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_abaddon": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "modifier": "particles/units/heroes/hero_abaddon/abaddon_blade.vpcf",
+                    "type": "particle_create"
+                },
+                "asset_modifier1": {
+                    "asset": "particles/models/heroes/abaddon/abaddon_sword_default.psf",
+                    "modifier": "particles/models/items/abaddon/haze_whisperer_weapon/haze_whisperer_weapon_fx.psf",
+                    "type": "particle_snapshot"
+                },
+                "skip_model_combine": "1"
+            }
+        },
+        "Head of the Ironclad Mold": {
+            "creation_date": "2016-01-11",
+            "image_inventory": "econ/items/sand_king/iron_sting_head/iron_sting_head",
+            "item_name": "#DOTA_Item_Head_of_the_Ironclad_Mold",
+            "item_rarity": "uncommon",
+            "item_slot": "body_head",
+            "item_type_name": "#DOTA_WearableType_Head",
+            "model_player": "models/items/sand_king/iron_sting_head/iron_sting_head.vmdl",
+            "name": "Head of the Ironclad Mold",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_sand_king": "1"
+            }
+        },
+        "Helm of Chronoptic Synthesis": {
+            "creation_date": "2016-01-07",
+            "image_inventory": "econ/items/leshrac/dc_synthesis_head/dc_synthesis_head",
+            "item_name": "#DOTA_Item_Helm_of_Chronoptic_Synthesis",
+            "item_rarity": "rare",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helm",
+            "model_player": "models/items/leshrac/dc_synthesis_head/dc_synthesis_head.vmdl",
+            "name": "Helm of Chronoptic Synthesis",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_leshrac": "1"
+            }
+        },
+        "Helm of Enveloping Despair": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/abaddon/haze_whisperer_head/haze_whisperer_head",
+            "item_name": "#DOTA_Item_Helm_of_Enveloping_Despair",
+            "item_rarity": "rare",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helm",
+            "model_player": "models/items/abaddon/haze_whisperer_head/haze_whisperer_head.vmdl",
+            "name": "Helm of Enveloping Despair",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_abaddon": "1"
+            }
+        }
+    },
+    "I": {},
+    "J": {},
+    "K": {},
+    "L": {
+        "Legs of the Ironclad Mold": {
+            "creation_date": "2016-01-11",
+            "image_inventory": "econ/items/sand_king/iron_sting_legs/iron_sting_legs",
+            "item_name": "#DOTA_Item_Legs_of_the_Ironclad_Mold",
+            "item_rarity": "uncommon",
+            "item_slot": "legs",
+            "item_type_name": "#DOTA_WearableType_Legs",
+            "model_player": "models/items/sand_king/iron_sting_legs/iron_sting_legs.vmdl",
+            "name": "Legs of the Ironclad Mold",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_sand_king": "1"
+            }
+        }
+    },
+    "M": {},
+    "N": {},
+    "O": {},
+    "P": {
+        "Pauldrons of the Elemental Realms": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/spirit_breaker/elemental_realms_shoulder/elemental_realms_shoulder",
+            "item_name": "#DOTA_Item_Pauldrons_of_the_Elemental_Realms",
+            "item_rarity": "uncommon",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Pauldrons",
+            "model_player": "models/items/spirit_breaker/elemental_realms_shoulder/elemental_realms_shoulder.vmdl",
+            "name": "Pauldrons of the Elemental Realms",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_spirit_breaker": "1"
+            }
+        }
+    },
+    "Q": {},
+    "R": {
+        "Ram of Enveloping Despair": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/abaddon/haze_whisperer_mount/haze_whisperer_mount",
+            "item_name": "#DOTA_Item_Ram_of_Enveloping_Despair",
+            "item_rarity": "rare",
+            "item_slot": "mount",
+            "item_type_name": "#DOTA_WearableType_Mount",
+            "model_player": "models/items/abaddon/haze_whisperer_mount/haze_whisperer_mount.vmdl",
+            "name": "Ram of Enveloping Despair",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_abaddon": "1"
+            }
+        },
+        "Rod of Chronoptic Synthesis": {
+            "creation_date": "2016-01-07",
+            "image_inventory": "econ/items/leshrac/dc_synthesis_weapon/dc_synthesis_weapon",
+            "item_name": "#DOTA_Item_Rod_of_Chronoptic_Synthesis",
+            "item_rarity": "rare",
+            "item_type_name": "#DOTA_WearableType_Rod",
+            "model_player": "models/items/leshrac/dc_synthesis_weapon/dc_synthesis_weapon.vmdl",
+            "name": "Rod of Chronoptic Synthesis",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_leshrac": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "ALL",
+                    "modifier": "torment",
+                    "type": "activity"
+                }
+            }
+        }
+    },
+    "S": {
+        "Scepter of the Narcissistic Leech": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/pugna/narcissistic_leech_weapon/narcissistic_leech_weapon",
+            "item_name": "#DOTA_Item_Scepter_of_the_Narcissistic_Leech",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Scepter",
+            "model_player": "models/items/pugna/narcissistic_leech_weapon/narcissistic_leech_weapon.vmdl",
+            "name": "Scepter of the Narcissistic Leech",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_pugna": "1"
+            }
+        },
+        "Shards of Chronoptic Synthesis": {
+            "creation_date": "2016-01-07",
+            "image_inventory": "econ/items/leshrac/dc_synthesis_misc/dc_synthesis_misc",
+            "item_name": "#DOTA_Item_Shards_of_Chronoptic_Synthesis",
+            "item_rarity": "uncommon",
+            "item_slot": "misc",
+            "item_type_name": "#DOTA_WearableType_Shards",
+            "model_player": "models/items/leshrac/dc_synthesis_misc/dc_synthesis_misc.vmdl",
+            "name": "Shards of Chronoptic Synthesis",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_leshrac": "1"
+            }
+        },
+        "Skull of the Narcissistic Leech": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/pugna/narcissistic_leech_head/narcissistic_leech_head",
+            "item_name": "#DOTA_Item_Skull_of_the_Narcissistic_Leech",
+            "item_rarity": "rare",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Skull",
+            "model_player": "models/items/pugna/narcissistic_leech_head/narcissistic_leech_head.vmdl",
+            "name": "Skull of the Narcissistic Leech",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_pugna": "1"
+            }
+        },
+        "Sleeves of the Narcissistic Leech": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/pugna/narcissistic_leech_arms/narcissistic_leech_arms",
+            "item_name": "#DOTA_Item_Sleeves_of_the_Narcissistic_Leech",
+            "item_rarity": "uncommon",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Sleeves",
+            "model_player": "models/items/pugna/narcissistic_leech_arms/narcissistic_leech_arms.vmdl",
+            "name": "Sleeves of the Narcissistic Leech",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_pugna": "1"
+            }
+        },
+        "Spaulders of Enveloping Despair": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/abaddon/haze_whisperer_shoulder/haze_whisperer_shoulder",
+            "item_name": "#DOTA_Item_Spaulders_of_Enveloping_Despair",
+            "item_rarity": "uncommon",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Spaulders",
+            "model_player": "models/items/abaddon/haze_whisperer_shoulder/haze_whisperer_shoulder.vmdl",
+            "name": "Spaulders of Enveloping Despair",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_abaddon": "1"
+            }
+        }
+    },
+    "T": {
+        "Tail of Chronoptic Synthesis": {
+            "creation_date": "2016-01-07",
+            "image_inventory": "econ/items/leshrac/dc_synthesis_tail/dc_synthesis_tail",
+            "item_name": "#DOTA_Item_Tail_of_Chronoptic_Synthesis",
+            "item_rarity": "rare",
+            "item_slot": "tail",
+            "item_type_name": "#DOTA_WearableType_Tail",
+            "model_player": "models/items/leshrac/dc_synthesis_tail/dc_synthesis_tail.vmdl",
+            "name": "Tail of Chronoptic Synthesis",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_leshrac": "1"
+            }
+        },
+        "Tail of the Elemental Realms": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/spirit_breaker/elemental_realms_tail/elemental_realms_tail",
+            "item_name": "#DOTA_Item_Tail_of_the_Elemental_Realms",
+            "item_rarity": "uncommon",
+            "item_slot": "tail",
+            "item_type_name": "#DOTA_WearableType_Tail",
+            "model_player": "models/items/spirit_breaker/elemental_realms_tail/elemental_realms_tail.vmdl",
+            "name": "Tail of the Elemental Realms",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_spirit_breaker": "1"
+            }
+        },
+        "Tail of the Ironclad Mold": {
+            "creation_date": "2016-01-11",
+            "image_inventory": "econ/items/sand_king/iron_sting_back/iron_sting_back",
+            "item_name": "#DOTA_Item_Tail_of_the_Ironclad_Mold",
+            "item_rarity": "rare",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Tail",
+            "model_player": "models/items/sand_king/iron_sting_back/iron_sting_back.vmdl",
+            "name": "Tail of the Ironclad Mold",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_sand_king": "1"
+            }
+        },
+        "Tusks of the Elemental Realms": {
+            "creation_date": "2016-01-06",
+            "image_inventory": "econ/items/spirit_breaker/elemental_realms_head/elemental_realms_head",
+            "item_name": "#DOTA_Item_Tusks_of_the_Elemental_Realms",
+            "item_rarity": "rare",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Tusks",
+            "model_player": "models/items/spirit_breaker/elemental_realms_head/elemental_realms_head.vmdl",
+            "name": "Tusks of the Elemental Realms",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_spirit_breaker": "1"
+            }
+        }
+    },
+    "V": {},
+    "W": {},
+    "Y": {}
+}
