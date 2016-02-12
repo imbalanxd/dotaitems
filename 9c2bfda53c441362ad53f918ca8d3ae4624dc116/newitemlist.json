@@ -1,0 +1,785 @@
+{
+"A": {
+"Armor of the Wuxia": {
+"creation_date": "2016-02-08",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/lanaya/shadow_of_wuxia_armor/shadow_of_wuxia_armor",
+"item_name": "#DOTA_Item_Armor_of_the_Wuxia",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_Armor",
+"model_player": "models/items/lanaya/shadow_of_wuxia_armor/shadow_of_wuxia_armor.vmdl",
+"name": "Armor of the Wuxia",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_templar_assassin": "1"
+}
+},
+"Aspect of the Dark Wood": {
+"creation_date": "2016-02-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/lone_druid/dark_wood_head/dark_wood_head",
+"item_name": "#DOTA_Item_Aspect_of_the_Dark_Wood",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/lone_druid/dark_wood_head/dark_wood_head.vmdl",
+"name": "Aspect of the Dark Wood",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lone_druid": "1"
+}
+}
+},
+"B": {
+"Belt of the Battlehawk": {
+"creation_date": "2016-02-03",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/sven/glittering_hawk_belt/glittering_hawk_belt",
+"item_name": "#DOTA_Item_Belt_of_the_Battlehawk",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_Belt",
+"model_player": "models/items/sven/glittering_hawk_belt/glittering_hawk_belt.vmdl",
+"name": "Belt of the Battlehawk",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_sven": "1"
+}
+},
+"Bracers of the Dark Wood": {
+"creation_date": "2016-02-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/lone_druid/dark_wood_arms/dark_wood_arms",
+"item_name": "#DOTA_Item_Bracers_of_the_Dark_Wood",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/lone_druid/dark_wood_arms/dark_wood_arms.vmdl",
+"name": "Bracers of the Dark Wood",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lone_druid": "1"
+}
+}
+},
+"C": {
+"Cloak of the Dark Wood": {
+"creation_date": "2016-02-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/lone_druid/dark_wood_weapon/dark_wood_weapon",
+"item_name": "#DOTA_Item_Cloak_of_the_Dark_Wood",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_Cloak",
+"model_player": "models/items/lone_druid/dark_wood_weapon/dark_wood_weapon.vmdl",
+"name": "Cloak of the Dark Wood",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lone_druid": "1"
+}
+},
+"Covers of the Merqueen": {
+"creation_date": "2016-01-08",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/death_prophet/mermaids_queen_armor/mermaids_queen_armor",
+"item_name": "#DOTA_Item_Covers_of_the_Merqueen",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_Covers",
+"model_player": "models/items/death_prophet/mermaids_queen_armor/mermaids_queen_armor.vmdl",
+"name": "Covers of the Merqueen",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/death_prophet/death_prophet_mermaids_queen/death_prophet_mermaids_armor.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Crest of the Ferocious Toxicant": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/venomancer/ferocious_toxicants_embrace_head/ferocious_toxicants_embrace_head",
+"item_name": "#DOTA_Item_Crest_of_the_Ferocious_Toxicant",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Crest",
+"model_player": "models/items/venomancer/ferocious_toxicants_embrace_head/ferocious_toxicants_embrace_head.vmdl",
+"name": "Crest of the Ferocious Toxicant",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_venomancer": "1"
+}
+},
+"Crown of the Merqueen": {
+"creation_date": "2016-01-08",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/death_prophet/mermaids_queen_head/mermaids_queen_head",
+"item_name": "#DOTA_Item_Crown_of_the_Merqueen",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Crown",
+"model_player": "models/items/death_prophet/mermaids_queen_head/mermaids_queen_head.vmdl",
+"name": "Crown of the Merqueen",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/death_prophet/death_prophet_mermaids_queen/death_prophet_mermaids_head.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Cursed Zealot Carapace": {
+"creation_date": "2016-01-21",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/nerubian_assassin/cursed_zealot_back/cursed_zealot_back",
+"item_description": "#DOTA_Item_Desc_Cursed_Zealot_Carapace",
+"item_name": "#DOTA_Item_Cursed_Zealot_Carapace",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_Carapace",
+"model_player": "models/items/nerubian_assassin/cursed_zealot_back/cursed_zealot_back.vmdl",
+"name": "Cursed Zealot Carapace",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/nerubian_assassin/cursed_zealot_back/cursed_zealot_back"
+},
+"1": {
+"icon_path": "econ/items/nerubian_assassin/cursed_zealot_back/cursed_zealot_back_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/nyx_assassin/nyx_zealot/nyx_zealot_carapace_ambient.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#Cursed_Zealot_Carapace_default"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#Cursed_Zealot_Carapace_particle",
+"unlock": {
+"item": "Treasure Upgrade Infuser - Winter 2016",
+"price": "1"
+}
+}
+}
+}
+},
+"Cursed Zealot Claws": {
+"creation_date": "2016-01-21",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/nerubian_assassin/cursed_zealot_weapon/cursed_zealot_weapon",
+"item_name": "#DOTA_Item_Cursed_Zealot_Claws",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_Claws",
+"model_player": "models/items/nerubian_assassin/cursed_zealot_weapon/cursed_zealot_weapon.vmdl",
+"name": "Cursed Zealot Claws",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+}
+},
+"Cursed Zealot Tail": {
+"creation_date": "2016-01-21",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/nerubian_assassin/cursed_zealot_misc/cursed_zealot_misc",
+"item_name": "#DOTA_Item_Cursed_Zealot_Tail",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_Tail",
+"model_player": "models/items/nerubian_assassin/cursed_zealot_misc/cursed_zealot_misc.vmdl",
+"name": "Cursed Zealot Tail",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+}
+},
+"Cursed Zealot Visage": {
+"creation_date": "2016-01-21",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/nerubian_assassin/cursed_zealot_head/cursed_zealot_head",
+"item_name": "#DOTA_Item_Cursed_Zealot_Visage",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Head",
+"model_player": "models/items/nerubian_assassin/cursed_zealot_head/cursed_zealot_head.vmdl",
+"name": "Cursed Zealot Visage",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+}
+}
+},
+"D": {
+"Darkfall": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/mirana/warden_of_the_eternal_night_mount/warden_of_the_eternal_night_mount",
+"item_name": "#DOTA_Item_Darkfall",
+"item_rarity": "mythical",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_Mount",
+"model_player": "models/items/mirana/warden_of_the_eternal_night_mount/warden_of_the_eternal_night_mount.vmdl",
+"name": "Darkfall",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_mirana": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/mirana/mirana_darkfall_warden/mirana_darkfall_mount_eyes.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"asset_modifier1": {
+"modifier": "particles/econ/items/mirana/mirana_darkfall_warden/mirana_warden_mount_tail.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Darkfall Warden Bow": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/mirana/warden_of_the_eternal_night_weapon/warden_of_the_eternal_night_weapon",
+"item_name": "#DOTA_Item_Darkfall_Warden_Bow",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_Bow",
+"model_player": "models/items/mirana/warden_of_the_eternal_night_weapon/warden_of_the_eternal_night_weapon.vmdl",
+"name": "Darkfall Warden Bow",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_mirana": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/mirana/mirana_darkfall_warden/mirana_warden_bow.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Darkfall Warden Bracers": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/mirana/warden_of_the_eternal_night_arms/warden_of_the_eternal_night_arms",
+"item_name": "#DOTA_Item_Darkfall_Warden_Bracers",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_Bracers",
+"model_player": "models/items/mirana/warden_of_the_eternal_night_arms/warden_of_the_eternal_night_arms.vmdl",
+"name": "Darkfall Warden Bracers",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_mirana": "1"
+}
+},
+"Darkfall Warden Hair": {
+"creation_date": "2016-01-21",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/mirana/warden_of_the_eternal_night_head/warden_of_the_eternal_night_head",
+"item_name": "#DOTA_Item_Darkfall_Warden_Hair",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Hair",
+"model_player": "models/items/mirana/warden_of_the_eternal_night_head/warden_of_the_eternal_night_head.vmdl",
+"name": "Darkfall Warden Hair",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_mirana": "1"
+}
+},
+"Darkfall Warden Pauldrons": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/mirana/warden_of_the_eternal_night_shoulder/warden_of_the_eternal_night_shoulder",
+"item_name": "#DOTA_Item_Darkfall_Warden_Pauldrons",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Pauldrons",
+"model_player": "models/items/mirana/warden_of_the_eternal_night_shoulder/warden_of_the_eternal_night_shoulder.vmdl",
+"name": "Darkfall Warden Pauldrons",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_mirana": "1"
+}
+},
+"Darkfall Warden Quiver": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/mirana/warden_of_the_eternal_night_misc/warden_of_the_eternal_night_misc",
+"item_name": "#DOTA_Item_Darkfall_Warden_Quiver",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_Quiver",
+"model_player": "models/items/mirana/warden_of_the_eternal_night_misc/warden_of_the_eternal_night_misc.vmdl",
+"name": "Darkfall Warden Quiver",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_mirana": "1"
+}
+},
+"Darkfall Warden Skirt": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/mirana/warden_of_the_eternal_night_back/warden_of_the_eternal_night_back",
+"item_name": "#DOTA_Item_Darkfall_Warden_Skirt",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_Skirt",
+"model_player": "models/items/mirana/warden_of_the_eternal_night_back/warden_of_the_eternal_night_back.vmdl",
+"name": "Darkfall Warden Skirt",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_mirana": "1"
+}
+},
+"Dress of the Merqueen": {
+"creation_date": "2016-01-08",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/death_prophet/mermaids_queen_legs/mermaids_queen_legs",
+"item_name": "#DOTA_Item_Dress_of_the_Merqueen",
+"item_rarity": "mythical",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_Dress",
+"model_player": "models/items/death_prophet/mermaids_queen_legs/mermaids_queen_legs.vmdl",
+"name": "Dress of the Merqueen",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/death_prophet/death_prophet_mermaids_queen/death_prophet_mermaids_legs.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"asset_modifier2": {
+"asset": "ALL",
+"modifier": "mermaid",
+"type": "activity"
+},
+"skip_model_combine": "1"
+}
+}
+},
+"E": {},
+"F": {
+"Form of the Dark Wood": {
+"creation_date": "2016-02-06",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/lone_druid/true_form/dark_wood_true_form/dark_wood_true_form",
+"item_name": "#DOTA_Item_Form_of_the_Dark_Wood",
+"item_rarity": "mythical",
+"item_slot": "ability_ultimate",
+"item_type_name": "#DOTA_WearableType_True_Form",
+"name": "Form of the Dark Wood",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lone_druid": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/lone_druid/true_form/dark_wood_true_form/dark_wood_true_form"
+},
+"1": {
+"icon_path": "econ/items/lone_druid/true_form/dark_wood_true_form/dark_wood_true_form_style1"
+},
+"2": {
+"icon_path": "econ/items/lone_druid/true_form/dark_wood_true_form/dark_wood_true_form_style2"
+}
+},
+"asset_modifier0": {
+"asset": "models/heroes/lone_druid/true_form.vmdl",
+"modifier": "models/items/lone_druid/true_form/dark_wood_true_form/dark_wood_true_form.vmdl",
+"skin": "0",
+"style": "0",
+"type": "hero_model_change"
+},
+"asset_modifier1": {
+"asset": "models/heroes/lone_druid/true_form.vmdl",
+"modifier": "models/items/lone_druid/true_form/dark_wood_true_form/dark_wood_true_form.vmdl",
+"skin": "1",
+"style": "1",
+"type": "hero_model_change"
+},
+"asset_modifier2": {
+"asset": "models/heroes/lone_druid/true_form.vmdl",
+"modifier": "models/items/lone_druid/true_form/dark_wood_true_form/dark_wood_true_form.vmdl",
+"skin": "2",
+"style": "2",
+"type": "hero_model_change"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Item_Dark_Wood_True_Form_Style_00"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Item_Dark_Wood_True_Form_Style_01"
+},
+"2": {
+"alternate_icon": "2",
+"name": "#DOTA_Item_Dark_Wood_True_Form_Style_02"
+}
+}
+}
+}
+},
+"G": {
+"Great Sword of the Battlehawk": {
+"creation_date": "2016-02-03",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/sven/glittering_hawk_weapon/glittering_hawk_weapon",
+"item_name": "#DOTA_Item_Great_Sword_of_the_Battlehawk",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_Sword",
+"model_player": "models/items/sven/glittering_hawk_weapon/glittering_hawk_weapon.vmdl",
+"name": "Great Sword of the Battlehawk",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_sven": "1"
+}
+}
+},
+"H": {
+"Headpiece of the Wuxia": {
+"creation_date": "2016-02-08",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/lanaya/shadow_of_wuxia_head/shadow_of_wuxia_head",
+"item_name": "#DOTA_Item_Headpiece_of_the_Wuxia",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Headpiece",
+"model_player": "models/items/lanaya/shadow_of_wuxia_head/shadow_of_wuxia_head.vmdl",
+"name": "Headpiece of the Wuxia",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_templar_assassin": "1"
+}
+},
+"Helm of the Battlehawk": {
+"creation_date": "2016-02-03",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/sven/glittering_hawk_head/glittering_hawk_head",
+"item_name": "#DOTA_Item_Helm_of_the_Battlehawk",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Helm",
+"model_player": "models/items/sven/glittering_hawk_head/glittering_hawk_head.vmdl",
+"name": "Helm of the Battlehawk",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_sven": "1"
+}
+}
+},
+"I": {},
+"J": {},
+"K": {},
+"L": {},
+"M": {
+"Mantle of the Battlehawk": {
+"creation_date": "2016-02-03",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/sven/glittering_hawk_back/glittering_hawk_back",
+"item_name": "#DOTA_Item_Mantle_of_the_Battlehawk",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_Mantle",
+"model_player": "models/items/sven/glittering_hawk_back/glittering_hawk_back.vmdl",
+"name": "Mantle of the Battlehawk",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_sven": "1"
+}
+}
+},
+"N": {},
+"O": {},
+"P": {
+"Pauldron of the Dark Wood": {
+"creation_date": "2016-02-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/lone_druid/dark_wood_shoulder/dark_wood_shoulder",
+"item_name": "#DOTA_Item_Pauldron_of_the_Dark_Wood",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Pauldron",
+"model_player": "models/items/lone_druid/dark_wood_shoulder/dark_wood_shoulder.vmdl",
+"name": "Pauldron of the Dark Wood",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lone_druid": "1"
+}
+},
+"Pauldrons of the Battlehawk": {
+"creation_date": "2016-02-03",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/sven/glittering_hawk_shoulder/glittering_hawk_shoulder",
+"item_name": "#DOTA_Item_Pauldrons_of_the_Battlehawk",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Pauldrons",
+"model_player": "models/items/sven/glittering_hawk_shoulder/glittering_hawk_shoulder.vmdl",
+"name": "Pauldrons of the Battlehawk",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_sven": "1"
+}
+}
+},
+"Q": {},
+"R": {},
+"S": {
+"Shield of the Battlehawk": {
+"creation_date": "2016-02-03",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/sven/glittering_hawk_arms/glittering_hawk_arms",
+"item_name": "#DOTA_Item_Shield_of_the_Battlehawk",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_Shield",
+"model_player": "models/items/sven/glittering_hawk_arms/glittering_hawk_arms.vmdl",
+"name": "Shield of the Battlehawk",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_sven": "1"
+}
+},
+"Sleeves of the Merqueen": {
+"creation_date": "2016-01-08",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/death_prophet/mermaids_queen_belt/mermaids_queen_belt",
+"item_name": "#DOTA_Item_Sleeves_of_the_Merqueen",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_Sleeves",
+"model_player": "models/items/death_prophet/mermaids_queen_belt/mermaids_queen_belt.vmdl",
+"name": "Sleeves of the Merqueen",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+}
+},
+"Spaulders of Wuxia": {
+"creation_date": "2016-02-08",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/lanaya/shadow_of_wuxia_shoulder/shadow_of_wuxia_shoulder",
+"item_name": "#DOTA_Item_Spaulders_of_Wuxia",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Spaulders",
+"model_player": "models/items/lanaya/shadow_of_wuxia_shoulder/shadow_of_wuxia_shoulder.vmdl",
+"name": "Spaulders of Wuxia",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_templar_assassin": "1"
+}
+},
+"Spines of the Ferocious Toxicant": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/venomancer/ferocious_toxicants_embrace_shoulder/ferocious_toxicants_embrace_shoulder",
+"item_name": "#DOTA_Item_Spines_of_the_Ferocious_Toxicant",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Spine",
+"model_player": "models/items/venomancer/ferocious_toxicants_embrace_shoulder/ferocious_toxicants_embrace_shoulder.vmdl",
+"name": "Spines of the Ferocious Toxicant",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_venomancer": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/venomancer/toxicant/venomancter_toxicant_shoulder_master.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"asset_modifier1": {
+"modifier": "particles/econ/items/venomancer/toxicant/venomancter_toxicant_belly.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Spirit of the Dark Wood": {
+"creation_date": "2016-02-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/lone_druid/bear/dark_wood_bear/dark_wood_bear_npc_dota_lone_druid_bear",
+"item_name": "#DOTA_Item_Spirit_of_the_Dark_Wood",
+"item_rarity": "mythical",
+"item_slot": "summon",
+"name": "Spirit of the Dark Wood",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lone_druid": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/lone_druid/bear/dark_wood_bear/dark_wood_bear_npc_dota_lone_druid_bear"
+},
+"1": {
+"icon_path": "econ/items/lone_druid/bear/dark_wood_bear/dark_wood_bear_npc_dota_lone_druid_bear_style1"
+},
+"2": {
+"icon_path": "econ/items/lone_druid/bear/dark_wood_bear/dark_wood_bear_npc_dota_lone_druid_bear_style2"
+}
+},
+"asset_modifier0": {
+"asset": "npc_dota_lone_druid_bear",
+"modifier": "models/items/lone_druid/bear/dark_wood_bear/dark_wood_bear.vmdl",
+"type": "entity_model"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Item_Dark_Wood_Spirit_Bear_Style_00",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Item_Dark_Wood_Spirit_Bear_Style_01",
+"skin": "1"
+},
+"2": {
+"alternate_icon": "2",
+"name": "#DOTA_Item_Dark_Wood_Spirit_Bear_Style_02",
+"skin": "2"
+}
+}
+}
+},
+"Spitters of the Ferocious Toxicant": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/venomancer/ferocious_toxicants_embrace_arms/ferocious_toxicants_embrace_arms",
+"item_name": "#DOTA_Item_Spitters_of_the_Ferocious_Toxicant",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_Spitters",
+"model_player": "models/items/venomancer/ferocious_toxicants_embrace_arms/ferocious_toxicants_embrace_arms.vmdl",
+"name": "Spitters of the Ferocious Toxicant",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_venomancer": "1"
+}
+}
+},
+"T": {
+"Tail of the Ferocious Toxicant": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/venomancer/ferocious_toxicants_embrace_tail/ferocious_toxicants_embrace_tail",
+"item_description": "#DOTA_Item_Desc_Tail_of_the_Ferocious_Toxicant",
+"item_name": "#DOTA_Item_Tail_of_the_Ferocious_Toxicant",
+"item_rarity": "mythical",
+"item_slot": "tail",
+"item_type_name": "#DOTA_WearableType_Tail",
+"model_player": "models/items/venomancer/ferocious_toxicants_embrace_tail/ferocious_toxicants_embrace_tail.vmdl",
+"name": "Tail of the Ferocious Toxicant",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_venomancer": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/venomancer/ferocious_toxicants_embrace_tail/ferocious_toxicants_embrace_tail"
+},
+"1": {
+"icon_path": "econ/items/venomancer/ferocious_toxicants_embrace_tail/ferocious_toxicants_embrace_tail_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/venomancer/toxicant/veno_toxicant_tail.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#Tail_of_the_Ferocious_Toxicant_default"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#Tail_of_the_Ferocious_Toxicant_particle",
+"unlock": {
+"item": "Treasure Upgrade Infuser - Winter 2016",
+"price": "1"
+}
+}
+}
+}
+},
+"Tunic of the Dark Wood": {
+"creation_date": "2016-02-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/lone_druid/dark_wood_back/dark_wood_back",
+"item_name": "#DOTA_Item_Tunic_of_the_Dark_Wood",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/lone_druid/dark_wood_back/dark_wood_back.vmdl",
+"name": "Tunic of the Dark Wood",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lone_druid": "1"
+}
+}
+},
+"V": {},
+"W": {
+"Ward of the Ferocious Toxicant": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/venomancer/ward/ferocious_toxicants_embrace_ward/ferocious_toxicants_embrace_ward_npc_dota_venomancer_plague_ward",
+"item_name": "#DOTA_Item_Ward_of_the_Ferocious_Toxicant",
+"item_rarity": "mythical",
+"item_slot": "ability3",
+"item_type_name": "#DOTA_WearableType_Ward",
+"name": "Ward of the Ferocious Toxicant",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_venomancer": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "npc_dota_venomancer_plague_ward",
+"modifier": "models/items/venomancer/ward/ferocious_toxicants_embrace_ward/ferocious_toxicants_embrace_ward.vmdl",
+"type": "entity_model"
+}
+}
+},
+"Wraith of the Merqueen": {
+"creation_date": "2016-01-08",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/death_prophet/exorcism/mermaids_queen_spirit/mermaids_queen_spirit_dota_death_prophet_exorcism_spirit",
+"item_name": "#DOTA_Item_Wraith_of_the_Merqueen",
+"item_rarity": "mythical",
+"item_slot": "ability_ultimate",
+"name": "Wraith of the Merqueen",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "dota_death_prophet_exorcism_spirit",
+"modifier": "models/items/death_prophet/exorcism/mermaids_queen_spirit/mermaids_queen_spirit.vmdl",
+"type": "entity_model"
+}
+}
+}
+},
+"Y": {}
+}
