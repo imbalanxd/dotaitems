@@ -84,7 +84,7 @@ def getItemsDict(fullDict):
 
 def writeDictionaryToFile(dict, file):
 	file = open(file, "w")
-	file.write(json.dumps(dict, indent=4, sort_keys=True))
+	file.write(json.dumps(dict, indent=0, sort_keys=True))
 	file.closed
 
 def saveFullItemDataForVersionId(fullDict, versionId):
@@ -144,5 +144,5 @@ def findNewWearableItems(oldDict, newDict):
 						del diffDict[key][item]
 	return diffDict
 
-if __name__ == "__main__":
+if __name__ == "__main__": 
 	main()

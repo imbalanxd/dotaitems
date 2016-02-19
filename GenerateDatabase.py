@@ -1,4 +1,4 @@
-import ItemParse, json
+import ItemParse, json, ItemEconomy
 from pymongo import MongoClient
 
 dbName = "outfitter"
@@ -16,13 +16,22 @@ def main():
 def generateFromVersionId(versionId):
 	db[dbWearable].drop()
 	allItems = ItemParse.getWearableItemsForVersionId(versionId)
+	dbItems = list();
 	for alphaNumericCategory in allItems:
 		categoryDict = allItems[alphaNumericCategory]
 		del categoryDict["count"]
 		for item in categoryDict:
 			wearableItem = categoryDict[item]
+			economyData = ItemEconomy.getData(wearableItem['name'])
+			print(economyData)
 			wearableItem["_id"] = wearableItem["name"]
-			result = db[dbWearable].insert_one(wearableItem)
+			flatItem = {	'_id':wearableItem["name"], 
+							'hero':list(wearableItem["used_by_heroes"].keys())[0],
+							'slot':wearableItem["item_slot"] if "item_slot" in wearableItem.keys() else "main_weapon",
+							'rarity':wearableItem["item_rarity"] if "item_rarity" in wearableItem.keys() else "common"};
+			dbItems.append(flatItem);
+	ItemParse.writeDictionaryToFile({'items':dbItems}, "firebase.json")
+	# result = db[dbWearable].insert_one({"items": dbItems})
 
 def generateFromLatestVersion(indexData):
 	generateFromVersionId(ItemParse.getCurrentVersionId(indexData))
