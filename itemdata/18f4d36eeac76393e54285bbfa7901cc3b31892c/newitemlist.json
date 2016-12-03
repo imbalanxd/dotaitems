@@ -1,0 +1,617 @@
+{
+    "A": {
+        "Arms of Desolation": {
+            "creation_date": "2015-03-19",
+            "image_inventory": "econ/items/shadow_fiend/arms_deso/arms_deso",
+            "item_description": "#DOTA_Item_Desc_Arms_of_Desolation",
+            "item_name": "#DOTA_Item_Arms_of_Desolation",
+            "item_rarity": "immortal",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Arms",
+            "model_player": "models/items/shadow_fiend/arms_deso/arms_deso.mdl",
+            "name": "Arms of Desolation",
+            "particle_file": "particles/econ/items/shadow_fiend/sf_desolation.pcf",
+            "prefab": "wearable",
+            "static_attributes": {
+                "international tag": {
+                    "attribute_class": "international_tag",
+                    "value": "2015"
+                }
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_nevermore": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "ALL",
+                    "modifier": "desolation",
+                    "type": "activity"
+                },
+                "asset_modifier1": {
+                    "asset": "nevermore_base_attack",
+                    "modifier": "sf_base_attack_desolation",
+                    "type": "particle"
+                },
+                "asset_modifier2": {
+                    "asset": "sf_fire_arcana_base_attack",
+                    "modifier": "sf_base_attack_desolation_fire_arcana",
+                    "type": "particle_combined"
+                },
+                "asset_modifier3": {
+                    "asset": "nvm_atk_blur",
+                    "modifier": "nvm_atk_blur_dso",
+                    "type": "particle"
+                },
+                "asset_modifier4": {
+                    "asset": "desolator_projectile",
+                    "modifier": "sf_base_attack_desolation_desolator",
+                    "type": "particle"
+                },
+                "asset_modifier5": {
+                    "asset": "nvm_atk_blur_B",
+                    "modifier": "nvm_atk_blur_B_dso",
+                    "type": "particle"
+                },
+                "attached_particlesystem0": {
+                    "system": "shadow_fiend_desolation_ambient"
+                },
+                "skip_model_combine": "0"
+            }
+        }
+    },
+    "B": {
+        "Basher of Mage Skulls": {
+            "creation_date": "2015-03-23",
+            "image_inventory": "econ/items/antimage/skullbasher/skullbasher1",
+            "item_description": "#DOTA_Item_Desc_Basher_of_Mage_Skulls",
+            "item_name": "#DOTA_Item_Basher_of_Mage_Skulls",
+            "item_rarity": "immortal",
+            "model_player": "models/items/antimage/skullbasher/skullbasher.mdl",
+            "name": "Basher of Mage Skulls",
+            "particle_file": "particles/econ/items/antimage/antimage_weapon_basher_ti5.pcf",
+            "prefab": "wearable",
+            "static_attributes": {
+                "international tag": {
+                    "attribute_class": "international_tag",
+                    "value": "2015"
+                },
+                "static socket 1": {
+                    "attribute_class": "socket",
+                    "value": "socket { required_hero: 'npc_dota_hero_antimage' gem_def_index: 3005 } asset_modifier: 140"
+                }
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_antimage": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "ALL",
+                    "modifier": "basher",
+                    "type": "activity"
+                },
+                "asset_modifier1": {
+                    "asset": "basher",
+                    "modifier": "am_basher",
+                    "type": "particle"
+                },
+                "asset_modifier2": {
+                    "asset": "generic_manaburn",
+                    "modifier": "am_manaburn_basher_ti_5",
+                    "type": "particle"
+                },
+                "asset_modifier3": {
+                    "asset": "antimage_blade_hit",
+                    "modifier": "antimage_blade_hit_basher_ti_5",
+                    "type": "particle"
+                },
+                "asset_modifier4": {
+                    "asset": "antimage_manavoid",
+                    "modifier": "antimage_manavoid_ti_5",
+                    "type": "particle"
+                },
+                "attached_particlesystem0": {
+                    "system": "antimage_ambient_skullbasher"
+                },
+                "skip_model_combine": "1"
+            }
+        }
+    },
+    "G": {
+        "Golden Basher of Mage Skulls": {
+            "creation_date": "2015-05-14",
+            "image_inventory": "econ/items/antimage/skullbasher_gold/skullbasher_gold1",
+            "item_description": "#DOTA_Item_Desc_Golden_Basher_of_Mage_Skulls",
+            "item_name": "#DOTA_Item_Golden_Basher_of_Mage_Skulls",
+            "item_rarity": "immortal",
+            "model_player": "models/items/antimage/skullbasher/skullbasher_gold.mdl",
+            "name": "Golden Basher of Mage Skulls",
+            "particle_file": "particles/econ/items/antimage/antimage_weapon_basher_ti5_gold.pcf",
+            "prefab": "wearable",
+            "static_attributes": {
+                "international tag": {
+                    "attribute_class": "international_tag",
+                    "value": "2015"
+                },
+                "static socket 1": {
+                    "attribute_class": "socket",
+                    "value": "socket { required_hero: 'npc_dota_hero_antimage' gem_def_index: 3005 } asset_modifier: 141"
+                }
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_antimage": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "ALL",
+                    "modifier": "basher",
+                    "type": "activity"
+                },
+                "asset_modifier1": {
+                    "asset": "basher",
+                    "modifier": "am_basher_gold",
+                    "type": "particle"
+                },
+                "asset_modifier2": {
+                    "asset": "generic_manaburn",
+                    "modifier": "am_manaburn_basher_ti_5_gold",
+                    "type": "particle"
+                },
+                "asset_modifier3": {
+                    "asset": "antimage_blade_hit",
+                    "modifier": "antimage_blade_hit_basher_ti_5_gold",
+                    "type": "particle"
+                },
+                "asset_modifier4": {
+                    "asset": "antimage_ambient_skullbasher",
+                    "modifier": "antimage_ambient_skullbasher_gold",
+                    "type": "particle"
+                },
+                "asset_modifier5": {
+                    "asset": "antimage_manavoid_basher_cast",
+                    "modifier": "antimage_manavoid_basher_cast_gold",
+                    "type": "particle"
+                },
+                "asset_modifier6": {
+                    "asset": "antimage_manavoid",
+                    "modifier": "antimage_manavoid_ti_5_gold",
+                    "type": "particle"
+                },
+                "attached_particlesystem0": {
+                    "system": "antimage_ambient_skullbasher"
+                },
+                "skip_model_combine": "1"
+            }
+        },
+        "Golden Offhand Basher of Mage Skulls": {
+            "creation_date": "2015-05-14",
+            "image_inventory": "econ/items/antimage/skullbasher_gold_offhand/skullbasher_gold_offhand1",
+            "item_description": "#DOTA_Item_Desc_Golden_Offhand_Basher_of_Mage_Skulls",
+            "item_name": "#DOTA_Item_Golden_Offhand_Basher_of_Mage_Skulls",
+            "item_rarity": "immortal",
+            "item_slot": "offhand_weapon",
+            "item_type_name": "#DOTA_WearableType_Offhand_Weapon",
+            "model_player": "models/items/antimage/skullbasher/skullbasher_gold_offhand.mdl",
+            "name": "Golden Offhand Basher of Mage Skulls",
+            "particle_file": "particles/econ/items/antimage/antimage_weapon_basher_ti5_gold.pcf",
+            "prefab": "wearable",
+            "static_attributes": {
+                "international tag": {
+                    "attribute_class": "international_tag",
+                    "value": "2015"
+                },
+                "static socket 1": {
+                    "attribute_class": "socket",
+                    "value": "socket { required_hero: 'npc_dota_hero_antimage' gem_def_index: 3005 } asset_modifier: 141"
+                }
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_antimage": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "ALL",
+                    "modifier": "offhand_basher",
+                    "type": "activity"
+                },
+                "asset_modifier1": {
+                    "asset": "basher",
+                    "modifier": "am_basher_gold",
+                    "type": "particle"
+                },
+                "asset_modifier2": {
+                    "asset": "antimage_blade_hit",
+                    "modifier": "antimage_blade_hit_basher_ti_5_gold",
+                    "type": "particle"
+                },
+                "asset_modifier3": {
+                    "asset": "generic_manaburn",
+                    "modifier": "am_manaburn_basher_ti_5_gold",
+                    "type": "particle"
+                },
+                "asset_modifier4": {
+                    "asset": "antimage_ambient_skullbasher_offhand",
+                    "modifier": "antimage_ambient_skullbasher_offhand_gold",
+                    "type": "particle"
+                },
+                "asset_modifier5": {
+                    "asset": "antimage_manavoid_basher_cast",
+                    "modifier": "antimage_manavoid_basher_cast_gold",
+                    "type": "particle"
+                },
+                "asset_modifier6": {
+                    "asset": "antimage_manavoid",
+                    "modifier": "antimage_manavoid_ti_5_gold",
+                    "type": "particle"
+                },
+                "attached_particlesystem0": {
+                    "system": "antimage_ambient_skullbasher_offhand"
+                },
+                "skip_model_combine": "1"
+            }
+        }
+    },
+    "J": {
+        "Jewel of Aeons": {
+            "creation_date": "2015-03-25",
+            "image_inventory": "econ/items/faceless_void/jewel_of_aeons/jewel_of_aeons1",
+            "item_description": "#DOTA_Item_Desc_Jewel_of_Aeons",
+            "item_name": "#DOTA_Item_Jewel_of_Aeons",
+            "item_rarity": "immortal",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Shoulder_Guard",
+            "model_player": "models/items/faceless_void/jewel_of_aeons/jewel_of_aeons.mdl",
+            "name": "Jewel of Aeons",
+            "particle_file": "particles/econ/items/faceless_void/faceless_void_jewel_of_aeons.pcf",
+            "prefab": "wearable",
+            "static_attributes": {
+                "international tag": {
+                    "attribute_class": "international_tag",
+                    "value": "2015"
+                },
+                "static socket 1": {
+                    "attribute_class": "socket",
+                    "value": "socket { required_hero: 'npc_dota_hero_sven' gem_def_index: 3005 } asset_modifier: 136"
+                }
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_faceless_void": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "ALL",
+                    "modifier": "aeons",
+                    "type": "activity"
+                },
+                "asset_modifier1": {
+                    "asset": "faceless_void_time_walk",
+                    "modifier": "fv_time_walk_jewel",
+                    "type": "particle"
+                },
+                "asset_modifier2": {
+                    "asset": "faceless_void_time_walk_slow",
+                    "modifier": "fv_time_walk_slow_jewel",
+                    "type": "particle"
+                },
+                "asset_modifier3": {
+                    "asset": "faceless_void_time_walk_preimage",
+                    "modifier": "fv_time_walk_preimage_jewel",
+                    "type": "particle"
+                },
+                "asset_modifier4": {
+                    "asset": "faceless_void_time_walk_debuff",
+                    "modifier": "fv_time_walk_debuff_jewel",
+                    "type": "particle"
+                },
+                "asset_modifier5": {
+                    "asset": "Hero_FacelessVoid.TimeWalk",
+                    "modifier": "Hero_FacelessVoid.TimeWalk.Aeons",
+                    "type": "sound"
+                },
+                "attached_particlesystem0": {
+                    "system": "fv_ambient_aeons"
+                },
+                "attached_particlesystem1": {
+                    "system": "fv_core_ambient_aeons"
+                }
+            }
+        }
+    },
+    "O": {
+        "Offhand Basher of Mage Skulls": {
+            "creation_date": "2015-04-03",
+            "image_inventory": "econ/items/antimage/skullbasher_offhand/skullbasher_offhand1",
+            "item_description": "#DOTA_Item_Desc_Offhand_Basher_of_Mage_Skulls",
+            "item_name": "#DOTA_Item_Offhand_Basher_of_Mage_Skulls",
+            "item_rarity": "immortal",
+            "item_slot": "offhand_weapon",
+            "item_type_name": "#DOTA_WearableType_Offhand_Weapon",
+            "model_player": "models/items/antimage/skullbasher/skullbasher_offhand.mdl",
+            "name": "Offhand Basher of Mage Skulls",
+            "particle_file": "particles/econ/items/antimage/antimage_weapon_basher_ti5.pcf",
+            "prefab": "wearable",
+            "static_attributes": {
+                "international tag": {
+                    "attribute_class": "international_tag",
+                    "value": "2015"
+                },
+                "static socket 1": {
+                    "attribute_class": "socket",
+                    "value": "socket { required_hero: 'npc_dota_hero_antimage' gem_def_index: 3005 } asset_modifier: 140"
+                }
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_antimage": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "ALL",
+                    "modifier": "offhand_basher",
+                    "type": "activity"
+                },
+                "asset_modifier1": {
+                    "asset": "basher",
+                    "modifier": "am_basher",
+                    "type": "particle"
+                },
+                "asset_modifier2": {
+                    "asset": "antimage_blade_hit",
+                    "modifier": "antimage_blade_hit_basher_ti_5",
+                    "type": "particle"
+                },
+                "asset_modifier3": {
+                    "asset": "generic_manaburn",
+                    "modifier": "am_manaburn_basher_ti_5",
+                    "type": "particle"
+                },
+                "asset_modifier4": {
+                    "asset": "antimage_manavoid",
+                    "modifier": "antimage_manavoid_ti_5",
+                    "type": "particle"
+                },
+                "attached_particlesystem0": {
+                    "system": "antimage_ambient_skullbasher_offhand"
+                },
+                "skip_model_combine": "1"
+            }
+        }
+    },
+    "R": {
+        "Resistive Pinfold": {
+            "creation_date": "2015-03-04",
+            "image_inventory": "econ/items/disruptor/resistive_pinfold_back/resistive_pinfold_back",
+            "item_description": "#DOTA_Item_Desc_Resistive_Pinfold",
+            "item_name": "#DOTA_Item_Resistive_Pinfold",
+            "item_rarity": "immortal",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Generator",
+            "model_player": "models/items/disruptor/resistive_pinfold_back/resistive_pinfold_back.mdl",
+            "name": "Resistive Pinfold",
+            "particle_file": "particles/econ/items/disruptor/disruptor_resistive_pinfold.pcf",
+            "prefab": "wearable",
+            "static_attributes": {
+                "international tag": {
+                    "attribute_class": "international_tag",
+                    "value": "2015"
+                },
+                "static socket 1": {
+                    "attribute_class": "socket",
+                    "value": "socket { required_hero: 'npc_dota_hero_sven' gem_def_index: 3005 } asset_modifier: 139"
+                }
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_disruptor": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "disruptor_kineticfield",
+                    "modifier": "disruptor_ecage_kineticfield",
+                    "type": "particle"
+                },
+                "asset_modifier1": {
+                    "asset": "disruptor_kineticfield_formation",
+                    "modifier": "disruptor_ecage_formation",
+                    "type": "particle"
+                },
+                "asset_modifier2": {
+                    "asset": "ALL",
+                    "modifier": "pinfold",
+                    "type": "activity"
+                },
+                "asset_modifier3": {
+                    "asset": "disruptor_ambient_glow",
+                    "modifier": "disruptor_ambient_empty",
+                    "type": "particle"
+                },
+                "asset_modifier4": {
+                    "asset": "Hero_Disruptor.KineticField",
+                    "modifier": "Hero_Disruptor.KineticField.Pinfold",
+                    "type": "sound"
+                },
+                "asset_modifier5": {
+                    "asset": "Hero_Disruptor.KineticField.End",
+                    "modifier": "Hero_Disruptor.KineticField.Pinfold.End",
+                    "type": "sound"
+                },
+                "asset_modifier6": {
+                    "offset": "220",
+                    "type": "healthbar_offset"
+                },
+                "attached_particlesystem0": {
+                    "system": "disruptor_resistive_ambient_glow"
+                },
+                "skip_model_combine": "1"
+            }
+        },
+        "Rollermawster": {
+            "creation_date": "2015-03-05",
+            "image_inventory": "econ/items/tinker/roller_mawster/roller_mawster",
+            "item_description": "#DOTA_Item_Desc_Rollermawster",
+            "item_name": "#DOTA_Item_Rollermawster",
+            "item_rarity": "immortal",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helmet",
+            "model_player": "models/items/tinker/roller_mawster/roller_mawster.mdl",
+            "name": "Rollermawster",
+            "particle_file": "particles/econ/items/tinker/tinker_motm_rollermaw.pcf",
+            "prefab": "wearable",
+            "static_attributes": {
+                "international tag": {
+                    "attribute_class": "international_tag",
+                    "value": "2015"
+                },
+                "static socket 1": {
+                    "attribute_class": "socket",
+                    "value": "socket { required_hero: 'npc_dota_hero_sven' gem_def_index: 3005 } asset_modifier: 137"
+                }
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_tinker": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "tinker_machine",
+                    "modifier": "tinker_rollermaw",
+                    "type": "particle"
+                },
+                "asset_modifier1": {
+                    "asset": "ACT_DOTA_CAST_ABILITY_3",
+                    "modifier": "tinker_rollermaw",
+                    "type": "activity"
+                },
+                "asset_modifier2": {
+                    "asset": "Hero_Tinker.March_of_the_Machines.Cast",
+                    "modifier": "Hero_Tinker.March_of_the_Machines.Cast.Rollermawster",
+                    "type": "sound"
+                },
+                "asset_modifier3": {
+                    "asset": "tinker_motm",
+                    "modifier": "tinker_rollermaw_motm",
+                    "type": "particle"
+                },
+                "attached_particlesystem0": {
+                    "system": "tinker_rollermawster_ambient_ears"
+                },
+                "attached_particlesystem1": {
+                    "system": "tinker_rollermawster_ambient_pipe"
+                },
+                "attached_particlesystem2": {
+                    "system": "tinker_rollermawster_ambient_ears_other"
+                },
+                "skip_model_combine": "1"
+            }
+        }
+    },
+    "T": {
+        "Tormented Staff": {
+            "creation_date": "2015-05-07",
+            "image_inventory": "econ/items/leshrac/tormented_staff/tormented_staff1",
+            "item_description": "#DOTA_Item_Desc_Tormented_Staff",
+            "item_name": "#DOTA_Item_Tormented_Staff",
+            "item_rarity": "immortal",
+            "item_type_name": "#DOTA_WearableType_Staff",
+            "model_player": "models/items/leshrac/tormented_staff/tormented_staff.mdl",
+            "name": "Tormented Staff",
+            "override_attack_attachments": "1",
+            "particle_file": "particles/econ/items/leshrac/leshrac_tormented_staff.pcf",
+            "prefab": "wearable",
+            "static_attributes": {
+                "international tag": {
+                    "attribute_class": "international_tag",
+                    "value": "2015"
+                },
+                "static socket 1": {
+                    "attribute_class": "socket",
+                    "value": "socket { required_hero: 'npc_dota_hero_sven' gem_def_index: 3005 } asset_modifier: 138"
+                }
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_leshrac": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "ALL",
+                    "modifier": "torment",
+                    "type": "activity"
+                },
+                "asset_modifier1": {
+                    "asset": "leshrac_base_attack",
+                    "modifier": "leshrac_base_attack_tormented",
+                    "type": "particle"
+                },
+                "asset_modifier2": {
+                    "asset": "leshrac_split_earth",
+                    "modifier": "leshrac_split_tormented",
+                    "type": "particle"
+                },
+                "asset_modifier3": {
+                    "asset": "Hero_Leshrac.Split_Earth",
+                    "modifier": "Hero_Leshrac.Split_Earth.Tormented",
+                    "type": "sound"
+                },
+                "attached_particlesystem0": {
+                    "system": "leshrac_tormented_staff"
+                },
+                "skip_model_combine": "1"
+            }
+        }
+    },
+    "V": {
+        "Vigil Signet": {
+            "creation_date": "2015-03-11",
+            "image_inventory": "econ/items/sven/arms_of_the_rogue/arms_of_the_rogue",
+            "item_description": "#DOTA_Item_Desc_Vigil_Signet",
+            "item_name": "#DOTA_Item_Vigil_Signet",
+            "item_rarity": "immortal",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Shield",
+            "model_player": "models/items/sven/arms_of_the_rogue/arms_of_the_rogue.mdl",
+            "name": "Vigil Signet",
+            "particle_file": "particles/econ/items/sven/sven_warcry_ti5.pcf",
+            "prefab": "wearable",
+            "static_attributes": {
+                "international tag": {
+                    "attribute_class": "international_tag",
+                    "value": "2015"
+                },
+                "static socket 1": {
+                    "attribute_class": "socket",
+                    "value": "socket { required_hero: 'npc_dota_hero_sven' gem_def_index: 3005 } asset_modifier: 135"
+                }
+            },
+            "used_by_heroes": {
+                "npc_dota_hero_sven": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "sven_spell_warcry",
+                    "modifier": "sven_spell_warcry_ti_5",
+                    "type": "particle"
+                },
+                "asset_modifier1": {
+                    "asset": "ALL",
+                    "modifier": "sven_shield",
+                    "type": "activity"
+                },
+                "asset_modifier2": {
+                    "asset": "sven_warcry_buff",
+                    "modifier": "sven_warcry_buff_ti_5",
+                    "type": "particle"
+                },
+                "asset_modifier3": {
+                    "asset": "sven_warcry_buff_sven",
+                    "modifier": "sven_warcry_buff_sven_ti_5",
+                    "type": "particle"
+                },
+                "asset_modifier4": {
+                    "asset": "Hero_Sven.WarCry",
+                    "modifier": "Hero_Sven.WarCry.Signet",
+                    "type": "sound"
+                },
+                "attached_particlesystem0": {
+                    "system": "sven_shield_ambient_ti_5"
+                },
+                "skip_model_combine": "1"
+            }
+        }
+    }
+}

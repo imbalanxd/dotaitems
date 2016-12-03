@@ -6,7 +6,7 @@ def main():
 	indexData = getIndexData()
 	for entry in indexData:
 		if("time" not in indexData[entry]):
-			indexData[entry]["time"] = os.stat(indexData[entry]["id"]).st_mtime;
+			indexData[entry]["time"] = os.stat("itemdata/"+indexData[entry]["id"]).st_mtime;
 	saveIndexData(indexData)
 
 def getIndexData():

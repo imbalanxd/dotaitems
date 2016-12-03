@@ -17,7 +17,7 @@ def main():
 		if(demo):
 			gameItemsDict = getFullDataFromFile()
 		else:
-			os.makedirs(latestVersionId)
+			os.makedirs("itemdata/"+latestVersionId)
 			gameItemsDict = getFullData(getSchemaURL())
 			saveFullItemDataForVersionId(gameItemsDict, latestVersionId)
 		latestWearableItems = getWearableItems(getItemsDict(gameItemsDict))
@@ -88,37 +88,35 @@ def writeDictionaryToFile(dict, file):
 	file.closed
 
 def saveFullItemDataForVersionId(fullDict, versionId):
-	writeDictionaryToFile(fullDict, versionId+"/items_game.txt")
+	writeDictionaryToFile(fullDict, "itemdata/"+versionId+"/items_game.txt")
 
 def saveWearableItemDataForVersionId(wearableDict, versionId):
-	writeDictionaryToFile(wearableDict, versionId+"/itemlist.json")
+	writeDictionaryToFile(wearableDict, "itemdata/"+versionId+"/itemlist.json")
 
 def saveNewWearableItemDataForVersionId(newWearableDict, versionId):
-	writeDictionaryToFile(newWearableDict, versionId+"/newitemlist.json")
+	writeDictionaryToFile(newWearableDict, "itemdata/"+versionId+"/newitemlist.json")
 
 def getWearableItemsForVersionId(versionId):
-	raw = open(versionId+"/itemlist.json", encoding="utf-8")
+	raw = open("itemdata/"+versionId+"/itemlist.json", encoding="utf-8")
 	return json.loads(raw.read())
 
 def getWearableItemsForVersionIdNew(versionId):
 	verIndex = int(getIndexForVersionId(versionId))
-	wearableDict = json.loads(open("default/itemlist.json", encoding="utf-8").read())
+	wearableDict = json.loads(open("itemdata/default/itemlist.json", encoding="utf-8").read())
 	for i in range (2, verIndex + 1):
-		newDict = json.loads(open(getVersionIdForIndex(i)+"/newitemlist.json", encoding="utf-8").read())
+		newDict = json.loads(open("itemdata/"+getVersionIdForIndex(i)+"/newitemlist.json", encoding="utf-8").read())
 		for alpha in newDict:
 			if(alpha in wearableDict):
 				wearableDict[alpha].update(newDict[alpha])
 			else:
 				wearableDict[alpha] = newDict[alpha]
-	writeDictionaryToFile(wearableDict, "testnewitemlist.json")
 	return wearableDict
 
 def getNewWearableItemsForVersionId(versionId):
-	raw = open(versionId+"/newitemlist.json", encoding="utf-8")
+	raw = open("itemdata/"+versionId+"/newitemlist.json", encoding="utf-8")
 	return json.loads(raw.read())
 
 def getWearableItems(itemsDict):
-	file = open("itemlist.txt", "w")
 	wearableDict = {}
 	for item in itemsDict.items():
 		if("prefab" in item[1] and item[1]["prefab"] == "wearable"):

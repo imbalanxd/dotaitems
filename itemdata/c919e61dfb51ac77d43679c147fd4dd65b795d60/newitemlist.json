@@ -1,0 +1,698 @@
+{
+"A": {
+"Abdomen of the Amber Queen": {
+"creation_date": "2016-02-04",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/broodmother/amber_queen_back_2/amber_queen_back_2",
+"item_name": "#DOTA_Item_Abdomen_of_the_Amber_Queen",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_Abdomen",
+"model_player": "models/items/broodmother/amber_queen_back_2/amber_queen_back_2.vmdl",
+"name": "Abdomen of the Amber Queen",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_broodmother": "1"
+}
+},
+"Amber Queen's Spiderling": {
+"creation_date": "2016-02-04",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/broodmother/spiderling/amber_queen_spiderling_2/amber_queen_spiderling_2_npc_dota_broodmother_spiderling",
+"item_name": "#DOTA_Item_Amber_Queens_Spiderling",
+"item_rarity": "mythical",
+"item_slot": "ability1",
+"item_type_name": "#DOTA_WearableType_Spiderling",
+"name": "Amber Queen's Spiderling",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_broodmother": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "npc_dota_broodmother_spiderling",
+"modifier": "models/items/broodmother/spiderling/amber_queen_spiderling_2/amber_queen_spiderling_2.vmdl",
+"type": "entity_model"
+},
+"asset_modifier1": {
+"asset": "npc_dota_broodmother_spiderite",
+"modifier": "models/items/broodmother/spiderling/amber_queen_spiderling_2/amber_queen_spiderling_2.vmdl",
+"type": "entity_model"
+}
+}
+},
+"Armor of Prismatic Grace": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/siren/prismatic_empress_armor/prismatic_empress_armor",
+"item_name": "#DOTA_Item_Armor_of_Prismatic_Grace",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_Armor",
+"model_player": "models/items/siren/prismatic_empress_armor/prismatic_empress_armor.vmdl",
+"name": "Armor of Prismatic Grace",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_naga_siren": "1"
+}
+},
+"Armor of the Daemonfell Flame": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/legion_commander/athenas_flame_shoulder/athenas_flame_shoulder",
+"item_name": "#DOTA_Item_Armor_of_the_Daemonfell_Flame",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Armor",
+"model_player": "models/items/legion_commander/athenas_flame_shoulder/athenas_flame_shoulder.vmdl",
+"name": "Armor of the Daemonfell Flame",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_legion_commander": "1"
+}
+}
+},
+"B": {
+"Banner of the Daemonfell Flame": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/legion_commander/athenas_flame_back/athenas_flame_back",
+"item_name": "#DOTA_Item_Banner_of_the_Daemonfell_Flame",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_Banner",
+"model_player": "models/items/legion_commander/athenas_flame_back/athenas_flame_back.vmdl",
+"name": "Banner of the Daemonfell Flame",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_legion_commander": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/legion/athenes_flame/athenesflames_back.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Barrel of the Tipsy Brawler": {
+"branding": {
+"corporation_id": "91644707"
+},
+"creation_date": "2015-07-30",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/brewmaster/honorable_brawler_offhand/honorable_brawler_offhand",
+"item_name": "#DOTA_Item_Barrel_of_the_Tipsy_Brawler",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_Barrel",
+"model_player": "models/items/brewmaster/honorable_brawler_offhand/honorable_brawler_offhand.vmdl",
+"name": "Barrel of the Tipsy Brawler",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+}
+},
+"Blade of Prismatic Grace": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/siren/prismatic_empress_weapon/prismatic_empress_weapon",
+"item_description": "#DOTA_Item_Desc_Naga_Sirens_Sword",
+"item_name": "#DOTA_Item_Blade_of_Prismatic_Grace",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_Blade",
+"model_player": "models/items/siren/prismatic_empress_offhand/prismatic_empress_offhand.vmdl",
+"name": "Blade of Prismatic Grace",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_naga_siren": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/siren/prismatic_empress_weapon/prismatic_empress_weapon"
+},
+"1": {
+"icon_path": "econ/items/siren/prismatic_empress_weapon/prismatic_empress_weapon_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/naga/naga_prismatic_empress/naga_prismatic_offhand_blade.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#Blade_of_Prismatic_Grace_Default"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#Blade_of_Prismatic_Grace_Particle",
+"unlock": {
+"item": "Treasure Upgrade Infuser - Winter 2016",
+"price": "1"
+}
+}
+}
+}
+},
+"Bracers of the Daemonfell Flame": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/legion_commander/athenas_flame_arms/athenas_flame_arms",
+"item_name": "#DOTA_Item_Bracers_of_the_Daemonfell_Flame",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_Bracers",
+"model_player": "models/items/legion_commander/athenas_flame_arms/athenas_flame_arms.vmdl",
+"name": "Bracers of the Daemonfell Flame",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_legion_commander": "1"
+}
+},
+"Bracers of the Tipsy Brawler": {
+"branding": {
+"corporation_id": "91644707"
+},
+"creation_date": "2015-07-30",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/brewmaster/honorable_brawler_arms/honorable_brawler_arms",
+"item_name": "#DOTA_Item_Bracers_of_the_Tipsy_Brawler",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_Bracers",
+"model_player": "models/items/brewmaster/honorable_brawler_arms/honorable_brawler_arms.vmdl",
+"name": "Bracers of the Tipsy Brawler",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+}
+}
+},
+"C": {
+"Cape of the Tipsy Brawler": {
+"branding": {
+"corporation_id": "91644707"
+},
+"creation_date": "2015-07-30",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/brewmaster/honorable_brawler_back/honorable_brawler_back",
+"item_name": "#DOTA_Item_Cape_of_the_Tipsy_Brawler",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_Cape",
+"model_player": "models/items/brewmaster/honorable_brawler_back/honorable_brawler_back.vmdl",
+"name": "Cape of the Tipsy Brawler",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+}
+},
+"Carapace of the Amber Queen": {
+"creation_date": "2016-02-04",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/broodmother/amber_queen_misc_1/amber_queen_misc_1",
+"item_name": "#DOTA_Item_Carapace_of_the_Amber_Queen",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_Misc",
+"model_player": "models/items/broodmother/amber_queen_misc_1/amber_queen_misc_1.vmdl",
+"name": "Carapace of the Amber Queen",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_broodmother": "1"
+}
+},
+"Crown of Prismatic Grace": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/siren/prismatic_empress_head/prismatic_empress_head",
+"item_name": "#DOTA_Item_Crown_of_Prismatic_Grace",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Crown",
+"model_player": "models/items/siren/prismatic_empress_head/prismatic_empress_head.vmdl",
+"name": "Crown of Prismatic Grace",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_naga_siren": "1"
+}
+}
+},
+"D": {
+"Darkclaw Emissary Arms": {
+"creation_date": "2016-01-14",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/dazzle/darkclaw_acolyte_arms/darkclaw_acolyte_arms",
+"item_name": "#DOTA_Item_Darkclaw_Emissary_Arms",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/dazzle/darkclaw_acolyte_arms/darkclaw_acolyte_arms.vmdl",
+"name": "Darkclaw Emissary Arms",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dazzle": "1"
+}
+},
+"Darkclaw Emissary Cloak": {
+"creation_date": "2016-01-14",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/dazzle/darkclaw_acolyte_misc/darkclaw_acolyte_misc",
+"item_name": "#DOTA_Item_Darkclaw_Emissary_Cloak",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_misc",
+"model_player": "models/items/dazzle/darkclaw_acolyte_misc/darkclaw_acolyte_misc.vmdl",
+"name": "Darkclaw Emissary Cloak",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dazzle": "1"
+}
+},
+"Darkclaw Emissary Cowl": {
+"creation_date": "2016-01-14",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/dazzle/darkclaw_acolyte_back/darkclaw_acolyte_back",
+"item_name": "#DOTA_Item_Darkclaw_Emissary_Cowl",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/dazzle/darkclaw_acolyte_back/darkclaw_acolyte_back.vmdl",
+"name": "Darkclaw Emissary Cowl",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dazzle": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/dazzle/dazzle_darkclaw/dazzle_darkclaw_ambient_head.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"skip_model_combine": "1"
+}
+},
+"Darkclaw Emissary Dress": {
+"creation_date": "2016-01-14",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/dazzle/darkclaw_acolyte_legs/darkclaw_acolyte_legs",
+"item_name": "#DOTA_Item_Darkclaw_Emissary_Dress",
+"item_rarity": "mythical",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_legs",
+"model_player": "models/items/dazzle/darkclaw_acolyte_legs/darkclaw_acolyte_legs.vmdl",
+"name": "Darkclaw Emissary Dress",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dazzle": "1"
+}
+},
+"Darkclaw Emissary Staff": {
+"creation_date": "2016-01-14",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/dazzle/darkclaw_acolyte_weapon/darkclaw_acolyte_weapon",
+"item_name": "#DOTA_Item_Darkclaw_Emissary_Staff",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/dazzle/darkclaw_acolyte_weapon/darkclaw_acolyte_weapon.vmdl",
+"name": "Darkclaw Emissary Staff",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dazzle": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "ALL",
+"modifier": "darkclaw",
+"type": "activity"
+},
+"asset_modifier1": {
+"asset": "particles/units/heroes/hero_dazzle/dazzle_poison_touch.vpcf",
+"modifier": "particles/econ/items/dazzle/dazzle_darkclaw/dazzle_darkclaw_poison_touch.vpcf",
+"style": "0",
+"type": "particle"
+},
+"asset_modifier2": {
+"modifier": "particles/econ/items/dazzle/dazzle_darkclaw/dazzle_darkclaw_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"skip_model_combine": "1"
+}
+}
+},
+"E": {
+"Emeraldine Crest": {
+"creation_date": "2016-02-04",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/luna/the_spirit_of_emerald_set_head/the_spirit_of_emerald_set_head",
+"item_name": "#DOTA_Item_Emeraldine_Crest",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Crest",
+"model_player": "models/items/luna/the_spirit_of_emerald_set_head/the_spirit_of_emerald_set_head.vmdl",
+"name": "Emeraldine Crest",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_luna": "1"
+}
+},
+"Emeraldine Glaive": {
+"creation_date": "2016-02-04",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/luna/the_spirit_of_emerald_set_weapon/the_spirit_of_emerald_set_weapon",
+"item_name": "#DOTA_Item_Emeraldine_Glaive",
+"item_rarity": "mythical",
+"model_player": "models/items/luna/the_spirit_of_emerald_set_weapon/the_spirit_of_emerald_set_weapon.vmdl",
+"name": "Emeraldine Glaive",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_luna": "1"
+}
+},
+"Emeraldine Guardian": {
+"creation_date": "2016-02-04",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/luna/the_spirit_of_emerald_set_mount/the_spirit_of_emerald_set_mount",
+"item_name": "#DOTA_Item_Emeraldine_Guardian",
+"item_rarity": "mythical",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_Mount",
+"model_player": "models/items/luna/the_spirit_of_emerald_set_mount/the_spirit_of_emerald_set_mount.vmdl",
+"name": "Emeraldine Guardian",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_luna": "1"
+}
+},
+"Emeraldine Shield": {
+"creation_date": "2016-02-04",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/luna/the_spirit_of_emerald_set_off_hand/the_spirit_of_emerald_set_off_hand",
+"item_name": "#DOTA_Item_Emeraldine_Shield",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_Shield",
+"model_player": "models/items/luna/the_spirit_of_emerald_set_off_hand/the_spirit_of_emerald_set_off_hand.vmdl",
+"name": "Emeraldine Shield",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_luna": "1"
+}
+},
+"Emeraldine Spaulders": {
+"creation_date": "2016-02-04",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/luna/the_spirit_of_emerald_set_shoulder/the_spirit_of_emerald_set_shoulder",
+"item_name": "#DOTA_Item_Emeraldine_Spaulders",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Shoulder",
+"model_player": "models/items/luna/the_spirit_of_emerald_set_shoulder/the_spirit_of_emerald_set_shoulder.vmdl",
+"name": "Emeraldine Spaulders",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_luna": "1"
+}
+}
+},
+"F": {
+"Fangs of the Amber Queen": {
+"creation_date": "2016-02-04",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/broodmother/amber_queen_head_2/amber_queen_head_2",
+"item_name": "#DOTA_Item_Fangs_of_the_Amber_Queen",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Head",
+"model_player": "models/items/broodmother/amber_queen_head_2/amber_queen_head_2.vmdl",
+"name": "Fangs of the Amber Queen",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_broodmother": "1"
+}
+}
+},
+"G": {},
+"H": {
+"Hammer of the Tipsy Brawler": {
+"branding": {
+"corporation_id": "91644707"
+},
+"creation_date": "2015-07-30",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/brewmaster/honorable_brawler_weapon/honorable_brawler_weapon",
+"item_name": "#DOTA_Item_Hammer_of_the_Tipsy_Brawler",
+"item_rarity": "mythical",
+"model_player": "models/items/brewmaster/honorable_brawler_weapon/honorable_brawler_weapon.vmdl",
+"name": "Hammer of the Tipsy Brawler",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+}
+},
+"Helm of the Daemonfell Flame": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/legion_commander/athenas_flame_head/athenas_flame_head",
+"item_name": "#DOTA_Item_Helm_of_the_Daemonfell_Flame",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Helm",
+"model_player": "models/items/legion_commander/athenas_flame_head/athenas_flame_head.vmdl",
+"name": "Helm of the Daemonfell Flame",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_legion_commander": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/legion/athenes_flame/athenesflames_head.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+}
+},
+"I": {},
+"J": {},
+"K": {},
+"L": {
+"Legs of the Amber Queen": {
+"creation_date": "2016-02-04",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/broodmother/amber_queen_legs_2/amber_queen_legs_2",
+"item_name": "#DOTA_Item_Legs_of_the_Amber_Queen",
+"item_rarity": "mythical",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_Legs",
+"model_player": "models/items/broodmother/amber_queen_legs_2/amber_queen_legs_2.vmdl",
+"name": "Legs of the Amber Queen",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_broodmother": "1"
+}
+}
+},
+"M": {
+"Mane of the Tipsy Brawler": {
+"branding": {
+"corporation_id": "91644707"
+},
+"creation_date": "2015-07-30",
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/brewmaster/honorable_brawler_shoulder/honorable_brawler_shoulder",
+"item_name": "#DOTA_Item_Mane_of_the_Tipsy_Brawler",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Helm",
+"model_player": "models/items/brewmaster/honorable_brawler_shoulder/honorable_brawler_shoulder.vmdl",
+"name": "Mane of the Tipsy Brawler",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+}
+}
+},
+"N": {},
+"O": {
+"Offhand Blade of Prismatic Grace": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/siren/prismatic_empress_offhand/prismatic_empress_offhand",
+"item_name": "#DOTA_Item_Offhand_Blade_of_Prismatic_Grace",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_Offhand_Blade",
+"model_player": "models/items/siren/prismatic_empress_weapon/prismatic_empress_weapon.vmdl",
+"name": "Offhand Blade of Prismatic Grace",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_naga_siren": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/siren/prismatic_empress_offhand/prismatic_empress_offhand"
+},
+"1": {
+"icon_path": "econ/items/siren/prismatic_empress_offhand/prismatic_empress_offhand_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/naga/naga_prismatic_empress/naga_prismatic_weapon_blade.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#Offhand_Blade_of_Prismatic_Grace_Default"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#Offhand_Blade_of_Prismatic_Grace_Particle"
+}
+}
+}
+}
+},
+"P": {},
+"Q": {},
+"R": {},
+"S": {
+"Seismic Berserker Armor": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/magnataur/seismic_berserker_belt/seismic_berserker_belt",
+"item_name": "#DOTA_Item_Seismic_Berserker_Armor",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_Armor",
+"model_player": "models/items/magnataur/seismic_berserker_belt/seismic_berserker_belt.vmdl",
+"name": "Seismic Berserker Armor",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_magnataur": "1"
+}
+},
+"Seismic Berserker Bracers": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/magnataur/seismic_berserker_arms/seismic_berserker_arms",
+"item_name": "#DOTA_Item_Seismic_Berserker_Bracers",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_Bracers",
+"model_player": "models/items/magnataur/seismic_berserker_arms/seismic_berserker_arms.vmdl",
+"name": "Seismic Berserker Bracers",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_magnataur": "1"
+}
+},
+"Seismic Berserker Club": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/magnataur/seismic_berserker_weapon/seismic_berserker_weapon",
+"item_description": "#DOTA_Item_Desc_Seismic_Berserker_Club",
+"item_name": "#DOTA_Item_Seismic_Berserker_Club",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_Club",
+"model_player": "models/items/magnataur/seismic_berserker_weapon/seismic_berserker_weapon.vmdl",
+"name": "Seismic Berserker Club",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_magnataur": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/magnataur/seismic_berserker_weapon/seismic_berserker_weapon"
+},
+"1": {
+"icon_path": "econ/items/magnataur/seismic_berserker_weapon/seismic_berserker_weapon_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/magnataur/seismic_berserker/seismic_berserker_weapon.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#Seismic_Berserker_Default"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#Seismic_Berserker_Particle",
+"unlock": {
+"item": "Treasure Upgrade Infuser - Winter 2016",
+"price": "1"
+}
+}
+}
+}
+},
+"Seismic Berserker Helm": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/magnataur/seismic_berserker_head/seismic_berserker_head",
+"item_name": "#DOTA_Item_Seismic_Berserker_Helm",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Helm",
+"model_player": "models/items/magnataur/seismic_berserker_head/seismic_berserker_head.vmdl",
+"name": "Seismic Berserker Helm",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_magnataur": "1"
+}
+},
+"Seismic Berserker Horn": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/magnataur/seismic_berserker_misc/seismic_berserker_misc",
+"item_name": "#DOTA_Item_Seismic_Berserker_Horn",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_Horn",
+"model_player": "models/items/magnataur/seismic_berserker_misc/seismic_berserker_misc.vmdl",
+"name": "Seismic Berserker Horn",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_magnataur": "1"
+}
+},
+"Spear of the Daemonfell Flame": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/legion_commander/athenas_flame_weapon/athenas_flame_weapon",
+"item_name": "#DOTA_Item_Spear_of_the_Daemonfell_Flame",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_Spear",
+"model_player": "models/items/legion_commander/athenas_flame_weapon/athenas_flame_weapon.vmdl",
+"name": "Spear of the Daemonfell Flame",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_legion_commander": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/legion/athenes_flame/athenesflames_weapon.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+}
+},
+"T": {
+"Tail of Prismatic Grace": {
+"event_id": "EVENT_ID_WINTER_MAJOR_2016",
+"image_inventory": "econ/items/siren/prismatic_empress_legs/prismatic_empress_legs",
+"item_name": "#DOTA_Item_Tail_of_Prismatic_Grace",
+"item_rarity": "mythical",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_Tail",
+"model_player": "models/items/siren/prismatic_empress_legs/prismatic_empress_legs.vmdl",
+"name": "Tail of Prismatic Grace",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_naga_siren": "1"
+}
+}
+},
+"V": {},
+"W": {},
+"Y": {}
+}

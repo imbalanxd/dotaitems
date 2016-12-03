@@ -1,0 +1,200 @@
+{
+    "A": {},
+    "B": {
+        "Blade of the Rekindled Ashes": {
+            "creation_date": "2016-02-02",
+            "event_id": "EVENT_ID_WINTER_MAJOR_2016",
+            "image_inventory": "econ/items/ember_spirit/rekindled_ashes_weapon/rekindled_ashes_weapon",
+            "item_name": "#DOTA_Item_Blade_of_the_Rekindled_Ashes",
+            "item_rarity": "mythical",
+            "item_type_name": "#DOTA_WearableType_Blade",
+            "model_player": "models/items/ember_spirit/rekindled_ashes_weapon/rekindled_ashes_weapon.vmdl",
+            "name": "Blade of the Rekindled Ashes",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_ember_spirit": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "modifier": "particles/econ/items/ember_spirit/ember_spirit_ashes/ember_spirit_ashes_ambient_sword_primary.vpcf",
+                    "type": "particle_create"
+                },
+                "asset_modifier1": {
+                    "modifier": "particles/econ/items/ember_spirit/ember_spirit_ashes/ember_spirit_ashes_ambient_sword_primary_blade.vpcf",
+                    "type": "particle_create"
+                },
+                "asset_modifier2": {
+                    "asset": "particles/models/heroes/ember_spirit/weapon1.psf",
+                    "modifier": "particles/models/items/ember_spirit/rekindled_ashes_weapon/rekindled_ashes_weapon_fx.psf",
+                    "type": "particle_snapshot"
+                },
+                "asset_modifier3": {
+                    "asset": "particles/units/heroes/hero_ember_spirit/ember_spirit_weapon_blur.vpcf",
+                    "modifier": "particles/econ/items/ember_spirit/ember_spirit_ashes/ember_spirit_ashes_weapon_blur.vpcf",
+                    "style": "0",
+                    "type": "particle"
+                },
+                "asset_modifier4": {
+                    "asset": "particles/units/heroes/hero_ember_spirit/ember_spirit_weapon_blur_overhead.vpcf",
+                    "modifier": "particles/econ/items/ember_spirit/ember_spirit_ashes/ember_spirit_ashes_weapon_blur_overhead.vpcf",
+                    "style": "0",
+                    "type": "particle"
+                },
+                "asset_modifier5": {
+                    "asset": "particles/units/heroes/hero_ember_spirit/ember_spirit_weapon_blur_both.vpcf",
+                    "modifier": "particles/econ/items/ember_spirit/ember_spirit_ashes/ember_spirit_ashes_weapon_blur_both.vpcf",
+                    "style": "0",
+                    "type": "particle"
+                }
+            }
+        }
+    },
+    "C": {},
+    "D": {},
+    "E": {},
+    "F": {},
+    "G": {
+        "Guard of the Rekindled Ashes": {
+            "creation_date": "2016-02-02",
+            "event_id": "EVENT_ID_WINTER_MAJOR_2016",
+            "image_inventory": "econ/items/ember_spirit/rekindled_ashes_arms/rekindled_ashes_arms",
+            "item_name": "#DOTA_Item_Guard_of_the_Rekindled_Ashes",
+            "item_rarity": "mythical",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Guard",
+            "model_player": "models/items/ember_spirit/rekindled_ashes_arms/rekindled_ashes_arms.vmdl",
+            "name": "Guard of the Rekindled Ashes",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_ember_spirit": "1"
+            }
+        }
+    },
+    "H": {
+        "Headdress of the Rekindled Ashes": {
+            "creation_date": "2016-02-02",
+            "event_id": "EVENT_ID_WINTER_MAJOR_2016",
+            "image_inventory": "econ/items/ember_spirit/rekindled_ashes_head/rekindled_ashes_head",
+            "item_name": "#DOTA_Item_Headdress_of_the_Rekindled_Ashes",
+            "item_rarity": "mythical",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Headdress",
+            "model_player": "models/items/ember_spirit/rekindled_ashes_head/rekindled_ashes_head.vmdl",
+            "name": "Headdress of the Rekindled Ashes",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_ember_spirit": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "modifier": "particles/units/heroes/hero_ember_spirit/ember_spirit_ambient_head.vpcf",
+                    "type": "particle_create"
+                },
+                "asset_modifier1": {
+                    "modifier": "particles/units/heroes/hero_ember_spirit/ember_spirit_ambient_eyes.vpcf",
+                    "type": "particle_create"
+                },
+                "asset_modifier2": {
+                    "asset": "ALL",
+                    "modifier": "ashes",
+                    "type": "activity"
+                },
+                "asset_modifier3": {
+                    "modifier": "particles/econ/items/ember_spirit/ember_spirit_ashes/ember_spirit_ashes_ambient_head.vpcf",
+                    "type": "particle_create"
+                },
+                "skip_model_combine": "1"
+            }
+        }
+    },
+    "I": {},
+    "J": {},
+    "K": {},
+    "L": {},
+    "M": {},
+    "N": {},
+    "O": {
+        "Off-Hand Blade of the Rekindled Ashes": {
+            "creation_date": "2016-02-02",
+            "event_id": "EVENT_ID_WINTER_MAJOR_2016",
+            "image_inventory": "econ/items/ember_spirit/rekindled_ashes_offhand/rekindled_ashes_offhand",
+            "item_name": "#DOTA_Item_OffHand_Blade_of_the_Rekindled_Ashes",
+            "item_rarity": "mythical",
+            "item_slot": "offhand_weapon",
+            "item_type_name": "#DOTA_WearableType_Blade",
+            "model_player": "models/items/ember_spirit/rekindled_ashes_offhand/rekindled_ashes_offhand.vmdl",
+            "name": "Off-Hand Blade of the Rekindled Ashes",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_ember_spirit": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "modifier": "particles/econ/items/ember_spirit/ember_spirit_ashes/ember_spirit_ashes_ambient_sword_offhand.vpcf",
+                    "type": "particle_create"
+                },
+                "asset_modifier1": {
+                    "modifier": "particles/econ/items/ember_spirit/ember_spirit_ashes/ember_spirit_ashes_ambient_sword_offhand_blade.vpcf",
+                    "type": "particle_create"
+                },
+                "asset_modifier2": {
+                    "asset": "particles/models/heroes/ember_spirit/weapon2.psf",
+                    "modifier": "particles/models/items/ember_spirit/rekindled_ashes_offhand/rekindled_ashes_offhand_fx.psf",
+                    "type": "particle_snapshot"
+                }
+            }
+        }
+    },
+    "P": {},
+    "Q": {},
+    "R": {
+        "Robe of the Rekindled Ashes": {
+            "creation_date": "2016-02-02",
+            "event_id": "EVENT_ID_WINTER_MAJOR_2016",
+            "image_inventory": "econ/items/ember_spirit/rekindled_ashes_belt/rekindled_ashes_belt",
+            "item_name": "#DOTA_Item_Robe_of_the_Rekindled_Ashes",
+            "item_rarity": "mythical",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Robe",
+            "model_player": "models/items/ember_spirit/rekindled_ashes_belt/rekindled_ashes_belt.vmdl",
+            "name": "Robe of the Rekindled Ashes",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_ember_spirit": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "modifier": "particles/econ/items/ember_spirit/ember_spirit_ashes/ember_spirit_ashes_ambient_armor_glow.vpcf",
+                    "type": "particle_create"
+                }
+            }
+        }
+    },
+    "S": {
+        "Shoulders of the Rekindled Ashes": {
+            "creation_date": "2016-02-02",
+            "event_id": "EVENT_ID_WINTER_MAJOR_2016",
+            "image_inventory": "econ/items/ember_spirit/rekindled_ashes_shoulder/rekindled_ashes_shoulder",
+            "item_name": "#DOTA_Item_Shoulders_of_the_Rekindled_Ashes",
+            "item_rarity": "mythical",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Shoulders",
+            "model_player": "models/items/ember_spirit/rekindled_ashes_shoulder/rekindled_ashes_shoulder.vmdl",
+            "name": "Shoulders of the Rekindled Ashes",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_ember_spirit": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "modifier": "particles/units/heroes/hero_ember_spirit/ember_spirit_ambient_shoulder_glow.vpcf",
+                    "type": "particle_create"
+                }
+            }
+        }
+    },
+    "T": {},
+    "V": {},
+    "W": {},
+    "Y": {}
+}

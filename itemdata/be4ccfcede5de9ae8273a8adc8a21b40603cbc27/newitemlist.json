@@ -1,0 +1,551 @@
+{
+    "A": {
+        "Armor of the Umbral Descent": {
+            "creation_date": "2015-05-19",
+            "image_inventory": "econ/items/shadow_demon/umbral_descent_armor/umbral_descent_armor",
+            "item_name": "#DOTA_Item_Armor_of_the_Umbral_Descent",
+            "item_slot": "armor",
+            "item_type_name": "#DOTA_WearableType_Armor",
+            "model_player": "models/items/shadow_demon/umbral_descent_armor/umbral_descent_armor.mdl",
+            "name": "Armor of the Umbral Descent",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shadow_demon": "1"
+            }
+        }
+    },
+    "B": {
+        "Belt of the Umbral Descent": {
+            "creation_date": "2015-05-19",
+            "image_inventory": "econ/items/shadow_demon/umbral_descent_belt/umbral_descent_belt",
+            "item_name": "#DOTA_Item_Belt_of_the_Umbral_Descent",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Belt",
+            "model_player": "models/items/shadow_demon/umbral_descent_belt/umbral_descent_belt.mdl",
+            "name": "Belt of the Umbral Descent",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shadow_demon": "1"
+            }
+        },
+        "Blouse of the Unkind Countess": {
+            "creation_date": "2015-05-27",
+            "image_inventory": "econ/items/death_prophet/raven_vesture_armor/raven_vesture_armor",
+            "item_name": "#DOTA_Item_Blouse_of_the_Unkind_Countess",
+            "item_rarity": "uncommon",
+            "item_slot": "armor",
+            "item_type_name": "#DOTA_WearableType_Blouse",
+            "model_player": "models/items/death_prophet/raven_vesture_armor/raven_vesture_armor.mdl",
+            "name": "Blouse of the Unkind Countess",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_death_prophet": "1"
+            }
+        }
+    },
+    "C": {
+        "Cape of the Divine Flame": {
+            "creation_date": "2015-06-03",
+            "image_inventory": "econ/items/lina/esl_divine_flame_neck/esl_divine_flame_neck",
+            "item_name": "#DOTA_Item_Cape_of_the_Divine_Flame",
+            "item_rarity": "uncommon",
+            "item_slot": "neck",
+            "item_type_name": "#DOTA_WearableType_Cape",
+            "model_player": "models/items/lina/esl_divine_flame_neck/esl_divine_flame_neck.mdl",
+            "name": "Cape of the Divine Flame",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_lina": "1"
+            }
+        }
+    },
+    "D": {
+        "Dress of the Unkind Countess": {
+            "creation_date": "2015-05-27",
+            "image_inventory": "econ/items/death_prophet/raven_vesture_dress/raven_vesture_dress",
+            "item_name": "#DOTA_Item_Dress_of_the_Unkind_Countess",
+            "item_rarity": "rare",
+            "item_slot": "legs",
+            "item_type_name": "#DOTA_WearableType_Dress",
+            "model_player": "models/items/death_prophet/raven_vesture_dress/raven_vesture_dress.mdl",
+            "name": "Dress of the Unkind Countess",
+            "particle_file": "particles/econ/items/death_prophet/death_prophet_vesture_ambients.pcf",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_death_prophet": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "death_prophet_ambient",
+                    "modifier": "death_prophet_vesture_ambients",
+                    "type": "particle"
+                },
+                "asset_modifier1": {
+                    "asset": "models/items/death_prophet/raven_vesture_misc/raven_vesture_misc.mdl",
+                    "type": "additional_wearable"
+                }
+            }
+        }
+    },
+    "F": {
+        "Form of the Umbral Descent": {
+            "creation_date": "2015-05-19",
+            "image_inventory": "econ/items/shadow_demon/umbral_descent_back/umbral_descent_back",
+            "item_name": "#DOTA_Item_Form_of_the_Umbral_Descent",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Form",
+            "model_player": "models/items/shadow_demon/umbral_descent_back/umbral_descent_back.mdl",
+            "name": "Form of the Umbral Descent",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shadow_demon": "1"
+            }
+        }
+    },
+    "G": {
+        "Glaive of the Moonlit Thicket": {
+            "creation_date": "2015-05-07",
+            "image_inventory": "econ/items/luna/bounch_luna_weapon/bounch_luna_weapon",
+            "item_name": "#DOTA_Item_Glaive_of_the_Moonlit_Thicket",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Glaive",
+            "model_player": "models/items/luna/bounch_luna_weapon/bounch_luna_weapon.mdl",
+            "name": "Glaive of the Moonlit Thicket",
+            "particle_file": "particles/econ/items/luna/luna_selemene_returns.pcf",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_luna": "1"
+            },
+            "visuals": {
+                "asset_modifier1": {
+                    "asset": "luna_ambient_moon_glaive",
+                    "modifier": "luna_ambient_glaive_selemene",
+                    "type": "particle"
+                }
+            }
+        },
+        "Guard of the Moonlit Thicket": {
+            "creation_date": "2015-05-07",
+            "image_inventory": "econ/items/luna/bounch_luna_offhand/bounch_luna_offhand",
+            "item_name": "#DOTA_Item_Guard_of_the_Moonlit_Thicket",
+            "item_slot": "offhand_weapon",
+            "item_type_name": "#DOTA_WearableType_Guard",
+            "model_player": "models/items/luna/bounch_luna_offhand/bounch_luna_offhand.mdl",
+            "name": "Guard of the Moonlit Thicket",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_luna": "1"
+            }
+        }
+    },
+    "H": {
+        "Headress of the Divine Flame": {
+            "creation_date": "2015-06-03",
+            "image_inventory": "econ/items/lina/esl_divine_flame_head/esl_divine_flame_head",
+            "item_name": "#DOTA_Item_Headress_of_the_Divine_Flame",
+            "item_rarity": "uncommon",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Headress",
+            "model_player": "models/items/lina/esl_divine_flame_head/esl_divine_flame_head.mdl",
+            "name": "Headress of the Divine Flame",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_lina": "1"
+            }
+        },
+        "Helmet of the Steelcrow": {
+            "creation_date": "2015-06-03",
+            "image_inventory": "econ/items/rattletrap/steelcrow_head/steelcrow_head",
+            "item_name": "#DOTA_Item_Helmet_of_the_Steelcrow",
+            "item_rarity": "uncommon",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helmet",
+            "model_player": "models/items/rattletrap/steelcrow_head/steelcrow_head.mdl",
+            "name": "Helmet of the Steelcrow",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_rattletrap": "1"
+            }
+        }
+    },
+    "L": {
+        "Lumberclaw Cap": {
+            "creation_date": "2015-05-07",
+            "image_inventory": "econ/items/shredder/lumberclaw_hat/lumberclaw_hat",
+            "item_name": "#DOTA_Item_Lumberclaw_Cap",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Cap",
+            "model_player": "models/items/shredder/lumberclaw_hat/lumberclaw_hat.mdl",
+            "name": "Lumberclaw Cap",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            }
+        },
+        "Lumberclaw Chainsaw": {
+            "creation_date": "2015-05-07",
+            "image_inventory": "econ/items/shredder/lumberclaw_chainsaw/lumberclaw_chainsaw",
+            "item_name": "#DOTA_Item_Lumberclaw_Chainsaw",
+            "item_rarity": "uncommon",
+            "item_slot": "offhand_weapon",
+            "item_type_name": "#DOTA_WearableType_Chainsaw",
+            "model_player": "models/items/shredder/lumberclaw_chainsaw/lumberclaw_chainsaw.mdl",
+            "name": "Lumberclaw Chainsaw",
+            "particle_file": "particles/econ/items/shredder/timber_lumberclaw_defaultmaterial.pcf",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            },
+            "visuals": {
+                "attached_particlesystem0": {
+                    "system": "shredder_lumber_claw_ambient"
+                }
+            }
+        },
+        "Lumberclaw Cockpit": {
+            "creation_date": "2015-05-07",
+            "image_inventory": "econ/items/shredder/lumberclaw_back/lumberclaw_back",
+            "item_name": "#DOTA_Item_Lumberclaw_Cockpit",
+            "item_rarity": "rare",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Cockpit",
+            "model_player": "models/items/shredder/lumberclaw_back/lumberclaw_back.mdl",
+            "name": "Lumberclaw Cockpit",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            }
+        },
+        "Lumberclaw Hook": {
+            "creation_date": "2015-05-07",
+            "image_inventory": "econ/items/shredder/lumberclaw_claw/lumberclaw_claw",
+            "item_name": "#DOTA_Item_Lumberclaw_Hook",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Hook",
+            "model_player": "models/items/shredder/lumberclaw_claw/lumberclaw_claw.mdl",
+            "name": "Lumberclaw Hook",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            }
+        },
+        "Lumberclaw Reactive Armor": {
+            "creation_date": "2015-05-07",
+            "image_inventory": "econ/items/shredder/lumberclaw_armor/lumberclaw_armor",
+            "item_name": "#DOTA_Item_Lumberclaw_Reactive_Armor",
+            "item_slot": "armor",
+            "item_type_name": "#DOTA_WearableType_Reactive_Armor",
+            "model_player": "models/items/shredder/lumberclaw_armor/lumberclaw_armor.mdl",
+            "name": "Lumberclaw Reactive Armor",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            }
+        },
+        "Lumberclaw Shoulders": {
+            "creation_date": "2015-05-07",
+            "image_inventory": "econ/items/shredder/lumberclaw_shoulders/lumberclaw_shoulders",
+            "item_name": "#DOTA_Item_Lumberclaw_Shoulders",
+            "item_rarity": "uncommon",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Shoulders",
+            "model_player": "models/items/shredder/lumberclaw_shoulders/lumberclaw_shoulders.mdl",
+            "name": "Lumberclaw Shoulders",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shredder": "1"
+            }
+        }
+    },
+    "M": {
+        "Midas Knuckles": {
+            "creation_date": "2015-06-01",
+            "image_inventory": "econ/testitem_slot_empty",
+            "item_name": "#DOTA_Item_Midas_Knuckles",
+            "item_quality": "genuine",
+            "item_rarity": "mythical",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Gauntlets",
+            "name": "Midas Knuckles",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_alchemist": "1"
+            }
+        }
+    },
+    "N": {
+        "Nightsbane": {
+            "creation_date": "2014-11-24",
+            "image_inventory": "econ/items/abaddon/vespertine_guard_mount/vespertine_guard_mount",
+            "item_name": "#DOTA_Item_Nightsbane",
+            "item_rarity": "rare",
+            "item_slot": "mount",
+            "item_type_name": "#DOTA_WearableType_Mount",
+            "model_player": "models/items/abaddon/vespertine_guard_mount/vespertine_guard_mount.mdl",
+            "name": "Nightsbane",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_abaddon": "1"
+            }
+        }
+    },
+    "O": {
+        "Orion": {
+            "creation_date": "2015-05-07",
+            "image_inventory": "econ/items/luna/bounch_luna_mount/bounch_luna_mount",
+            "item_name": "#DOTA_Item_Orion",
+            "item_rarity": "rare",
+            "item_slot": "mount",
+            "item_type_name": "#DOTA_WearableType_Mount",
+            "model_player": "models/items/luna/bounch_luna_mount/bounch_luna_mount.mdl",
+            "name": "Orion",
+            "particle_file": "particles/econ/items/luna/luna_selemene_returns.pcf",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_luna": "1"
+            },
+            "visuals": {
+                "attached_particlesystem0": {
+                    "system": "luna_selemene_eye"
+                },
+                "attached_particlesystem1": {
+                    "system": "luna_selemene_eye_2"
+                }
+            }
+        }
+    },
+    "P": {
+        "Pack of the Steelcrow": {
+            "creation_date": "2015-06-03",
+            "image_inventory": "econ/items/rattletrap/steelcrow_armor/steelcrow_armor",
+            "item_name": "#DOTA_Item_Pack_of_the_Steelcrow",
+            "item_rarity": "rare",
+            "item_slot": "armor",
+            "item_type_name": "#DOTA_WearableType_Pack",
+            "model_player": "models/items/rattletrap/steelcrow_armor/steelcrow_armor.mdl",
+            "name": "Pack of the Steelcrow",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_rattletrap": "1"
+            }
+        },
+        "Pauldrons of the Moonlit Thicket": {
+            "creation_date": "2015-05-07",
+            "image_inventory": "econ/items/luna/bounch_luna_shoulder/bounch_luna_shoulder",
+            "item_name": "#DOTA_Item_Pauldrons_of_the_Moonlit_Thicket",
+            "item_rarity": "uncommon",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Pauldrons",
+            "model_player": "models/items/luna/bounch_luna_shoulder/bounch_luna_shoulder.mdl",
+            "name": "Pauldrons of the Moonlit Thicket",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_luna": "1"
+            }
+        }
+    },
+    "R": {
+        "Rocket of the Steelcrow": {
+            "creation_date": "2015-06-03",
+            "image_inventory": "econ/items/rattletrap/steelcrow_misc/steelcrow_misc",
+            "item_name": "#DOTA_Item_Rocket_of_the_Steelcrow",
+            "item_slot": "misc",
+            "item_type_name": "#DOTA_WearableType_Rocket",
+            "model_player": "models/items/rattletrap/steelcrow_misc/steelcrow_misc.mdl",
+            "name": "Rocket of the Steelcrow",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_rattletrap": "1"
+            },
+            "visuals": {
+                "skip_model_combine": "1"
+            }
+        }
+    },
+    "S": {
+        "Sash of the Unkind Countess": {
+            "creation_date": "2015-05-27",
+            "image_inventory": "econ/items/death_prophet/raven_vesture_belt/raven_vesture_belt",
+            "item_name": "#DOTA_Item_Sash_of_the_Unkind_Countess",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Sash",
+            "model_player": "models/items/death_prophet/raven_vesture_belt/raven_vesture_belt.mdl",
+            "name": "Sash of the Unkind Countess",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_death_prophet": "1"
+            }
+        },
+        "Skirt of the Divine Flame": {
+            "creation_date": "2015-06-03",
+            "image_inventory": "econ/items/lina/esl_divine_flame_belt/esl_divine_flame_belt",
+            "item_name": "#DOTA_Item_Skirt_of_the_Divine_Flame",
+            "item_rarity": "uncommon",
+            "item_slot": "belt",
+            "item_type_name": "#DOTA_WearableType_Skirt",
+            "model_player": "models/items/lina/esl_divine_flame_belt/esl_divine_flame_belt.mdl",
+            "name": "Skirt of the Divine Flame",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_lina": "1"
+            }
+        },
+        "Sleeves of the Divine Flame": {
+            "creation_date": "2015-06-03",
+            "image_inventory": "econ/items/lina/esl_divine_flame_arms/esl_divine_flame_arms",
+            "item_name": "#DOTA_Item_Sleeves_of_the_Divine_Flame",
+            "item_slot": "arms",
+            "item_type_name": "#DOTA_WearableType_Sleeves",
+            "model_player": "models/items/lina/esl_divine_flame_arms/esl_divine_flame_arms.mdl",
+            "name": "Sleeves of the Divine Flame",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_lina": "1"
+            }
+        },
+        "Spirits of the Unkind Countess": {
+            "creation_date": "2015-05-27",
+            "image_inventory": "econ/items/death_prophet/exorcism/raven_vesture_ghost/raven_vesture_ghost_dota_death_prophet_exorcism_spirit",
+            "item_name": "#DOTA_Item_Spirits_of_the_Unkind_Countess",
+            "item_rarity": "uncommon",
+            "item_slot": "ability_ultimate",
+            "item_type_name": "#DOTA_WearableType_Spirits",
+            "name": "Spirits of the Unkind Countess",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_death_prophet": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "dota_death_prophet_exorcism_spirit",
+                    "modifier": "models/items/death_prophet/exorcism/raven_vesture_ghost/raven_vesture_ghost.mdl",
+                    "type": "entity_model"
+                }
+            }
+        },
+        "Style of the Unkind Countess": {
+            "creation_date": "2015-05-27",
+            "image_inventory": "econ/items/death_prophet/raven_vesture_head/raven_vesture_head",
+            "item_name": "#DOTA_Item_Style_of_the_Unkind_Countess",
+            "item_rarity": "uncommon",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Style",
+            "model_player": "models/items/death_prophet/raven_vesture_head/raven_vesture_head.mdl",
+            "name": "Style of the Unkind Countess",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_death_prophet": "1"
+            }
+        }
+    },
+    "T": {
+        "Tail of the Umbral Descent": {
+            "creation_date": "2015-05-19",
+            "image_inventory": "econ/items/shadow_demon/umbral_descent_tail/umbral_descent_tail",
+            "item_name": "#DOTA_Item_Tail_of_the_Umbral_Descent",
+            "item_slot": "tail",
+            "item_type_name": "#DOTA_WearableType_Tail",
+            "model_player": "models/items/shadow_demon/umbral_descent_tail/umbral_descent_tail.mdl",
+            "name": "Tail of the Umbral Descent",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_shadow_demon": "1"
+            }
+        },
+        "Talon of the Steelcrow": {
+            "creation_date": "2015-06-03",
+            "image_inventory": "econ/items/rattletrap/steelcrow_weapon/steelcrow_weapon",
+            "item_name": "#DOTA_Item_Talon_of_the_Steelcrow",
+            "item_rarity": "uncommon",
+            "item_type_name": "#DOTA_WearableType_Talon",
+            "model_player": "models/items/rattletrap/steelcrow_weapon/steelcrow_weapon.mdl",
+            "name": "Talon of the Steelcrow",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_rattletrap": "1"
+            },
+            "visuals": {
+                "skip_model_combine": "1"
+            }
+        },
+        "Tiara of the Moonlit Thicket": {
+            "creation_date": "2015-05-07",
+            "image_inventory": "econ/items/luna/bounch_luna_head/bounch_luna_head",
+            "item_name": "#DOTA_Item_Tiara_of_the_Moonlit_Thicket",
+            "item_rarity": "uncommon",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Tiara",
+            "model_player": "models/items/luna/bounch_luna_head/bounch_luna_head.mdl",
+            "name": "Tiara of the Moonlit Thicket",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_luna": "1"
+            }
+        }
+    },
+    "V": {
+        "Vespertine Guard Blade": {
+            "creation_date": "2014-11-24",
+            "image_inventory": "econ/items/abaddon/vespertine_guard_blade/vespertine_guard_blade",
+            "item_name": "#DOTA_Item_Vespertine_Guard_Blade",
+            "item_type_name": "#DOTA_WearableType_Blade",
+            "model_player": "models/items/abaddon/vespertine_guard_blade/vespertine_guard_blade.mdl",
+            "name": "Vespertine Guard Blade",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_abaddon": "1"
+            },
+            "visuals": {
+                "asset_modifier0": {
+                    "asset": "particles/models/heroes/abaddon/abaddon_sword_default.psf",
+                    "modifier": "particles/models/items/abaddon/vespertine_guard_blade/vespertine_guard_blade.psf",
+                    "type": "particle_snapshot"
+                },
+                "attached_particlesystem0": {
+                    "system": "abaddon_blade"
+                },
+                "skip_model_combine": "1"
+            }
+        },
+        "Vespertine Guard Cloak": {
+            "creation_date": "2014-11-24",
+            "image_inventory": "econ/items/abaddon/vespertine_guard_cloak/vespertine_guard_cloak",
+            "item_name": "#DOTA_Item_Vespertine_Guard_Cloak",
+            "item_slot": "back",
+            "item_type_name": "#DOTA_WearableType_Cloak",
+            "model_player": "models/items/abaddon/vespertine_guard_cloak/vespertine_guard_cloak.mdl",
+            "name": "Vespertine Guard Cloak",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_abaddon": "1"
+            }
+        },
+        "Vespertine Guard Helmet": {
+            "creation_date": "2014-11-24",
+            "image_inventory": "econ/items/abaddon/vespertine_guard_helmet/vespertine_guard_helmet",
+            "item_name": "#DOTA_Item_Vespertine_Guard_Helmet",
+            "item_rarity": "uncommon",
+            "item_slot": "head",
+            "item_type_name": "#DOTA_WearableType_Helmet",
+            "model_player": "models/items/abaddon/vespertine_guard_helmet/vespertine_guard_helmet.mdl",
+            "name": "Vespertine Guard Helmet",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_abaddon": "1"
+            }
+        },
+        "Vespertine Guard Shoulders": {
+            "creation_date": "2014-11-24",
+            "image_inventory": "econ/items/abaddon/vespertine_guard_shoulder/vespertine_guard_shoulder",
+            "item_name": "#DOTA_Item_Vespertine_Guard_Shoulders",
+            "item_slot": "shoulder",
+            "item_type_name": "#DOTA_WearableType_Shoulders",
+            "model_player": "models/items/abaddon/vespertine_guard_shoulder/vespertine_guard_shoulder.mdl",
+            "name": "Vespertine Guard Shoulders",
+            "prefab": "wearable",
+            "used_by_heroes": {
+                "npc_dota_hero_abaddon": "1"
+            }
+        }
+    }
+}

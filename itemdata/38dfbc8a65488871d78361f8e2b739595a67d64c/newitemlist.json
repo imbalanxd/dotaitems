@@ -1,0 +1,823 @@
+{
+"A": {
+"Armguards of the Silent Edict": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/silencer/silent_guardian_arms/silent_guardian_arms",
+"item_description": "#DOTA_Item_Desc_Silent_Guardian_Arms",
+"item_name": "#DOTA_Item_Armguards_of_the_Silent_Edict",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/silencer/silent_guardian_arms/silent_guardian_arms.vmdl",
+"name": "Armguards of the Silent Edict",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_silencer": "1"
+}
+},
+"Arms of Eldritch Gnarl": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/treant/seed_of_rebirth_arms/seed_of_rebirth_arms",
+"item_description": "#DOTA_Item_Desc_Seed_of_Rebirth_Arms",
+"item_name": "#DOTA_Item_Arms_of_Eldritch_Gnarl",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/treant/seed_of_rebirth_arms/seed_of_rebirth_arms.vmdl",
+"name": "Arms of Eldritch Gnarl",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_treant": "1"
+}
+}
+},
+"B": {
+"Belt of the Bladeform Aesthete": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/juggernaut/armor_for_the_favorite_legs/armor_for_the_favorite_legs",
+"item_description": "#DOTA_Item_Desc_Armor_for_the_Favorite_Legs",
+"item_name": "#DOTA_Item_Belt_of_the_Bladeform_Aesthete",
+"item_rarity": "mythical",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_legs",
+"model_player": "models/items/juggernaut/armor_for_the_favorite_legs/armor_for_the_favorite_legs.vmdl",
+"name": "Belt of the Bladeform Aesthete",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_juggernaut": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/juggernaut/armor_of_the_favorite/juggernaut_favorite_body_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Belt of the Elemental Imperator": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/spirit_breaker/fearless_impactor_belt/fearless_impactor_belt",
+"item_description": "#DOTA_Item_Desc_Fearless_Impactor_Belt",
+"item_name": "#DOTA_Item_Belt_of_the_Elemental_Imperator",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/spirit_breaker/fearless_impactor_belt/fearless_impactor_belt.vmdl",
+"name": "Belt of the Elemental Imperator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_spirit_breaker": "1"
+}
+},
+"Belt of the Vizier Exile": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/dark_seer/imperious_tactician_belt/imperious_tactician_belt",
+"item_description": "#DOTA_Item_Desc_Imperious_Tactician_Belt",
+"item_name": "#DOTA_Item_Belt_of_the_Vizier_Exile",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/dark_seer/imperious_tactician_belt/imperious_tactician_belt.vmdl",
+"name": "Belt of the Vizier Exile",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dark_seer": "1"
+}
+},
+"Book of the Vizier Exile": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/dark_seer/imperious_tactician_back/imperious_tactician_back",
+"item_description": "#DOTA_Item_Desc_Imperious_Tactician_Back",
+"item_name": "#DOTA_Item_Book_of_the_Vizier_Exile",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/dark_seer/imperious_tactician_back/imperious_tactician_back.vmdl",
+"name": "Book of the Vizier Exile",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dark_seer": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/dark_seer/imperious_tactician_back/imperious_tactician_back"
+},
+"1": {
+"icon_path": "econ/items/dark_seer/imperious_tactician_back/imperious_tactician_back_style1"
+}
+},
+"asset_modifier0": {
+"asset": "ALL",
+"modifier": "tactician",
+"style": "1",
+"type": "activity"
+},
+"asset_modifier1": {
+"modifier": "particles/econ/items/dark_seer/dark_seer_imperious/dark_seer_imperious_back.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"asset_modifier2": {
+"modifier": "particles/econ/items/dark_seer/dark_seer_imperious/dark_seer_imperious_back_pages.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"alternate_icon": "0",
+"model_player": "models/items/dark_seer/imperious_tactician_back/imperious_tactician_back_base.vmdl",
+"name": "#DOTA_Style_Imperious_Tactician_Back_0"
+},
+"1": {
+"alternate_icon": "1",
+"model_player": "models/items/dark_seer/imperious_tactician_back/imperious_tactician_back.vmdl",
+"name": "#DOTA_Style_Imperious_Tactician_Back_1",
+"unlock": {
+"item_def": "11898",
+"price": "1"
+}
+}
+}
+}
+},
+"Bracelet of the Vizier Exile": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/dark_seer/imperious_tactician_arms/imperious_tactician_arms",
+"item_description": "#DOTA_Item_Desc_Imperious_Tactician_Arms",
+"item_name": "#DOTA_Item_Bracelet_of_the_Vizier_Exile",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/dark_seer/imperious_tactician_arms/imperious_tactician_arms.vmdl",
+"name": "Bracelet of the Vizier Exile",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dark_seer": "1"
+}
+},
+"Bracers of the Bladeform Aesthete": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/juggernaut/armor_for_the_favorite_arms/armor_for_the_favorite_arms",
+"item_description": "#DOTA_Item_Desc_Armor_for_the_Favorite_Arms",
+"item_name": "#DOTA_Item_Bracers_of_the_Bladeform_Aesthete",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/juggernaut/armor_for_the_favorite_arms/armor_for_the_favorite_arms.vmdl",
+"name": "Bracers of the Bladeform Aesthete",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_juggernaut": "1"
+}
+},
+"Bracers of the Elemental Imperator": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/spirit_breaker/fearless_impactor_arms/fearless_impactor_arms",
+"item_description": "#DOTA_Item_Desc_Fearless_Impactor_Arms",
+"item_name": "#DOTA_Item_Bracers_of_the_Elemental_Imperator",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/spirit_breaker/fearless_impactor_arms/fearless_impactor_arms.vmdl",
+"name": "Bracers of the Elemental Imperator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_spirit_breaker": "1"
+}
+}
+},
+"C": {},
+"D": {
+"Drapes of the Vizier Exile": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/dark_seer/imperious_tactician_shoulder/imperious_tactician_shoulder",
+"item_description": "#DOTA_Item_Desc_Imperious_Tactician_Shoulder",
+"item_name": "#DOTA_Item_Drapes_of_the_Vizier_Exile",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/dark_seer/imperious_tactician_shoulder/imperious_tactician_shoulder.vmdl",
+"name": "Drapes of the Vizier Exile",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dark_seer": "1"
+}
+}
+},
+"E": {},
+"F": {
+"Feathered Hat of the Corridan Maestro": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/storm_spirit/tormenta_head/tormenta_head",
+"item_description": "#DOTA_Item_Desc_Tormenta_Head",
+"item_name": "#DOTA_Item_Feathered_Hat_of_the_Corridan_Maestro",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/storm_spirit/tormenta_head/tormenta_head.vmdl",
+"name": "Feathered Hat of the Corridan Maestro",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_storm_spirit": "1"
+},
+"visuals": {
+"asset_modifier1": {
+"modifier": "particles/units/heroes/hero_stormspirit/storm_spirit_ambient_eyes.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Flail of the Elemental Imperator": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/spirit_breaker/fearless_impactor_weapon/fearless_impactor_weapon",
+"item_description": "#DOTA_Item_Desc_Fearless_Impactor_Weapon",
+"item_name": "#DOTA_Item_Flail_of_the_Elemental_Imperator",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/spirit_breaker/fearless_impactor_weapon/fearless_impactor_weapon.vmdl",
+"name": "Flail of the Elemental Imperator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_spirit_breaker": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/spirit_breaker/spirit_breaker_weapon_fearlessimpactor/spirit_breaker_fearlessimpactor_weaponfx.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Foliage of Eldritch Gnarl": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/treant/seed_of_rebirth_shoulder/seed_of_rebirth_shoulder",
+"item_description": "#DOTA_Item_Desc_Seed_of_Rebirth_Shoulder",
+"item_name": "#DOTA_Item_Foliage_of_Eldritch_Gnarl",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/treant/seed_of_rebirth_shoulder/seed_of_rebirth_shoulder.vmdl",
+"name": "Foliage of Eldritch Gnarl",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_treant": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/treant/seed_of_rebirth_shoulder/seed_of_rebirth_shoulder"
+},
+"1": {
+"icon_path": "econ/items/treant/seed_of_rebirth_shoulder/seed_of_rebirth_shoulder_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/treant_protector/treant_seed_rebirth_ambient.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Seed_of_Rebirth_Shoulder_0",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Seed_of_Rebirth_Shoulder_1",
+"skin": "1",
+"unlock": {
+"item_def": "11898",
+"price": "1"
+}
+}
+}
+}
+}
+},
+"G": {
+"Garb of the Corridan Maestro": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/storm_spirit/tormenta_armor/tormenta_armor",
+"item_description": "#DOTA_Item_Desc_Tormenta_Armor",
+"item_name": "#DOTA_Item_Garb_of_the_Corridan_Maestro",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/storm_spirit/tormenta_armor/tormenta_armor.vmdl",
+"name": "Garb of the Corridan Maestro",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_storm_spirit": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/storm_spirit/tormenta_armor/tormenta_armor"
+},
+"1": {
+"icon_path": "econ/items/storm_spirit/tormenta_armor/tormenta_armor_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/storm_spirit/storm_spirit_tormenta_armor/storm_spirit_tormenta_ambient.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Tormenta_Armor_0",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Tormenta_Armor_1",
+"skin": "1",
+"unlock": {
+"item_def": "11898",
+"price": "1"
+}
+}
+}
+}
+},
+"Gauntlet of the Infernal Rambler": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/lion/inferno_rambler_for_lion_arms/inferno_rambler_for_lion_arms",
+"item_description": "#DOTA_Item_Desc_Infernal_Rambler_Arms",
+"item_name": "#DOTA_Item_Gauntlet_of_the_Infernal_Rambler",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/lion/inferno_rambler_for_lion_arms/inferno_rambler_for_lion_arms.vmdl",
+"name": "Gauntlet of the Infernal Rambler",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lion": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/lion/inferno_rambler_for_lion_arms/inferno_rambler_for_lion_arms"
+},
+"1": {
+"icon_path": "econ/items/lion/inferno_rambler_for_lion_arms/inferno_rambler_for_lion_arms_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/lion/inferno_rambler_for_lion_arms/inferno_rambler_for_lion_arms.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Inferno_Rambler_Arms_0",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Inferno_Rambler_Arms_1",
+"skin": "1",
+"unlock": {
+"item_def": "11898",
+"price": "1"
+}
+}
+}
+}
+},
+"Glaive of the Silent Edict": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/silencer/silent_guardian_weapon/silent_guardian_weapon",
+"item_description": "#DOTA_Item_Desc_Silent_Guardian_Weapon",
+"item_name": "#DOTA_Item_Glaive_of_the_Silent_Edict",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/silencer/silent_guardian_weapon/silent_guardian_weapon.vmdl",
+"name": "Glaive of the Silent Edict",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_silencer": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+}
+},
+"H": {
+"Hair of the Silent Edict": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/silencer/silent_guardian_head/silent_guardian_head",
+"item_description": "#DOTA_Item_Desc_Silent_Guardian_Head",
+"item_name": "#DOTA_Item_Hair_of_the_Silent_Edict",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/silencer/silent_guardian_head/silent_guardian_head.vmdl",
+"name": "Hair of the Silent Edict",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_silencer": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "ALL",
+"modifier": "silent",
+"style": "0",
+"type": "activity"
+}
+}
+},
+"Helm of the Elemental Imperator": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/spirit_breaker/fearless_impactor_head/fearless_impactor_head",
+"item_description": "#DOTA_Item_Desc_Fearless_Impactor_Head",
+"item_name": "#DOTA_Item_Helm_of_the_Elemental_Imperator",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/spirit_breaker/fearless_impactor_head/fearless_impactor_head.vmdl",
+"name": "Helm of the Elemental Imperator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_spirit_breaker": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "particles/units/heroes/hero_spirit_breaker/spirit_breaker_ambient_head_fire.vpcf",
+"modifier": "particles/econ/items/spirit_breaker/spirit_breaker_weapon_fearlessimpactor/spirit_breaker_head_fearlessimpactor.vpcf",
+"style": "0",
+"type": "particle"
+}
+}
+},
+"Helm of the Infernal Rambler": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/lion/inferno_rambler_for_lion_head/inferno_rambler_for_lion_head",
+"item_description": "#DOTA_Item_Desc_Infernal_Rambler_Head",
+"item_name": "#DOTA_Item_Helm_of_the_Infernal_Rambler",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/lion/inferno_rambler_for_lion_head/inferno_rambler_for_lion_head.vmdl",
+"name": "Helm of the Infernal Rambler",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lion": "1"
+}
+},
+"Hood of the Bladeform Aesthete": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/juggernaut/armor_for_the_favorite_head/armor_for_the_favorite_head",
+"item_description": "#DOTA_Item_Desc_Armor_for_the_Favorite_Head",
+"item_name": "#DOTA_Item_Hood_of_the_Bladeform_Aesthete",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/juggernaut/armor_for_the_favorite_head/armor_for_the_favorite_head.vmdl",
+"name": "Hood of the Bladeform Aesthete",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_juggernaut": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/juggernaut/armor_of_the_favorite/juggernaut_favorite_eyes.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Hood of the Vizier Exile": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/dark_seer/imperious_tactician_head/imperious_tactician_head",
+"item_description": "#DOTA_Item_Desc_Imperious_Tactician_Head",
+"item_name": "#DOTA_Item_Hood_of_the_Vizier_Exile",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/dark_seer/imperious_tactician_head/imperious_tactician_head.vmdl",
+"name": "Hood of the Vizier Exile",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dark_seer": "1"
+}
+}
+},
+"I": {},
+"J": {},
+"K": {},
+"L": {},
+"M": {
+"Mantle of the Infernal Rambler": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/lion/inferno_rambler_for_lion_back/inferno_rambler_for_lion_back",
+"item_description": "#DOTA_Item_Desc_Infernal_Rambler_Back",
+"item_name": "#DOTA_Item_Mantle_of_the_Infernal_Rambler",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/lion/inferno_rambler_for_lion_back/inferno_rambler_for_lion_back.vmdl",
+"name": "Mantle of the Infernal Rambler",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lion": "1"
+}
+}
+},
+"N": {},
+"O": {},
+"P": {
+"Pauldrons of the Elemental Imperator": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/spirit_breaker/fearless_impactor_shoulder/fearless_impactor_shoulder",
+"item_description": "#DOTA_Item_Desc_Fearless_Impactor_Shoulder",
+"item_name": "#DOTA_Item_Pauldrons_of_the_Elemental_Imperator",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/spirit_breaker/fearless_impactor_shoulder/fearless_impactor_shoulder.vmdl",
+"name": "Pauldrons of the Elemental Imperator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_spirit_breaker": "1"
+}
+}
+},
+"Q": {},
+"R": {
+"Robe of the Silent Edict": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/silencer/silent_guardian_belt/silent_guardian_belt",
+"item_description": "#DOTA_Item_Desc_Silent_Guardian_Belt",
+"item_name": "#DOTA_Item_Robe_of_the_Silent_Edict",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/silencer/silent_guardian_belt/silent_guardian_belt.vmdl",
+"name": "Robe of the Silent Edict",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_silencer": "1"
+}
+},
+"Roots of Eldritch Gnarl": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/treant/seed_of_rebirth_legs/seed_of_rebirth_legs",
+"item_description": "#DOTA_Item_Desc_Seed_of_Rebirth_Legs",
+"item_name": "#DOTA_Item_Roots_of_Eldritch_Gnarl",
+"item_rarity": "mythical",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_legs",
+"model_player": "models/items/treant/seed_of_rebirth_legs/seed_of_rebirth_legs.vmdl",
+"name": "Roots of Eldritch Gnarl",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_treant": "1"
+}
+},
+"Rose of the Corridan Maestro": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/storm_spirit/tormenta_arms/tormenta_arms",
+"item_description": "#DOTA_Item_Desc_Tormenta_Arms",
+"item_name": "#DOTA_Item_Rose_of_the_Corridan_Maestro",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/storm_spirit/tormenta_arms/tormenta_arms.vmdl",
+"name": "Rose of the Corridan Maestro",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_storm_spirit": "1"
+}
+}
+},
+"S": {
+"Scepter of the Infernal Rambler": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/lion/inferno_rambler_for_lion_weapon/inferno_rambler_for_lion_weapon",
+"item_description": "#DOTA_Item_Desc_Infernal_Rambler_Weapon",
+"item_name": "#DOTA_Item_Scepter_of_the_Infernal_Rambler",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/lion/inferno_rambler_for_lion_weapon/inferno_rambler_for_lion_weapon.vmdl",
+"name": "Scepter of the Infernal Rambler",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lion": "1"
+}
+},
+"Shield of the Silent Edict": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/silencer/silent_guardian_off_hand/silent_guardian_off_hand",
+"item_description": "#DOTA_Item_Desc_Silent_Guardian_OffHand",
+"item_name": "#DOTA_Item_Shield_of_the_Silent_Edict",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/silencer/silent_guardian_off_hand/silent_guardian_off_hand.vmdl",
+"name": "Shield of the Silent Edict",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_silencer": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/silencer/silent_guardian_off_hand/silent_guardian_off_hand"
+},
+"1": {
+"icon_path": "econ/items/silencer/silent_guardian_off_hand/silent_guardian_off_hand_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/silencer/silencer_guardian/silencer_guardian_shield_base.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"name": "#DOTA_Style_Silent_Guardian_OffHand_0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Silent_Guardian_OffHand_1",
+"unlock": {
+"item_def": "11898",
+"price": "1"
+}
+}
+}
+}
+},
+"Shoulders of the Bladeform Aesthete": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/juggernaut/armor_for_the_favorite_back/armor_for_the_favorite_back",
+"item_description": "#DOTA_Item_Desc_Armor_for_the_Favorite_Back",
+"item_name": "#DOTA_Item_Shoulders_of_the_Bladeform_Aesthete",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/juggernaut/armor_for_the_favorite_back/armor_for_the_favorite_back.vmdl",
+"name": "Shoulders of the Bladeform Aesthete",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_juggernaut": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/juggernaut/armor_of_the_favorite/juggernaut_favorite_shoulder_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"skip_model_combine": "1"
+}
+},
+"Shoulders of the Infernal Rambler": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/lion/inferno_rambler_for_lion_shoulder/inferno_rambler_for_lion_shoulder",
+"item_description": "#DOTA_Item_Desc_Infernal_Rambler_Shoulder",
+"item_name": "#DOTA_Item_Shoulders_of_the_Infernal_Rambler",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/lion/inferno_rambler_for_lion_shoulder/inferno_rambler_for_lion_shoulder.vmdl",
+"name": "Shoulders of the Infernal Rambler",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lion": "1"
+}
+},
+"Shoulders of the Silent Edict": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/silencer/silent_guardian_shoulder/silent_guardian_shoulder",
+"item_description": "#DOTA_Item_Desc_Silent_Guardian_Shoulder",
+"item_name": "#DOTA_Item_Shoulders_of_the_Silent_Edict",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/silencer/silent_guardian_shoulder/silent_guardian_shoulder.vmdl",
+"name": "Shoulders of the Silent Edict",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_silencer": "1"
+}
+},
+"Snoot of Eldritch Gnarl": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/treant/seed_of_rebirth_head/seed_of_rebirth_head",
+"item_description": "#DOTA_Item_Desc_Seed_of_Rebirth_Head",
+"item_name": "#DOTA_Item_Snoot_of_Eldritch_Gnarl",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/treant/seed_of_rebirth_head/seed_of_rebirth_head.vmdl",
+"name": "Snoot of Eldritch Gnarl",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_treant": "1"
+}
+},
+"Sword of the Bladeform Aesthete": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/juggernaut/armor_for_the_favorite_weapon/armor_for_the_favorite_weapon",
+"item_description": "#DOTA_Item_Desc_Armor_for_the_Favorite_Weapon",
+"item_name": "#DOTA_Item_Sword_of_the_Bladeform_Aesthete",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/juggernaut/armor_for_the_favorite_weapon/armor_for_the_favorite_weapon.vmdl",
+"name": "Sword of the Bladeform Aesthete",
+"particle_folder": "particles/units/heroes/hero_juggernaut",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_juggernaut": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/juggernaut/armor_of_the_favorite/juggernaut_favorite_weapon.vpcf",
+"type": "particle_create"
+},
+"asset_modifier1": {
+"asset": "particles/models/heroes/juggernaut/juggernaut.psf",
+"modifier": "particles/models/items/juggernaut/armor_for_the_favorite_weapon/armor_for_the_favorite_weapon_fx.psf",
+"type": "particle_snapshot"
+},
+"asset_modifier2": {
+"asset": "ACT_DOTA_ATTACK_EVENT",
+"modifier": "favor",
+"style": "0",
+"type": "activity"
+},
+"asset_modifier3": {
+"asset": "particles/units/heroes/hero_juggernaut/jugg_crit_blur.vpcf",
+"modifier": "particles/econ/items/juggernaut/armor_of_the_favorite/juggernaut_armor_of_the_favorite_crit.vpcf",
+"style": "0",
+"type": "particle"
+},
+"asset_modifier4": {
+"asset": "particles/units/heroes/hero_juggernaut/juggernaut_blade_fury.vpcf",
+"modifier": "particles/econ/items/juggernaut/armor_of_the_favorite/juggernaut_blade_fury_favoriteblade.vpcf",
+"style": "0",
+"type": "particle"
+}
+}
+}
+},
+"T": {
+"Tail of the Elemental Imperator": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/spirit_breaker/fearless_impactor_tail/fearless_impactor_tail",
+"item_description": "#DOTA_Item_Desc_Fearless_Impactor_Tail",
+"item_name": "#DOTA_Item_Tail_of_the_Elemental_Imperator",
+"item_rarity": "mythical",
+"item_slot": "tail",
+"item_type_name": "#DOTA_WearableType_tail",
+"model_player": "models/items/spirit_breaker/fearless_impactor_tail/fearless_impactor_tail.vmdl",
+"name": "Tail of the Elemental Imperator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_spirit_breaker": "1"
+}
+}
+},
+"V": {},
+"W": {},
+"Y": {}
+}

@@ -1,0 +1,473 @@
+{
+"A": {
+"Arsenal of the Butcher's Wake": {
+"creation_date": "2016-03-28",
+"image_inventory": "econ/items/pudge/war_path_back/war_path_back",
+"item_name": "#DOTA_Item_Arsenal_of_the_Butchers_Wake",
+"item_rarity": "rare",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_Back",
+"model_player": "models/items/pudge/war_path_back/war_path_back.vmdl",
+"name": "Arsenal of the Butcher's Wake",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+}
+},
+"B": {
+"Battleaxe of the Butcher's Wake": {
+"creation_date": "2016-03-28",
+"image_inventory": "econ/items/pudge/war_path_off_hand/war_path_off_hand",
+"item_name": "#DOTA_Item_Battleaxe_of_the_Butchers_Wake",
+"item_rarity": "uncommon",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_Battleaxe",
+"model_player": "models/items/pudge/war_path_off_hand/war_path_off_hand.vmdl",
+"name": "Battleaxe of the Butcher's Wake",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Belt of Pagus": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/ogre_magi/fortunes_veil_belt/fortunes_veil_belt",
+"item_name": "#DOTA_Item_Belt_of_Pagus",
+"item_rarity": "uncommon",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_Belt",
+"model_player": "models/items/ogre_magi/fortunes_veil_belt/fortunes_veil_belt.vmdl",
+"name": "Belt of Pagus",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ogre_magi": "1"
+}
+},
+"Blade of the Eventide": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/phantom_assassin/raiments_of_the_shadow_slayer_set_weapon/raiments_of_the_shadow_slayer_set_weapon",
+"item_name": "#DOTA_Item_Blade_of_the_Eventide",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_Blade",
+"model_player": "models/items/phantom_assassin/raiments_of_the_shadow_slayer_set_weapon/raiments_of_the_shadow_slayer_set_weapon.vmdl",
+"name": "Blade of the Eventide",
+"particle_folder": "particles/econ/items/phantom_assassin/phantom_assassin_weapon_generic",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_phantom_assassin": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "particles/units/heroes/hero_phantom_assassin/phantom_assassin_ambient_blade.vpcf",
+"modifier": "particles/econ/items/phantom_assassin/phantom_assassin_weapon_generic/phantom_assassin_ambient_blade_generic.vpcf",
+"type": "particle"
+},
+"asset_modifier3": {
+"asset": "particles/econ/items/phantom_assassin/phantom_assassin_weapon_generic.psf",
+"modifier": "particles/models/items/phantom_assassin/raiments_of_the_shadow_slayer_set_weapon/raiments_of_the_shadow_slayer_set_weapon_fx.psf",
+"type": "particle_snapshot"
+}
+}
+},
+"Blade of the Obsidian Nightmare": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/queenofpain/obsidian_nightmare_weapon/obsidian_nightmare_weapon",
+"item_name": "#DOTA_Item_Blade_of_the_Obsidian_Nightmare",
+"item_rarity": "uncommon",
+"item_type_name": "#DOTA_WearableType_Blade",
+"model_player": "models/items/queenofpain/obsidian_nightmare_weapon/obsidian_nightmare_weapon.vmdl",
+"name": "Blade of the Obsidian Nightmare",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_queenofpain": "1"
+}
+},
+"Bracers of Pagus": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/ogre_magi/fortunes_veil_arms/fortunes_veil_arms",
+"item_name": "#DOTA_Item_Bracers_of_Pagus",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_Bracers",
+"model_player": "models/items/ogre_magi/fortunes_veil_arms/fortunes_veil_arms.vmdl",
+"name": "Bracers of Pagus",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ogre_magi": "1"
+}
+},
+"Bracers of the Blueheart Sovereign": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/crystal_maiden/crystalline_empress_arms/crystalline_empress_arms",
+"item_name": "#DOTA_Item_Bracers_of_the_Blueheart_Sovereign",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_Bracers",
+"model_player": "models/items/crystal_maiden/crystalline_empress_arms/crystalline_empress_arms.vmdl",
+"name": "Bracers of the Blueheart Sovereign",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_crystal_maiden": "1"
+}
+},
+"Braids of the Rustic Finery": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/enchantress/rustic_enrapture_1437_pro_set_head/rustic_enrapture_1437_pro_set_head",
+"item_name": "#DOTA_Item_Braids_of_the_Rustic_Finery",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Braids",
+"model_player": "models/items/enchantress/rustic_enrapture_1437_pro_set_head/rustic_enrapture_1437_pro_set_head.vmdl",
+"name": "Braids of the Rustic Finery",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_enchantress": "1"
+}
+}
+},
+"C": {
+"Cape of the Blueheart Sovereign": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/crystal_maiden/crystalline_empress_back/crystalline_empress_back",
+"item_name": "#DOTA_Item_Cape_of_the_Blueheart_Sovereign",
+"item_rarity": "uncommon",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_Cape",
+"model_player": "models/items/crystal_maiden/crystalline_empress_back/crystalline_empress_back.vmdl",
+"name": "Cape of the Blueheart Sovereign",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_crystal_maiden": "1"
+}
+},
+"Cloak of Pagus": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/ogre_magi/fortunes_veil_back/fortunes_veil_back",
+"item_name": "#DOTA_Item_Cloak_of_Pagus",
+"item_rarity": "rare",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_Cloak",
+"model_player": "models/items/ogre_magi/fortunes_veil_back/fortunes_veil_back.vmdl",
+"name": "Cloak of Pagus",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ogre_magi": "1"
+}
+},
+"Cloak of the Eventide": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/phantom_assassin/raiments_of_the_shadow_slayer_set_back/raiments_of_the_shadow_slayer_set_back",
+"item_name": "#DOTA_Item_Cloak_of_the_Eventide",
+"item_rarity": "uncommon",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_Cloak",
+"model_player": "models/items/phantom_assassin/raiments_of_the_shadow_slayer_set_back/raiments_of_the_shadow_slayer_set_back.vmdl",
+"name": "Cloak of the Eventide",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_phantom_assassin": "1"
+}
+},
+"Club of Pagus": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/ogre_magi/fortunes_veil_weapon/fortunes_veil_weapon",
+"item_name": "#DOTA_Item_Club_of_Pagus",
+"item_rarity": "uncommon",
+"item_type_name": "#DOTA_WearableType_Club",
+"model_player": "models/items/ogre_magi/fortunes_veil_weapon/fortunes_veil_weapon.vmdl",
+"name": "Club of Pagus",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ogre_magi": "1"
+}
+},
+"Crown of the Blueheart Sovereign": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/crystal_maiden/crystalline_empress_head/crystalline_empress_head",
+"item_name": "#DOTA_Item_Crown_of_the_Blueheart_Sovereign",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Crown",
+"model_player": "models/items/crystal_maiden/crystalline_empress_head/crystalline_empress_head.vmdl",
+"name": "Crown of the Blueheart Sovereign",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_crystal_maiden": "1"
+}
+}
+},
+"D": {},
+"E": {},
+"F": {},
+"G": {
+"Girdle of the Butcher's Wake": {
+"creation_date": "2016-03-28",
+"image_inventory": "econ/items/pudge/war_path_belt/war_path_belt",
+"item_name": "#DOTA_Item_Girdle_of_the_Butchers_Wake",
+"item_rarity": "uncommon",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_Belt",
+"model_player": "models/items/pudge/war_path_belt/war_path_belt.vmdl",
+"name": "Girdle of the Butcher's Wake",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Guard of the Butcher's Wake": {
+"creation_date": "2016-04-15",
+"image_inventory": "econ/items/pudge/warpath_guard/warpath_guard",
+"item_name": "#DOTA_Item_Guard_of_the_Butchers_Wake",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_Guard",
+"model_player": "models/items/pudge/warpath_guard/warpath_guard.vmdl",
+"name": "Guard of the Butcher's Wake",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+}
+},
+"H": {
+"Headdress of the Eventide": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/phantom_assassin/raiments_of_the_shadow_slayer_set_head/raiments_of_the_shadow_slayer_set_head",
+"item_name": "#DOTA_Item_Headdress_of_the_Eventide",
+"item_rarity": "uncommon",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Headdress",
+"model_player": "models/items/phantom_assassin/raiments_of_the_shadow_slayer_set_head/raiments_of_the_shadow_slayer_set_head.vmdl",
+"name": "Headdress of the Eventide",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_phantom_assassin": "1"
+}
+},
+"Hood of Pagus": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/ogre_magi/fortunes_veil_head/fortunes_veil_head",
+"item_name": "#DOTA_Item_Hood_of_Pagus",
+"item_rarity": "uncommon",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Hood",
+"model_player": "models/items/ogre_magi/fortunes_veil_head/fortunes_veil_head.vmdl",
+"name": "Hood of Pagus",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ogre_magi": "1"
+}
+},
+"Horns of the Obsidian Nightmare": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/queenofpain/obsidian_nightmare_head/obsidian_nightmare_head",
+"item_name": "#DOTA_Item_Horns_of_the_Obsidian_Nightmare",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Horns",
+"model_player": "models/items/queenofpain/obsidian_nightmare_head/obsidian_nightmare_head.vmdl",
+"name": "Horns of the Obsidian Nightmare",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_queenofpain": "1"
+}
+}
+},
+"J": {},
+"K": {},
+"L": {},
+"M": {
+"Mancatcher of the Butcher's Wake": {
+"creation_date": "2016-03-28",
+"image_inventory": "econ/items/pudge/war_path_mancatcher/war_path_mancatcher",
+"item_name": "#DOTA_Item_Mancatcher_of_the_Butchers_Wake",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_Hook",
+"model_player": "models/items/pudge/war_path_mancatcher/war_path_mancatcher.vmdl",
+"name": "Mancatcher of the Butcher's Wake",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+},
+"Mantle of the Blueheart Sovereign": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/crystal_maiden/crystalline_empress_shoulder/crystalline_empress_shoulder",
+"item_name": "#DOTA_Item_Mantle_of_the_Blueheart_Sovereign",
+"item_rarity": "uncommon",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Mantle",
+"model_player": "models/items/crystal_maiden/crystalline_empress_shoulder/crystalline_empress_shoulder.vmdl",
+"name": "Mantle of the Blueheart Sovereign",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_crystal_maiden": "1"
+}
+},
+"Mantle of the Eventide": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/phantom_assassin/raiments_of_the_shadow_slayer_set_shoulder/raiments_of_the_shadow_slayer_set_shoulder",
+"item_name": "#DOTA_Item_Mantle_of_the_Eventide",
+"item_rarity": "uncommon",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Mantle",
+"model_player": "models/items/phantom_assassin/raiments_of_the_shadow_slayer_set_shoulder/raiments_of_the_shadow_slayer_set_shoulder.vmdl",
+"name": "Mantle of the Eventide",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_phantom_assassin": "1"
+}
+}
+},
+"N": {},
+"O": {},
+"P": {
+"Pauldron of the Butcher's Wake": {
+"creation_date": "2016-03-28",
+"image_inventory": "econ/items/pudge/war_path_pauldron/war_path_pauldron",
+"item_name": "#DOTA_Item_Pauldron_of_the_Butchers_Wake",
+"item_rarity": "uncommon",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/pudge/war_path_pauldron/war_path_pauldron.vmdl",
+"name": "Pauldron of the Butcher's Wake",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Pauldrons of the Obsidian Nightmare": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/queenofpain/obsidian_nightmare_shoulder/obsidian_nightmare_shoulder",
+"item_name": "#DOTA_Item_Pauldrons_of_the_Obsidian_Nightmare",
+"item_rarity": "uncommon",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Pauldrons",
+"model_player": "models/items/queenofpain/obsidian_nightmare_shoulder/obsidian_nightmare_shoulder.vmdl",
+"name": "Pauldrons of the Obsidian Nightmare",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_queenofpain": "1"
+}
+}
+},
+"Q": {},
+"R": {},
+"S": {
+"Scarf of the Rustic Finery": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/enchantress/rustic_enrapture_1437_pro_set_neck/rustic_enrapture_1437_pro_set_neck",
+"item_name": "#DOTA_Item_Scarf_of_the_Rustic_Finery",
+"item_slot": "neck",
+"item_type_name": "#DOTA_WearableType_Scarf",
+"model_player": "models/items/enchantress/rustic_enrapture_1437_pro_set_neck/rustic_enrapture_1437_pro_set_neck.vmdl",
+"name": "Scarf of the Rustic Finery",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_enchantress": "1"
+}
+},
+"Sleeves of the Rustic Finery": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/enchantress/rustic_enrapture_1437_pro_set_arms/rustic_enrapture_1437_pro_set_arms",
+"item_name": "#DOTA_Item_Sleeves_of_the_Rustic_Finery",
+"item_rarity": "uncommon",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_Sleeves",
+"model_player": "models/items/enchantress/rustic_enrapture_1437_pro_set_arms/rustic_enrapture_1437_pro_set_arms.vmdl",
+"name": "Sleeves of the Rustic Finery",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_enchantress": "1"
+}
+},
+"Spear of the Rustic Finery": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/enchantress/rustic_enrapture_1437_pro_set_weapon/rustic_enrapture_1437_pro_set_weapon",
+"item_name": "#DOTA_Item_Spear_of_the_Rustic_Finery",
+"item_rarity": "uncommon",
+"item_type_name": "#DOTA_WearableType_Spear",
+"model_player": "models/items/enchantress/rustic_enrapture_1437_pro_set_weapon/rustic_enrapture_1437_pro_set_weapon.vmdl",
+"name": "Spear of the Rustic Finery",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_enchantress": "1"
+}
+},
+"Staff of the Blueheart Sovereign": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/crystal_maiden/crystalline_empress_weapon/crystalline_empress_weapon",
+"item_name": "#DOTA_Item_Staff_of_the_Blueheart_Sovereign",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_Staff",
+"model_player": "models/items/crystal_maiden/crystalline_empress_weapon/crystalline_empress_weapon.vmdl",
+"name": "Staff of the Blueheart Sovereign",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_crystal_maiden": "1"
+}
+}
+},
+"T": {
+"Tasset of the Eventide": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/phantom_assassin/raiments_of_the_shadow_slayer_set_belt/raiments_of_the_shadow_slayer_set_belt",
+"item_name": "#DOTA_Item_Tasset_of_the_Eventide",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_Tasset",
+"model_player": "models/items/phantom_assassin/raiments_of_the_shadow_slayer_set_belt/raiments_of_the_shadow_slayer_set_belt.vmdl",
+"name": "Tasset of the Eventide",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_phantom_assassin": "1"
+}
+}
+},
+"V": {
+"Visor of the Butcher's Wake": {
+"creation_date": "2016-03-28",
+"image_inventory": "econ/items/pudge/war_path_head/war_path_head",
+"item_name": "#DOTA_Item_Visor_of_the_Butchers_Wake",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Visor",
+"model_player": "models/items/pudge/war_path_head/war_path_head.vmdl",
+"name": "Visor of the Butcher's Wake",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+}
+},
+"W": {
+"Wings of the Obsidian Nightmare": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/queenofpain/obsidian_nightmare_back/obsidian_nightmare_back",
+"item_name": "#DOTA_Item_Wings_of_the_Obsidian_Nightmare",
+"item_rarity": "rare",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_Wings",
+"model_player": "models/items/queenofpain/obsidian_nightmare_back/obsidian_nightmare_back.vmdl",
+"name": "Wings of the Obsidian Nightmare",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_queenofpain": "1"
+}
+},
+"Wrap of the Rustic Finery": {
+"creation_date": "2016-03-15",
+"image_inventory": "econ/items/enchantress/rustic_enrapture_1437_pro_set_belt/rustic_enrapture_1437_pro_set_belt",
+"item_name": "#DOTA_Item_Wrap_of_the_Rustic_Finery",
+"item_rarity": "rare",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_Wrap",
+"model_player": "models/items/enchantress/rustic_enrapture_1437_pro_set_belt/rustic_enrapture_1437_pro_set_belt.vmdl",
+"name": "Wrap of the Rustic Finery",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_enchantress": "1"
+}
+}
+},
+"Y": {}
+}

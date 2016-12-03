@@ -1,0 +1,142 @@
+{
+"A": {
+"Armor of the Timekeeper": {
+"creation_date": "2016-01-29",
+"forced_item_quality": "exalted",
+"image_inventory": "econ/items/lanaya/the_timekeeper_silvera/the_timekeeper_silvera",
+"item_description": "#DOTA_Item_Desc_Armor_of_the_Timekeeper",
+"item_name": "#DOTA_Item_Armor_of_the_Timekeeper",
+"item_quality": "exalted",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_Armor",
+"model_player": "models/items/lanaya/the_timekeeper_silvera/the_timekeeper_silvera.vmdl",
+"name": "Armor of the Timekeeper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_templar_assassin": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/lanaya/the_timekeeper_silvera/the_timekeeper_silvera"
+},
+"1": {
+"icon_path": "econ/items/lanaya/the_timekeeper_silvera/the_timekeeper_silvera_style1"
+}
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Item_Timekeeper_Style_00",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Item_Timekeeper_Style_01",
+"skin": "1"
+}
+}
+}
+}
+},
+"B": {},
+"C": {},
+"D": {},
+"E": {},
+"F": {},
+"G": {},
+"H": {},
+"I": {},
+"J": {},
+"K": {},
+"L": {},
+"M": {},
+"N": {},
+"O": {},
+"P": {
+"Pauldrons of the Timekeeper": {
+"creation_date": "2016-01-29",
+"forced_item_quality": "exalted",
+"image_inventory": "econ/items/lanaya/the_timekeeper_silvers/the_timekeeper_silvers",
+"item_description": "#DOTA_Item_Desc_Pauldrons_of_the_Timekeeper",
+"item_name": "#DOTA_Item_Pauldrons_of_the_Timekeeper",
+"item_quality": "exalted",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Pauldrons",
+"model_player": "models/items/lanaya/the_timekeeper_silvers/the_timekeeper_silvers.vmdl",
+"name": "Pauldrons of the Timekeeper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_templar_assassin": "1"
+},
+"visuals": {
+"alternate_icons": {
+"1": {
+"icon_path": "econ/items/lanaya/the_timekeeper_silvers/the_timekeeper_silvers_style1"
+}
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Item_Timekeeper_Style_00",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Item_Timekeeper_Style_01",
+"skin": "1"
+}
+}
+}
+}
+},
+"Q": {},
+"R": {},
+"S": {
+"Style of the Timekeeper": {
+"creation_date": "2016-01-29",
+"forced_item_quality": "exalted",
+"image_inventory": "econ/items/lanaya/the_timekeeper_silver/the_timekeeper_silver",
+"item_description": "#DOTA_Item_Desc_Style_of_the_Timekeeper",
+"item_name": "#DOTA_Item_Style_of_the_Timekeeper",
+"item_quality": "exalted",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Style",
+"model_player": "models/items/lanaya/the_timekeeper_silver/the_timekeeper_silver.vmdl",
+"name": "Style of the Timekeeper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_templar_assassin": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/lanaya/the_timekeeper_silver/the_timekeeper_silver"
+},
+"1": {
+"icon_path": "econ/items/lanaya/the_timekeeper_silver/the_timekeeper_silver_style1"
+}
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Item_Timekeeper_Style_00",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Item_Timekeeper_Style_01",
+"skin": "1"
+}
+}
+}
+}
+},
+"T": {},
+"V": {},
+"W": {},
+"Y": {}
+}

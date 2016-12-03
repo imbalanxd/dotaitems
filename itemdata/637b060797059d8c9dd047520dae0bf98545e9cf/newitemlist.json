@@ -1,0 +1,757 @@
+{
+"A": {
+"Armor of Grim Reformation": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/undying/corrupted_scourge_armor/corrupted_scourge_armor",
+"item_description": "#DOTA_Item_Desc_Corrupted_Scourge_Armor",
+"item_name": "#DOTA_Item_Armor_of_Grim_Reformation",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/undying/corrupted_scourge_armor/corrupted_scourge_armor.vmdl",
+"name": "Armor of Grim Reformation",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_undying": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/undying/undying_scourge/undying_scourge_armor_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+}
+},
+"B": {
+"Belt of the Primeval Predator": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/blood_seeker/bloodseeker_relentless_hunter_belt/bloodseeker_relentless_hunter_belt",
+"item_description": "#DOTA_Item_Desc_Relentless_Hunter_Belt",
+"item_name": "#DOTA_Item_Belt_of_the_Primeval_Predator",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/blood_seeker/bloodseeker_relentless_hunter_belt/bloodseeker_relentless_hunter_belt.vmdl",
+"name": "Belt of the Primeval Predator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_bloodseeker": "1"
+}
+},
+"Blade of the Primeval Predator": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/blood_seeker/bloodseeker_relentless_hunter_weapon/bloodseeker_relentless_hunter_weapon",
+"item_description": "#DOTA_Item_Desc_Relentless_Hunter_Weapon",
+"item_name": "#DOTA_Item_Blade_of_the_Primeval_Predator",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/blood_seeker/bloodseeker_relentless_hunter_weapon/bloodseeker_relentless_hunter_weapon.vmdl",
+"name": "Blade of the Primeval Predator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_bloodseeker": "1"
+}
+},
+"Blade of the Wandering Flame": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/ember_spirit/vanishing_flame_weapon/vanishing_flame_weapon",
+"item_description": "#DOTA_Item_Desc_Blade_of_the_Wandering_Flame",
+"item_name": "#DOTA_Item_Blade_of_the_Wandering_Flame",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/ember_spirit/vanishing_flame_weapon/vanishing_flame_weapon.vmdl",
+"name": "Blade of the Wandering Flame",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ember_spirit": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_ember_spirit/ember_spirit_ambient_sword_primary.vpcf",
+"type": "particle_create"
+},
+"asset_modifier2": {
+"asset": "particles/models/heroes/ember_spirit/weapon1.psf",
+"modifier": "particles/models/items/ember_spirit/vanishing_flame_weapon/vanishing_flame_weapon_fx.psf",
+"type": "particle_snapshot"
+}
+}
+}
+},
+"C": {
+"Cage of Forbidden Knowledge": {
+"creation_date": "2016-04-25",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/lich/forbidden_knowledge_head/forbidden_knowledge_head",
+"item_description": "#DOTA_Item_Desc_Forbidden_Knowledge_Head",
+"item_name": "#DOTA_Item_Cage_of_Forbidden_Knowledge",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/lich/forbidden_knowledge_head/forbidden_knowledge_head.vmdl",
+"name": "Cage of Forbidden Knowledge",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lich": "1"
+}
+},
+"Corpse Hive of Grim Reformation": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/undying/flesh_golem/corrupted_scourge_corpse_hive/corrupted_scourge_corpse_hive",
+"item_description": "#DOTA_Item_Desc_Corrupted_Scourge_Corpse_Hive",
+"item_name": "#DOTA_Item_Corpse_Hive_of_Grim_Reformation",
+"item_rarity": "mythical",
+"item_slot": "ability4",
+"item_type_name": "#DOTA_WearableType_Flesh_Golem",
+"name": "Corpse Hive of Grim Reformation",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_undying": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "models/heroes/undying/undying_flesh_golem.vmdl",
+"modifier": "models/items/undying/flesh_golem/corrupted_scourge_corpse_hive/corrupted_scourge_corpse_hive.vmdl",
+"type": "hero_model_change"
+},
+"asset_modifier1": {
+"modifier": "particles/units/heroes/hero_undying/undying_fg_ambient_mouthgas.vpcf",
+"spawn_in_alternate_loadout_only": "1",
+"spawn_in_loadout_only": "1",
+"type": "particle_create"
+},
+"asset_modifier2": {
+"modifier": "particles/units/heroes/hero_undying/undying_fg_ambient_gas02.vpcf",
+"spawn_in_alternate_loadout_only": "1",
+"spawn_in_loadout_only": "1",
+"type": "particle_create"
+},
+"asset_modifier3": {
+"modifier": "particles/econ/items/undying/undying_scourge/undying_scourge_golem_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Cuffs of Forbidden Knowledge": {
+"creation_date": "2016-04-25",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/lich/forbidden_knowledge_arms/forbidden_knowledge_arms",
+"item_description": "#DOTA_Item_Desc_Forbidden_Knowledge_Arms",
+"item_name": "#DOTA_Item_Cuffs_of_Forbidden_Knowledge",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/lich/forbidden_knowledge_arms/forbidden_knowledge_arms.vmdl",
+"name": "Cuffs of Forbidden Knowledge",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lich": "1"
+}
+}
+},
+"D": {
+"Diadem of the Elder Myth": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/winter_wyvern/wyvern_of_the_pleiades_head/wyvern_of_the_pleiades_head",
+"item_description": "#DOTA_Item_Desc_Wyvern_of_the_Pleiades_Head",
+"item_name": "#DOTA_Item_Diadem_of_the_Elder_Myth",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/winter_wyvern/wyvern_of_the_pleiades_head/wyvern_of_the_pleiades_head.vmdl",
+"name": "Diadem of the Elder Myth",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_winter_wyvern": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/winter_wyvern/wyvern_of_the_pleiades_head/wyvern_of_the_pleiades_head"
+},
+"1": {
+"icon_path": "econ/items/winter_wyvern/wyvern_of_the_pleiades_head/wyvern_of_the_pleiades_head_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/winter_wyvern/pleiades/wyvern_pleiades_ambient.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"name": "#DOTA_Style_Default"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Infused",
+"unlock": {
+"item_def": "11898",
+"price": "1"
+}
+}
+}
+}
+}
+},
+"E": {},
+"F": {},
+"G": {
+"Gauntlets of Grim Reformation": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/undying/corrupted_scourge_arms/corrupted_scourge_arms",
+"item_description": "#DOTA_Item_Desc_Corrupted_Scourge_Arms",
+"item_name": "#DOTA_Item_Gauntlets_of_Grim_Reformation",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/undying/corrupted_scourge_arms/corrupted_scourge_arms.vmdl",
+"name": "Gauntlets of Grim Reformation",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_undying": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/undying/undying_scourge/undying_scourge_arm_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"skip_model_combine": "0"
+}
+},
+"Gauntlets of the Primeval Predator": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/blood_seeker/bloodseeker_relentless_hunter_arms/bloodseeker_relentless_hunter_arms",
+"item_description": "#DOTA_Item_Desc_Relentless_Hunter_Arms",
+"item_name": "#DOTA_Item_Gauntlets_of_the_Primeval_Predator",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/blood_seeker/bloodseeker_relentless_hunter_arms/bloodseeker_relentless_hunter_arms.vmdl",
+"name": "Gauntlets of the Primeval Predator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_bloodseeker": "1"
+}
+},
+"Grips of Eternal Harvest": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/nevermore/ferrum_chiroptera_arms/ferrum_chiroptera_arms",
+"item_description": "#DOTA_Item_Desc_Grips_of_Eternal_Harvest",
+"item_name": "#DOTA_Item_Grips_of_Eternal_Harvest",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_Grips",
+"model_player": "models/items/nevermore/ferrum_chiroptera_arms/ferrum_chiroptera_arms.vmdl",
+"name": "Grips of Eternal Harvest",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nevermore": "1"
+}
+},
+"Guard of the Wandering Flame": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/ember_spirit/vanishing_flame_arms/vanishing_flame_arms",
+"item_description": "#DOTA_Item_Desc_Guard_of_the_Wandering_Flame",
+"item_name": "#DOTA_Item_Guard_of_the_Wandering_Flame",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/ember_spirit/vanishing_flame_arms/vanishing_flame_arms.vmdl",
+"name": "Guard of the Wandering Flame",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ember_spirit": "1"
+}
+},
+"Guards of the Psion Inquisitor": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/lanaya/raiment_of_the_violet_archives_armor/raiment_of_the_violet_archives_armor",
+"item_description": "#DOTA_Item_Desc_Raiment_of_the_Violet_Archives_Armor",
+"item_name": "#DOTA_Item_Guards_of_the_Psion_Inquisitor",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/lanaya/raiment_of_the_violet_archives_armor/raiment_of_the_violet_archives_armor.vmdl",
+"name": "Guards of the Psion Inquisitor",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_templar_assassin": "1"
+}
+}
+},
+"H": {
+"Helm of Grim Reformation": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/undying/corrupted_scourge_head/corrupted_scourge_head",
+"item_description": "#DOTA_Item_Desc_Corrupted_Scourge_Head",
+"item_name": "#DOTA_Item_Helm_of_Grim_Reformation",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/undying/corrupted_scourge_head/corrupted_scourge_head.vmdl",
+"name": "Helm of Grim Reformation",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_undying": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/undying/undying_scourge/undying_scourge_head_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Helm of the Primeval Predator": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/blood_seeker/bloodseeker_relentless_hunter_head/bloodseeker_relentless_hunter_head",
+"item_description": "#DOTA_Item_Desc_Relentless_Hunter_Head",
+"item_name": "#DOTA_Item_Helm_of_the_Primeval_Predator",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/blood_seeker/bloodseeker_relentless_hunter_head/bloodseeker_relentless_hunter_head.vmdl",
+"name": "Helm of the Primeval Predator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_bloodseeker": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/blood_seeker/bloodseeker_relentless_hunter_head/bloodseeker_relentless_hunter_head"
+},
+"1": {
+"icon_path": "econ/items/blood_seeker/bloodseeker_relentless_hunter_head/bloodseeker_relentless_hunter_head_1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/bloodseeker/bloodseeker_relentless_hunter/bloodseeker_relentless_hunter_ambient.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"name": "#DOTA_Style_Default"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Infused",
+"unlock": {
+"item_def": "11898",
+"price": "1"
+}
+}
+}
+}
+},
+"Hood of the Psion Inquisitor": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/lanaya/raiment_of_the_violet_archives_head_hood/raiment_of_the_violet_archives_head_hood",
+"item_description": "#DOTA_Item_Desc_Raiment_of_the_Violet_Archives_Head",
+"item_name": "#DOTA_Item_Hood_of_the_Psion_Inquisitor",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/lanaya/raiment_of_the_violet_archives_head_hood/raiment_of_the_violet_archives_head_hood.vmdl",
+"name": "Hood of the Psion Inquisitor",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_templar_assassin": "1"
+}
+},
+"Hood of the Wandering Flame": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/ember_spirit/vanishing_flame_head/vanishing_flame_head",
+"item_description": "#DOTA_Item_Desc_Hood_of_the_Wandering_Flame",
+"item_name": "#DOTA_Item_Hood_of_the_Wandering_Flame",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/ember_spirit/vanishing_flame_head/vanishing_flame_head.vmdl",
+"name": "Hood of the Wandering Flame",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ember_spirit": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_ember_spirit/ember_spirit_ambient_head.vpcf",
+"type": "particle_create"
+},
+"asset_modifier1": {
+"modifier": "particles/units/heroes/hero_ember_spirit/ember_spirit_ambient_eyes.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Horns of Eternal Harvest": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/nevermore/ferrum_chiroptera_head/ferrum_chiroptera_head",
+"item_description": "#DOTA_Item_Desc_Ferrum_Chiroptera_Head",
+"item_name": "#DOTA_Item_Horns_of_Eternal_Harvest",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Horns",
+"model_player": "models/items/nevermore/ferrum_chiroptera_head/ferrum_chiroptera_head.vmdl",
+"name": "Horns of Eternal Harvest",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nevermore": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_nevermore/shadow_fiend_ambient_eyes.vpcf",
+"type": "particle_create"
+},
+"asset_modifier1": {
+"modifier": "particles/econ/items/shadow_fiend/sf_ferrum/shadow_fiend_ferrum_head_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+}
+},
+"I": {},
+"J": {},
+"K": {},
+"L": {},
+"M": {},
+"N": {},
+"O": {
+"Off-Hand Blade of the Primeval Predator": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/blood_seeker/bloodseeker_relentless_hunter_off_hand/bloodseeker_relentless_hunter_off_hand",
+"item_description": "#DOTA_Item_Desc_Relentless_Hunter_OffHand",
+"item_name": "#DOTA_Item_OffHand_Blade_of_the_Primeval_Predator",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/blood_seeker/bloodseeker_relentless_hunter_off_hand/bloodseeker_relentless_hunter_off_hand.vmdl",
+"name": "Off-Hand Blade of the Primeval Predator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_bloodseeker": "1"
+}
+},
+"Off-Hand Blade of the Wandering Flame": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/ember_spirit/vanishing_flame_off_hand/vanishing_flame_off_hand",
+"item_description": "#DOTA_Item_Desc_OffHand_Blade_of_the_Wandering_Flame",
+"item_name": "#DOTA_Item_OffHand_Blade_of_the_Wandering_Flame",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/ember_spirit/vanishing_flame_off_hand/vanishing_flame_off_hand.vmdl",
+"name": "Off-Hand Blade of the Wandering Flame",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ember_spirit": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_ember_spirit/ember_spirit_ambient_sword_offhand.vpcf",
+"type": "particle_create"
+},
+"asset_modifier2": {
+"asset": "particles/models/heroes/ember_spirit/weapon2.psf",
+"modifier": "particles/models/items/ember_spirit/vanishing_flame_off_hand/vanishing_flame_off_hand_fx.psf",
+"type": "particle_snapshot"
+}
+}
+}
+},
+"P": {
+"Pauldrons of Eternal Harvest": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/nevermore/ferrum_chiroptera_shoulder/ferrum_chiroptera_shoulder",
+"item_description": "#DOTA_Item_Desc_Pauldrons_of_Eternal_Harvest",
+"item_name": "#DOTA_Item_Pauldrons_of_Eternal_Harvest",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Pauldrons",
+"model_player": "models/items/nevermore/ferrum_chiroptera_shoulder/ferrum_chiroptera_shoulder.vmdl",
+"name": "Pauldrons of Eternal Harvest",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nevermore": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/econ/items/shadow_fiend/sf_ferrum/shadow_fiend_ferrum_shoulder_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+}
+},
+"Q": {},
+"R": {
+"Robe of Forbidden Knowledge": {
+"creation_date": "2016-04-25",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/lich/forbidden_knowledge_belt/forbidden_knowledge_belt",
+"item_description": "#DOTA_Item_Desc_Forbidden_Knowledge_Belt",
+"item_name": "#DOTA_Item_Robe_of_Forbidden_Knowledge",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/lich/forbidden_knowledge_belt/forbidden_knowledge_belt.vmdl",
+"name": "Robe of Forbidden Knowledge",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lich": "1"
+}
+}
+},
+"S": {
+"Shackles of Forbidden Knowledge": {
+"creation_date": "2016-04-25",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/lich/forbidden_knowledge_neck/forbidden_knowledge_neck",
+"item_description": "#DOTA_Item_Desc_Forbidden_Knowledge_Neck",
+"item_name": "#DOTA_Item_Shackles_of_Forbidden_Knowledge",
+"item_rarity": "mythical",
+"item_slot": "neck",
+"item_type_name": "#DOTA_WearableType_neck",
+"model_player": "models/items/lich/forbidden_knowledge_neck/forbidden_knowledge_neck.vmdl",
+"name": "Shackles of Forbidden Knowledge",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lich": "1"
+}
+},
+"Shield of the Primeval Predator": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/blood_seeker/bloodseeker_relentless_hunter_back/bloodseeker_relentless_hunter_back",
+"item_description": "#DOTA_Item_Desc_Relentless_Hunter_Back",
+"item_name": "#DOTA_Item_Shield_of_the_Primeval_Predator",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/blood_seeker/bloodseeker_relentless_hunter_back/bloodseeker_relentless_hunter_back.vmdl",
+"name": "Shield of the Primeval Predator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_bloodseeker": "1"
+}
+},
+"Spaulder of the Wandering Flame": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/ember_spirit/vanishing_flame_shoulder/vanishing_flame_shoulder",
+"item_description": "#DOTA_Item_Desc_Spaulder_of_the_Wandering_Flame",
+"item_name": "#DOTA_Item_Spaulder_of_the_Wandering_Flame",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/ember_spirit/vanishing_flame_shoulder/vanishing_flame_shoulder.vmdl",
+"name": "Spaulder of the Wandering Flame",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ember_spirit": "1"
+}
+},
+"Spaulders of the Psion Inquisitor": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/lanaya/raiment_of_the_violet_archives_shoulder/raiment_of_the_violet_archives_shoulder",
+"item_description": "#DOTA_Item_Desc_Raiment_of_the_Violet_Archives_Shoulder",
+"item_name": "#DOTA_Item_Spaulders_of_the_Psion_Inquisitor",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/lanaya/raiment_of_the_violet_archives_shoulder/raiment_of_the_violet_archives_shoulder.vmdl",
+"name": "Spaulders of the Psion Inquisitor",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_templar_assassin": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/lanaya/raiment_of_the_violet_archives_shoulder/raiment_of_the_violet_archives_shoulder"
+},
+"1": {
+"icon_path": "econ/items/lanaya/raiment_of_the_violet_archives_shoulder/raiment_of_the_violet_archives_shoulder_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/templar_assassin/templar_assassin_violet/templar_assassin_violet_shoulder_ambient.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"name": "#DOTA_Style_Default"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Infused",
+"unlock": {
+"item_def": "11898",
+"price": "1"
+}
+}
+}
+}
+}
+},
+"T": {
+"Tattoo of the Primeval Predator": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/blood_seeker/bloodseeker_relentless_hunter_shoulder/bloodseeker_relentless_hunter_shoulder",
+"item_description": "#DOTA_Item_Desc_Relentless_Hunter_Shoulder",
+"item_name": "#DOTA_Item_Tattoo_of_the_Primeval_Predator",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/blood_seeker/bloodseeker_relentless_hunter_shoulder/bloodseeker_relentless_hunter_shoulder.vmdl",
+"name": "Tattoo of the Primeval Predator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_bloodseeker": "1"
+}
+},
+"Tome of Forbidden Knowledge": {
+"creation_date": "2016-04-25",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/lich/forbidden_knowledge_back/forbidden_knowledge_back",
+"item_description": "#DOTA_Item_Desc_Forbidden_Knowledge_Back",
+"item_name": "#DOTA_Item_Tome_of_Forbidden_Knowledge",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/lich/forbidden_knowledge_back/forbidden_knowledge_back.vmdl",
+"name": "Tome of Forbidden Knowledge",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lich": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/lich/forbidden_knowledge_back/forbidden_knowledge_back"
+},
+"1": {
+"icon_path": "econ/items/lich/forbidden_knowledge_back/forbidden_knowledge_back_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/lich/forbidden_knowledge/lich_forbidden_knowledge_ambient_book.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"name": "#DOTA_Style_Default"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Infused",
+"unlock": {
+"item_def": "11898",
+"price": "1"
+}
+}
+}
+}
+},
+"Tunic of the Wandering Flame": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/ember_spirit/vanishing_flame_belt/vanishing_flame_belt",
+"item_description": "#DOTA_Item_Desc_Tunic_of_the_Wandering_Flame",
+"item_name": "#DOTA_Item_Tunic_of_the_Wandering_Flame",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/ember_spirit/vanishing_flame_belt/vanishing_flame_belt.vmdl",
+"name": "Tunic of the Wandering Flame",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ember_spirit": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/ember_spirit/vanishing_flame_belt/vanishing_flame_belt"
+},
+"1": {
+"icon_path": "econ/items/ember_spirit/vanishing_flame_belt/vanishing_flame_belt_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/ember_spirit/ember_spirit_vanishing_flame/ember_spirit_vanishing_flame_ambient_gem.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"asset_modifier1": {
+"modifier": "particles/econ/items/ember_spirit/ember_spirit_vanishing_flame/ember_spirit_vanishing_flame_ambient.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"name": "#DOTA_Style_Default"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Infused",
+"unlock": {
+"item_def": "11898",
+"price": "1"
+}
+}
+}
+}
+}
+},
+"V": {},
+"W": {
+"Wings of the Elder Myth": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_FALL_MAJOR_2016",
+"image_inventory": "econ/items/winter_wyvern/wyvern_of_the_pleiades_back/wyvern_of_the_pleiades_back",
+"item_description": "#DOTA_Item_Desc_Wyvern_of_the_Pleiades_Back",
+"item_name": "#DOTA_Item_Wings_of_the_Elder_Myth",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/winter_wyvern/wyvern_of_the_pleiades_back/wyvern_of_the_pleiades_back.vmdl",
+"name": "Wings of the Elder Myth",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_winter_wyvern": "1"
+}
+}
+},
+"Y": {}
+}
