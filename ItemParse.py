@@ -6,6 +6,7 @@ latestVersionId = None
 indexData = None
 
 def main():
+	os.chdir(sys.path[0])
 	getIndexData()
 	currentVersionId = getCurrentVersionId(indexData)
 	latestVersionId = getLatestVersionId();
@@ -34,7 +35,7 @@ def main():
 def getIndexData():
 	global indexData;
 	if indexData is None:
-		raw = open("index.json", encoding="utf-8")
+		raw = open('index.json', encoding="utf-8")
 		indexData = json.loads(raw.read())
 	return indexData
 
