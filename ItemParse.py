@@ -11,10 +11,14 @@ def main():
 	currentVersionId = getCurrentVersionId(indexData)
 	latestVersionId = getLatestVersionId();
 	
+	updateState = {}
 	if(currentVersionId == latestVersionId):
-		print("No update required")
+		updateState["update"] = 0;
+		print(json.dumps(updateState))
 	else:
-		print("Updating data")
+		updateState["update"] = 1;
+		updateState["id"] = latestVersionId;
+		print(json.dumps(updateState))
 		if(demo):
 			gameItemsDict = getFullDataFromFile()
 		else:
@@ -97,10 +101,14 @@ def saveWearableItemDataForVersionId(wearableDict, versionId):
 def saveNewWearableItemDataForVersionId(newWearableDict, versionId):
 	writeDictionaryToFile(newWearableDict, "itemdata/"+versionId+"/newitemlist.json")
 
+#Old method
+#Cannot be used with a new pull of the project
 def getWearableItemsForVersionId(versionId):
 	raw = open("itemdata/"+versionId+"/itemlist.json", encoding="utf-8")
 	return json.loads(raw.read())
 
+#New method
+#Only requires default file with full starting item list, then constructs full list
 def getWearableItemsForVersionIdNew(versionId):
 	verIndex = int(getIndexForVersionId(versionId))
 	wearableDict = json.loads(open("itemdata/default/itemlist.json", encoding="utf-8").read())
