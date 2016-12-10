@@ -1,3 +1,4 @@
 itemlist.json
 items_game.txt
 __pycache__
+!itemdata/default/itemlist.json
