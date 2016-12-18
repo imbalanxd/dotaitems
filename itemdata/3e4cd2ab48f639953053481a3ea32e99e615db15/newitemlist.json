@@ -1,0 +1,423 @@
+{
+"A": {},
+"B": {},
+"C": {},
+"D": {
+"Dagger of the Arch Temptress": {
+"creation_date": "2015-01-19",
+"image_inventory": "econ/items/queenofpain/dotapit_s3_abyssal_temptress_weapon/dotapit_s3_abyssal_temptress_weapon",
+"item_name": "#DOTA_Item_Dagger_of_the_Arch_Temptress",
+"item_rarity": "uncommon",
+"model_player": "models/items/queenofpain/dotapit_s3_abyssal_temptress_weapon/dotapit_s3_abyssal_temptress_weapon.vmdl",
+"name": "Dagger of the Arch Temptress",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_queenofpain": "1"
+}
+}
+},
+"E": {},
+"F": {},
+"G": {
+"Great Sage's Reckoning": {
+"creation_date": "2016-12-12",
+"image_inventory": "econ/items/monkey_king/monkey_king_arcana_head/monkey_king_arcana",
+"item_description": "#DOTA_Item_Desc_Great_Sages_Reckoning",
+"item_name": "#DOTA_Item_Great_Sages_Reckoning",
+"item_rarity": "arcana",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Arcana_Head_Item",
+"model_player": "models/items/monkey_king/monkey_king_arcana_head/mesh/monkey_king_arcana.vmdl",
+"name": "Great Sage's Reckoning",
+"prefab": "wearable",
+"price_info": {
+"category_tags": "Equipment",
+"date": "12/12/2016",
+"price": "0"
+},
+"used_by_heroes": {
+"npc_dota_hero_monkey_king": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/monkey_king/monkey_king_arcana_head/monkey_king_arcana"
+},
+"1": {
+"icon_path": "econ/items/monkey_king/monkey_king_arcana_head/monkey_king_arcana_style1"
+},
+"2": {
+"icon_path": "econ/items/monkey_king/monkey_king_arcana_head/monkey_king_arcana_style2"
+},
+"3": {
+"icon_path": "econ/items/monkey_king/monkey_king_arcana_head/monkey_king_arcana_style3"
+}
+},
+"asset_modifier0": {
+"level": "1",
+"type": "arcana_level"
+},
+"asset_modifier1": {
+"asset": "particles/units/heroes/hero_monkey_king/monkey_king_spring_channel.vpcf",
+"modifier": "particles/econ/items/monkey_king/arcana/water/monkey_king_spring_arcana_water_channel.vpcf",
+"style": "1",
+"type": "particle"
+},
+"asset_modifier10": {
+"modifier": "particles/econ/items/monkey_king/arcana/monkey_king_arcana_crown_water.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"asset_modifier11": {
+"modifier": "particles/econ/items/monkey_king/arcana/monkey_king_arcana_crown_death.vpcf",
+"style": "2",
+"type": "particle_create"
+},
+"asset_modifier12": {
+"modifier": "particles/econ/items/monkey_king/arcana/monkey_king_arcana_crown_fire.vpcf",
+"style": "3",
+"type": "particle_create"
+},
+"asset_modifier13": {
+"modifier": "particles/econ/items/monkey_king/arcana/monkey_king_arcana_fire.vpcf",
+"style": "3",
+"type": "particle_create"
+},
+"asset_modifier14": {
+"modifier": "particles/econ/items/monkey_king/arcana/monkey_king_arcana_death.vpcf",
+"style": "2",
+"type": "particle_create"
+},
+"asset_modifier15": {
+"asset": "particles/units/heroes/hero_monkey_king/monkey_king_spring_channel.vpcf",
+"modifier": "particles/econ/items/monkey_king/arcana/fire/monkey_king_spring_arcana_fire_channel.vpcf",
+"style": "3",
+"type": "particle"
+},
+"asset_modifier16": {
+"asset": "mkarc_crown",
+"type": "response_criteria"
+},
+"asset_modifier17": {
+"asset": "Hero_MonkeyKing.Spring.Impact",
+"modifier": "Hero_MonkeyKing.Spring.Impact.Water",
+"style": "1",
+"type": "sound"
+},
+"asset_modifier18": {
+"asset": "monkey_king_spring",
+"modifier": "monkey_king/great_sages_reckoning/monkey_king_spring",
+"type": "ability_icon"
+},
+"asset_modifier19": {
+"asset": "monkey_king_tree_jump",
+"modifier": "monkey_king/great_sages_reckoning/monkey_king_tree_jump",
+"type": "ability_icon"
+},
+"asset_modifier2": {
+"modifier": "particles/econ/items/monkey_king/arcana/monkey_king_arcana.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"asset_modifier20": {
+"asset": "npc_dota_hero_monkey_king",
+"force_display": "1",
+"modifier": "npc_dota_hero_monkey_king_alt1",
+"type": "icon_replacement_hero_minimap"
+},
+"asset_modifier21": {
+"asset": "particles/units/heroes/hero_monkey_king/monkey_king_spring_cast.vpcf",
+"modifier": "particles/econ/items/monkey_king/arcana/water/monkey_king_spring_cast_arcana_water.vpcf",
+"style": "1",
+"type": "particle"
+},
+"asset_modifier22": {
+"asset": "particles/units/heroes/hero_monkey_king/monkey_king_spring_cast.vpcf",
+"modifier": "particles/econ/items/monkey_king/arcana/death/monkey_king_spring_cast_arcana_death.vpcf",
+"style": "2",
+"type": "particle"
+},
+"asset_modifier23": {
+"asset": "particles/units/heroes/hero_monkey_king/monkey_king_spring_cast.vpcf",
+"modifier": "particles/econ/items/monkey_king/arcana/fire/monkey_king_spring_cast_arcana_fire.vpcf",
+"style": "3",
+"type": "particle"
+},
+"asset_modifier24": {
+"asset": "particles/units/heroes/hero_monkey_king/monkey_king_spring.vpcf",
+"modifier": "particles/econ/items/monkey_king/arcana/water/monkey_king_spring_arcana_water.vpcf",
+"style": "1",
+"type": "particle"
+},
+"asset_modifier25": {
+"asset": "particles/units/heroes/hero_monkey_king/monkey_king_spring.vpcf",
+"modifier": "particles/econ/items/monkey_king/arcana/death/monkey_king_spring_arcana_death.vpcf",
+"style": "2",
+"type": "particle"
+},
+"asset_modifier26": {
+"asset": "particles/units/heroes/hero_monkey_king/monkey_king_spring.vpcf",
+"modifier": "particles/econ/items/monkey_king/arcana/fire/monkey_king_spring_arcana_fire.vpcf",
+"style": "3",
+"type": "particle"
+},
+"asset_modifier27": {
+"asset": "ALL",
+"modifier": "arcana",
+"type": "activity"
+},
+"asset_modifier28": {
+"skin": "1",
+"style": "0",
+"type": "model_skin"
+},
+"asset_modifier29": {
+"modifier": {
+"PortraitAmbientColor": "84 117 169",
+"PortraitAmbientDirection": "0.984 0.035 0.173",
+"PortraitAmbientScale": "6.841000",
+"PortraitAnimationActivity": "ACT_DOTA_CAPTURE",
+"PortraitAnimationCycle": "0.000000",
+"PortraitAnimationRate": "1.000000",
+"PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+"PortraitBackgroundColor2": "0.701961 0.945098 0.972549",
+"PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+"PortraitBackgroundColor4": "0.000000 0.101961 0.619608",
+"PortraitBackgroundTexture": "materials/vgui/hud/heroportraits/portraitbackground_underwater.vmat",
+"PortraitDesaturateHero": "1",
+"PortraitDesaturateParticles": "0",
+"PortraitGroundShadowScale": "1.500000",
+"PortraitHideDropShadow": "0",
+"PortraitHideHero": "0",
+"PortraitHideParticles": "0",
+"PortraitLightAngles": "39.280415 -38.589352 3.417898",
+"PortraitLightColor": "110 197 245",
+"PortraitLightDistance": "336.000000",
+"PortraitLightFOV": "44.910999",
+"PortraitLightPosition": "-68.951653 74.213028 247.996246",
+"PortraitLightScale": "3.493000",
+"PortraitShadowColor": "0 42 111",
+"PortraitShadowScale": "1.810000",
+"PortraitSpecularColor": "251 74 84",
+"PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+"PortraitSpecularPower": "16.000000",
+"cameras": {
+"default": {
+"PortraitAngles": "6.490043 151.230469 -13.679993",
+"PortraitFOV": "16.000000",
+"PortraitFar": "1000.000000",
+"PortraitPosition": "204.506866 -106.975311 194.506866"
+}
+}
+},
+"style": "1",
+"type": "portrait_game"
+},
+"asset_modifier3": {
+"skin": "2",
+"style": "1",
+"type": "model_skin"
+},
+"asset_modifier30": {
+"modifier": {
+"PortraitAmbientColor": "95 125 119",
+"PortraitAmbientDirection": "0.984 0.035 0.173",
+"PortraitAmbientScale": "6.841000",
+"PortraitAnimationActivity": "ACT_DOTA_CAPTURE",
+"PortraitAnimationCycle": "0.000000",
+"PortraitAnimationRate": "1.000000",
+"PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+"PortraitBackgroundColor2": "0.705882 0.972549 0.717647",
+"PortraitBackgroundColor3": "0.764706 1.000000 0.917647",
+"PortraitBackgroundColor4": "0.121569 0.756863 0.321569",
+"PortraitBackgroundTexture": "materials/vgui/hud/heroportraits/portraitbackground_graveyard.vmat",
+"PortraitDesaturateHero": "1",
+"PortraitDesaturateParticles": "0",
+"PortraitGroundShadowScale": "1.500000",
+"PortraitHideDropShadow": "0",
+"PortraitHideHero": "0",
+"PortraitHideParticles": "0",
+"PortraitLightAngles": "39.280415 -38.589352 3.417898",
+"PortraitLightColor": "166 176 205",
+"PortraitLightDistance": "336.000000",
+"PortraitLightFOV": "44.910999",
+"PortraitLightPosition": "-68.951653 74.213028 247.996246",
+"PortraitLightScale": "3.691000",
+"PortraitShadowColor": "90 0 111",
+"PortraitShadowScale": "1.810000",
+"PortraitSpecularColor": "251 74 84",
+"PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+"PortraitSpecularPower": "16.000000",
+"cameras": {
+"default": {
+"PortraitAngles": "6.490043 151.230469 -13.679993",
+"PortraitFOV": "16.000000",
+"PortraitFar": "1000.000000",
+"PortraitPosition": "204.506866 -106.975311 194.506866"
+}
+}
+},
+"style": "2",
+"type": "portrait_game"
+},
+"asset_modifier31": {
+"modifier": {
+"PortraitAmbientColor": "141 127 129",
+"PortraitAmbientDirection": "0.984 0.035 0.173",
+"PortraitAmbientScale": "6.841000",
+"PortraitAnimationActivity": "ACT_DOTA_CAPTURE",
+"PortraitAnimationCycle": "0.000000",
+"PortraitAnimationRate": "1.000000",
+"PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+"PortraitBackgroundColor2": "1.000000 0.847059 0.180392",
+"PortraitBackgroundColor3": "0.980392 0.333333 0.333333",
+"PortraitBackgroundColor4": "0.619608 0.000000 0.596078",
+"PortraitBackgroundTexture": "materials/vgui/hud/heroportraits/portraitbackground_desert.vmat",
+"PortraitDesaturateHero": "1",
+"PortraitDesaturateParticles": "0",
+"PortraitGroundShadowScale": "1.500000",
+"PortraitHideDropShadow": "0",
+"PortraitHideHero": "0",
+"PortraitHideParticles": "0",
+"PortraitLightAngles": "39.280415 -38.589352 3.417898",
+"PortraitLightColor": "255 161 0",
+"PortraitLightDistance": "336.000000",
+"PortraitLightFOV": "44.910999",
+"PortraitLightPosition": "-68.951653 74.213028 247.996246",
+"PortraitLightScale": "3.493000",
+"PortraitShadowColor": "111 0 0",
+"PortraitShadowScale": "1.810000",
+"PortraitSpecularColor": "251 74 84",
+"PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+"PortraitSpecularPower": "16.000000",
+"cameras": {
+"default": {
+"PortraitAngles": "6.490043 151.230469 -13.679993",
+"PortraitFOV": "16.000000",
+"PortraitFar": "1000.000000",
+"PortraitPosition": "204.506866 -106.975311 194.506866"
+}
+}
+},
+"style": "3",
+"type": "portrait_game"
+},
+"asset_modifier32": {
+"asset": "base",
+"modifier": "arcana_type",
+"style": "0",
+"type": "response_criteria"
+},
+"asset_modifier33": {
+"asset": "water",
+"modifier": "arcana_type",
+"style": "1",
+"type": "response_criteria"
+},
+"asset_modifier34": {
+"asset": "fire",
+"modifier": "arcana_type",
+"style": "3",
+"type": "response_criteria"
+},
+"asset_modifier4": {
+"skin": "3",
+"style": "2",
+"type": "model_skin"
+},
+"asset_modifier40": {
+"asset": "npc_dota_hero_monkey_king",
+"force_display": "1",
+"modifier": "npc_dota_hero_monkey_king_alt1",
+"type": "icon_replacement_hero"
+},
+"asset_modifier5": {
+"skin": "4",
+"style": "3",
+"type": "model_skin"
+},
+"asset_modifier6": {
+"modifier": "particles/econ/items/monkey_king/arcana/monkey_king_arcana_crown.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"asset_modifier7": {
+"modifier": "particles/econ/items/monkey_king/arcana/monkey_king_arcana_water.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"asset_modifier8": {
+"asset": "particles/units/heroes/hero_monkey_king/monkey_king_spring_channel.vpcf",
+"modifier": "particles/econ/items/monkey_king/arcana/death/monkey_king_spring_arcana_death_channel.vpcf",
+"style": "2",
+"type": "particle"
+},
+"asset_modifier9": {
+"offset": "220",
+"type": "healthbar_offset"
+},
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"auto_style_reason": "#DOTA_AutoStyle_Initial_Style_Reason",
+"auto_style_rule": "monkey_king_wukongs_command == 0",
+"name": "#DOTA_Style_Monkey_King_Arcana_Base",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"auto_style_reason": "#DOTA_Style_Monkey_King_Arcana_Water_Reason",
+"auto_style_rule": "monkey_king_wukongs_command == 1",
+"name": "#DOTA_Style_Monkey_King_Arcana_Water",
+"skin": "1"
+},
+"2": {
+"alternate_icon": "2",
+"auto_style_reason": "#DOTA_Style_Monkey_King_Arcana_Death_Reason",
+"auto_style_rule": "monkey_king_wukongs_command == 2",
+"name": "#DOTA_Style_Monkey_King_Arcana_Death",
+"skin": "2"
+},
+"3": {
+"alternate_icon": "3",
+"auto_style_reason": "#DOTA_Style_Monkey_King_Arcana_Fire_Reason",
+"auto_style_rule": "monkey_king_wukongs_command == 3",
+"name": "#DOTA_Style_Monkey_King_Arcana_Fire",
+"skin": "3"
+}
+}
+}
+}
+},
+"H": {},
+"I": {},
+"J": {},
+"K": {},
+"L": {},
+"M": {},
+"N": {},
+"O": {},
+"P": {},
+"Q": {},
+"R": {},
+"S": {},
+"T": {},
+"V": {},
+"W": {
+"Wings of the Arch Temptress": {
+"creation_date": "2015-01-19",
+"image_inventory": "econ/items/queenofpain/dotapit_s3_abyssal_temptress_back/dotapit_s3_abyssal_temptress_back",
+"item_name": "#DOTA_Item_Wings_of_the_Arch_Temptress",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_Wings",
+"model_player": "models/items/queenofpain/dotapit_s3_abyssal_temptress_back/dotapit_s3_abyssal_temptress_back.vmdl",
+"name": "Wings of the Arch Temptress",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_queenofpain": "1"
+}
+}
+},
+"Y": {}
+}
