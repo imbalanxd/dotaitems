@@ -1,0 +1,402 @@
+{
+"A": {
+"Armor of the Wrathful Annihilator": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/axe/essentials_of_the_blood_edge_armor/essentials_of_the_blood_edge_armor",
+"item_name": "#DOTA_Item_Armor_of_the_Wrathful_Annihilator",
+"item_rarity": "rare",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/axe/essentials_of_the_blood_edge_armor/essentials_of_the_blood_edge_armor.vmdl",
+"name": "Armor of the Wrathful Annihilator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_axe": "1"
+}
+},
+"Arms of the Ancient Seal": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/treant/ancient_seal_protector_set_arms/ancient_seal_protector_set_arms",
+"item_name": "#DOTA_Item_Arms_of_the_Ancient_Seal",
+"item_rarity": "rare",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/treant/ancient_seal_protector_set_arms/ancient_seal_protector_set_arms.vmdl",
+"name": "Arms of the Ancient Seal",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_treant": "1"
+}
+},
+"Axe of the Wrathful Annihilator": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/axe/essentials_of_the_blood_edge_weapon/essentials_of_the_blood_edge_weapon",
+"item_name": "#DOTA_Item_Axe_of_the_Wrathful_Annihilator",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/axe/essentials_of_the_blood_edge_weapon/essentials_of_the_blood_edge_weapon.vmdl",
+"name": "Axe of the Wrathful Annihilator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_axe": "1"
+}
+}
+},
+"B": {
+"Beard of the Scourge Dominion": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/necrolyte/plague_lord_plague_lord_beard/plague_lord_plague_lord_beard",
+"item_name": "#DOTA_Item_Beard_of_the_Scourge_Dominion",
+"item_rarity": "rare",
+"item_slot": "body_head",
+"item_type_name": "#DOTA_WearableType_body_head",
+"model_player": "models/items/necrolyte/plague_lord_plague_lord_beard/plague_lord_plague_lord_beard.vmdl",
+"name": "Beard of the Scourge Dominion",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_necrolyte": "1"
+}
+},
+"Bearing of the Ancient Seal": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/treant/ancient_seal_protector_set_shoulder/ancient_seal_protector_set_shoulder",
+"item_name": "#DOTA_Item_Bearing_of_the_Ancient_Seal",
+"item_rarity": "rare",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/treant/ancient_seal_protector_set_shoulder/ancient_seal_protector_set_shoulder.vmdl",
+"name": "Bearing of the Ancient Seal",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_treant": "1"
+}
+},
+"Belt of the Wrathful Annihilator": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/axe/essentials_of_the_blood_edge_belt/essentials_of_the_blood_edge_belt",
+"item_name": "#DOTA_Item_Belt_of_the_Wrathful_Annihilator",
+"item_rarity": "rare",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/axe/essentials_of_the_blood_edge_belt/essentials_of_the_blood_edge_belt.vmdl",
+"name": "Belt of the Wrathful Annihilator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_axe": "1"
+}
+}
+},
+"C": {
+"Carapice of the Rancorous Nemesis ": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/nerubian_assassin/savage_predator_back/savage_predator_back",
+"item_name": "#DOTA_Item_Carapice_of_the_Rancorous_Nemesis_",
+"item_rarity": "rare",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/nerubian_assassin/savage_predator_back/savage_predator_back.vmdl",
+"name": "Carapice of the Rancorous Nemesis ",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+}
+},
+"Claws of the Rancorous Nemesis": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/nerubian_assassin/savage_predator_weapon/savage_predator_weapon",
+"item_name": "#DOTA_Item_Claws_of_the_Rancorous_Nemesis",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/nerubian_assassin/savage_predator_weapon/savage_predator_weapon.vmdl",
+"name": "Claws of the Rancorous Nemesis",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+}
+},
+"Crown of the Scourge Dominion": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/necrolyte/plague_lord_plague_lord_head/plague_lord_plague_lord_head",
+"item_name": "#DOTA_Item_Crown_of_the_Scourge_Dominion",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/necrolyte/plague_lord_plague_lord_head/plague_lord_plague_lord_head.vmdl",
+"name": "Crown of the Scourge Dominion",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_necrolyte": "1"
+}
+}
+},
+"D": {},
+"E": {
+"Essence of the Trickster Crown": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/puck/essence_of_the_trickster_head/essence_of_the_trickster_head",
+"item_name": "#DOTA_Item_Essence_of_the_Trickster_Crown",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/puck/essence_of_the_trickster_head/essence_of_the_trickster_head.vmdl",
+"name": "Essence of the Trickster Crown",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_puck": "1"
+}
+},
+"Essence of the Trickster Tail": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/puck/essence_of_the_trickster_tail/essence_of_the_trickster_tail",
+"item_name": "#DOTA_Item_Essence_of_the_Trickster_Tail",
+"item_rarity": "rare",
+"item_slot": "tail",
+"item_type_name": "#DOTA_WearableType_tail",
+"model_player": "models/items/puck/essence_of_the_trickster_tail/essence_of_the_trickster_tail.vmdl",
+"name": "Essence of the Trickster Tail",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_puck": "1"
+}
+},
+"Essence of the Trickster Wings": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/puck/essence_of_the_trickster_back/essence_of_the_trickster_back",
+"item_name": "#DOTA_Item_Essence_of_the_Trickster_Wings",
+"item_rarity": "rare",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/puck/essence_of_the_trickster_back/essence_of_the_trickster_back.vmdl",
+"name": "Essence of the Trickster Wings",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_puck": "1"
+}
+}
+},
+"F": {
+"Flail of the Burning Nightmare": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/chaos_knight/burning_nightmare_chaos_knight_weapon/burning_nightmare_chaos_knight_weapon",
+"item_name": "#DOTA_Item_Flail_of_the_Burning_Nightmare",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/chaos_knight/burning_nightmare_chaos_knight_weapon/burning_nightmare_chaos_knight_weapon.vmdl",
+"name": "Flail of the Burning Nightmare",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_chaos_knight": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_chaos_knight/chaos_knight_ambient_mace.vpcf",
+"type": "particle_create"
+}
+}
+}
+},
+"G": {},
+"H": {
+"Helm of the Burning Nightmare": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/chaos_knight/burning_nightmare_chaos_knight_head/burning_nightmare_chaos_knight_head",
+"item_name": "#DOTA_Item_Helm_of_the_Burning_Nightmare",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/chaos_knight/burning_nightmare_chaos_knight_head/burning_nightmare_chaos_knight_head.vmdl",
+"name": "Helm of the Burning Nightmare",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_chaos_knight": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_chaos_knight/chaos_knight_ambient_helmet.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Hood of the Wrathful Annihilator": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/axe/essentials_of_the_blood_edge_head/essentials_of_the_blood_edge_head",
+"item_name": "#DOTA_Item_Hood_of_the_Wrathful_Annihilator",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/axe/essentials_of_the_blood_edge_head/essentials_of_the_blood_edge_head.vmdl",
+"name": "Hood of the Wrathful Annihilator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_axe": "1"
+}
+},
+"Horn of the Rancorous Nemesis": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/nerubian_assassin/savage_predator_head/savage_predator_head",
+"item_name": "#DOTA_Item_Horn_of_the_Rancorous_Nemesis",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/nerubian_assassin/savage_predator_head/savage_predator_head.vmdl",
+"name": "Horn of the Rancorous Nemesis",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+}
+},
+"Horns of the Wrathful Annihilator": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/axe/essentials_of_the_blood_edge_misc/essentials_of_the_blood_edge_misc",
+"item_name": "#DOTA_Item_Horns_of_the_Wrathful_Annihilator",
+"item_rarity": "rare",
+"item_slot": "misc",
+"model_player": "models/items/axe/essentials_of_the_blood_edge_misc/essentials_of_the_blood_edge_misc.vmdl",
+"name": "Horns of the Wrathful Annihilator",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_axe": "1"
+}
+}
+},
+"I": {},
+"J": {},
+"K": {},
+"L": {},
+"M": {
+"Mantle of the Scourge Dominion": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/necrolyte/plague_lord_plague_lord_shoulder/plague_lord_plague_lord_shoulder",
+"item_name": "#DOTA_Item_Mantle_of_the_Scourge_Dominion",
+"item_rarity": "rare",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/necrolyte/plague_lord_plague_lord_shoulder/plague_lord_plague_lord_shoulder.vmdl",
+"name": "Mantle of the Scourge Dominion",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_necrolyte": "1"
+}
+},
+"Mount of the Burning Nightmare": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/chaos_knight/burning_nightmare_chaos_knight_mount/burning_nightmare_chaos_knight_mount",
+"item_name": "#DOTA_Item_Mount_of_the_Burning_Nightmare",
+"item_rarity": "rare",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_mount",
+"model_player": "models/items/chaos_knight/burning_nightmare_chaos_knight_mount/burning_nightmare_chaos_knight_mount.vmdl",
+"name": "Mount of the Burning Nightmare",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_chaos_knight": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_chaos_knight/chaos_knight_horse_ambient.vpcf",
+"type": "particle_create"
+},
+"asset_modifier2": {
+"modifier": "particles/units/heroes/hero_chaos_knight/chaos_knight_feet_effects.vpcf",
+"type": "particle_create"
+}
+}
+}
+},
+"N": {},
+"O": {
+"Overgrowth of the Ancient Seal": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/treant/ancient_seal_protector_set_head/ancient_seal_protector_set_head",
+"item_name": "#DOTA_Item_Overgrowth_of_the_Ancient_Seal",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/treant/ancient_seal_protector_set_head/ancient_seal_protector_set_head.vmdl",
+"name": "Overgrowth of the Ancient Seal",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_treant": "1"
+}
+}
+},
+"P": {
+"Pauldrons of the Burning Nightmare": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/chaos_knight/burning_nightmare_chaos_knight_shoulder/burning_nightmare_chaos_knight_shoulder",
+"item_name": "#DOTA_Item_Pauldrons_of_the_Burning_Nightmare",
+"item_rarity": "rare",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/chaos_knight/burning_nightmare_chaos_knight_shoulder/burning_nightmare_chaos_knight_shoulder.vmdl",
+"name": "Pauldrons of the Burning Nightmare",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_chaos_knight": "1"
+}
+}
+},
+"Q": {},
+"R": {},
+"S": {
+"Scythe of the Scourge Dominion": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/necrolyte/plague_lord_plague_lord_weapon/plague_lord_plague_lord_weapon",
+"item_name": "#DOTA_Item_Scythe_of_the_Scourge_Dominion",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/necrolyte/plague_lord_plague_lord_weapon/plague_lord_plague_lord_weapon.vmdl",
+"name": "Scythe of the Scourge Dominion",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_necrolyte": "1"
+}
+},
+"Shield of the Burning Nightmare": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/chaos_knight/burning_nightmare_chaos_knight_off_hand/burning_nightmare_chaos_knight_off_hand",
+"item_name": "#DOTA_Item_Shield_of_the_Burning_Nightmare",
+"item_rarity": "rare",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/chaos_knight/burning_nightmare_chaos_knight_off_hand/burning_nightmare_chaos_knight_off_hand.vmdl",
+"name": "Shield of the Burning Nightmare",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_chaos_knight": "1"
+}
+},
+"Sting of the Rancorous Nemesis": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/nerubian_assassin/savage_predator_misc/savage_predator_misc",
+"item_name": "#DOTA_Item_Sting_of_the_Rancorous_Nemesis",
+"item_rarity": "rare",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_misc",
+"model_player": "models/items/nerubian_assassin/savage_predator_misc/savage_predator_misc.vmdl",
+"name": "Sting of the Rancorous Nemesis",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+}
+},
+"Stumps of the Ancient Seal": {
+"creation_date": "2016-11-21",
+"image_inventory": "econ/items/treant/ancient_seal_protector_set_legs/ancient_seal_protector_set_legs",
+"item_name": "#DOTA_Item_Stumps_of_the_Ancient_Seal",
+"item_rarity": "rare",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_legs",
+"model_player": "models/items/treant/ancient_seal_protector_set_legs/ancient_seal_protector_set_legs.vmdl",
+"name": "Stumps of the Ancient Seal",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_treant": "1"
+}
+}
+},
+"T": {},
+"V": {},
+"W": {},
+"Y": {}
+}
