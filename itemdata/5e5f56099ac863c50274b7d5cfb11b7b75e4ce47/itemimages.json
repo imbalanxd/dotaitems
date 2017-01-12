@@ -1,0 +1,30 @@
+{
+"weta_besieger_of_worlds": {
+"large": "icons/econ/items/spirit_breaker/weta_besieger_of_worlds/weta_besieger_of_worlds_large.966fb0202b6608d500f773caadb6c4df9061abaf.png",
+"normal": "icons/econ/items/spirit_breaker/weta_besieger_of_worlds/weta_besieger_of_worlds.9c2a4af65a8e350d42571edcc03266ecf3d0e78f.png"
+},
+"weta_call_of_the_nether_lotus_ward_npc_dota_pugna_nether_ward": {
+"large": "icons/econ/items/pugna/ward/weta_call_of_the_nether_lotus_ward/weta_call_of_the_nether_lotus_ward_npc_dota_pugna_nether_ward_large.8eb4d35e3b61c77f7c9fc24f8835dfa0da469113.png",
+"normal": "icons/econ/items/pugna/ward/weta_call_of_the_nether_lotus_ward/weta_call_of_the_nether_lotus_ward_npc_dota_pugna_nether_ward.e89d0fe419df23d47f394916c26713023c38b882.png"
+},
+"weta_catacysm_edge_weapon": {
+"large": "icons/econ/items/chaos_knight/weta_catacysm_edge_weapon/weta_catacysm_edge_weapon_large.ad991502d967a37a8785c942ada59ad1f8d72f45.png",
+"normal": "icons/econ/items/chaos_knight/weta_catacysm_edge_weapon/weta_catacysm_edge_weapon.572edda042c7c375a3f3f3d4a137850322d90329.png"
+},
+"weta_divine_grace": {
+"large": "icons/econ/items/mirana/weta_divine_grace/weta_divine_grace_large.e71f99e86c4d5e48a8be8cbee78b5e45730063bc.png",
+"normal": "icons/econ/items/mirana/weta_divine_grace/weta_divine_grace.66990ef7804d072a68502289c220888ca6f13c49.png"
+},
+"weta_fractured_sword_of_eternity_weapon": {
+"large": "icons/econ/items/abaddon/weta_fractured_sword_of_eternity_weapon/weta_fractured_sword_of_eternity_weapon_large.6dac884c11ab753129fc7a6a2109356e0828e9b6.png",
+"normal": "icons/econ/items/abaddon/weta_fractured_sword_of_eternity_weapon/weta_fractured_sword_of_eternity_weapon.62d7a0250a83d1733e840b1ef275034dfa7e4189.png"
+},
+"weta_hallgul_war_mount": {
+"large": "icons/econ/items/abaddon/weta_hallgul_war_mount/weta_hallgul_war_mount_large.a071ca3f0fc51deeeb87400cf793ab503f3ae477.png",
+"normal": "icons/econ/items/abaddon/weta_hallgul_war_mount/weta_hallgul_war_mount.4137c92c14016ac73fa50d96ab6af7dc9fdb97fe.png"
+},
+"weta_solace_of_divinity_weapon": {
+"large": "icons/econ/items/phantom_assassin/weta_solace_of_divinity_weapon/weta_solace_of_divinity_weapon_large.31e40e960a22463f52c08b2417ecc2bd858cf24b.png",
+"normal": "icons/econ/items/phantom_assassin/weta_solace_of_divinity_weapon/weta_solace_of_divinity_weapon.482423adb816283a44775cccf432a80fc498d4fb.png"
+}
+}

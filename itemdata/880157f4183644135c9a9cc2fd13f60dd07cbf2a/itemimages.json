@@ -1,0 +1,86 @@
+{
+"armor_of_reckless_vigor_arms": {
+"large": "icons/econ/items/huskar/armor_of_reckless_vigor_arms/armor_of_reckless_vigor_arms_large.35b7701a7945438282bb13f2146bb2b52a2e0b92.png",
+"normal": "icons/econ/items/huskar/armor_of_reckless_vigor_arms/armor_of_reckless_vigor_arms.a2d05a8f62447134d924a1c79360e2c23ef31c1d.png"
+},
+"armor_of_reckless_vigor_head": {
+"large": "icons/econ/items/huskar/armor_of_reckless_vigor_head/armor_of_reckless_vigor_head_large.91cff2537edf494ff3af08d226e107d9ad987089.png",
+"normal": "icons/econ/items/huskar/armor_of_reckless_vigor_head/armor_of_reckless_vigor_head.b0999c6b5298a82b63c619943d89ed3d9133d6d2.png"
+},
+"armor_of_reckless_vigor_offhand": {
+"large": "icons/econ/items/huskar/armor_of_reckless_vigor_offhand/armor_of_reckless_vigor_offhand_large.f527f50c3484ebc6d7242c8a7960bb99dfe95279.png",
+"normal": "icons/econ/items/huskar/armor_of_reckless_vigor_offhand/armor_of_reckless_vigor_offhand.9fa62162073ea5c1ad109ffa40bca59070b13ade.png"
+},
+"armor_of_reckless_vigor_shoulder": {
+"large": "icons/econ/items/huskar/armor_of_reckless_vigor_shoulder/armor_of_reckless_vigor_shoulder_large.c08acc169cc3685815a1b5a70706fa04ee9d1fab.png",
+"normal": "icons/econ/items/huskar/armor_of_reckless_vigor_shoulder/armor_of_reckless_vigor_shoulder.0478a0d05bc63b2df57a9df2e7353df14ad6d6e7.png"
+},
+"armor_of_reckless_vigor_weapon": {
+"large": "icons/econ/items/huskar/armor_of_reckless_vigor_weapon/armor_of_reckless_vigor_weapon_large.5021113349046a4570d46c01caf5f8bde0947855.png",
+"normal": "icons/econ/items/huskar/armor_of_reckless_vigor_weapon/armor_of_reckless_vigor_weapon.eb567913216dd06e328532ece9f58366ca89e694.png"
+},
+"defender_of_joerlak_arms": {
+"large": "icons/econ/items/magnataur/defender_of_joerlak_arms/defender_of_joerlak_arms_large.8b95b882e5fe288d5ecab2f85341b10bd5939c70.png",
+"normal": "icons/econ/items/magnataur/defender_of_joerlak_arms/defender_of_joerlak_arms.1ff5d8159453b265454f6190929e579fd2810326.png"
+},
+"defender_of_joerlak_belt": {
+"large": "icons/econ/items/magnataur/defender_of_joerlak_belt/defender_of_joerlak_belt_large.98b1ab3a4772ce3fef964bc87630047e97cda262.png",
+"normal": "icons/econ/items/magnataur/defender_of_joerlak_belt/defender_of_joerlak_belt.bdcc917802f831227aeb803435325efa0ca12d61.png"
+},
+"defender_of_joerlak_head": {
+"large": "icons/econ/items/magnataur/defender_of_joerlak_head/defender_of_joerlak_head_large.434bc719ef15b223b43e76afa16d37bd86ff0feb.png",
+"normal": "icons/econ/items/magnataur/defender_of_joerlak_head/defender_of_joerlak_head.67b6d929cf64057e286bd4a363ccf1dc3afb1605.png"
+},
+"defender_of_joerlak_misc": {
+"large": "icons/econ/items/magnataur/defender_of_joerlak_misc/defender_of_joerlak_misc_large.312f81c07cfe092d3649ca8984fc3f20b3096cbe.png",
+"normal": "icons/econ/items/magnataur/defender_of_joerlak_misc/defender_of_joerlak_misc.00d3a06cd931826ed119750af964a843e36f6fb0.png"
+},
+"defender_of_joerlak_weapon": {
+"large": "icons/econ/items/magnataur/defender_of_joerlak_weapon/defender_of_joerlak_weapon_large.295be38e7eacf9aff38b9a3e117bfdba286b961c.png",
+"normal": "icons/econ/items/magnataur/defender_of_joerlak_weapon/defender_of_joerlak_weapon.bc4c8da33e84f167d3290cfc1ca4b039b8919be8.png"
+},
+"elusive_destroyer_arms": {
+"large": "icons/econ/items/sand_king/elusive_destroyer_arms/elusive_destroyer_arms_large.f565b1abd23ff81617722be6094411049f77e636.png",
+"normal": "icons/econ/items/sand_king/elusive_destroyer_arms/elusive_destroyer_arms.00c2793756b962b2fa5f07efe52d59053c45a2ce.png"
+},
+"elusive_destroyer_back": {
+"large": "icons/econ/items/sand_king/elusive_destroyer_back/elusive_destroyer_back_large.0641d3daff465e53f229bf37cfbcf1bb9fbe78b3.png",
+"normal": "icons/econ/items/sand_king/elusive_destroyer_back/elusive_destroyer_back.9a6f94477c92d39d90a1bdb635402f9f67c847e7.png"
+},
+"elusive_destroyer_head": {
+"large": "icons/econ/items/sand_king/elusive_destroyer_head/elusive_destroyer_head_large.dcd4c2db40fe00175ba4e6ae4c2eb5cd1a1fea39.png",
+"normal": "icons/econ/items/sand_king/elusive_destroyer_head/elusive_destroyer_head.39fb9d225880daa9b82763c3e21ad649ebc44bf3.png"
+},
+"elusive_destroyer_legs": {
+"large": "icons/econ/items/sand_king/elusive_destroyer_legs/elusive_destroyer_legs_large.5ef3addfb2c7ac64134d5ceaebb450e82226c5a3.png",
+"normal": "icons/econ/items/sand_king/elusive_destroyer_legs/elusive_destroyer_legs.6fe2831ee2e9f53e47bd31f8f3354cc4c27df27d.png"
+},
+"elusive_destroyer_shoulder": {
+"large": "icons/econ/items/sand_king/elusive_destroyer_shoulder/elusive_destroyer_shoulder_large.34cfadc3237aa264859e3d23a913c679a919c8ba.png",
+"normal": "icons/econ/items/sand_king/elusive_destroyer_shoulder/elusive_destroyer_shoulder.c688239ddd486aedb8e3e0ca7e263fdfc39a3464.png"
+},
+"frosty_blow_arms": {
+"large": "icons/econ/items/rikimaru/frosty_blow_arms/frosty_blow_arms_large.9a1fb53b82c189fc5f6a47396dd6bb438c4f2b04.png",
+"normal": "icons/econ/items/rikimaru/frosty_blow_arms/frosty_blow_arms.8606a887491ea5469b7f3e5e4dd5f090ae811c63.png"
+},
+"frosty_blow_head": {
+"large": "icons/econ/items/rikimaru/frosty_blow_head/frosty_blow_head_large.b03ec7a0efb8635d7a8a4fcef39e15c6fc35b968.png",
+"normal": "icons/econ/items/rikimaru/frosty_blow_head/frosty_blow_head.5371c5b3fb9e641468a49f0bc15f25d47b04648b.png"
+},
+"frosty_blow_offhand": {
+"large": "icons/econ/items/rikimaru/frosty_blow_offhand/frosty_blow_offhand_large.37a7bd2b3a0dbc2fc4f105358bceab24b064ec0b.png",
+"normal": "icons/econ/items/rikimaru/frosty_blow_offhand/frosty_blow_offhand.4fed859473048389ac5ce113834e95d1f125a1da.png"
+},
+"frosty_blow_shoulder": {
+"large": "icons/econ/items/rikimaru/frosty_blow_shoulder/frosty_blow_shoulder_large.708ccb65ef5d97a98b5ba0aca26922cbbb725fff.png",
+"normal": "icons/econ/items/rikimaru/frosty_blow_shoulder/frosty_blow_shoulder.2ce023cad9a417eb4727a099615de8db7955b4fd.png"
+},
+"frosty_blow_tail": {
+"large": "icons/econ/items/rikimaru/frosty_blow_tail/frosty_blow_tail_large.3b89a3ddee9caecad783d7ce7fa6e9449909b7a5.png",
+"normal": "icons/econ/items/rikimaru/frosty_blow_tail/frosty_blow_tail.208abc0903383a44a8b158e1bc402542a3f8d220.png"
+},
+"frosty_blow_weapon": {
+"large": "icons/econ/items/rikimaru/frosty_blow_weapon/frosty_blow_weapon_large.19b559534f8c770149db06c6f88c19917e6048cd.png",
+"normal": "icons/econ/items/rikimaru/frosty_blow_weapon/frosty_blow_weapon.cb3b40679f038e4e04eb259e1f099353c3e6969e.png"
+}
+}

@@ -1,0 +1,138 @@
+{
+"armor_for_the_favorite_arms": {
+"large": "icons/econ/items/juggernaut/armor_for_the_favorite_arms/armor_for_the_favorite_arms_large.666ee1f9aac0001a578a0f2f6ab30cf702ada694.png",
+"normal": "icons/econ/items/juggernaut/armor_for_the_favorite_arms/armor_for_the_favorite_arms.457569067b8f45d195f1d97c5283ff7a985d1cf1.png"
+},
+"armor_for_the_favorite_back": {
+"large": "icons/econ/items/juggernaut/armor_for_the_favorite_back/armor_for_the_favorite_back_large.a7537716ae582718278329089379313fb126d902.png",
+"normal": "icons/econ/items/juggernaut/armor_for_the_favorite_back/armor_for_the_favorite_back.5708cc1e78ed4746fff458f53214bcb34bef1c4e.png"
+},
+"armor_for_the_favorite_head": {
+"large": "icons/econ/items/juggernaut/armor_for_the_favorite_head/armor_for_the_favorite_head_large.40f7ec61632d1f05e26e5d1a5c11fe9894a7fbbc.png",
+"normal": "icons/econ/items/juggernaut/armor_for_the_favorite_head/armor_for_the_favorite_head.39663b0e612abb327602a6549b2518c1d2e01527.png"
+},
+"armor_for_the_favorite_legs": {
+"large": "icons/econ/items/juggernaut/armor_for_the_favorite_legs/armor_for_the_favorite_legs_large.394d7c9a1398dcdb2ae52ac7d0948ec496b7989c.png",
+"normal": "icons/econ/items/juggernaut/armor_for_the_favorite_legs/armor_for_the_favorite_legs.927100d4eadb05b5bbd7ef7081266bcc50e05ff0.png"
+},
+"armor_for_the_favorite_weapon": {
+"large": "icons/econ/items/juggernaut/armor_for_the_favorite_weapon/armor_for_the_favorite_weapon_large.c17a7a5e74aad882e06a602ece9a46913f36ba13.png",
+"normal": "icons/econ/items/juggernaut/armor_for_the_favorite_weapon/armor_for_the_favorite_weapon.9fc42402b8f1587c629fd6662a334e51b515d66b.png"
+},
+"fearless_impactor_arms": {
+"large": "icons/econ/items/spirit_breaker/fearless_impactor_arms/fearless_impactor_arms_large.2d3adda4c347209c87ca7bcbb1d2650621b669cb.png",
+"normal": "icons/econ/items/spirit_breaker/fearless_impactor_arms/fearless_impactor_arms.36fbc7c522a4d2aaa1c941d5a4835455deb2ccec.png"
+},
+"fearless_impactor_belt": {
+"large": "icons/econ/items/spirit_breaker/fearless_impactor_belt/fearless_impactor_belt_large.a70704366c52ca9215edf6515f0b618943efd1ef.png",
+"normal": "icons/econ/items/spirit_breaker/fearless_impactor_belt/fearless_impactor_belt.4f5e2a7c5a5993977876b1058225190b2183d695.png"
+},
+"fearless_impactor_head": {
+"large": "icons/econ/items/spirit_breaker/fearless_impactor_head/fearless_impactor_head_large.e92d972371824241f177c468621fd2ada39243fa.png",
+"normal": "icons/econ/items/spirit_breaker/fearless_impactor_head/fearless_impactor_head.ffd6ca69dc185eb956cea49cae0e1f4918965e6b.png"
+},
+"fearless_impactor_shoulder": {
+"large": "icons/econ/items/spirit_breaker/fearless_impactor_shoulder/fearless_impactor_shoulder_large.26b945d5188e986c7c89dbf2605563052c0d32ff.png",
+"normal": "icons/econ/items/spirit_breaker/fearless_impactor_shoulder/fearless_impactor_shoulder.907c97b7ae947531c8651fee1a84cb203f5447d7.png"
+},
+"fearless_impactor_tail": {
+"large": "icons/econ/items/spirit_breaker/fearless_impactor_tail/fearless_impactor_tail_large.94f2b140b802be7442c0d0292dc91d2323eb8b20.png",
+"normal": "icons/econ/items/spirit_breaker/fearless_impactor_tail/fearless_impactor_tail.cea2116a3697d077fe69f17bdef1a55e0ab2e8f3.png"
+},
+"fearless_impactor_weapon": {
+"large": "icons/econ/items/spirit_breaker/fearless_impactor_weapon/fearless_impactor_weapon_large.62b222411ff7e87982657b30ad4fb3d41886df23.png",
+"normal": "icons/econ/items/spirit_breaker/fearless_impactor_weapon/fearless_impactor_weapon.2c686fae49dd4f640d842b705fee5a115cd9e3d7.png"
+},
+"imperious_tactician_arms": {
+"large": "icons/econ/items/dark_seer/imperious_tactician_arms/imperious_tactician_arms_large.3b5e3cc05acdc246dfbb0f512d8ca9c78e0286b7.png",
+"normal": "icons/econ/items/dark_seer/imperious_tactician_arms/imperious_tactician_arms.0f67e1b9b782bfedd565f0ef6be669b4ce0d0153.png"
+},
+"imperious_tactician_back": {
+"large": "icons/econ/items/dark_seer/imperious_tactician_back/imperious_tactician_back_large.03a2cec905e12d03f3652797e340465bef732cee.png",
+"normal": "icons/econ/items/dark_seer/imperious_tactician_back/imperious_tactician_back.67e5374a24bf5bcebd16dbfb8e0b858e92427509.png"
+},
+"imperious_tactician_belt": {
+"large": "icons/econ/items/dark_seer/imperious_tactician_belt/imperious_tactician_belt_large.6d7877c9057f8c36fc05fd225cd43312f7f730a1.png",
+"normal": "icons/econ/items/dark_seer/imperious_tactician_belt/imperious_tactician_belt.25d89fc7b990650068c790ed1f3959c1762e2cc2.png"
+},
+"imperious_tactician_head": {
+"large": "icons/econ/items/dark_seer/imperious_tactician_head/imperious_tactician_head_large.04432bd9b099398fd17d8e32d2e0a6e86fbe0f27.png",
+"normal": "icons/econ/items/dark_seer/imperious_tactician_head/imperious_tactician_head.503e19da2205cbbd263aef2b4f738a23f59a1d4a.png"
+},
+"imperious_tactician_shoulder": {
+"large": "icons/econ/items/dark_seer/imperious_tactician_shoulder/imperious_tactician_shoulder_large.bda3df481225b6de040f8a0ecdbcc1842e1f6aa4.png",
+"normal": "icons/econ/items/dark_seer/imperious_tactician_shoulder/imperious_tactician_shoulder.cd2ec7d16ffb184ea903d06bed9456d15c8a58d9.png"
+},
+"inferno_rambler_for_lion_arms": {
+"large": "icons/econ/items/lion/inferno_rambler_for_lion_arms/inferno_rambler_for_lion_arms_large.86667285bdb106ec2d12435c2b7445c30235b891.png",
+"normal": "icons/econ/items/lion/inferno_rambler_for_lion_arms/inferno_rambler_for_lion_arms.bb9d90275e40414758667f108ae97e6d4e07a615.png"
+},
+"inferno_rambler_for_lion_back": {
+"large": "icons/econ/items/lion/inferno_rambler_for_lion_back/inferno_rambler_for_lion_back_large.9ec46a3a0c6a1ef2c850a16c5d755f8b908c66bd.png",
+"normal": "icons/econ/items/lion/inferno_rambler_for_lion_back/inferno_rambler_for_lion_back.8122d2c988819a108629f6e2fc490800d67a411a.png"
+},
+"inferno_rambler_for_lion_head": {
+"large": "icons/econ/items/lion/inferno_rambler_for_lion_head/inferno_rambler_for_lion_head_large.340ce36f3103db992d993ebabc65dad626d73d19.png",
+"normal": "icons/econ/items/lion/inferno_rambler_for_lion_head/inferno_rambler_for_lion_head.82c61c5505cd091588c9723aae5dd6d4ab2c544a.png"
+},
+"inferno_rambler_for_lion_shoulder": {
+"large": "icons/econ/items/lion/inferno_rambler_for_lion_shoulder/inferno_rambler_for_lion_shoulder_large.6f6549fc94805b4b551a55bd1a6bc83d2ec88eff.png",
+"normal": "icons/econ/items/lion/inferno_rambler_for_lion_shoulder/inferno_rambler_for_lion_shoulder.b810edec13333f1bd88424721122b5e1b6bd36a6.png"
+},
+"inferno_rambler_for_lion_weapon": {
+"large": "icons/econ/items/lion/inferno_rambler_for_lion_weapon/inferno_rambler_for_lion_weapon_large.cb051e5b1022f0095edc80943b7a6299c1f2ee62.png",
+"normal": "icons/econ/items/lion/inferno_rambler_for_lion_weapon/inferno_rambler_for_lion_weapon.a6b7e51245d4d8722a30ae3ca1ad624faf4efb3d.png"
+},
+"seed_of_rebirth_arms": {
+"large": "icons/econ/items/treant/seed_of_rebirth_arms/seed_of_rebirth_arms_large.d37ae50af43377e8a11ea687253e9947e4046172.png",
+"normal": "icons/econ/items/treant/seed_of_rebirth_arms/seed_of_rebirth_arms.ec13536aa470af36253e9643be1294c641fefdf8.png"
+},
+"seed_of_rebirth_head": {
+"large": "icons/econ/items/treant/seed_of_rebirth_head/seed_of_rebirth_head_large.e5bcbd4c092cc9f40b671b36500adb267b887036.png",
+"normal": "icons/econ/items/treant/seed_of_rebirth_head/seed_of_rebirth_head.f95f519dda4e95170e193c48db891b7448258a41.png"
+},
+"seed_of_rebirth_legs": {
+"large": "icons/econ/items/treant/seed_of_rebirth_legs/seed_of_rebirth_legs_large.d25fb84e8b27b3d34d997232540645a6e7c5e6c1.png",
+"normal": "icons/econ/items/treant/seed_of_rebirth_legs/seed_of_rebirth_legs.d62c2ac8e8a626a75a473eb7c40c646ae08fb061.png"
+},
+"seed_of_rebirth_shoulder": {
+"large": "icons/econ/items/treant/seed_of_rebirth_shoulder/seed_of_rebirth_shoulder_large.190b2624de7f03ac35acab6c64b9bd3645429a55.png",
+"normal": "icons/econ/items/treant/seed_of_rebirth_shoulder/seed_of_rebirth_shoulder.693b6d5ea6582c9689faf144a5cd68448ad1b742.png"
+},
+"silent_guardian_arms": {
+"large": "icons/econ/items/silencer/silent_guardian_arms/silent_guardian_arms_large.716301ea786c0683047ad73d0690ba6919c6da59.png",
+"normal": "icons/econ/items/silencer/silent_guardian_arms/silent_guardian_arms.ec0332cb39b9c25032d3f7832659c7adb1bb7a90.png"
+},
+"silent_guardian_belt": {
+"large": "icons/econ/items/silencer/silent_guardian_belt/silent_guardian_belt_large.ab7e26bc85827a0b9d8fc2cecede8a09fa418314.png",
+"normal": "icons/econ/items/silencer/silent_guardian_belt/silent_guardian_belt.652d5d9b84618056a222e215d220c7745af9e8f5.png"
+},
+"silent_guardian_head": {
+"large": "icons/econ/items/silencer/silent_guardian_head/silent_guardian_head_large.ca421be4ce99fd86f3e13a5a05d4d5a6efa0a4b1.png",
+"normal": "icons/econ/items/silencer/silent_guardian_head/silent_guardian_head.1cb8b7de3c7de12da65f51f33037cf9e24690192.png"
+},
+"silent_guardian_off_hand": {
+"large": "icons/econ/items/silencer/silent_guardian_off_hand/silent_guardian_off_hand_large.929e24748dcbafdab35263f8529cf62b9fdbc680.png",
+"normal": "icons/econ/items/silencer/silent_guardian_off_hand/silent_guardian_off_hand.4bc4754f9e9fc1b47de868204252dfd89f6144da.png"
+},
+"silent_guardian_shoulder": {
+"large": "icons/econ/items/silencer/silent_guardian_shoulder/silent_guardian_shoulder_large.e6ff6144c7028b0bce379fb529d991f3bffdaf11.png",
+"normal": "icons/econ/items/silencer/silent_guardian_shoulder/silent_guardian_shoulder.b19a0efcdb01e79a63d1635381a459887ab6c6e1.png"
+},
+"silent_guardian_weapon": {
+"large": "icons/econ/items/silencer/silent_guardian_weapon/silent_guardian_weapon_large.5bc0fc4da6a590a625bb1b5d3a904ba76d3235fb.png",
+"normal": "icons/econ/items/silencer/silent_guardian_weapon/silent_guardian_weapon.1c68f2b2f277d0f013e28e6a82359d8022fab660.png"
+},
+"tormenta_armor": {
+"large": "icons/econ/items/storm_spirit/tormenta_armor/tormenta_armor_large.827deed20958a90b1ce3c0758ea7198a46d498ce.png",
+"normal": "icons/econ/items/storm_spirit/tormenta_armor/tormenta_armor.df05d896e8133bef34d27cc802c70111f18d498e.png"
+},
+"tormenta_arms": {
+"large": "icons/econ/items/storm_spirit/tormenta_arms/tormenta_arms_large.19e4033c3ae339719c7f9d3541b8c9d57231568e.png",
+"normal": "icons/econ/items/storm_spirit/tormenta_arms/tormenta_arms.5f8f28f47b5cad40a8b9757d705010cee2f3e0e7.png"
+},
+"tormenta_head": {
+"large": "icons/econ/items/storm_spirit/tormenta_head/tormenta_head_large.7306e47d0d1d0cd6701c9be8192b7b387c16b93e.png",
+"normal": "icons/econ/items/storm_spirit/tormenta_head/tormenta_head.b0768b5088357460fd9432fd16936fc3f1048283.png"
+}
+}

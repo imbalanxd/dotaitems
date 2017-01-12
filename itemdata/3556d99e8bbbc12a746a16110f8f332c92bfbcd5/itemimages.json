@@ -1,0 +1,146 @@
+{
+"bounty_scout_armor": {
+"large": "icons/econ/items/bounty_hunter/bounty_scout_armor/bounty_scout_armor_large.9e204207e02d00767e37c3d83ef285811c8b5bd4.png",
+"normal": "icons/econ/items/bounty_hunter/bounty_scout_armor/bounty_scout_armor.fdb5566b5b05ee1209cba188b5daa4b05b337640.png"
+},
+"bounty_scout_back": {
+"large": "icons/econ/items/bounty_hunter/bounty_scout_back/bounty_scout_back_large.77646f7313e11b42932f07e6b611af745888f6c7.png",
+"normal": "icons/econ/items/bounty_hunter/bounty_scout_back/bounty_scout_back.aec84d389821e8346ded65a49dd057e42e08ea50.png"
+},
+"bounty_scout_head": {
+"large": "icons/econ/items/bounty_hunter/bounty_scout_head/bounty_scout_head_large.12c6a51010da69daf06797160270e16f0a151d47.png",
+"normal": "icons/econ/items/bounty_hunter/bounty_scout_head/bounty_scout_head.10ffb2016d2ed256edfd8be995c3cef06b4fcb50.png"
+},
+"bounty_scout_offhand": {
+"large": "icons/econ/items/bounty_hunter/bounty_scout_offhand/bounty_scout_offhand_large.fb7b3d246c0c910d19cedf2591b3b6ab0946aa5d.png",
+"normal": "icons/econ/items/bounty_hunter/bounty_scout_offhand/bounty_scout_offhand.f6b914b619532f3b0b9e2abc65642aa3e004d55a.png"
+},
+"bounty_scout_shoulder": {
+"large": "icons/econ/items/bounty_hunter/bounty_scout_shoulder/bounty_scout_shoulder_large.20b7130c4547de273be4fec1cfc84bb9dbbda2b5.png",
+"normal": "icons/econ/items/bounty_hunter/bounty_scout_shoulder/bounty_scout_shoulder.0a86c259f89e4bcc09cc254e204f26c68ebe7a13.png"
+},
+"bounty_scout_weapon": {
+"large": "icons/econ/items/bounty_hunter/bounty_scout_weapon/bounty_scout_weapon_large.51a38c0cc3319df5a61027abb5797e541cc1c4b2.png",
+"normal": "icons/econ/items/bounty_hunter/bounty_scout_weapon/bounty_scout_weapon.abb36a7fad60893e1303a54fd8833de60c28b76d.png"
+},
+"empire_of_the_lightning_head": {
+"large": "icons/econ/items/razor/empire_of_the_lightning_head/empire_of_the_lightning_head_large.aa408a56b15b0458aa164bec1fbe757643453947.png",
+"normal": "icons/econ/items/razor/empire_of_the_lightning_head/empire_of_the_lightning_head.7ce91e932e8a1737111ed0eead41fbe3d0638b7f.png"
+},
+"empire_of_the_lightning_lord_armor": {
+"large": "icons/econ/items/razor/empire_of_the_lightning_lord_armor/empire_of_the_lightning_lord_armor_large.9c25ee532d445ec0127dada46ea3560e1a907270.png",
+"normal": "icons/econ/items/razor/empire_of_the_lightning_lord_armor/empire_of_the_lightning_lord_armor.d2bfb85b3c86ef02a0ad71ec70beaca944856cc1.png"
+},
+"empire_of_the_lightning_lord_arms": {
+"large": "icons/econ/items/razor/empire_of_the_lightning_lord_arms/empire_of_the_lightning_lord_arms_large.6206a4c75c5cc19819fd41e5d81a73ca27cfa2cf.png",
+"normal": "icons/econ/items/razor/empire_of_the_lightning_lord_arms/empire_of_the_lightning_lord_arms.c934d302852bd7540cb7f1d230619082fa29b82e.png"
+},
+"empire_of_the_lightning_lord_belt": {
+"large": "icons/econ/items/razor/empire_of_the_lightning_lord_belt/empire_of_the_lightning_lord_belt_large.11b86f51755f3a090bf6ea90c5e2d7ddd04295b7.png",
+"normal": "icons/econ/items/razor/empire_of_the_lightning_lord_belt/empire_of_the_lightning_lord_belt.3a2d63105238f2098b1f6080742f09bb3d7b6340.png"
+},
+"empire_of_the_lightning_lord_weapon": {
+"large": "icons/econ/items/razor/empire_of_the_lightning_lord_weapon/empire_of_the_lightning_lord_weapon_large.288fd979647fe51fb19075c1d828d910cd5cb93c.png",
+"normal": "icons/econ/items/razor/empire_of_the_lightning_lord_weapon/empire_of_the_lightning_lord_weapon.536a280aaab1b9e789ce70644ed03ef3c35a110b.png"
+},
+"flying_dutchman_back": {
+"large": "icons/econ/items/gyrocopter/flying_dutchman_back/flying_dutchman_back_large.91ebd8f281d4f40d3880268c08f8a7672795c730.png",
+"normal": "icons/econ/items/gyrocopter/flying_dutchman_back/flying_dutchman_back.9a352c0b37a4a72a4822037ace2eb161169ec410.png"
+},
+"flying_dutchman_head": {
+"large": "icons/econ/items/gyrocopter/flying_dutchman_head/flying_dutchman_head_large.eeadf50e4a84ee61f9cbb7affb4071262ebbeb46.png",
+"normal": "icons/econ/items/gyrocopter/flying_dutchman_head/flying_dutchman_head.b6840eb9a006941a4efe327963f397144a8e2ea5.png"
+},
+"flying_dutchman_misc": {
+"large": "icons/econ/items/gyrocopter/flying_dutchman_misc/flying_dutchman_misc_large.77e142ecdcfd78746c75b16dad569c87716bfe3f.png",
+"normal": "icons/econ/items/gyrocopter/flying_dutchman_misc/flying_dutchman_misc.c2b518608d9743cb40e4c76de8bc4738bf6efcba.png"
+},
+"flying_dutchman_offhand": {
+"large": "icons/econ/items/gyrocopter/flying_dutchman_offhand/flying_dutchman_offhand_large.a110ca6ad86d48e2273cecf14b45ffb97cc24712.png",
+"normal": "icons/econ/items/gyrocopter/flying_dutchman_offhand/flying_dutchman_offhand.21e55511e4236fd0b7c23de437d62296ae452d27.png"
+},
+"flying_dutchman_weapon": {
+"large": "icons/econ/items/gyrocopter/flying_dutchman_weapon/flying_dutchman_weapon_large.c8d837fe8e2861643924cc97ff1f1f43a6a108c5.png",
+"normal": "icons/econ/items/gyrocopter/flying_dutchman_weapon/flying_dutchman_weapon.f83edcb321aa756ad6bb48c0a661c120213310f9.png"
+},
+"gemini_juggler_back": {
+"large": "icons/econ/items/rubick/gemini_juggler_back/gemini_juggler_back_large.c8043ffe9fd4bcea3404cba88369df6dc092b9e0.png",
+"normal": "icons/econ/items/rubick/gemini_juggler_back/gemini_juggler_back.8fb2f69d632923f28ff911a520706dd8d8a7ff01.png"
+},
+"gemini_juggler_head": {
+"large": "icons/econ/items/rubick/gemini_juggler_head/gemini_juggler_head_large.892a92998ee212a3d15879534f78ddb80d0ab77f.png",
+"normal": "icons/econ/items/rubick/gemini_juggler_head/gemini_juggler_head.73a4c3c68c7290293b8decbb673251ebd877c7c1.png"
+},
+"gemini_juggler_shoulder": {
+"large": "icons/econ/items/rubick/gemini_juggler_shoulder/gemini_juggler_shoulder_large.8504cfccf5f5b921ff13346f458762fdb6c803c3.png",
+"normal": "icons/econ/items/rubick/gemini_juggler_shoulder/gemini_juggler_shoulder.bdceee082130334c2b35be7085c1fcfe84464a9c.png"
+},
+"gemini_juggler_weapon": {
+"large": "icons/econ/items/rubick/gemini_juggler_weapon/gemini_juggler_weapon_large.93173b35ace9898b9bd435b9e901aebb2a7d26cc.png",
+"normal": "icons/econ/items/rubick/gemini_juggler_weapon/gemini_juggler_weapon.123b4df201c75b8747fef14e1ef2e8c6a1bb573a.png"
+},
+"lord_of_the_hunt_armor": {
+"large": "icons/econ/items/wraith_king/lord_of_the_hunt_armor/lord_of_the_hunt_armor_large.1062e8d41de719f284fd20023612ad45f2501814.png",
+"normal": "icons/econ/items/wraith_king/lord_of_the_hunt_armor/lord_of_the_hunt_armor.6fda247564ba41cf16316e6000dc7bbc160f353d.png"
+},
+"lord_of_the_hunt_arms": {
+"large": "icons/econ/items/wraith_king/lord_of_the_hunt_arms/lord_of_the_hunt_arms_large.49a0f8d5106f3257668af289fbc076481d671724.png",
+"normal": "icons/econ/items/wraith_king/lord_of_the_hunt_arms/lord_of_the_hunt_arms.31bc018f0bfb72bbe9c453de7f0f854ea0433055.png"
+},
+"lord_of_the_hunt_back": {
+"large": "icons/econ/items/wraith_king/lord_of_the_hunt_back/lord_of_the_hunt_back_large.ef7e93ffe058de14928df9a356c0028d17b2b2c1.png",
+"normal": "icons/econ/items/wraith_king/lord_of_the_hunt_back/lord_of_the_hunt_back.41e763f2c5ed624f6a6dab6e1d1112e3cfa15435.png"
+},
+"lord_of_the_hunt_head": {
+"large": "icons/econ/items/wraith_king/lord_of_the_hunt_head/lord_of_the_hunt_head_large.c5c71f8784ec55d5f402c1e49df06c67677fa6c6.png",
+"normal": "icons/econ/items/wraith_king/lord_of_the_hunt_head/lord_of_the_hunt_head.338a0c5cea6a7d0ee1f194b77a2899e347a86c63.png"
+},
+"lord_of_the_hunt_shoulder": {
+"large": "icons/econ/items/wraith_king/lord_of_the_hunt_shoulder/lord_of_the_hunt_shoulder_large.1ae9fa6d320ba87b84c0446539d3860c5567ec36.png",
+"normal": "icons/econ/items/wraith_king/lord_of_the_hunt_shoulder/lord_of_the_hunt_shoulder.66dc0cbcd0134e6e4283c4d2d8890d3eb8bac066.png"
+},
+"lord_of_the_hunt_weapon": {
+"large": "icons/econ/items/wraith_king/lord_of_the_hunt_weapon/lord_of_the_hunt_weapon_large.598c03dbaa7ed1a1464b189d950377b5a48a382e.png",
+"normal": "icons/econ/items/wraith_king/lord_of_the_hunt_weapon/lord_of_the_hunt_weapon.9e9010f5a176a4f16129278963da35201f51c655.png"
+},
+"lumini_polare_arms": {
+"large": "icons/econ/items/crystal_maiden/lumini_polare_arms/lumini_polare_arms_large.a366e4b95051c1db3b8e81bb65bc15900fce9359.png",
+"normal": "icons/econ/items/crystal_maiden/lumini_polare_arms/lumini_polare_arms.4e5e584ec99dff555648d4128e22f7f49d90a6f8.png"
+},
+"lumini_polare_back": {
+"large": "icons/econ/items/crystal_maiden/lumini_polare_back/lumini_polare_back_large.76a70f36cfd8b0543bb223129615ac6b252e8dea.png",
+"normal": "icons/econ/items/crystal_maiden/lumini_polare_back/lumini_polare_back.05177ff2947ab9a10cc0d75966243598b5e6572e.png"
+},
+"lumini_polare_head": {
+"large": "icons/econ/items/crystal_maiden/lumini_polare_head/lumini_polare_head_large.1b067ba24934000b23f5d4bac7dd6cdc1c86d8ad.png",
+"normal": "icons/econ/items/crystal_maiden/lumini_polare_head/lumini_polare_head.751427cdbd3869336eef30860337bb28572a3016.png"
+},
+"lumini_polare_shoulder": {
+"large": "icons/econ/items/crystal_maiden/lumini_polare_shoulder/lumini_polare_shoulder_large.25af2e6a7aeea2b04d904f82a514eb9ecc2ac000.png",
+"normal": "icons/econ/items/crystal_maiden/lumini_polare_shoulder/lumini_polare_shoulder.669fa6c995451c6880b92685e1a322e06c29e29c.png"
+},
+"lumini_polare_weapon": {
+"large": "icons/econ/items/crystal_maiden/lumini_polare_weapon/lumini_polare_weapon_large.f5648d96cc6558ab87492117178d5b87a46d3d0a.png",
+"normal": "icons/econ/items/crystal_maiden/lumini_polare_weapon/lumini_polare_weapon.a9d321a46446df18fa8dd9d9b5ec34953d198b76.png"
+},
+"twilights_rest_back": {
+"large": "icons/econ/items/witchdoctor/twilights_rest_back/twilights_rest_back_large.5fa825f6acb2337db1697978f178e9facf1a53e9.png",
+"normal": "icons/econ/items/witchdoctor/twilights_rest_back/twilights_rest_back.7c3f3edb010ccc3965aa7a6f9c568dc95c955744.png"
+},
+"twilights_rest_belt": {
+"large": "icons/econ/items/witchdoctor/twilights_rest_belt/twilights_rest_belt_large.96cdc01a6899da24f40eff8751e71b5e61a4482e.png",
+"normal": "icons/econ/items/witchdoctor/twilights_rest_belt/twilights_rest_belt.ddc7eaea30ae53a0aa558021f1d14c73b28b903b.png"
+},
+"twilights_rest_head": {
+"large": "icons/econ/items/witchdoctor/twilights_rest_head/twilights_rest_head_large.47f745bb0aced16365d0916ea23b8d1473202787.png",
+"normal": "icons/econ/items/witchdoctor/twilights_rest_head/twilights_rest_head.3d422de4e5a7bfaa3d704c95ffc766a1823e7178.png"
+},
+"twilights_rest_shoulder": {
+"large": "icons/econ/items/witchdoctor/twilights_rest_shoulder/twilights_rest_shoulder_large.9b3afa5c9ba42ac77093f4edade3385505fcca63.png",
+"normal": "icons/econ/items/witchdoctor/twilights_rest_shoulder/twilights_rest_shoulder.d143b921e3542bcda468864de94c4bf29b5d6dd1.png"
+},
+"twilights_rest_weapon": {
+"large": "icons/econ/items/witchdoctor/twilights_rest_weapon/twilights_rest_weapon_large.8989c80c7f17e04a2ab142a00835b3d6d7d3a68b.png",
+"normal": "icons/econ/items/witchdoctor/twilights_rest_weapon/twilights_rest_weapon.64903876b1c67d873917fa45cbca42e104dbf6d2.png"
+}
+}

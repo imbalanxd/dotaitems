@@ -1,0 +1,102 @@
+{
+"ancient_seal_protector_set_arms": {
+"large": "icons/econ/items/treant/ancient_seal_protector_set_arms/ancient_seal_protector_set_arms_large.bf7b90a672c67ea5c3ed46b3e56c6efeac3d56b7.png",
+"normal": "icons/econ/items/treant/ancient_seal_protector_set_arms/ancient_seal_protector_set_arms.08d60934a502ce62c72873f4cb18a4913ea9bcc1.png"
+},
+"ancient_seal_protector_set_head": {
+"large": "icons/econ/items/treant/ancient_seal_protector_set_head/ancient_seal_protector_set_head_large.12d3e023dc1b9f0f94b0d63a7e6b95139c5f6d20.png",
+"normal": "icons/econ/items/treant/ancient_seal_protector_set_head/ancient_seal_protector_set_head.7f3b77e3f6c5124698032cd16a0a005e2b213d65.png"
+},
+"ancient_seal_protector_set_legs": {
+"large": "icons/econ/items/treant/ancient_seal_protector_set_legs/ancient_seal_protector_set_legs_large.bc3cb8a6cba048c50aca27c35af9a815d6fd429e.png",
+"normal": "icons/econ/items/treant/ancient_seal_protector_set_legs/ancient_seal_protector_set_legs.62331d81693ec66de823a717a0561f984fa2aa9e.png"
+},
+"ancient_seal_protector_set_shoulder": {
+"large": "icons/econ/items/treant/ancient_seal_protector_set_shoulder/ancient_seal_protector_set_shoulder_large.520a5e9586a1cb7c21d8114afa265b4892e1de4a.png",
+"normal": "icons/econ/items/treant/ancient_seal_protector_set_shoulder/ancient_seal_protector_set_shoulder.ca875e4942e0cb888a15cf46ac8993eb6afaa73d.png"
+},
+"burning_nightmare_chaos_knight_head": {
+"large": "icons/econ/items/chaos_knight/burning_nightmare_chaos_knight_head/burning_nightmare_chaos_knight_head_large.cf18400735194c553f0ad6bd4f5f8cf142c5ff63.png",
+"normal": "icons/econ/items/chaos_knight/burning_nightmare_chaos_knight_head/burning_nightmare_chaos_knight_head.99f05604f3c492ccc908d30268a20e5d6a912755.png"
+},
+"burning_nightmare_chaos_knight_mount": {
+"large": "icons/econ/items/chaos_knight/burning_nightmare_chaos_knight_mount/burning_nightmare_chaos_knight_mount_large.84129fc0dcc060e7a376854e58a73a92995e9164.png",
+"normal": "icons/econ/items/chaos_knight/burning_nightmare_chaos_knight_mount/burning_nightmare_chaos_knight_mount.1cc439996df73a3a30fc3d7c6b51c78ef619b385.png"
+},
+"burning_nightmare_chaos_knight_off_hand": {
+"large": "icons/econ/items/chaos_knight/burning_nightmare_chaos_knight_off_hand/burning_nightmare_chaos_knight_off_hand_large.cd663c8df9c59aace372ecc29ca5950f7b33a2fb.png",
+"normal": "icons/econ/items/chaos_knight/burning_nightmare_chaos_knight_off_hand/burning_nightmare_chaos_knight_off_hand.3742edafa96dd3bcbd879bb12f92151871431ef4.png"
+},
+"burning_nightmare_chaos_knight_shoulder": {
+"large": "icons/econ/items/chaos_knight/burning_nightmare_chaos_knight_shoulder/burning_nightmare_chaos_knight_shoulder_large.30ec0dcf4f218322a2bc111c38bec0d0a5088c7d.png",
+"normal": "icons/econ/items/chaos_knight/burning_nightmare_chaos_knight_shoulder/burning_nightmare_chaos_knight_shoulder.1e172492883c2e5ebb31092fee78363fbbafd809.png"
+},
+"burning_nightmare_chaos_knight_weapon": {
+"large": "icons/econ/items/chaos_knight/burning_nightmare_chaos_knight_weapon/burning_nightmare_chaos_knight_weapon_large.5eb42e4170eb2fef98d1ad01d0577acfee2a70f0.png",
+"normal": "icons/econ/items/chaos_knight/burning_nightmare_chaos_knight_weapon/burning_nightmare_chaos_knight_weapon.9cca05460a8cbc94dc1bdc82c761bfe38710ca1f.png"
+},
+"essence_of_the_trickster_back": {
+"large": "icons/econ/items/puck/essence_of_the_trickster_back/essence_of_the_trickster_back_large.6f8b5b7810627f2e71fd6366fb45ca7ba38b028a.png",
+"normal": "icons/econ/items/puck/essence_of_the_trickster_back/essence_of_the_trickster_back.72beefcf893593ab5b1a3af0c8bec74031af8045.png"
+},
+"essence_of_the_trickster_head": {
+"large": "icons/econ/items/puck/essence_of_the_trickster_head/essence_of_the_trickster_head_large.ee3195d65116d3a426be90eea76f97c5cff2b7cb.png",
+"normal": "icons/econ/items/puck/essence_of_the_trickster_head/essence_of_the_trickster_head.f293b169c7c22339a9610f82d71cd2c17acc01a1.png"
+},
+"essence_of_the_trickster_tail": {
+"large": "icons/econ/items/puck/essence_of_the_trickster_tail/essence_of_the_trickster_tail_large.15d3e56f699a902313418ef8e83e144f3240950e.png",
+"normal": "icons/econ/items/puck/essence_of_the_trickster_tail/essence_of_the_trickster_tail.d3ec7f00c3d1adc1ddc5c22519e8c4490863defb.png"
+},
+"essentials_of_the_blood_edge_armor": {
+"large": "icons/econ/items/axe/essentials_of_the_blood_edge_armor/essentials_of_the_blood_edge_armor_large.ffe442589b994a49e41bb311880319078064680a.png",
+"normal": "icons/econ/items/axe/essentials_of_the_blood_edge_armor/essentials_of_the_blood_edge_armor.e25848c07bf0b319d7e1aeef04e461bbe6c6d55b.png"
+},
+"essentials_of_the_blood_edge_belt": {
+"large": "icons/econ/items/axe/essentials_of_the_blood_edge_belt/essentials_of_the_blood_edge_belt_large.69a5099799ddc13981573dddda641b65c741cf58.png",
+"normal": "icons/econ/items/axe/essentials_of_the_blood_edge_belt/essentials_of_the_blood_edge_belt.f449d807008791eba38141b951e5ec8d544d0b25.png"
+},
+"essentials_of_the_blood_edge_head": {
+"large": "icons/econ/items/axe/essentials_of_the_blood_edge_head/essentials_of_the_blood_edge_head_large.46036f5adb933205f3df83d21800ed2cb73de6de.png",
+"normal": "icons/econ/items/axe/essentials_of_the_blood_edge_head/essentials_of_the_blood_edge_head.a528985face27015dbe1bb644fa15d3f483a110e.png"
+},
+"essentials_of_the_blood_edge_misc": {
+"large": "icons/econ/items/axe/essentials_of_the_blood_edge_misc/essentials_of_the_blood_edge_misc_large.4ba1226fe4e8ec01b4cbeb1de246b7c12eb840e6.png",
+"normal": "icons/econ/items/axe/essentials_of_the_blood_edge_misc/essentials_of_the_blood_edge_misc.de9850fb127fb0f4522496aeb75552f3255f2bb8.png"
+},
+"essentials_of_the_blood_edge_weapon": {
+"large": "icons/econ/items/axe/essentials_of_the_blood_edge_weapon/essentials_of_the_blood_edge_weapon_large.bc258f3970b02010c848dd14772a65252469da1b.png",
+"normal": "icons/econ/items/axe/essentials_of_the_blood_edge_weapon/essentials_of_the_blood_edge_weapon.05c5d6dc37fce778e41c7a990c0b17486bdfcd55.png"
+},
+"plague_lord_plague_lord_beard": {
+"large": "icons/econ/items/necrolyte/plague_lord_plague_lord_beard/plague_lord_plague_lord_beard_large.b4a512b059bff1feb6c995a35d0015e457edfea4.png",
+"normal": "icons/econ/items/necrolyte/plague_lord_plague_lord_beard/plague_lord_plague_lord_beard.c5490ccd14600a6ce83fcfe85fdaf5e53d8c9cc8.png"
+},
+"plague_lord_plague_lord_head": {
+"large": "icons/econ/items/necrolyte/plague_lord_plague_lord_head/plague_lord_plague_lord_head_large.257bcdd46758d7335048064152eea6a1d4b41ac0.png",
+"normal": "icons/econ/items/necrolyte/plague_lord_plague_lord_head/plague_lord_plague_lord_head.883d6f5907e5c030b5ec34a7338a4ab5d17dbdc9.png"
+},
+"plague_lord_plague_lord_shoulder": {
+"large": "icons/econ/items/necrolyte/plague_lord_plague_lord_shoulder/plague_lord_plague_lord_shoulder_large.e33f0eee3b11e602397c641df734e549d3701a3a.png",
+"normal": "icons/econ/items/necrolyte/plague_lord_plague_lord_shoulder/plague_lord_plague_lord_shoulder.3775633e64b4b4b8a2460c6c8cae7cd610773dd1.png"
+},
+"plague_lord_plague_lord_weapon": {
+"large": "",
+"normal": "icons/econ/items/necrolyte/plague_lord_plague_lord_weapon/plague_lord_plague_lord_weapon.c555daf4ea03eedcd3ca6565f2974ac2fea0599c.png"
+},
+"savage_predator_back": {
+"large": "icons/econ/items/nerubian_assassin/savage_predator_back/savage_predator_back_large.aebe4660e963ce81bc4eaa9c685b329af05bf973.png",
+"normal": "icons/econ/items/nerubian_assassin/savage_predator_back/savage_predator_back.adcfc6b707fd0f3d7221dbc061554d644bffff2c.png"
+},
+"savage_predator_head": {
+"large": "icons/econ/items/nerubian_assassin/savage_predator_head/savage_predator_head_large.16da44c04389201149866b0bb0e862a7a4ce42da.png",
+"normal": "icons/econ/items/nerubian_assassin/savage_predator_head/savage_predator_head.1b494f6e9a71754f0d29a58bb13d813f4bac02c3.png"
+},
+"savage_predator_misc": {
+"large": "icons/econ/items/nerubian_assassin/savage_predator_misc/savage_predator_misc_large.f91e605389293197770a003f4429ac76ab227645.png",
+"normal": "icons/econ/items/nerubian_assassin/savage_predator_misc/savage_predator_misc.cc5c36724b2ac420b8ff86139d19d2f0228eb71f.png"
+},
+"savage_predator_weapon": {
+"large": "icons/econ/items/nerubian_assassin/savage_predator_weapon/savage_predator_weapon_large.f561ae876574d80b437a8cac58320ec758149c1f.png",
+"normal": "icons/econ/items/nerubian_assassin/savage_predator_weapon/savage_predator_weapon.cae3300f79a4bfac5a621d0a253808fd2bb8f17d.png"
+}
+}

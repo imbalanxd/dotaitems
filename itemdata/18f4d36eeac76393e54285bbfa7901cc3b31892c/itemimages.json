@@ -1,0 +1,42 @@
+{
+"arms_deso": {
+"large": "icons/econ/items/shadow_fiend/arms_deso/arms_deso_large.c293265f5c6584c7a414ea296143abc5547a4c43.png",
+"normal": "icons/econ/items/shadow_fiend/arms_deso/arms_deso.a4c5958ac2f8a99044d0a47131ea82c50cc35255.png"
+},
+"arms_of_the_rogue": {
+"large": "icons/econ/items/sven/arms_of_the_rogue/arms_of_the_rogue_large.fce7e0ddc6781da77408621efe7d06e194df0dd6.png",
+"normal": "icons/econ/items/sven/arms_of_the_rogue/arms_of_the_rogue.aa3cd6830e4c089d690e56731daa5cf8b0ce0752.png"
+},
+"jewel_of_aeons1": {
+"large": "icons/econ/items/faceless_void/jewel_of_aeons/jewel_of_aeons1_large.d84ff15c14566de2c5ad734c94b95878b93156ea.png",
+"normal": "icons/econ/items/faceless_void/jewel_of_aeons/jewel_of_aeons1.53f87da857fd905a045853d8a03c925ccd5c6747.png"
+},
+"resistive_pinfold_back": {
+"large": "icons/econ/items/disruptor/resistive_pinfold_back/resistive_pinfold_back_large.7298b0b2081bbdfa88f90c8c51204d7a01560ec4.png",
+"normal": "icons/econ/items/disruptor/resistive_pinfold_back/resistive_pinfold_back.bd729f1cbeb53a8f9803c220217c06422285e1db.png"
+},
+"roller_mawster": {
+"large": "icons/econ/items/tinker/roller_mawster/roller_mawster_large.bf94464c16f1260d13162b3523dd5a954f82b3b4.png",
+"normal": "icons/econ/items/tinker/roller_mawster/roller_mawster.822ca2ad6b89412adc61ea56b59151218de4cac3.png"
+},
+"skullbasher1": {
+"large": "icons/econ/items/antimage/skullbasher/skullbasher1_large.f4d89c10468ab01f818c29114d9bfd70b976a623.png",
+"normal": "icons/econ/items/antimage/skullbasher/skullbasher1.2eda9fc7cdc2ff796dd7fc7f29b583aff238b802.png"
+},
+"skullbasher_gold1": {
+"large": "icons/econ/items/antimage/skullbasher_gold/skullbasher_gold1_large.9ecf144e609f9b227cd1f43e551fc1be3e52a471.png",
+"normal": "icons/econ/items/antimage/skullbasher_gold/skullbasher_gold1.2df8d286ba11010c69f8bbddbed4bcfb374e9af0.png"
+},
+"skullbasher_gold_offhand1": {
+"large": "icons/econ/items/antimage/skullbasher_gold_offhand/skullbasher_gold_offhand1_large.9dd62872c679f6e2824f4e641a684303f5f640a2.png",
+"normal": "icons/econ/items/antimage/skullbasher_gold_offhand/skullbasher_gold_offhand1.538fc4e29002795f1a477ba79b5eafac49066401.png"
+},
+"skullbasher_offhand1": {
+"large": "icons/econ/items/antimage/skullbasher_offhand/skullbasher_offhand1_large.0cd316178517f5e20f8ceb92a989fd3d7eeeac5f.png",
+"normal": "icons/econ/items/antimage/skullbasher_offhand/skullbasher_offhand1.72c5f137c60c593267cf374e08de9e91dc4f422a.png"
+},
+"tormented_staff1": {
+"large": "icons/econ/items/leshrac/tormented_staff/tormented_staff1_large.7b2b6b83b3185bceef9a6a459b62039d6c1ab516.png",
+"normal": "icons/econ/items/leshrac/tormented_staff/tormented_staff1.0b9a418d715ac0148f38eac2cfd6eb1ded74fb0e.png"
+}
+}

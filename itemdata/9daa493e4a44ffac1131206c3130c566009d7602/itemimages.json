@@ -1,0 +1,58 @@
+{
+"feathery_soul_arms": {
+"large": "icons/econ/items/lina/feathery_soul_arms/feathery_soul_arms_large.484d896df1dcdc8ee6a41f31ac3b15a008cbd91d.png",
+"normal": "icons/econ/items/lina/feathery_soul_arms/feathery_soul_arms.df67989c081c2ced2aa386780aab8185dde68c5f.png"
+},
+"feathery_soul_belt": {
+"large": "icons/econ/items/lina/feathery_soul_belt/feathery_soul_belt_large.43bc3bbee5477fdf493f8cb0a3e29b836fb9fcf9.png",
+"normal": "icons/econ/items/lina/feathery_soul_belt/feathery_soul_belt.1fb4db53e6ba1c3e9c0e069bdd11d76d2d546972.png"
+},
+"feathery_soul_head": {
+"large": "icons/econ/items/lina/feathery_soul_head/feathery_soul_head_large.98e80de4fed3226df70b2e4d962dafc4402f868a.png",
+"normal": "icons/econ/items/lina/feathery_soul_head/feathery_soul_head.5ef66d89b82bab2a87b0521baab7da124aae52f5.png"
+},
+"feathery_soul_neck": {
+"large": "icons/econ/items/lina/feathery_soul_neck/feathery_soul_neck_large.dfa9f7164754998a50702ac74ff7523717eda7e0.png",
+"normal": "icons/econ/items/lina/feathery_soul_neck/feathery_soul_neck.9ee9d6b4d8e31b197b9c19b3eec8c94b6af6c2d0.png"
+},
+"master_strategist_arms": {
+"large": "icons/econ/items/dark_seer/master_strategist_arms/master_strategist_arms_large.a8dd47b077c2a13680e94edd20e4722b9e028da8.png",
+"normal": "icons/econ/items/dark_seer/master_strategist_arms/master_strategist_arms.4ed6e469c95bed6645fd216a436b05f77dbbe583.png"
+},
+"master_strategist_back": {
+"large": "icons/econ/items/dark_seer/master_strategist_back/master_strategist_back_large.5729a48c75c3e8a8fe0e3f4eaf43102f4c4b622c.png",
+"normal": "icons/econ/items/dark_seer/master_strategist_back/master_strategist_back.b08ea97da2cef89d9d9d0045fa92e28bb340c164.png"
+},
+"master_strategist_belt": {
+"large": "icons/econ/items/dark_seer/master_strategist_belt/master_strategist_belt_large.071ce81a1fe1cb02852ad9cf134893f458798e92.png",
+"normal": "icons/econ/items/dark_seer/master_strategist_belt/master_strategist_belt.b132d9ec243d57e598ead0f702893462ef69ba1d.png"
+},
+"master_strategist_head": {
+"large": "icons/econ/items/dark_seer/master_strategist_head/master_strategist_head_large.46d0248ea8a488a5a661ededc2e312563de806e3.png",
+"normal": "icons/econ/items/dark_seer/master_strategist_head/master_strategist_head.b8cc05a7e9a2bb39a097572e2630199f5a31af5c.png"
+},
+"master_strategist_shoulder": {
+"large": "icons/econ/items/dark_seer/master_strategist_shoulder/master_strategist_shoulder_large.82396baf67b517eaa6f4623a46b24479528bcb1f.png",
+"normal": "icons/econ/items/dark_seer/master_strategist_shoulder/master_strategist_shoulder.6d24f83040a20ac1c3f4296a46593a94b30043c9.png"
+},
+"wrathrunner_arms": {
+"large": "icons/econ/items/bristleback/wrathrunner_arms/wrathrunner_arms_large.dc43a288a80ffab13544249511c748bb38439a3b.png",
+"normal": "icons/econ/items/bristleback/wrathrunner_arms/wrathrunner_arms.136bf4d92770d2f289bbdae4a2e0e287a9ab8de0.png"
+},
+"wrathrunner_back": {
+"large": "icons/econ/items/bristleback/wrathrunner_back/wrathrunner_back_large.a539a27261b3e7806b6a0395bfc4062e27a9a9c4.png",
+"normal": "icons/econ/items/bristleback/wrathrunner_back/wrathrunner_back.75e9e9527ca96174a79ed0659ea5fbb06651af90.png"
+},
+"wrathrunner_head": {
+"large": "icons/econ/items/bristleback/wrathrunner_head/wrathrunner_head_large.f7bcf52a4b2ad5393f9dfd413b23a6f91f768ce1.png",
+"normal": "icons/econ/items/bristleback/wrathrunner_head/wrathrunner_head.ffc8923d7f58fd73c4d21092c12f6e415bdd456f.png"
+},
+"wrathrunner_neck": {
+"large": "icons/econ/items/bristleback/wrathrunner_neck/wrathrunner_neck_large.c52790c7205e9d56e2b36f612a162b5ef4775876.png",
+"normal": "icons/econ/items/bristleback/wrathrunner_neck/wrathrunner_neck.aee5d629de02f75826153513da8644f458dde665.png"
+},
+"wrathrunner_weapon": {
+"large": "icons/econ/items/bristleback/wrathrunner_weapon/wrathrunner_weapon_large.14442d56fb3a1e958d8bf4849507773f75a8ac68.png",
+"normal": "icons/econ/items/bristleback/wrathrunner_weapon/wrathrunner_weapon.6b7bd5a3bbd20662209fe80cc70fee0b855991fe.png"
+}
+}

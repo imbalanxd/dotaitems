@@ -1,0 +1,178 @@
+{
+"blood_moon_hunter_armor": {
+"large": "icons/econ/items/lycan/blood_moon_hunter_armor/blood_moon_hunter_armor_large.bc6c0004e2ff075636af3ac76717d437afdaea0f.png",
+"normal": "icons/econ/items/lycan/blood_moon_hunter_armor/blood_moon_hunter_armor.c85f4374c4fb0de11f36c4811db408d1b22a345f.png"
+},
+"blood_moon_hunter_belt": {
+"large": "icons/econ/items/lycan/blood_moon_hunter_belt/blood_moon_hunter_belt_large.4e7d104b0fee5d5ce51cd7d99a5c882ee20e24da.png",
+"normal": "icons/econ/items/lycan/blood_moon_hunter_belt/blood_moon_hunter_belt.c92f44dc3f2f7f93b3fdee6e07d07a5a86c9a351.png"
+},
+"blood_moon_hunter_head": {
+"large": "icons/econ/items/lycan/blood_moon_hunter_head/blood_moon_hunter_head_large.4af1052708808dc89635016c901c5eceb7899cad.png",
+"normal": "icons/econ/items/lycan/blood_moon_hunter_head/blood_moon_hunter_head.a9818a65d66968650682d735aa7eef523bd43e1f.png"
+},
+"blood_moon_hunter_shapeshift_form": {
+"large": "icons/econ/items/lycan/ultimate/blood_moon_hunter_shapeshift_form/blood_moon_hunter_shapeshift_form_large.e4043a12ffc8f13f527f72859a513f8ebc2f67ea.png",
+"normal": "icons/econ/items/lycan/ultimate/blood_moon_hunter_shapeshift_form/blood_moon_hunter_shapeshift_form.2087a05e1a9e8d523c948fd52e96b1c0cdeeb597.png"
+},
+"blood_moon_hunter_shoulder": {
+"large": "icons/econ/items/lycan/blood_moon_hunter_shoulder/blood_moon_hunter_shoulder_large.5d5f6a0ebbcc379b2fae3480e43cd5318fd77bf3.png",
+"normal": "icons/econ/items/lycan/blood_moon_hunter_shoulder/blood_moon_hunter_shoulder.5f0c0d3361d5bfb13f475f6e6e6ba74eb668ea8c.png"
+},
+"blood_moon_hunter_weapon": {
+"large": "icons/econ/items/lycan/blood_moon_hunter_weapon/blood_moon_hunter_weapon_large.abcb3ed398ad9bb6b8382eec6b68c15d90a09a0c.png",
+"normal": "icons/econ/items/lycan/blood_moon_hunter_weapon/blood_moon_hunter_weapon.2196a71f589418decda176a40dedc76741870df9.png"
+},
+"blood_moon_hunter_wolves_npc_dota_lycan_wolf": {
+"large": "icons/econ/items/lycan/wolves/blood_moon_hunter_wolves/blood_moon_hunter_wolves_npc_dota_lycan_wolf_large.8b6c294d7f6134e74ac13f5a04ab300a4cba022e.png",
+"normal": "icons/econ/items/lycan/wolves/blood_moon_hunter_wolves/blood_moon_hunter_wolves_npc_dota_lycan_wolf.775f65a81bc2abd8d43855e8dbecd4080bfaba75.png"
+},
+"nightlord_arms": {
+"large": "icons/econ/items/invoker/nightlord_arms/nightlord_arms_large.70ef81038e36558af19b93d6c306975386253e36.png",
+"normal": "icons/econ/items/invoker/nightlord_arms/nightlord_arms.e900444faf18d82fd4fb8b495a09d3bc0025fcf7.png"
+},
+"nightlord_back": {
+"large": "icons/econ/items/invoker/nightlord_back/nightlord_back_large.f886a9731899179ecc02e16b262f9419f7cf5fd8.png",
+"normal": "icons/econ/items/invoker/nightlord_back/nightlord_back.ed7e24906a1e19378b96a8f4d7ea87e9b30cbefe.png"
+},
+"nightlord_belt": {
+"large": "icons/econ/items/invoker/nightlord_belt/nightlord_belt_large.d311d2174f14a03017ec20ea473d6a0847e1fed9.png",
+"normal": "icons/econ/items/invoker/nightlord_belt/nightlord_belt.163097a0b9f6e21c62ba6955c0b819bb2143f602.png"
+},
+"nightlord_crypt_sentinel_npc_dota_invoker_forged_spirit": {
+"large": "icons/econ/items/invoker/forge_spirit/nightlord_crypt_sentinel/nightlord_crypt_sentinel_npc_dota_invoker_forged_spirit_large.f716385dd6b742a9a225296b4659c0ae03b1e7c1.png",
+"normal": "icons/econ/items/invoker/forge_spirit/nightlord_crypt_sentinel/nightlord_crypt_sentinel_npc_dota_invoker_forged_spirit.27c515c3d4f56e7dbfbcf9792126b2b3068fb2c9.png"
+},
+"nightlord_head": {
+"large": "icons/econ/items/invoker/nightlord_head/nightlord_head_large.f130361c3a32bb1bf9a8fb0bb2a85c24c2176b4a.png",
+"normal": "icons/econ/items/invoker/nightlord_head/nightlord_head.4c80c7dac9d44746b00604a26350c9f435004df5.png"
+},
+"nightlord_shoulder": {
+"large": "icons/econ/items/invoker/nightlord_shoulder/nightlord_shoulder_large.cd0292b8605bc9c066ff44b16a3ddac5a2ddb422.png",
+"normal": "icons/econ/items/invoker/nightlord_shoulder/nightlord_shoulder.26a9c75f04ea8f731ef3a3fbf540abf3941f7839.png"
+},
+"sir_meepalot_arms": {
+"large": "icons/econ/items/meepo/sir_meepalot_arms/sir_meepalot_arms_large.4a5afa2d6a18bcfa51f04789b00fe3a0fb42aa44.png",
+"normal": "icons/econ/items/meepo/sir_meepalot_arms/sir_meepalot_arms.adfbdc1aad29afece2ef1b85d2b1133cc4a7780e.png"
+},
+"sir_meepalot_back": {
+"large": "icons/econ/items/meepo/sir_meepalot_back/sir_meepalot_back_large.ad0e254c025f5573c3b50ffa655dba7dcf440144.png",
+"normal": "icons/econ/items/meepo/sir_meepalot_back/sir_meepalot_back.2e9f8040c762e14c380166539453139943c2c3f2.png"
+},
+"sir_meepalot_head": {
+"large": "icons/econ/items/meepo/sir_meepalot_head/sir_meepalot_head_large.7c70aa8818afc7d3ea6693cea41450c80637117b.png",
+"normal": "icons/econ/items/meepo/sir_meepalot_head/sir_meepalot_head.307220a5f77e3a05d58d506c283d6ef5fe6bf316.png"
+},
+"sir_meepalot_shoulder": {
+"large": "icons/econ/items/meepo/sir_meepalot_shoulder/sir_meepalot_shoulder_large.cff5cda77b9ca818594844c4d8859e9ea0684b95.png",
+"normal": "icons/econ/items/meepo/sir_meepalot_shoulder/sir_meepalot_shoulder.79c303a938d337b5a80a86da8a476ae4b783a1f8.png"
+},
+"sir_meepalot_tail": {
+"large": "icons/econ/items/meepo/sir_meepalot_tail/sir_meepalot_tail_large.eef101816a68778976b344d76c07d2ca249086df.png",
+"normal": "icons/econ/items/meepo/sir_meepalot_tail/sir_meepalot_tail.f43a968f6c3d4c0ff5e0c5a734828c133247f893.png"
+},
+"sir_meepalot_weapon": {
+"large": "icons/econ/items/meepo/sir_meepalot_weapon/sir_meepalot_weapon_large.36adeadee5eab2237262757aac83c24ad57766d2.png",
+"normal": "icons/econ/items/meepo/sir_meepalot_weapon/sir_meepalot_weapon.972f78960b541a9b4510c439c769a4ba5240e943.png"
+},
+"smooth_criminal_armor": {
+"large": "icons/econ/items/alchemist/smooth_criminal_armor/smooth_criminal_armor_large.0bc5ddbbc4f5ab6321a669d2b04405ab3b5d4e43.png",
+"normal": "icons/econ/items/alchemist/smooth_criminal_armor/smooth_criminal_armor.4537bae7f1e269e2ddabcaf10c7222127d8f3cc8.png"
+},
+"smooth_criminal_arms": {
+"large": "icons/econ/items/alchemist/smooth_criminal_arms/smooth_criminal_arms_large.686b297906196da22c30a3d8062976f67dbfad8f.png",
+"normal": "icons/econ/items/alchemist/smooth_criminal_arms/smooth_criminal_arms.8f82c418092933a028a56a747fa8bc1a084940a1.png"
+},
+"smooth_criminal_back": {
+"large": "icons/econ/items/alchemist/smooth_criminal_back/smooth_criminal_back_large.d76edfe15428686fa81224f5f8a71ab22fa5fc3a.png",
+"normal": "icons/econ/items/alchemist/smooth_criminal_back/smooth_criminal_back.8057d92d7f5501e69350e4cd33d9aebf322b6c4f.png"
+},
+"smooth_criminal_neck": {
+"large": "icons/econ/items/alchemist/smooth_criminal_neck/smooth_criminal_neck_large.7c95aed4f841884759a727b8fcd3dab3dbb9a880.png",
+"normal": "icons/econ/items/alchemist/smooth_criminal_neck/smooth_criminal_neck.a4c7e27025ce97c1cc754095f96f038ce3c1f9bd.png"
+},
+"smooth_criminal_off_hand": {
+"large": "icons/econ/items/alchemist/smooth_criminal_off_hand/smooth_criminal_off_hand_large.a3da0dbe404c94cd63a277da614b764002ac2f0a.png",
+"normal": "icons/econ/items/alchemist/smooth_criminal_off_hand/smooth_criminal_off_hand.715edd201fe890d29ca6c3738d48ca8b0e6ac2bf.png"
+},
+"smooth_criminal_shoulder": {
+"large": "icons/econ/items/alchemist/smooth_criminal_shoulder/smooth_criminal_shoulder_large.0e06eeb1d51c17c1bccc2588a99eed5c71b1193a.png",
+"normal": "icons/econ/items/alchemist/smooth_criminal_shoulder/smooth_criminal_shoulder.e654caf8eafe88d7bd7738bf952c7535bca51826.png"
+},
+"smooth_criminal_weapon": {
+"large": "icons/econ/items/alchemist/smooth_criminal_weapon/smooth_criminal_weapon_large.264b60aeced1591697f253f3b169bca6a2607112.png",
+"normal": "icons/econ/items/alchemist/smooth_criminal_weapon/smooth_criminal_weapon.7d488b97a93ed328e942a3bf339e3c6b06d078c0.png"
+},
+"the_ancient_guardian_arms": {
+"large": "icons/econ/items/furion/the_ancient_guardian_arms/the_ancient_guardian_arms_large.7fad568471de16da2c86b0f0e6bdadd921da9785.png",
+"normal": "icons/econ/items/furion/the_ancient_guardian_arms/the_ancient_guardian_arms.d4cb8d3e007ba61749ba087309639f4668123b02.png"
+},
+"the_ancient_guardian_back": {
+"large": "icons/econ/items/furion/the_ancient_guardian_back/the_ancient_guardian_back_large.d3e1fe041db3e73b07cb47161332baefe957b1d5.png",
+"normal": "icons/econ/items/furion/the_ancient_guardian_back/the_ancient_guardian_back.24fd1e64c0f634738953a76bb6d4ba0bf4894780.png"
+},
+"the_ancient_guardian_head": {
+"large": "icons/econ/items/furion/the_ancient_guardian_head/the_ancient_guardian_head_large.34745e068a608dff7fce00dd13b216a5a79d734e.png",
+"normal": "icons/econ/items/furion/the_ancient_guardian_head/the_ancient_guardian_head.b593a38d560f5041b03c46a58716e9ad713b5d74.png"
+},
+"the_ancient_guardian_neck": {
+"large": "icons/econ/items/furion/the_ancient_guardian_neck/the_ancient_guardian_neck_large.b63a17aff4e54068401a90617a5941df07b44730.png",
+"normal": "icons/econ/items/furion/the_ancient_guardian_neck/the_ancient_guardian_neck.1a6fd084b3ba662ddbb849da33a8a54059c89606.png"
+},
+"the_ancient_guardian_shoulder": {
+"large": "icons/econ/items/furion/the_ancient_guardian_shoulder/the_ancient_guardian_shoulder_large.667c96b636917b76630d5cd9818de114d72fb771.png",
+"normal": "icons/econ/items/furion/the_ancient_guardian_shoulder/the_ancient_guardian_shoulder.6aeede5491ef8b3b3e5291e66d60c8768a07af50.png"
+},
+"the_ancient_guardian_the_ancient_treants_npc_dota_furion_treant": {
+"large": "icons/econ/items/furion/treant/the_ancient_guardian_the_ancient_treants/the_ancient_guardian_the_ancient_treants_npc_dota_furion_treant_large.947a5a2fa6cb6169ac8eec6c840738b75440d54d.png",
+"normal": "icons/econ/items/furion/treant/the_ancient_guardian_the_ancient_treants/the_ancient_guardian_the_ancient_treants_npc_dota_furion_treant.023b066d8ea1dba774afec56839f7c5fcf662cfd.png"
+},
+"the_ancient_guardian_weapon": {
+"large": "icons/econ/items/furion/the_ancient_guardian_weapon/the_ancient_guardian_weapon_large.8cf55c8d19ddbcef02b7c33824c3444989ad651b.png",
+"normal": "icons/econ/items/furion/the_ancient_guardian_weapon/the_ancient_guardian_weapon.efc55e1ecb18779b8ad8190ed0f63472d547bdb4.png"
+},
+"the_burning_shadow_head": {
+"large": "icons/econ/items/luna/the_burning_shadow_head/the_burning_shadow_head_large.b90c930042e2a74a22cd25b8992db5e86a55e748.png",
+"normal": "icons/econ/items/luna/the_burning_shadow_head/the_burning_shadow_head.40c95e267bd1bbad7b2871da4510e170af475ef0.png"
+},
+"the_burning_shadow_mount": {
+"large": "icons/econ/items/luna/the_burning_shadow_mount/the_burning_shadow_mount_large.5a3ee8ab4f90f708a501a589c8603b32db575720.png",
+"normal": "icons/econ/items/luna/the_burning_shadow_mount/the_burning_shadow_mount.dec7e54f2234b0752c5485bceb2868177667f0bc.png"
+},
+"the_burning_shadow_off_hand": {
+"large": "icons/econ/items/luna/the_burning_shadow_off_hand/the_burning_shadow_off_hand_large.7e313657367fb1350390d1fc7c79baa482864303.png",
+"normal": "icons/econ/items/luna/the_burning_shadow_off_hand/the_burning_shadow_off_hand.991645292ae8c9ffd9e79e444f0d9117723de28c.png"
+},
+"the_burning_shadow_shoulder": {
+"large": "icons/econ/items/luna/the_burning_shadow_shoulder/the_burning_shadow_shoulder_large.03ca3c73a37b62db47917b36bf74e9f5bbe958bd.png",
+"normal": "icons/econ/items/luna/the_burning_shadow_shoulder/the_burning_shadow_shoulder.c232f301c39547b5cc373e52d4664fabfb09149e.png"
+},
+"the_burning_shadow_weapon": {
+"large": "icons/econ/items/luna/the_burning_shadow_weapon/the_burning_shadow_weapon_large.4184f12e8bf23e8d5486645d4d3f655db4d9fefa.png",
+"normal": "icons/econ/items/luna/the_burning_shadow_weapon/the_burning_shadow_weapon.e9c0de54fcf7f9463335623b4e206328ac52a40f.png"
+},
+"wraith_king_the_immortal_glory_armor": {
+"large": "icons/econ/items/wraith_king/wraith_king_the_immortal_glory_armor/wraith_king_the_immortal_glory_armor_large.b24fc4977660869d080cb16a6b14e5078c5ecd39.png",
+"normal": "icons/econ/items/wraith_king/wraith_king_the_immortal_glory_armor/wraith_king_the_immortal_glory_armor.3b23b6bddb486a9b563c0caf1505283412c440c2.png"
+},
+"wraith_king_the_immortal_glory_arms": {
+"large": "icons/econ/items/wraith_king/wraith_king_the_immortal_glory_arms/wraith_king_the_immortal_glory_arms_large.732da054f8928239d93d042d1f5e12bff1e0fe7f.png",
+"normal": "icons/econ/items/wraith_king/wraith_king_the_immortal_glory_arms/wraith_king_the_immortal_glory_arms.fa4f665e0fcb358687b957a8e02d5a9ed453e71e.png"
+},
+"wraith_king_the_immortal_glory_back": {
+"large": "icons/econ/items/wraith_king/wraith_king_the_immortal_glory_back/wraith_king_the_immortal_glory_back_large.7dbb2686df40d0acce53d32308f2eb8f05c8aeca.png",
+"normal": "icons/econ/items/wraith_king/wraith_king_the_immortal_glory_back/wraith_king_the_immortal_glory_back.9878c5530110ae967c0e09ac2de2912b5e4a8862.png"
+},
+"wraith_king_the_immortal_glory_head": {
+"large": "icons/econ/items/wraith_king/wraith_king_the_immortal_glory_head/wraith_king_the_immortal_glory_head_large.626a0bec18226fa4b5dcb24b30ac9605cf198f13.png",
+"normal": "icons/econ/items/wraith_king/wraith_king_the_immortal_glory_head/wraith_king_the_immortal_glory_head.ebf8c6b8dd11c76476643e0e47d612a874d4244d.png"
+},
+"wraith_king_the_immortal_glory_shoulder": {
+"large": "icons/econ/items/wraith_king/wraith_king_the_immortal_glory_shoulder/wraith_king_the_immortal_glory_shoulder_large.15d9ec1f7013338c8df6bf6da8508f22d6616431.png",
+"normal": "icons/econ/items/wraith_king/wraith_king_the_immortal_glory_shoulder/wraith_king_the_immortal_glory_shoulder.617948ad80eb4f9c6e82473b51023427286833cb.png"
+},
+"wraith_king_the_immortal_glory_weapon": {
+"large": "icons/econ/items/wraith_king/wraith_king_the_immortal_glory_weapon/wraith_king_the_immortal_glory_weapon_large.b3af03f09953aaede22e3d6006085c4c85f9ab49.png",
+"normal": "icons/econ/items/wraith_king/wraith_king_the_immortal_glory_weapon/wraith_king_the_immortal_glory_weapon.6925ba93c60c174273f42f600a7f63dad0c3dc96.png"
+}
+}

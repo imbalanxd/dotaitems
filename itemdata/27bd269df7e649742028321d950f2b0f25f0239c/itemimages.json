@@ -1,0 +1,66 @@
+{
+"force_staff1_effect": {
+"large": "",
+"normal": ""
+},
+"force_staff_effect": {
+"large": "",
+"normal": ""
+},
+"immortal_familiar_tolling": {
+"large": "icons/econ/items/visage/immortal_familiar/immortal_familiar_tolling_large.6beb2c590dcca0cda6373831e6bd2e0b8d6b4b28.png",
+"normal": "icons/econ/items/visage/immortal_familiar/immortal_familiar_tolling.f465d4fb061e6b32f95dde3de15b274dc252530f.png"
+},
+"immortal_shoulders": {
+"large": "icons/econ/items/necrolyte/immortal_shoulders/immortal_shoulders_large.b1d482f299e7fc6b218a4d89c4c1948a1318ed60.png",
+"normal": "icons/econ/items/necrolyte/immortal_shoulders/immortal_shoulders.adaa837dfb5ef4f01ce322ec3c036cec9e8f0a13.png"
+},
+"immortal_shoulders2": {
+"large": "icons/econ/items/necrolyte/immortal_shoulders/immortal_shoulders2_large.b6bbd39c1651fca535cfbfd017cc609e60c814a7.png",
+"normal": "icons/econ/items/necrolyte/immortal_shoulders/immortal_shoulders2.2aaf9d0a8b8c3198f4df0a98dfea75d7884b3c1b.png"
+},
+"immortal_weapon_11a": {
+"large": "icons/econ/items/obsidian_destroyer/immortal_weapon_1/immortal_weapon_11a_large.970a98ff628fdcbf8dbbcd1f3dc0467efed9bc0f.png",
+"normal": "icons/econ/items/obsidian_destroyer/immortal_weapon_1/immortal_weapon_11a.88f0b29fd737d395a764972fe34e9392d460e8ad.png"
+},
+"immortal_weapon_1a": {
+"large": "icons/econ/items/obsidian_destroyer/immortal_weapon_1/immortal_weapon_1a_large.9d62ee92890ae02db0ec50e72ef2ba78267db49d.png",
+"normal": "icons/econ/items/obsidian_destroyer/immortal_weapon_1/immortal_weapon_1a.96b613401e4c717c9d35e6c8004fb65289840b58.png"
+},
+"paraflare_cannon_immortal": {
+"large": "icons/econ/items/rattletrap/paraflare_cannon_immortal/paraflare_cannon_immortal_large.473477bf8ea10ddd555e10fe23dd2750ce178456.png",
+"normal": "icons/econ/items/rattletrap/paraflare_cannon_immortal/paraflare_cannon_immortal.577439e81c8a1be216109eba02a3d1405bb3f50c.png"
+},
+"razzils_midas_knuckles": {
+"large": "icons/econ/items/alchemist/razzils_midas_knuckles/razzils_midas_knuckles_large.b98d83fe844111a5527932167b542d3bb360e637.png",
+"normal": "icons/econ/items/alchemist/razzils_midas_knuckles/razzils_midas_knuckles.9f258ca89ad5d88142c604d6f68d71883d1671ab.png"
+},
+"shatterblast_crown2": {
+"large": "icons/econ/items/ancient_apparition/shatterblast_crown/shatterblast_crown2_large.526c547b066835bb4a5958568dfe17959b5c57b3.png",
+"normal": "icons/econ/items/ancient_apparition/shatterblast_crown/shatterblast_crown2.2f2b4eb3fa5986d2acfb923a89f6aa5e44afe4bd.png"
+},
+"takoyaki": {
+"large": "",
+"normal": ""
+},
+"takoyaki1_effect": {
+"large": "",
+"normal": ""
+},
+"thirst_of_eztzhok_immortal": {
+"large": "icons/econ/items/blood_seeker/thirst_of_eztzhok_immortal_weapon/thirst_of_eztzhok_immortal_large.286e200be03ca20006fd5a7eb49c2a949cca10c5.png",
+"normal": "icons/econ/items/blood_seeker/thirst_of_eztzhok_immortal_weapon/thirst_of_eztzhok_immortal.3dd236443b9f4f398621f42d9e97e3b2f9e3555a.png"
+},
+"thirst_of_eztzhok_immortal_offhand": {
+"large": "icons/econ/items/blood_seeker/thirst_of_eztzhok_immortal_weapon_offhand/thirst_of_eztzhok_immortal_offhand_large.6c5a79423839921df11f2c2b061011bfb934c440.png",
+"normal": "icons/econ/items/blood_seeker/thirst_of_eztzhok_immortal_weapon_offhand/thirst_of_eztzhok_immortal_offhand.610ec03770adb8c08006ff9ab251bc1adf248b01.png"
+},
+"tidehunter_diving_helmet": {
+"large": "icons/econ/items/tidehunter/diving_helmet/tidehunter_diving_helmet_large.d3457671754b9165acdcd6d047fb1e9dbf3a3085.png",
+"normal": "icons/econ/items/tidehunter/diving_helmet/tidehunter_diving_helmet.8408a728aede9df94fcdc8bd56608ef9e96b5527.png"
+},
+"tidehunter_diving_helmet1": {
+"large": "icons/econ/items/tidehunter/diving_helmet/tidehunter_diving_helmet1_large.d711679685448a9749949906bf777f863c3ca3dd.png",
+"normal": "icons/econ/items/tidehunter/diving_helmet/tidehunter_diving_helmet1.a933b2fdce99f6c838aad5b5bcf1b93a971839d4.png"
+}
+}

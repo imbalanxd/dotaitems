@@ -1,0 +1,150 @@
+{
+"cursed_zealot_back": {
+"large": "icons/econ/items/nerubian_assassin/cursed_zealot_back/cursed_zealot_back_large.0a35a6012fce1afbfc0543de710d5d90463b912d.png",
+"normal": "icons/econ/items/nerubian_assassin/cursed_zealot_back/cursed_zealot_back.83b94f970ca52907337e87cc913367beea5a8c44.png"
+},
+"cursed_zealot_head": {
+"large": "icons/econ/items/nerubian_assassin/cursed_zealot_head/cursed_zealot_head_large.048b8016af7ccb9ce27694207cdccf2291f887ef.png",
+"normal": "icons/econ/items/nerubian_assassin/cursed_zealot_head/cursed_zealot_head.fea07c85d089858e948df4ac8019228e2a3aa0d3.png"
+},
+"cursed_zealot_misc": {
+"large": "icons/econ/items/nerubian_assassin/cursed_zealot_misc/cursed_zealot_misc_large.225ee6eb6e00bc91f76748fbf2d8f060934332bc.png",
+"normal": "icons/econ/items/nerubian_assassin/cursed_zealot_misc/cursed_zealot_misc.fcfb7daaa978f6470d0bcd0ac2158371ed55193e.png"
+},
+"cursed_zealot_weapon": {
+"large": "icons/econ/items/nerubian_assassin/cursed_zealot_weapon/cursed_zealot_weapon_large.48addc8e95422ace11a707ba1b54f6e43cc2a051.png",
+"normal": "icons/econ/items/nerubian_assassin/cursed_zealot_weapon/cursed_zealot_weapon.6c682ad5d821068342779dca0c28d95d8abc52c7.png"
+},
+"dark_wood_arms": {
+"large": "icons/econ/items/lone_druid/dark_wood_arms/dark_wood_arms_large.70e591c6b652debc7f22737612c01c3f06f98357.png",
+"normal": "icons/econ/items/lone_druid/dark_wood_arms/dark_wood_arms.57e45864253b83fe0b46f97bb0f15ed2860070e0.png"
+},
+"dark_wood_back": {
+"large": "icons/econ/items/lone_druid/dark_wood_back/dark_wood_back_large.c7aaccc4df2885637565c6434de223817f590630.png",
+"normal": "icons/econ/items/lone_druid/dark_wood_back/dark_wood_back.0ed147671dbc17917e23340742761f3289906280.png"
+},
+"dark_wood_bear_npc_dota_lone_druid_bear": {
+"large": "icons/econ/items/lone_druid/bear/dark_wood_bear/dark_wood_bear_npc_dota_lone_druid_bear_large.c90517505b462cbfbe9220e56244df1d8fc02f1e.png",
+"normal": "icons/econ/items/lone_druid/bear/dark_wood_bear/dark_wood_bear_npc_dota_lone_druid_bear.506ccdf40009bb862b807734777435a27e7746a9.png"
+},
+"dark_wood_head": {
+"large": "icons/econ/items/lone_druid/dark_wood_head/dark_wood_head_large.dd8ade6c1de51fa3e0e81306abef860f7cd7f01e.png",
+"normal": "icons/econ/items/lone_druid/dark_wood_head/dark_wood_head.56bd4d838631e586c6bb4d6beac7d4183f4107a0.png"
+},
+"dark_wood_shoulder": {
+"large": "icons/econ/items/lone_druid/dark_wood_shoulder/dark_wood_shoulder_large.aaa700099e3fa0bcf6435d4caafbd611a13d99fe.png",
+"normal": "icons/econ/items/lone_druid/dark_wood_shoulder/dark_wood_shoulder.138d741e6bc849e45007c924f872ecf9bc87375d.png"
+},
+"dark_wood_true_form": {
+"large": "icons/econ/items/lone_druid/true_form/dark_wood_true_form/dark_wood_true_form_large.a41984b44d7fdc583a1845bc72487447da21ceb6.png",
+"normal": "icons/econ/items/lone_druid/true_form/dark_wood_true_form/dark_wood_true_form.2057576093e396ad42d90aeb4d2928f8cf39a33f.png"
+},
+"dark_wood_weapon": {
+"large": "icons/econ/items/lone_druid/dark_wood_weapon/dark_wood_weapon_large.87c30406969dfe08eebcfad534241e16ddb9cd64.png",
+"normal": "icons/econ/items/lone_druid/dark_wood_weapon/dark_wood_weapon.48f07fc8e209ad35c67ef61b3cdca18ff8b9cf0c.png"
+},
+"ferocious_toxicants_embrace_arms": {
+"large": "icons/econ/items/venomancer/ferocious_toxicants_embrace_arms/ferocious_toxicants_embrace_arms_large.145b47b027a7bf612b867243817ea59edf8b0f12.png",
+"normal": "icons/econ/items/venomancer/ferocious_toxicants_embrace_arms/ferocious_toxicants_embrace_arms.435f2775dc2fd12e60bfd6f93bd02e0f7210ac1c.png"
+},
+"ferocious_toxicants_embrace_head": {
+"large": "icons/econ/items/venomancer/ferocious_toxicants_embrace_head/ferocious_toxicants_embrace_head_large.016d0b131d49ca4ca15c5c9c28cc6b827f190f3b.png",
+"normal": "icons/econ/items/venomancer/ferocious_toxicants_embrace_head/ferocious_toxicants_embrace_head.0fc36380e068a14b455d11fba18496201580f52f.png"
+},
+"ferocious_toxicants_embrace_shoulder": {
+"large": "icons/econ/items/venomancer/ferocious_toxicants_embrace_shoulder/ferocious_toxicants_embrace_shoulder_large.35d214e082a27ab755a2df93671333918e9f6446.png",
+"normal": "icons/econ/items/venomancer/ferocious_toxicants_embrace_shoulder/ferocious_toxicants_embrace_shoulder.cac98e25680d0ffdd1443063d73367eea77e8784.png"
+},
+"ferocious_toxicants_embrace_tail": {
+"large": "icons/econ/items/venomancer/ferocious_toxicants_embrace_tail/ferocious_toxicants_embrace_tail_large.b1e17f05f60ddf1313616cf5f88a93a98d2b6a3a.png",
+"normal": "icons/econ/items/venomancer/ferocious_toxicants_embrace_tail/ferocious_toxicants_embrace_tail.296c0ba2fcc8307d74af250dcaa54db37d400ae9.png"
+},
+"ferocious_toxicants_embrace_ward_npc_dota_venomancer_plague_ward": {
+"large": "icons/econ/items/venomancer/ward/ferocious_toxicants_embrace_ward/ferocious_toxicants_embrace_ward_npc_dota_venomancer_plague_ward_large.dd13bc0fef80b9f7ab569387aafaabb643453398.png",
+"normal": "icons/econ/items/venomancer/ward/ferocious_toxicants_embrace_ward/ferocious_toxicants_embrace_ward_npc_dota_venomancer_plague_ward.cbda32a5d85ccfcdd5b038c179706b98fbc519c4.png"
+},
+"glittering_hawk_arms": {
+"large": "icons/econ/items/sven/glittering_hawk_arms/glittering_hawk_arms_large.c30738cf7d04670171c2decdd8457adce17cf36e.png",
+"normal": "icons/econ/items/sven/glittering_hawk_arms/glittering_hawk_arms.a668ea636c54cf1a3e270fbfe7d5976352d09f01.png"
+},
+"glittering_hawk_back": {
+"large": "icons/econ/items/sven/glittering_hawk_back/glittering_hawk_back_large.8fd1f5b1b21c52182e496409ae59885380a183ef.png",
+"normal": "icons/econ/items/sven/glittering_hawk_back/glittering_hawk_back.081ab53a7e8485c9229ece54ed85319b9cdb3059.png"
+},
+"glittering_hawk_belt": {
+"large": "icons/econ/items/sven/glittering_hawk_belt/glittering_hawk_belt_large.db883ed3f31334d8aa11e82d22681cfc8f33f36d.png",
+"normal": "icons/econ/items/sven/glittering_hawk_belt/glittering_hawk_belt.74871f12254529871ae5ab5ff6bc6e9e70bd92b6.png"
+},
+"glittering_hawk_head": {
+"large": "icons/econ/items/sven/glittering_hawk_head/glittering_hawk_head_large.40cc2a67703c79d774dbb18b8cadab8ca4e1de83.png",
+"normal": "icons/econ/items/sven/glittering_hawk_head/glittering_hawk_head.b0c3356888527fef3f72d978eccdb16edb86db8d.png"
+},
+"glittering_hawk_shoulder": {
+"large": "icons/econ/items/sven/glittering_hawk_shoulder/glittering_hawk_shoulder_large.617206373d27222ffbcb5c06aed24b0f1aef57a5.png",
+"normal": "icons/econ/items/sven/glittering_hawk_shoulder/glittering_hawk_shoulder.94188b3e4c0ea946c7195b886d5417aa9855aa52.png"
+},
+"glittering_hawk_weapon": {
+"large": "icons/econ/items/sven/glittering_hawk_weapon/glittering_hawk_weapon_large.77052f7232927d329e9416c67529ad101c309439.png",
+"normal": "icons/econ/items/sven/glittering_hawk_weapon/glittering_hawk_weapon.57ee854fca5f4746fcd6da0e19c3700e55ba4773.png"
+},
+"mermaids_queen_armor": {
+"large": "icons/econ/items/death_prophet/mermaids_queen_armor/mermaids_queen_armor_large.98f81fc1888eeaa8568f6c2ff0e2c3f74acc2e24.png",
+"normal": "icons/econ/items/death_prophet/mermaids_queen_armor/mermaids_queen_armor.aa6565e0e7030b6ab51c36a0275ef54f92a7c76a.png"
+},
+"mermaids_queen_belt": {
+"large": "icons/econ/items/death_prophet/mermaids_queen_belt/mermaids_queen_belt_large.e472f78ac5a256d8ad16bc9dc227cbd57f8a041c.png",
+"normal": "icons/econ/items/death_prophet/mermaids_queen_belt/mermaids_queen_belt.426116afabe4461be6fa4a4f204391758832a57f.png"
+},
+"mermaids_queen_head": {
+"large": "icons/econ/items/death_prophet/mermaids_queen_head/mermaids_queen_head_large.42d3986fdc2130c1761aa928de9580b19bbe1013.png",
+"normal": "icons/econ/items/death_prophet/mermaids_queen_head/mermaids_queen_head.21e9ffcf21894aec34157d171c7649c407471a57.png"
+},
+"mermaids_queen_legs": {
+"large": "icons/econ/items/death_prophet/mermaids_queen_legs/mermaids_queen_legs_large.2cbadc109e490dab6486b97db86876c055cdad68.png",
+"normal": "icons/econ/items/death_prophet/mermaids_queen_legs/mermaids_queen_legs.cf67c7cfe9c3cc6bc3b011117ab85a89aad94b05.png"
+},
+"mermaids_queen_spirit_dota_death_prophet_exorcism_spirit": {
+"large": "icons/econ/items/death_prophet/exorcism/mermaids_queen_spirit/mermaids_queen_spirit_dota_death_prophet_exorcism_spirit_large.5d9d4758c1c68deb7eddea60562c88993505a06a.png",
+"normal": "icons/econ/items/death_prophet/exorcism/mermaids_queen_spirit/mermaids_queen_spirit_dota_death_prophet_exorcism_spirit.2c270ebe26c898a1fd406848f6cd601bdab1c431.png"
+},
+"shadow_of_wuxia_armor": {
+"large": "icons/econ/items/lanaya/shadow_of_wuxia_armor/shadow_of_wuxia_armor_large.f5ea6dd9c1b93a70f25c8120aa8b1a5e7fef2a56.png",
+"normal": "icons/econ/items/lanaya/shadow_of_wuxia_armor/shadow_of_wuxia_armor.d0d5961cc2b8f207c470a3d5e27822c17b9c100c.png"
+},
+"shadow_of_wuxia_head": {
+"large": "icons/econ/items/lanaya/shadow_of_wuxia_head/shadow_of_wuxia_head_large.b44d557481e0e36c59fd4e998d022316d2e3d5d1.png",
+"normal": "icons/econ/items/lanaya/shadow_of_wuxia_head/shadow_of_wuxia_head.9affca591c38e7d01ab6eabc99cdc87ea424ac59.png"
+},
+"shadow_of_wuxia_shoulder": {
+"large": "icons/econ/items/lanaya/shadow_of_wuxia_shoulder/shadow_of_wuxia_shoulder_large.086318f3eb46fecc3769d9dbd6c95c203a360589.png",
+"normal": "icons/econ/items/lanaya/shadow_of_wuxia_shoulder/shadow_of_wuxia_shoulder.2c1c56d2ffd347baaa3202027da6661f9822b94b.png"
+},
+"warden_of_the_eternal_night_arms": {
+"large": "icons/econ/items/mirana/warden_of_the_eternal_night_arms/warden_of_the_eternal_night_arms_large.3f6db44633d24f452763b3e315661dec9802237e.png",
+"normal": "icons/econ/items/mirana/warden_of_the_eternal_night_arms/warden_of_the_eternal_night_arms.0d8cdecffdae41100cdd24b80e4862aa07625b92.png"
+},
+"warden_of_the_eternal_night_back": {
+"large": "icons/econ/items/mirana/warden_of_the_eternal_night_back/warden_of_the_eternal_night_back_large.7f67b02d261182e9ab32e3955c6f592f78c6ca24.png",
+"normal": "icons/econ/items/mirana/warden_of_the_eternal_night_back/warden_of_the_eternal_night_back.aa474d4eb65f04ec5cd639af5dcca975995fb08d.png"
+},
+"warden_of_the_eternal_night_head": {
+"large": "icons/econ/items/mirana/warden_of_the_eternal_night_head/warden_of_the_eternal_night_head_large.2fd16a07588b628ecf1245fceb079686d9388fe2.png",
+"normal": "icons/econ/items/mirana/warden_of_the_eternal_night_head/warden_of_the_eternal_night_head.c515377de62e9eff95a96e6c341734c04f21875b.png"
+},
+"warden_of_the_eternal_night_misc": {
+"large": "icons/econ/items/mirana/warden_of_the_eternal_night_misc/warden_of_the_eternal_night_misc_large.b94aca9dd6c0c0147c886e30aa1d9396872dbc8d.png",
+"normal": "icons/econ/items/mirana/warden_of_the_eternal_night_misc/warden_of_the_eternal_night_misc.619f706f3500541a2d142972d4974160ee83197b.png"
+},
+"warden_of_the_eternal_night_mount": {
+"large": "icons/econ/items/mirana/warden_of_the_eternal_night_mount/warden_of_the_eternal_night_mount_large.ebc14d2b08c8d05c28b347dbcb1e68c05cf32765.png",
+"normal": "icons/econ/items/mirana/warden_of_the_eternal_night_mount/warden_of_the_eternal_night_mount.401065b887f8ef6b37f45584676298835c3d6cec.png"
+},
+"warden_of_the_eternal_night_shoulder": {
+"large": "icons/econ/items/mirana/warden_of_the_eternal_night_shoulder/warden_of_the_eternal_night_shoulder_large.c1ad53933e016d7ef0257393520c83ae2d436109.png",
+"normal": "icons/econ/items/mirana/warden_of_the_eternal_night_shoulder/warden_of_the_eternal_night_shoulder.2b932007ea7b1d184813de81094655335644c03f.png"
+},
+"warden_of_the_eternal_night_weapon": {
+"large": "icons/econ/items/mirana/warden_of_the_eternal_night_weapon/warden_of_the_eternal_night_weapon_large.3b691b4e289bb4875611bd680304076ddb9b4782.png",
+"normal": "icons/econ/items/mirana/warden_of_the_eternal_night_weapon/warden_of_the_eternal_night_weapon.2627f50c611f73c870774bce22611b9a7d50e449.png"
+}
+}

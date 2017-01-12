@@ -1,0 +1,14 @@
+{
+"thundergods_bare_arms": {
+"large": "icons/econ/items/zeus/tempest_helm/thundergods_bare_arms_large.1850b18edf86b9ff180b6de3c2d58b1711bd7a4b.png",
+"normal": "icons/econ/items/zeus/tempest_helm/thundergods_bare_arms.a60f869711390cc6781e801696a6bb4a7686c6e8.png"
+},
+"thundergods_bare_chest": {
+"large": "icons/econ/items/zeus/tempest_helm/thundergods_bare_chest_large.4dfcffdc43dd291f6f50e17b174c4d5dae6845da.png",
+"normal": "icons/econ/items/zeus/tempest_helm/thundergods_bare_chest.63aae51a9e408a9552d2b4b6ebe054eee3a6ec1d.png"
+},
+"zeus_arcana": {
+"large": "icons/econ/items/zeus/tempest_helm/zeus_arcana_large.5b0b48d4919a4130cbcca6e89c72b91555c34a12.png",
+"normal": "icons/econ/items/zeus/tempest_helm/zeus_arcana.e877e52dbd8ec7a46f44905e7498dfc89aae9ed0.png"
+}
+}

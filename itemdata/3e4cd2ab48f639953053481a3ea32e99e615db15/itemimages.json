@@ -1,0 +1,14 @@
+{
+"dotapit_s3_abyssal_temptress_back": {
+"large": "icons/econ/items/queenofpain/dotapit_s3_abyssal_temptress_back/dotapit_s3_abyssal_temptress_back_large.459b2f6a2fc4a8da8cb53795ed30b1d8d19e30e3.png",
+"normal": "icons/econ/items/queenofpain/dotapit_s3_abyssal_temptress_back/dotapit_s3_abyssal_temptress_back.c109573e9fad502a31c18285e237cf917ea55a29.png"
+},
+"dotapit_s3_abyssal_temptress_weapon": {
+"large": "icons/econ/items/queenofpain/dotapit_s3_abyssal_temptress_weapon/dotapit_s3_abyssal_temptress_weapon_large.07601eea64bbe1e61d0cf6c9f2f5cdfbe739aa6a.png",
+"normal": "icons/econ/items/queenofpain/dotapit_s3_abyssal_temptress_weapon/dotapit_s3_abyssal_temptress_weapon.d5e5cfbfa3aa8e45cf5cfe8deb0824f282b6bfa2.png"
+},
+"monkey_king_arcana": {
+"large": "icons/econ/items/monkey_king/monkey_king_arcana_head/monkey_king_arcana_large.ac9802658c5eacac3245fb2721bc791cc7470c5b.png",
+"normal": "icons/econ/items/monkey_king/monkey_king_arcana_head/monkey_king_arcana.4b313eb597bd83df26f406636a5411338a3eb5e5.png"
+}
+}

@@ -1,0 +1,42 @@
+{
+"bonkers_the_mad": {
+"large": "icons/econ/items/witchdoctor/bonkers_the_mad/bonkers_the_mad_large.c3ef3e01ad0b519349cc2acc72d8365207ee8123.png",
+"normal": "icons/econ/items/witchdoctor/bonkers_the_mad/bonkers_the_mad.a0598083578666419cca973bf51305943644bbec.png"
+},
+"carapace_of_bukivak_the_corrupted": {
+"large": "icons/econ/items/lion/carapace_of_bukivak_the_corrupted/carapace_of_bukivak_the_corrupted_large.391809e3218e21581d1fb00450bbed6792f83d51.png",
+"normal": "icons/econ/items/lion/carapace_of_bukivak_the_corrupted/carapace_of_bukivak_the_corrupted.8e847d153c2837a6f0fcc58ce2bd1c9b6445359c.png"
+},
+"colossal_crystal_chorus": {
+"large": "icons/econ/items/meepo/colossal_crystal_chorus/colossal_crystal_chorus_large.a611f96b952e84a18136b30d894ca0a21984153e.png",
+"normal": "icons/econ/items/meepo/colossal_crystal_chorus/colossal_crystal_chorus.eb6bc4a2c67f5ea57a3d574c51ef566aa0ca4ddc.png"
+},
+"dark_staff": {
+"large": "icons/econ/items/furion/dark_staff/dark_staff_large.4121e618b4d43c929f9f0991150208cd0e9781a5.png",
+"normal": "icons/econ/items/furion/dark_staff/dark_staff.a07cca7701c12dda3f60fc60f693f6a8927dc426.png"
+},
+"immortal_guns": {
+"large": "icons/econ/items/gyrocopter/immortal_guns/immortal_guns_large.d9802603c645484fd6ee87b8f74b73fa55d790d7.png",
+"normal": "icons/econ/items/gyrocopter/immortal_guns/immortal_guns.7dd404f205cfb2751523d33ac9530ce64c6cd8b4.png"
+},
+"immortal_guns_gold": {
+"large": "icons/econ/items/gyrocopter/immortal_guns/immortal_guns_gold_large.137c40238c8181b270e9737ff96a7c9dc2d427eb.png",
+"normal": "icons/econ/items/gyrocopter/immortal_guns/immortal_guns_gold.8e30815cbe7acb35604d6b40fa50f3b1a77be84a.png"
+},
+"magus_apex2": {
+"large": "icons/econ/items/invoker/magus_apex/magus_apex2_large.fb871dd8e0269b2536355c92f70f1ad77c03cacd.png",
+"normal": "icons/econ/items/invoker/magus_apex/magus_apex2.110756e55a9854f81b2c8ba471b1e59b0a727b02.png"
+},
+"psi_blades_immortal3": {
+"large": "",
+"normal": ""
+},
+"spikey_spray": {
+"large": "icons/econ/items/bristleback/spikey_spray/spikey_spray_large.e188d79137f60b2927a15af844d736cdcd7fa31e.png",
+"normal": "icons/econ/items/bristleback/spikey_spray/spikey_spray.0dc7ffcad94f19177325835b62112bb0b3b42ed9.png"
+},
+"zuus_lightning_weapon": {
+"large": "",
+"normal": ""
+}
+}

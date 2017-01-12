@@ -1,0 +1,26 @@
+{
+"rekindled_ashes_arms": {
+"large": "icons/econ/items/ember_spirit/rekindled_ashes_arms/rekindled_ashes_arms_large.eccb92725379afd2d0e589cc1f7ded61eaf94a51.png",
+"normal": "icons/econ/items/ember_spirit/rekindled_ashes_arms/rekindled_ashes_arms.f7b2c56bcd6adef536933dbd6192c01c6d78516a.png"
+},
+"rekindled_ashes_belt": {
+"large": "icons/econ/items/ember_spirit/rekindled_ashes_belt/rekindled_ashes_belt_large.6e363a9389411442ecccac1a1cfedb9a2396f247.png",
+"normal": "icons/econ/items/ember_spirit/rekindled_ashes_belt/rekindled_ashes_belt.e3458e2b4c16abdbd768d8055aad058588cfd3e5.png"
+},
+"rekindled_ashes_head": {
+"large": "icons/econ/items/ember_spirit/rekindled_ashes_head/rekindled_ashes_head_large.730e962a77ca041defc83bb311f62a4b378cccd2.png",
+"normal": "icons/econ/items/ember_spirit/rekindled_ashes_head/rekindled_ashes_head.4a963490ec05ba5428b27d2508e4d6ff9be06bd8.png"
+},
+"rekindled_ashes_offhand": {
+"large": "icons/econ/items/ember_spirit/rekindled_ashes_offhand/rekindled_ashes_offhand_large.47ca5a1898c0e995303c62c7d9962a0f2890ee3b.png",
+"normal": "icons/econ/items/ember_spirit/rekindled_ashes_offhand/rekindled_ashes_offhand.c8c648af6a1a3d0c39bf999dd1e8370499a5c6c9.png"
+},
+"rekindled_ashes_shoulder": {
+"large": "icons/econ/items/ember_spirit/rekindled_ashes_shoulder/rekindled_ashes_shoulder_large.d46434b534d0f86d430fdcdd832a5b10e3ddfb21.png",
+"normal": "icons/econ/items/ember_spirit/rekindled_ashes_shoulder/rekindled_ashes_shoulder.44554befad33f471f705e7ac39950462f22dd4cc.png"
+},
+"rekindled_ashes_weapon": {
+"large": "icons/econ/items/ember_spirit/rekindled_ashes_weapon/rekindled_ashes_weapon_large.3ab03b94e1d469f5dde2f64c7e3bbc52be50a2e0.png",
+"normal": "icons/econ/items/ember_spirit/rekindled_ashes_weapon/rekindled_ashes_weapon.de3743b83962639014f782196716f83ea2a82504.png"
+}
+}

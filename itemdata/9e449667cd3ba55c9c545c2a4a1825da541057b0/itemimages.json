@@ -1,0 +1,110 @@
+{
+"esl_avenging_crusader_arms": {
+"large": "icons/econ/items/magnataur/esl_avenging_crusader_arms/esl_avenging_crusader_arms_large.93ef57b7127edf0ed907528222a69739c70be0be.png",
+"normal": "icons/econ/items/magnataur/esl_avenging_crusader_arms/esl_avenging_crusader_arms.2a7c9d7c2019827c2afd33c25ee72e5a6b0030fb.png"
+},
+"esl_avenging_crusader_belt": {
+"large": "icons/econ/items/magnataur/esl_avenging_crusader_belt/esl_avenging_crusader_belt_large.3cb963b96e8074bb5a6e28e06fb4d09af1fa9fe6.png",
+"normal": "icons/econ/items/magnataur/esl_avenging_crusader_belt/esl_avenging_crusader_belt.f710933eb8f1bbb057a0ae28aa173ab0c8f9c87b.png"
+},
+"esl_avenging_crusader_head": {
+"large": "icons/econ/items/magnataur/esl_avenging_crusader_head/esl_avenging_crusader_head_large.c38af24b285a22d240f6968388d07dfc0659b3b8.png",
+"normal": "icons/econ/items/magnataur/esl_avenging_crusader_head/esl_avenging_crusader_head.78317cd4d44577e44fed5d6fcb322622ee8325b0.png"
+},
+"esl_avenging_crusader_misc": {
+"large": "icons/econ/items/magnataur/esl_avenging_crusader_misc/esl_avenging_crusader_misc_large.0a8d0954ddb9999535fa3cf4cc93a056183e6d5b.png",
+"normal": "icons/econ/items/magnataur/esl_avenging_crusader_misc/esl_avenging_crusader_misc.16a681e4df7899d9d08d441db8a356d545fe2ab3.png"
+},
+"esl_avenging_crusader_weapon": {
+"large": "icons/econ/items/magnataur/esl_avenging_crusader_weapon/esl_avenging_crusader_weapon_large.68e38baabd56e36f4ebea1201ee5e64640ca9773.png",
+"normal": "icons/econ/items/magnataur/esl_avenging_crusader_weapon/esl_avenging_crusader_weapon.ad54e6ac11f681c0aa288445f4b47f28f68d28eb.png"
+},
+"esl_dashing_bladelord_arms": {
+"large": "icons/econ/items/juggernaut/esl_dashing_bladelord_arms/esl_dashing_bladelord_arms_large.a6bc920be6b8ae0e806b47af38627177b32fabe6.png",
+"normal": "icons/econ/items/juggernaut/esl_dashing_bladelord_arms/esl_dashing_bladelord_arms.4ffbff02f90ffc8bc6d577133729274e5a06e9e6.png"
+},
+"esl_dashing_bladelord_back": {
+"large": "icons/econ/items/juggernaut/esl_dashing_bladelord_back/esl_dashing_bladelord_back_large.20e6028578ecbc505714cf516fe8b61ef9217d50.png",
+"normal": "icons/econ/items/juggernaut/esl_dashing_bladelord_back/esl_dashing_bladelord_back.8a53e16497ab59a5aad6d6231930cd942b1ea6b8.png"
+},
+"esl_dashing_bladelord_head": {
+"large": "icons/econ/items/juggernaut/esl_dashing_bladelord_head/esl_dashing_bladelord_head_large.e6b7db4dd02036853197397751d68114b487d7ce.png",
+"normal": "icons/econ/items/juggernaut/esl_dashing_bladelord_head/esl_dashing_bladelord_head.7afd5caab9711908b8046c58bc47648c77d20708.png"
+},
+"esl_dashing_bladelord_legs": {
+"large": "icons/econ/items/juggernaut/esl_dashing_bladelord_legs/esl_dashing_bladelord_legs_large.25f3fbcc18ebaaffe0347b8050433a9d872d1136.png",
+"normal": "icons/econ/items/juggernaut/esl_dashing_bladelord_legs/esl_dashing_bladelord_legs.a91606f3bd07f458b23cca3dc5c1eba441b11f42.png"
+},
+"esl_dashing_bladelord_weapon": {
+"large": "icons/econ/items/juggernaut/esl_dashing_bladelord_weapon/esl_dashing_bladelord_weapon_large.e3e57e31e59b9588398bafc61ddb7f5fa60ae1a9.png",
+"normal": "icons/econ/items/juggernaut/esl_dashing_bladelord_weapon/esl_dashing_bladelord_weapon.05a0e585a188132d6efd91b04acb83a58bfb7b05.png"
+},
+"esl_demonic_affliction_back": {
+"large": "icons/econ/items/queenofpain/esl_demonic_affliction_back/esl_demonic_affliction_back_large.73ebdafacd47e63d20906a769825e5b1fabc81b5.png",
+"normal": "icons/econ/items/queenofpain/esl_demonic_affliction_back/esl_demonic_affliction_back.e5951420810e2256fd162963163813da4d940272.png"
+},
+"esl_demonic_affliction_head": {
+"large": "icons/econ/items/queenofpain/esl_demonic_affliction_head/esl_demonic_affliction_head_large.482e0a12d1e2c95498f718fba398d4fd3e41e439.png",
+"normal": "icons/econ/items/queenofpain/esl_demonic_affliction_head/esl_demonic_affliction_head.928dc9dcf64d4e1d468292d2b0bfd8cb48595f44.png"
+},
+"esl_demonic_affliction_shoulder": {
+"large": "icons/econ/items/queenofpain/esl_demonic_affliction_shoulder/esl_demonic_affliction_shoulder_large.67392205145409841b45c51bbeaa0158f12f72c8.png",
+"normal": "icons/econ/items/queenofpain/esl_demonic_affliction_shoulder/esl_demonic_affliction_shoulder.cdab130f27adddc106ef13fe4b96a65be2780435.png"
+},
+"esl_demonic_affliction_weapon": {
+"large": "icons/econ/items/queenofpain/esl_demonic_affliction_weapon/esl_demonic_affliction_weapon_large.96e889208ee638f66a36db72b9f1030164905e80.png",
+"normal": "icons/econ/items/queenofpain/esl_demonic_affliction_weapon/esl_demonic_affliction_weapon.4a0947570df59614bf9e41eaf65825db64219ca3.png"
+},
+"esl_frozen_lotus_arms": {
+"large": "icons/econ/items/crystal_maiden/esl_frozen_lotus_arms/esl_frozen_lotus_arms_large.3deb0702b037d2309e47ce77cea7d11e0facf4fd.png",
+"normal": "icons/econ/items/crystal_maiden/esl_frozen_lotus_arms/esl_frozen_lotus_arms.6bd7e4104396cfcd11789b9b9c3fbab81584968d.png"
+},
+"esl_frozen_lotus_back": {
+"large": "icons/econ/items/crystal_maiden/esl_frozen_lotus_back/esl_frozen_lotus_back_large.ef22634d433c70207afeab11339422a9af14bdaa.png",
+"normal": "icons/econ/items/crystal_maiden/esl_frozen_lotus_back/esl_frozen_lotus_back.66858089c1419bad98e2e080358b8396b1c07b75.png"
+},
+"esl_frozen_lotus_head": {
+"large": "icons/econ/items/crystal_maiden/esl_frozen_lotus_head/esl_frozen_lotus_head_large.ea68df8204ca818e0964e2a715278b4ae8a62728.png",
+"normal": "icons/econ/items/crystal_maiden/esl_frozen_lotus_head/esl_frozen_lotus_head.abce035062bc7adddf50ee609c82f6cfade5d121.png"
+},
+"esl_frozen_lotus_shoulder": {
+"large": "icons/econ/items/crystal_maiden/esl_frozen_lotus_shoulder/esl_frozen_lotus_shoulder_large.6f88796c178fc384310a17e8523acaa5509ff83a.png",
+"normal": "icons/econ/items/crystal_maiden/esl_frozen_lotus_shoulder/esl_frozen_lotus_shoulder.b78cff9ed083210d0a4dce331c8a6c0a13f30c3e.png"
+},
+"esl_frozen_lotus_weapon": {
+"large": "icons/econ/items/crystal_maiden/esl_frozen_lotus_weapon/esl_frozen_lotus_weapon_large.749db6137100a34f66397d6da0f60702db893247.png",
+"normal": "icons/econ/items/crystal_maiden/esl_frozen_lotus_weapon/esl_frozen_lotus_weapon.0be194d87a90e32265ff79ea5c93adb0da5d5c05.png"
+},
+"esl_harmony_armor": {
+"large": "icons/econ/items/storm_spirit/esl_harmony_armor/esl_harmony_armor_large.4e942c52cfbc4dec318886793a2a406a1c3cedd8.png",
+"normal": "icons/econ/items/storm_spirit/esl_harmony_armor/esl_harmony_armor.5ee270690f5ea832051fd4f1414bdcbea8eeeb07.png"
+},
+"esl_harmony_arms": {
+"large": "icons/econ/items/storm_spirit/esl_harmony_arms/esl_harmony_arms_large.d97b73c68ed1776180a8c6d200b0cf84e48e236b.png",
+"normal": "icons/econ/items/storm_spirit/esl_harmony_arms/esl_harmony_arms.765c7646ec639ff43c4474c3017348e73cda2009.png"
+},
+"esl_harmony_head": {
+"large": "icons/econ/items/storm_spirit/esl_harmony_head/esl_harmony_head_large.f53dad3188ebec31a86253b06daa369013e749d1.png",
+"normal": "icons/econ/items/storm_spirit/esl_harmony_head/esl_harmony_head.c8e56db39f814a5260a9ff70bf8f3fc9f77013b0.png"
+},
+"esl_netherstar_arms": {
+"large": "icons/econ/items/legion_commander/esl_netherstar_arms/esl_netherstar_arms_large.0f64cda4df4f78ee5e894ba3b239a277f5a064b5.png",
+"normal": "icons/econ/items/legion_commander/esl_netherstar_arms/esl_netherstar_arms.3e208d788fcaf59456f619d7121b331e678b4b93.png"
+},
+"esl_netherstar_back": {
+"large": "icons/econ/items/legion_commander/esl_netherstar_back/esl_netherstar_back_large.daa2ecd962e62e872fd7b72ca5cc68975da6d2de.png",
+"normal": "icons/econ/items/legion_commander/esl_netherstar_back/esl_netherstar_back.3b0f4a7d2244bb0dcc53600684042da590907888.png"
+},
+"esl_netherstar_head": {
+"large": "icons/econ/items/legion_commander/esl_netherstar_head/esl_netherstar_head_large.4a3dd1a5b07e80ca01f20941324427b7a147e484.png",
+"normal": "icons/econ/items/legion_commander/esl_netherstar_head/esl_netherstar_head.10ca653c9ba614ecb3728470135e113412c29d0c.png"
+},
+"esl_netherstar_shoulder": {
+"large": "icons/econ/items/legion_commander/esl_netherstar_shoulder/esl_netherstar_shoulder_large.efb8a345cbcde8a2ca0c881f97a373af79eb019c.png",
+"normal": "icons/econ/items/legion_commander/esl_netherstar_shoulder/esl_netherstar_shoulder.2868eddc48d68918207c6290be2d5592fed84978.png"
+},
+"esl_netherstar_weapon": {
+"large": "icons/econ/items/legion_commander/esl_netherstar_weapon/esl_netherstar_weapon_large.caa406644ad42e26ba20bba8deef7a4d923b1d7d.png",
+"normal": "icons/econ/items/legion_commander/esl_netherstar_weapon/esl_netherstar_weapon.d89f65ce5506ceaa7e5bdfaaa01954f7792cf3d2.png"
+}
+}
