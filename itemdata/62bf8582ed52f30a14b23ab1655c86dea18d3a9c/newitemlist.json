@@ -1,0 +1,1651 @@
+{
+"A": {
+"Armguards of the Smoldering Sage": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/ember_spirit/wu_sheng_arms_v2/wu_sheng_arms_v2",
+"item_description": "#DOTA_Item_Desc_Armguards_of_the_Smoldering_Sage",
+"item_name": "#DOTA_Item_Armguards_of_the_Smoldering_Sage",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/ember_spirit/wu_sheng_arms_v2/wu_sheng_arms_v2.vmdl",
+"name": "Armguards of the Smoldering Sage",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ember_spirit": "1"
+}
+},
+"Armlets of the King Restored": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/zuus/the_return_of_the_king_of_gods_arms/the_return_of_the_king_of_gods_arms",
+"item_description": "#DOTA_Item_Desc_Armlets_of_the_King_Restored",
+"item_name": "#DOTA_Item_Armlets_of_the_King_Restored",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/zuus/the_return_of_the_king_of_gods_arms/the_return_of_the_king_of_gods_arms.vmdl",
+"name": "Armlets of the King Restored",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_zuus": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/zuus/the_return_of_the_king_of_gods_arms/the_return_of_the_king_of_gods_arms"
+},
+"1": {
+"icon_path": "econ/items/zuus/the_return_of_the_king_of_gods_arms/the_return_of_the_king_of_gods_arms_style1"
+}
+},
+"styles": {
+"0": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Quest_Locked",
+"skin": "1"
+},
+"1": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Quest_Unlocked",
+"skin": "0",
+"unlock": {
+"item_def": "17243",
+"price": "1"
+}
+}
+}
+}
+},
+"Armor of the Fervent Conscript": {
+"creation_date": "2016-09-06",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/antimage/distinguished_conscript_armor/distinguished_conscript_armor",
+"item_description": "#DOTA_Item_Desc_Armor_of_the_Fervent_Conscript",
+"item_name": "#DOTA_Item_Armor_of_the_Fervent_Conscript",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/antimage/distinguished_conscript_armor/distinguished_conscript_armor.vmdl",
+"name": "Armor of the Fervent Conscript",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_antimage": "1"
+},
+"visuals": {
+"alternate_icons": {
+"1": {
+"icon_path": "econ/items/antimage/distinguished_conscript_armor/distinguished_conscript_armor_style1"
+}
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Quest_Locked",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Quest_Unlocked",
+"skin": "1",
+"unlock": {
+"item_def": "17242",
+"price": "1"
+}
+}
+}
+}
+},
+"Armor of the Hunter's Glory": {
+"creation_date": "2017-01-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/bounty_hunter/gold_ripperbounty_hunter_armor/gold_ripperbounty_hunter_armor",
+"item_description": "#DOTA_Item_Desc_Armor_of_the_Hunters_Glory",
+"item_name": "#DOTA_Item_Armor_of_the_Hunters_Glory",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/bounty_hunter/gold_ripperbounty_hunter_armor/gold_ripperbounty_hunter_armor.vmdl",
+"name": "Armor of the Hunter's Glory",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_bounty_hunter": "1"
+}
+},
+"Armor of the Imperious Command": {
+"creation_date": "2017-01-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/troll_warlord/the_mythical_vanquisher_armor/the_mythical_vanquisher_armor",
+"item_description": "#DOTA_Item_Desc_Armor_of_the_Imperious_Command",
+"item_name": "#DOTA_Item_Armor_of_the_Imperious_Command",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/troll_warlord/the_mythical_vanquisher_armor/the_mythical_vanquisher_armor.vmdl",
+"name": "Armor of the Imperious Command",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_troll_warlord": "1"
+},
+"visuals": {
+"skip_model_combine": "0"
+}
+},
+"Arms of the Ageless Witness": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/treant/lord_of_ancient_treant_arms/lord_of_ancient_treant_arms",
+"item_description": "#DOTA_Item_Desc_Arms_of_the_Ageless_Witness",
+"item_name": "#DOTA_Item_Arms_of_the_Ageless_Witness",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/treant/lord_of_ancient_treant_arms/lord_of_ancient_treant_arms.vmdl",
+"name": "Arms of the Ageless Witness",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_treant": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/treant/lord_of_ancient_treant_arms/lord_of_ancient_treant_arms"
+},
+"1": {
+"icon_path": "econ/items/treant/lord_of_ancient_treant_arms/lord_of_ancient_treant_arms_style1"
+}
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Quest_Locked",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Quest_Unlocked",
+"skin": "1",
+"unlock": {
+"item_def": "17241",
+"price": "1"
+}
+}
+}
+}
+}
+},
+"B": {
+"Beard of the Royal Butcher": {
+"creation_date": "2017-01-10",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/pudge/demon_queller_head/demon_queller_head",
+"item_description": "#DOTA_Item_Desc_Beard_of_the_Royal_Butcher",
+"item_name": "#DOTA_Item_Beard_of_the_Royal_Butcher",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/pudge/demon_queller_head/demon_queller_head.vmdl",
+"name": "Beard of the Royal Butcher",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/pudge/pudge_demon_queller/pudge_demon_queller_head_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Belt of the Arkturan Talon": {
+"creation_date": "2017-01-10",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/witchdoctor/vermilion_juju_of_the_south_belt/vermilion_juju_of_the_south_belt",
+"item_description": "#DOTA_Item_Desc_Belt_of_the_Arkturan_Talon",
+"item_name": "#DOTA_Item_Belt_of_the_Arkturan_Talon",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/witchdoctor/vermilion_juju_of_the_south_belt/vermilion_juju_of_the_south_belt.vmdl",
+"name": "Belt of the Arkturan Talon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+}
+},
+"Belt of the Fervent Conscript": {
+"creation_date": "2016-09-06",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/antimage/distinguished_conscript_belt/distinguished_conscript_belt",
+"item_description": "#DOTA_Item_Desc_Belt_of_the_Fervent_Conscript",
+"item_name": "#DOTA_Item_Belt_of_the_Fervent_Conscript",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/antimage/distinguished_conscript_belt/distinguished_conscript_belt.vmdl",
+"name": "Belt of the Fervent Conscript",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_antimage": "1"
+},
+"visuals": {
+"alternate_icons": {
+"1": {
+"icon_path": "econ/items/antimage/distinguished_conscript_belt/distinguished_conscript_belt_style1"
+}
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Quest_Locked",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Quest_Unlocked",
+"skin": "1",
+"unlock": {
+"item_def": "17242",
+"price": "1"
+}
+}
+}
+}
+},
+"Belt of the King Restored": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/zuus/the_return_of_the_king_of_gods_belt/the_return_of_the_king_of_gods_belt",
+"item_description": "#DOTA_Item_Desc_Belt_of_the_King_Restored",
+"item_name": "#DOTA_Item_Belt_of_the_King_Restored",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/zuus/the_return_of_the_king_of_gods_belt/the_return_of_the_king_of_gods_belt.vmdl",
+"name": "Belt of the King Restored",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_zuus": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/zuus/the_return_of_the_king_of_gods_belt/the_return_of_the_king_of_gods_belt"
+},
+"1": {
+"icon_path": "econ/items/zuus/the_return_of_the_king_of_gods_belt/the_return_of_the_king_of_gods_belt_style1"
+}
+},
+"styles": {
+"0": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Quest_Locked",
+"skin": "1"
+},
+"1": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Quest_Unlocked",
+"skin": "0",
+"unlock": {
+"item_def": "17243",
+"price": "1"
+}
+}
+}
+}
+},
+"Belt of the Royal Butcher": {
+"creation_date": "2017-01-10",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/pudge/demon_queller_belt/demon_queller_belt",
+"item_description": "#DOTA_Item_Desc_Belt_of_the_Royal_Butcher",
+"item_name": "#DOTA_Item_Belt_of_the_Royal_Butcher",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/pudge/demon_queller_belt/demon_queller_belt.vmdl",
+"name": "Belt of the Royal Butcher",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Belt of the Smoldering Sage": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/ember_spirit/wu_sheng_belt_v2/wu_sheng_belt_v2",
+"item_description": "#DOTA_Item_Desc_Belt_of_the_Smoldering_Sage",
+"item_name": "#DOTA_Item_Belt_of_the_Smoldering_Sage",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/ember_spirit/wu_sheng_belt_v2/wu_sheng_belt_v2.vmdl",
+"name": "Belt of the Smoldering Sage",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ember_spirit": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_ember_spirit/ember_spirit_ambient_armor_glow.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Blade of the Fervent Conscript": {
+"creation_date": "2016-09-06",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/antimage/distinguished_conscript_weapon/distinguished_conscript_weapon",
+"item_description": "#DOTA_Item_Desc_Blade_of_the_Fervent_Conscript",
+"item_name": "#DOTA_Item_Blade_of_the_Fervent_Conscript",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/antimage/distinguished_conscript_weapon/distinguished_conscript_weapon.vmdl",
+"name": "Blade of the Fervent Conscript",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_antimage": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/antimage/distinguished_conscript_weapon/distinguished_conscript_weapon"
+},
+"1": {
+"icon_path": "econ/items/antimage/distinguished_conscript_weapon/distinguished_conscript_weapon_style1"
+}
+},
+"asset_modifier": {
+"modifier": "particles/econ/items/antimage/antimage_weapon_conscript/antimage_blade_conscript_primary_v2.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/antimage/antimage_weapon_conscript/antimage_blade_conscript_primary.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"asset_modifier1": {
+"asset": "particles/models/heroes/antimage/antimage_weapon_primary.psf",
+"modifier": "particles/models/items/antimage/distinguished_conscript_weapon/distinguished_conscript_weapon_fx.psf",
+"type": "particle_snapshot"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Quest_Locked",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Quest_Unlocked",
+"skin": "1",
+"unlock": {
+"item_def": "17242",
+"price": "1"
+}
+}
+}
+}
+},
+"Blade of the Hunter's Glory": {
+"creation_date": "2017-01-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/bounty_hunter/gold_ripperbounty_hunter_off_hand/gold_ripperbounty_hunter_off_hand",
+"item_description": "#DOTA_Item_Desc_Blade_of_the_Hunters_Glory",
+"item_name": "#DOTA_Item_Blade_of_the_Hunters_Glory",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/bounty_hunter/gold_ripperbounty_hunter_off_hand/gold_ripperbounty_hunter_off_hand.vmdl",
+"name": "Blade of the Hunter's Glory",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_bounty_hunter": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "particles/particle_snapshots/bounty_hunter/bounty_hunter_weapon_l.psf",
+"modifier": "particles/models/items/bounty_hunter/gold_ripperbounty_hunter_off_hand/gold_ripperbounty_hunter_off_hand_fx.psf",
+"type": "particle_snapshot"
+},
+"asset_modifier1": {
+"asset": "particles/units/heroes/hero_bounty_hunter/bounty_hunter_hand_l.vpcf",
+"modifier": "particles/units/heroes/hero_bounty_hunter/bounty_hunter_hand_l_local.vpcf",
+"type": "particle"
+}
+}
+},
+"Bow of the Burning Decree": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/clinkz/khans_champion_weapon/khans_champion_weapon",
+"item_description": "#DOTA_Item_Desc_Bow_of_the_Burning_Decree",
+"item_name": "#DOTA_Item_Bow_of_the_Burning_Decree",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/clinkz/khans_champion_weapon/khans_champion_weapon.vmdl",
+"name": "Bow of the Burning Decree",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_clinkz": "1"
+}
+},
+"Bracers of the Fervent Conscript": {
+"creation_date": "2016-09-06",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/antimage/distinguished_conscript_arms/distinguished_conscript_arms",
+"item_description": "#DOTA_Item_Desc_Bracers_of_the_Fervent_Conscript",
+"item_name": "#DOTA_Item_Bracers_of_the_Fervent_Conscript",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/antimage/distinguished_conscript_arms/distinguished_conscript_arms.vmdl",
+"name": "Bracers of the Fervent Conscript",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_antimage": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/antimage/distinguished_conscript_arms/distinguished_conscript_arms"
+},
+"1": {
+"icon_path": "econ/items/antimage/distinguished_conscript_arms/distinguished_conscript_arms_style1"
+}
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Quest_Locked",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Quest_Unlocked",
+"skin": "1",
+"unlock": {
+"item_def": "17242",
+"price": "1"
+}
+}
+}
+}
+},
+"Buckle of the Royal Butcher": {
+"creation_date": "2017-01-10",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/pudge/demon_queller_arms/demon_queller_arms",
+"item_description": "#DOTA_Item_Desc_Buckle_of_the_Royal_Butcher",
+"item_name": "#DOTA_Item_Buckle_of_the_Royal_Butcher",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/pudge/demon_queller_arms/demon_queller_arms.vmdl",
+"name": "Buckle of the Royal Butcher",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Buckler of the Hunter's Glory": {
+"creation_date": "2017-01-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/bounty_hunter/gold_ripperbounty_hunter_shoulder/gold_ripperbounty_hunter_shoulder",
+"item_description": "#DOTA_Item_Desc_Buckler_of_the_Hunters_Glory",
+"item_name": "#DOTA_Item_Buckler_of_the_Hunters_Glory",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/bounty_hunter/gold_ripperbounty_hunter_shoulder/gold_ripperbounty_hunter_shoulder.vmdl",
+"name": "Buckler of the Hunter's Glory",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_bounty_hunter": "1"
+}
+}
+},
+"C": {
+"Cap of the Smoldering Sage": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/ember_spirit/wu_sheng_head_v2/wu_sheng_head_v2",
+"item_description": "#DOTA_Item_Desc_Cap_of_the_Smoldering_Sage",
+"item_name": "#DOTA_Item_Cap_of_the_Smoldering_Sage",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/ember_spirit/wu_sheng_head_v2/wu_sheng_head_v2.vmdl",
+"name": "Cap of the Smoldering Sage",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ember_spirit": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_ember_spirit/ember_spirit_ambient_head.vpcf",
+"type": "particle_create"
+},
+"asset_modifier1": {
+"modifier": "particles/units/heroes/hero_ember_spirit/ember_spirit_ambient_eyes.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Cape of the Hunter's Glory": {
+"creation_date": "2017-01-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/bounty_hunter/gold_ripperbounty_hunter_back/gold_ripperbounty_hunter_back",
+"item_description": "#DOTA_Item_Desc_Cape_of_the_Hunters_Glory",
+"item_name": "#DOTA_Item_Cape_of_the_Hunters_Glory",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/bounty_hunter/gold_ripperbounty_hunter_back/gold_ripperbounty_hunter_back.vmdl",
+"name": "Cape of the Hunter's Glory",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_bounty_hunter": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+},
+"Coffin of the Jiang Shi's Revenge": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/lich/master_of_jiang_shi_lich_back/master_of_jiang_shi_lich_back",
+"item_description": "#DOTA_Item_Desc_Coffin_of_the_Jiang_Shis_Revenge",
+"item_name": "#DOTA_Item_Coffin_of_the_Jiang_Shis_Revenge",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/lich/master_of_jiang_shi_lich_back/master_of_jiang_shi_lich_back.vmdl",
+"name": "Coffin of the Jiang Shi's Revenge",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lich": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+},
+"Crest of the Vermillion Crucible": {
+"creation_date": "2017-01-10",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/phoenix/blazing_wing_head/blazing_wing_head",
+"item_description": "#DOTA_Item_Desc_Crest_of_the_Vermillion_Crucible",
+"item_name": "#DOTA_Item_Crest_of_the_Vermillion_Crucible",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/phoenix/blazing_wing_head/blazing_wing_head.vmdl",
+"name": "Crest of the Vermillion Crucible",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_phoenix": "1"
+}
+}
+},
+"D": {},
+"E": {
+"Egg of the Vermillion Crucible": {
+"creation_date": "2017-01-10",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/phoenix/ultimate/blazing_wing_blazing_egg/blazing_wing_blazing_egg_npc_dota_phoenix_sun",
+"item_description": "#DOTA_Item_Desc_Egg_of_the_Vermillion_Crucible",
+"item_name": "#DOTA_Item_Egg_of_the_Vermillion_Crucible",
+"item_rarity": "mythical",
+"item_slot": "ability_ultimate",
+"item_type_name": "#DOTA_WearableType_Supernova",
+"name": "Egg of the Vermillion Crucible",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_phoenix": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "npc_dota_phoenix_sun",
+"modifier": "models/items/phoenix/ultimate/blazing_wing_blazing_egg/blazing_wing_blazing_egg.vmdl",
+"type": "entity_model"
+}
+}
+}
+},
+"F": {
+"Familiar of the Soul Keeper": {
+"creation_date": "2017-01-18",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/visage/bound_of_the_soul_keeper_familiar/bound_of_the_soul_keeper_familiar_npc_dota_visage_familiar",
+"item_description": "#DOTA_Item_Desc_Familiar_of_the_Soul_Keeper",
+"item_name": "#DOTA_Item_Familiar_of_the_Soul_Keeper",
+"item_rarity": "mythical",
+"item_slot": "summon",
+"item_type_name": "#DOTA_WearableType_Visage_Familiar",
+"name": "Familiar of the Soul Keeper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_visage": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "npc_dota_visage_familiar",
+"modifier": "models/items/visage/bound_of_the_soul_keeper_familiar/bound_of_the_soul_keeper_familiar.vmdl",
+"type": "entity_model"
+}
+}
+},
+"Fan of the Royal Butcher": {
+"creation_date": "2017-01-10",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/pudge/demon_queller_off_hand/demon_queller_off_hand",
+"item_description": "#DOTA_Item_Desc_Fan_of_the_Royal_Butcher",
+"item_name": "#DOTA_Item_Fan_of_the_Royal_Butcher",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/pudge/demon_queller_off_hand/demon_queller_off_hand.vmdl",
+"name": "Fan of the Royal Butcher",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/pudge/pudge_demon_queller/pudge_demon_queller_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Feathered Mantle of the Arkturan Talon": {
+"creation_date": "2017-01-10",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/witchdoctor/vermilion_juju_of_the_south_shoulder/vermilion_juju_of_the_south_shoulder",
+"item_description": "#DOTA_Item_Desc_Feathered_Mantle_of_the_Arkturan_Talon",
+"item_name": "#DOTA_Item_Feathered_Mantle_of_the_Arkturan_Talon",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/witchdoctor/vermilion_juju_of_the_south_shoulder/vermilion_juju_of_the_south_shoulder.vmdl",
+"name": "Feathered Mantle of the Arkturan Talon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+}
+},
+"Feathers of the Vermillion Crucible": {
+"creation_date": "2017-01-10",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/phoenix/blazing_wing_fire_wings/blazing_wing_fire_wings",
+"item_description": "#DOTA_Item_Desc_Feathers_of_the_Vermillion_Crucible",
+"item_name": "#DOTA_Item_Feathers_of_the_Vermillion_Crucible",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/phoenix/blazing_wing_fire_wings/blazing_wing_fire_wings.vmdl",
+"name": "Feathers of the Vermillion Crucible",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_phoenix": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "models/items/phoenix/blazing_wing_fire_wings/blazing_wing_fire_wings_fx.vmdl",
+"type": "additional_wearable"
+}
+}
+}
+},
+"G": {
+"Guards of the Burning Decree": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/clinkz/khans_champion_gloves/khans_champion_gloves",
+"item_description": "#DOTA_Item_Desc_Guards_of_the_Burning_Decree",
+"item_name": "#DOTA_Item_Guards_of_the_Burning_Decree",
+"item_rarity": "mythical",
+"item_slot": "gloves",
+"item_type_name": "#DOTA_WearableType_gloves",
+"model_player": "models/items/clinkz/khans_champion_gloves/khans_champion_gloves.vmdl",
+"name": "Guards of the Burning Decree",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_clinkz": "1"
+}
+},
+"Guards of the Wyrmforge Shard": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/elder_titan/warden_of_the_gong_arms/warden_of_the_gong_arms",
+"item_description": "#DOTA_Item_Desc_Guards_of_the_Wyrmforge_Shard",
+"item_name": "#DOTA_Item_Guards_of_the_Wyrmforge_Shard",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/elder_titan/warden_of_the_gong_arms/warden_of_the_gong_arms.vmdl",
+"name": "Guards of the Wyrmforge Shard",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_elder_titan": "1"
+}
+}
+},
+"H": {
+"Hair of the Imperious Command": {
+"creation_date": "2017-01-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/troll_warlord/the_mythical_vanquisher_head/the_mythical_vanquisher_head",
+"item_description": "#DOTA_Item_Desc_Hair_of_the_Imperious_Command",
+"item_name": "#DOTA_Item_Hair_of_the_Imperious_Command",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/troll_warlord/the_mythical_vanquisher_head/the_mythical_vanquisher_head.vmdl",
+"name": "Hair of the Imperious Command",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_troll_warlord": "1"
+},
+"visuals": {
+"skip_model_combine": "0"
+}
+},
+"Hat of the Jiang Shi's Revenge": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/lich/master_of_jiang_shi_lich_head/master_of_jiang_shi_lich_head",
+"item_description": "#DOTA_Item_Desc_Hat_of_the_Jiang_Shis_Revenge",
+"item_name": "#DOTA_Item_Hat_of_the_Jiang_Shis_Revenge",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/lich/master_of_jiang_shi_lich_head/master_of_jiang_shi_lich_head.vmdl",
+"name": "Hat of the Jiang Shi's Revenge",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lich": "1"
+}
+},
+"Head of the Ageless Witness": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/treant/lord_of_ancient_treant_head/lord_of_ancient_treant_head",
+"item_description": "#DOTA_Item_Desc_Head_of_the_Ageless_Witness",
+"item_name": "#DOTA_Item_Head_of_the_Ageless_Witness",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/treant/lord_of_ancient_treant_head/lord_of_ancient_treant_head.vmdl",
+"name": "Head of the Ageless Witness",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_treant": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/treant/lord_of_ancient_treant_head/lord_of_ancient_treant_head"
+},
+"1": {
+"icon_path": "econ/items/treant/lord_of_ancient_treant_head/lord_of_ancient_treant_head_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/treant_protector/ancient_treant/ancient_treant_ambient_eyes_green.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"asset_modifier1": {
+"modifier": "particles/econ/items/treant_protector/ancient_treant/ancient_treant_ambient.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Quest_Locked",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Quest_Unlocked",
+"skin": "1",
+"unlock": {
+"item_def": "17241",
+"price": "1"
+}
+}
+}
+}
+},
+"Headdress of the Arkturan Talon": {
+"creation_date": "2017-01-10",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/witchdoctor/vermilion_juju_of_the_south_head/vermilion_juju_of_the_south_head",
+"item_description": "#DOTA_Item_Desc_Headdress_of_the_Arkturan_Talon",
+"item_name": "#DOTA_Item_Headdress_of_the_Arkturan_Talon",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/witchdoctor/vermilion_juju_of_the_south_head/vermilion_juju_of_the_south_head.vmdl",
+"name": "Headdress of the Arkturan Talon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+}
+},
+"Helm of the Hunter's Glory": {
+"creation_date": "2017-01-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/bounty_hunter/gold_ripperbounty_hunter_head/gold_ripperbounty_hunter_head",
+"item_description": "#DOTA_Item_Desc_Helm_of_the_Hunters_Glory",
+"item_name": "#DOTA_Item_Helm_of_the_Hunters_Glory",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/bounty_hunter/gold_ripperbounty_hunter_head/gold_ripperbounty_hunter_head.vmdl",
+"name": "Helm of the Hunter's Glory",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_bounty_hunter": "1"
+}
+},
+"Helm of the Wyrmforge Shard": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/elder_titan/warden_of_the_gong_head/warden_of_the_gong_head",
+"item_description": "#DOTA_Item_Desc_Helm_of_the_Wyrmforge_Shard",
+"item_name": "#DOTA_Item_Helm_of_the_Wyrmforge_Shard",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/elder_titan/warden_of_the_gong_head/warden_of_the_gong_head.vmdl",
+"name": "Helm of the Wyrmforge Shard",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_elder_titan": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+},
+"Helmet of the Burning Decree": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/clinkz/khans_champion_head/khans_champion_head",
+"item_description": "#DOTA_Item_Desc_Helmet_of_the_Burning_Decree",
+"item_name": "#DOTA_Item_Helmet_of_the_Burning_Decree",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/clinkz/khans_champion_head/khans_champion_head.vmdl",
+"name": "Helmet of the Burning Decree",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_clinkz": "1"
+}
+},
+"Hook of the Royal Butcher": {
+"creation_date": "2017-01-10",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/pudge/demon_queller_weapon/demon_queller_weapon",
+"item_description": "#DOTA_Item_Desc_Hook_of_the_Royal_Butcher",
+"item_name": "#DOTA_Item_Hook_of_the_Royal_Butcher",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/pudge/demon_queller_weapon/demon_queller_weapon.vmdl",
+"name": "Hook of the Royal Butcher",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+}
+},
+"I": {},
+"J": {},
+"K": {},
+"L": {
+"Legs of the Ageless Witness": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/treant/lord_of_ancient_treant_legs/lord_of_ancient_treant_legs",
+"item_description": "#DOTA_Item_Desc_Legs_of_the_Ageless_Witness",
+"item_name": "#DOTA_Item_Legs_of_the_Ageless_Witness",
+"item_rarity": "mythical",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_legs",
+"model_player": "models/items/treant/lord_of_ancient_treant_legs/lord_of_ancient_treant_legs.vmdl",
+"name": "Legs of the Ageless Witness",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_treant": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/treant/lord_of_ancient_treant_legs/lord_of_ancient_treant_legs"
+},
+"1": {
+"icon_path": "econ/items/treant/lord_of_ancient_treant_legs/lord_of_ancient_treant_legs_style1"
+}
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Quest_Locked",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Quest_Unlocked",
+"skin": "1",
+"unlock": {
+"item_def": "17241",
+"price": "1"
+}
+}
+}
+}
+}
+},
+"M": {
+"Mace of the Wyrmforge Shard": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/elder_titan/warden_of_the_gong_weapon/warden_of_the_gong_weapon",
+"item_description": "#DOTA_Item_Desc_Mace_of_the_Wyrmforge_Shard",
+"item_name": "#DOTA_Item_Mace_of_the_Wyrmforge_Shard",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/elder_titan/warden_of_the_gong_weapon/warden_of_the_gong_weapon.vmdl",
+"name": "Mace of the Wyrmforge Shard",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_elder_titan": "1"
+}
+},
+"Mantle of the Smoldering Sage": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/ember_spirit/wu_sheng_shoulder_v2/wu_sheng_shoulder_v2",
+"item_description": "#DOTA_Item_Desc_Mantle_of_the_Smoldering_Sage",
+"item_name": "#DOTA_Item_Mantle_of_the_Smoldering_Sage",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/ember_spirit/wu_sheng_shoulder_v2/wu_sheng_shoulder_v2.vmdl",
+"name": "Mantle of the Smoldering Sage",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ember_spirit": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_ember_spirit/ember_spirit_ambient_shoulder_glow.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Markings of the King Restored": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/zuus/the_return_of_the_king_of_gods_back/the_return_of_the_king_of_gods_back",
+"item_description": "#DOTA_Item_Desc_Markings_of_the_King_Restored",
+"item_name": "#DOTA_Item_Markings_of_the_King_Restored",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/zuus/the_return_of_the_king_of_gods_back/the_return_of_the_king_of_gods_back.vmdl",
+"name": "Markings of the King Restored",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_zuus": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/zuus/the_return_of_the_king_of_gods_back/the_return_of_the_king_of_gods_back"
+},
+"1": {
+"icon_path": "econ/items/zuus/the_return_of_the_king_of_gods_back/the_return_of_the_king_of_gods_back_style1"
+}
+},
+"skip_model_combine": "0",
+"styles": {
+"0": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Quest_Locked",
+"skin": "1"
+},
+"1": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Quest_Unlocked",
+"skin": "0",
+"unlock": {
+"item_def": "17243",
+"price": "1"
+}
+}
+}
+}
+},
+"Mask of the Soul Keeper": {
+"creation_date": "2017-01-18",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/visage/bound_of_the_soul_keeper_head/bound_of_the_soul_keeper_head",
+"item_description": "#DOTA_Item_Desc_Mask_of_the_Soul_Keeper",
+"item_name": "#DOTA_Item_Mask_of_the_Soul_Keeper",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/visage/bound_of_the_soul_keeper_head/bound_of_the_soul_keeper_head.vmdl",
+"name": "Mask of the Soul Keeper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_visage": "1"
+}
+}
+},
+"N": {
+"Necklace of the Jiang Shi's Revenge": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/lich/master_of_jiang_shi_lich_neck/master_of_jiang_shi_lich_neck",
+"item_description": "#DOTA_Item_Desc_Necklace_of_the_Jiang_Shis_Revenge",
+"item_name": "#DOTA_Item_Necklace_of_the_Jiang_Shis_Revenge",
+"item_rarity": "mythical",
+"item_slot": "neck",
+"item_type_name": "#DOTA_WearableType_neck",
+"model_player": "models/items/lich/master_of_jiang_shi_lich_neck/master_of_jiang_shi_lich_neck.vmdl",
+"name": "Necklace of the Jiang Shi's Revenge",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lich": "1"
+}
+}
+},
+"O": {
+"Off-Hand Blade of the Fervent Conscript": {
+"creation_date": "2016-09-06",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/antimage/distinguished_conscript_off_hand/distinguished_conscript_off_hand",
+"item_description": "#DOTA_Item_Desc_OffHand_Blade_of_the_Fervent_Conscript",
+"item_name": "#DOTA_Item_OffHand_Blade_of_the_Fervent_Conscript",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/antimage/distinguished_conscript_off_hand/distinguished_conscript_off_hand.vmdl",
+"name": "Off-Hand Blade of the Fervent Conscript",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_antimage": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/antimage/distinguished_conscript_off_hand/distinguished_conscript_off_hand"
+},
+"1": {
+"icon_path": "econ/items/antimage/distinguished_conscript_off_hand/distinguished_conscript_off_hand_style1"
+}
+},
+"asset_modifier": {
+"modifier": "particles/econ/items/antimage/antimage_weapon_conscript/antimage_blade_conscript_offhand_v2.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/antimage/antimage_weapon_conscript/antimage_blade_conscript_offhand.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"asset_modifier1": {
+"asset": "particles/models/heroes/antimage/antimage_weapon_offhand.psf",
+"modifier": "particles/models/items/antimage/distinguished_conscript_off_hand/distinguished_conscript_off_hand_fx.psf",
+"type": "particle_snapshot"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Quest_Locked",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Quest_Unlocked",
+"skin": "1",
+"unlock": {
+"item_def": "17242",
+"price": "1"
+}
+}
+}
+}
+},
+"Off-Hand Sword of the Smoldering Sage": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/ember_spirit/wu_sheng_off_hand_v2/wu_sheng_off_hand_v2",
+"item_description": "#DOTA_Item_Desc_OffHand_Sword_of_the_Smoldering_Sage",
+"item_name": "#DOTA_Item_OffHand_Sword_of_the_Smoldering_Sage",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/ember_spirit/wu_sheng_off_hand_v2/wu_sheng_off_hand_v2.vmdl",
+"name": "Off-Hand Sword of the Smoldering Sage",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ember_spirit": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/models/heroes/ember_spirit/weapon2.psf",
+"modifier": "particles/models/items/ember_spirit/wu_sheng_off_hand_v2/wu_sheng_off_hand_v2_fx.psf",
+"type": "particle_snapshot"
+},
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_ember_spirit/ember_spirit_ambient_sword_offhand.vpcf",
+"type": "particle_create"
+},
+"asset_modifier1": {
+"modifier": "particles/units/heroes/hero_ember_spirit/ember_spirit_ambient_sword_offhand_blade.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Ornaments of the Arkturan Talon": {
+"creation_date": "2017-01-10",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/witchdoctor/vermilion_juju_of_the_south_back/vermilion_juju_of_the_south_back",
+"item_description": "#DOTA_Item_Desc_Ornaments_of_the_Arkturan_Talon",
+"item_name": "#DOTA_Item_Ornaments_of_the_Arkturan_Talon",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/witchdoctor/vermilion_juju_of_the_south_back/vermilion_juju_of_the_south_back.vmdl",
+"name": "Ornaments of the Arkturan Talon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+}
+},
+"Ornaments of the Wyrmforge Shard": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/elder_titan/warden_of_the_gong_back/warden_of_the_gong_back",
+"item_description": "#DOTA_Item_Desc_Ornaments_of_the_Wyrmforge_Shard",
+"item_name": "#DOTA_Item_Ornaments_of_the_Wyrmforge_Shard",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/elder_titan/warden_of_the_gong_back/warden_of_the_gong_back.vmdl",
+"name": "Ornaments of the Wyrmforge Shard",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_elder_titan": "1"
+}
+}
+},
+"P": {},
+"Q": {
+"Quiver of the Burning Decree": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/clinkz/khans_champion_back/khans_champion_back",
+"item_description": "#DOTA_Item_Desc_Quiver_of_the_Burning_Decree",
+"item_name": "#DOTA_Item_Quiver_of_the_Burning_Decree",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/clinkz/khans_champion_back/khans_champion_back.vmdl",
+"name": "Quiver of the Burning Decree",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_clinkz": "1"
+}
+}
+},
+"R": {
+"Robe of the Jiang Shi's Revenge": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/lich/master_of_jiang_shi_lich_belt/master_of_jiang_shi_lich_belt",
+"item_description": "#DOTA_Item_Desc_Robe_of_the_Jiang_Shis_Revenge",
+"item_name": "#DOTA_Item_Robe_of_the_Jiang_Shis_Revenge",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/lich/master_of_jiang_shi_lich_belt/master_of_jiang_shi_lich_belt.vmdl",
+"name": "Robe of the Jiang Shi's Revenge",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lich": "1"
+}
+}
+},
+"S": {
+"Scythe of the Hunter's Glory": {
+"creation_date": "2017-01-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/bounty_hunter/gold_ripperbounty_hunter_weapon/gold_ripperbounty_hunter_weapon",
+"item_description": "#DOTA_Item_Desc_Scythe_of_the_Hunters_Glory",
+"item_name": "#DOTA_Item_Scythe_of_the_Hunters_Glory",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/bounty_hunter/gold_ripperbounty_hunter_weapon/gold_ripperbounty_hunter_weapon.vmdl",
+"name": "Scythe of the Hunter's Glory",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_bounty_hunter": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "particles/particle_snapshots/bounty_hunter/bounty_hunter_weapon_r.psf",
+"modifier": "particles/models/items/bounty_hunter/gold_ripperbounty_hunter_weapon/gold_ripperbounty_hunter_weapon_fx.psf",
+"type": "particle_snapshot"
+},
+"asset_modifier1": {
+"asset": "particles/units/heroes/hero_bounty_hunter/bounty_hunter_hand_r.vpcf",
+"modifier": "particles/units/heroes/hero_bounty_hunter/bounty_hunter_hand_r_local.vpcf",
+"type": "particle"
+}
+}
+},
+"Shoulder Plate of the Fervent Conscript": {
+"creation_date": "2016-09-06",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/antimage/distinguished_conscript_shoulder/distinguished_conscript_shoulder",
+"item_description": "#DOTA_Item_Desc_Shoulder_Plate_of_the_Fervent_Conscript",
+"item_name": "#DOTA_Item_Shoulder_Plate_of_the_Fervent_Conscript",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/antimage/distinguished_conscript_shoulder/distinguished_conscript_shoulder.vmdl",
+"name": "Shoulder Plate of the Fervent Conscript",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_antimage": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/antimage/distinguished_conscript_shoulder/distinguished_conscript_shoulder"
+},
+"1": {
+"icon_path": "econ/items/antimage/distinguished_conscript_shoulder/distinguished_conscript_shoulder_style1"
+}
+},
+"asset_modifier": {
+"modifier": "particles/econ/items/antimage/antimage_weapon_conscript/antimage_weapon_conscript_blade_v2.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/antimage/antimage_weapon_conscript/antimage_weapon_conscript_blade.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Quest_Locked",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Quest_Unlocked",
+"skin": "1",
+"unlock": {
+"item_def": "17242",
+"price": "1"
+}
+}
+}
+}
+},
+"Shoulders of the Ageless Witness": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/treant/lord_of_ancient_treant_shoulder/lord_of_ancient_treant_shoulder",
+"item_description": "#DOTA_Item_Desc_Shoulders_of_the_Ageless_Witness",
+"item_name": "#DOTA_Item_Shoulders_of_the_Ageless_Witness",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/treant/lord_of_ancient_treant_shoulder/lord_of_ancient_treant_shoulder.vmdl",
+"name": "Shoulders of the Ageless Witness",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_treant": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/treant/lord_of_ancient_treant_shoulder/lord_of_ancient_treant_shoulder"
+},
+"1": {
+"icon_path": "econ/items/treant/lord_of_ancient_treant_shoulder/lord_of_ancient_treant_shoulder_style1"
+}
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Quest_Locked",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Quest_Unlocked",
+"skin": "1",
+"unlock": {
+"item_def": "17241",
+"price": "1"
+}
+}
+}
+}
+},
+"Shoulders of the Burning Decree": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/clinkz/khans_champion_shoulder/khans_champion_shoulder",
+"item_description": "#DOTA_Item_Desc_Shoulders_of_the_Burning_Decree",
+"item_name": "#DOTA_Item_Shoulders_of_the_Burning_Decree",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/clinkz/khans_champion_shoulder/khans_champion_shoulder.vmdl",
+"name": "Shoulders of the Burning Decree",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_clinkz": "1"
+}
+},
+"Sleeves of the Jiang Shi's Revenge": {
+"creation_date": "2017-01-11",
+"image_inventory": "econ/items/lich/master_of_jiang_shi_lich_arms/master_of_jiang_shi_lich_arms",
+"item_description": "#DOTA_Item_Desc_Sleeves_of_the_Jiang_Shis_Revenge",
+"item_name": "#DOTA_Item_Sleeves_of_the_Jiang_Shis_Revenge",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/lich/master_of_jiang_shi_lich_arms/master_of_jiang_shi_lich_arms.vmdl",
+"name": "Sleeves of the Jiang Shi's Revenge",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lich": "1"
+}
+},
+"Sleeves of the Royal Butcher": {
+"creation_date": "2017-01-10",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/pudge/demon_queller_shoulder/demon_queller_shoulder",
+"item_description": "#DOTA_Item_Desc_Sleeves_of_the_Royal_Butcher",
+"item_name": "#DOTA_Item_Sleeves_of_the_Royal_Butcher",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/pudge/demon_queller_shoulder/demon_queller_shoulder.vmdl",
+"name": "Sleeves of the Royal Butcher",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Spaulders of the Wyrmforge Shard": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/elder_titan/warden_of_the_gong_shoulder/warden_of_the_gong_shoulder",
+"item_description": "#DOTA_Item_Desc_Spaulders_of_the_Wyrmforge_Shard",
+"item_name": "#DOTA_Item_Spaulders_of_the_Wyrmforge_Shard",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/elder_titan/warden_of_the_gong_shoulder/warden_of_the_gong_shoulder.vmdl",
+"name": "Spaulders of the Wyrmforge Shard",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_elder_titan": "1"
+}
+},
+"Staff of the Arkturan Talon": {
+"creation_date": "2017-01-10",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/witchdoctor/vermilion_juju_of_the_south_weapon/vermilion_juju_of_the_south_weapon",
+"item_description": "#DOTA_Item_Desc_Staff_of_the_Arkturan_Talon",
+"item_name": "#DOTA_Item_Staff_of_the_Arkturan_Talon",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/witchdoctor/vermilion_juju_of_the_south_weapon/vermilion_juju_of_the_south_weapon.vmdl",
+"name": "Staff of the Arkturan Talon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+}
+},
+"Style of the Fervent Conscript": {
+"creation_date": "2016-09-06",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/antimage/distinguished_conscript_head_alt/distinguished_conscript_head_alt",
+"item_description": "#DOTA_Item_Desc_Style_of_the_Fervent_Conscript",
+"item_name": "#DOTA_Item_Style_of_the_Fervent_Conscript",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/antimage/distinguished_conscript_head_alt/distinguished_conscript_head_alt.vmdl",
+"name": "Style of the Fervent Conscript",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_antimage": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/antimage/distinguished_conscript_head_alt/distinguished_conscript_head_alt"
+},
+"1": {
+"icon_path": "econ/items/antimage/distinguished_conscript_head_alt/distinguished_conscript_head_alt_style1"
+}
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Quest_Locked",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Quest_Unlocked",
+"skin": "1",
+"unlock": {
+"item_def": "17242",
+"price": "1"
+}
+}
+}
+}
+},
+"Sword of the Smoldering Sage": {
+"creation_date": "2017-01-11",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/ember_spirit/wu_sheng_weapon_v2/wu_sheng_weapon_v2",
+"item_description": "#DOTA_Item_Desc_Sword_of_the_Smoldering_Sage",
+"item_name": "#DOTA_Item_Sword_of_the_Smoldering_Sage",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/ember_spirit/wu_sheng_weapon_v2/wu_sheng_weapon_v2.vmdl",
+"name": "Sword of the Smoldering Sage",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ember_spirit": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/models/heroes/ember_spirit/weapon1.psf",
+"modifier": "particles/models/items/ember_spirit/wu_sheng_weapon_v2/wu_sheng_weapon_v2_fx.psf",
+"type": "particle_snapshot"
+},
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_ember_spirit/ember_spirit_ambient_sword_primary.vpcf",
+"type": "particle_create"
+},
+"asset_modifier1": {
+"modifier": "particles/units/heroes/hero_ember_spirit/ember_spirit_ambient_sword_primary_blade.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Symbol of the King Restored": {
+"creation_date": "2016-09-16",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/zuus/the_return_of_the_king_of_gods_head/the_return_of_the_king_of_gods_head",
+"item_description": "#DOTA_Item_Desc_Symbol_of_the_King_Restored",
+"item_name": "#DOTA_Item_Symbol_of_the_King_Restored",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/zuus/the_return_of_the_king_of_gods_head/the_return_of_the_king_of_gods_head.vmdl",
+"name": "Symbol of the King Restored",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_zuus": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/zuus/the_return_of_the_king_of_gods_head/the_return_of_the_king_of_gods_head"
+},
+"1": {
+"icon_path": "econ/items/zuus/the_return_of_the_king_of_gods_head/the_return_of_the_king_of_gods_head_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_zeus/zeus_return_king_of_gods_head_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"asset_modifier1": {
+"modifier": "particles/units/heroes/hero_zeus/zeus_return_king_of_gods_head_style1_ambient.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"asset_modifier3": {
+"offset": "140",
+"style": "0",
+"type": "healthbar_offset"
+},
+"asset_modifier4": {
+"offset": "140",
+"style": "1",
+"type": "healthbar_offset"
+},
+"styles": {
+"0": {
+"alternate_icon": "1",
+"model_player": "models/items/zuus/the_return_of_the_king_of_gods_head/the_return_of_the_king_of_gods_head.vmdl",
+"name": "#DOTA_Style_Quest_Locked",
+"skin": "1"
+},
+"1": {
+"alternate_icon": "0",
+"model_player": "models/items/zuus/the_return_of_the_king_of_gods_head/the_return_of_the_king_of_gods_head.vmdl",
+"name": "#DOTA_Style_Quest_Unlocked",
+"skin": "0",
+"unlock": {
+"item_def": "17243",
+"price": "1"
+}
+}
+}
+}
+}
+},
+"T": {
+"Tsukumo the Moon Cloud": {
+"creation_date": "2017-01-02",
+"image_inventory": "econ/items/mirana/tsukumo_the_moon_cloud/tsukumo_the_moon_cloud",
+"item_name": "#DOTA_Item_Tsukumo_the_Moon_Cloud",
+"item_quality": "genuine",
+"item_rarity": "mythical",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_mount",
+"model_player": "models/items/mirana/tsukumo_the_moon_cloud/tsukumo_the_moon_cloud.vmdl",
+"name": "Tsukumo the Moon Cloud",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_mirana": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "ALL",
+"modifier": "Tsukumo_mount",
+"style": "0",
+"type": "activity"
+},
+"skip_model_combine": "1"
+}
+},
+"Twin Blades of the Imperious Command": {
+"creation_date": "2017-01-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/troll_warlord/the_mythical_vanquisher_weapon/the_mythical_vanquisher_weapon",
+"item_description": "#DOTA_Item_Desc_Twin_Blades_of_the_Imperious_Command",
+"item_name": "#DOTA_Item_Twin_Blades_of_the_Imperious_Command",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/troll_warlord/the_mythical_vanquisher_weapon/the_mythical_vanquisher_weapon.vmdl",
+"name": "Twin Blades of the Imperious Command",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_troll_warlord": "1"
+},
+"visuals": {
+"skip_model_combine": "0"
+}
+}
+},
+"V": {},
+"W": {
+"Wings of the Soul Keeper": {
+"creation_date": "2017-01-18",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/visage/bound_of_the_soul_keeper_armor/bound_of_the_soul_keeper_armor",
+"item_description": "#DOTA_Item_Desc_Wings_of_the_Soul_Keeper",
+"item_name": "#DOTA_Item_Wings_of_the_Soul_Keeper",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/visage/bound_of_the_soul_keeper_armor/bound_of_the_soul_keeper_armor.vmdl",
+"name": "Wings of the Soul Keeper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_visage": "1"
+}
+},
+"Wrap of the Royal Butcher": {
+"creation_date": "2017-01-10",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/pudge/demon_queller_back/demon_queller_back",
+"item_description": "#DOTA_Item_Desc_Wrap_of_the_Royal_Butcher",
+"item_name": "#DOTA_Item_Wrap_of_the_Royal_Butcher",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/pudge/demon_queller_back/demon_queller_back.vmdl",
+"name": "Wrap of the Royal Butcher",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+}
+},
+"Y": {}
+}
