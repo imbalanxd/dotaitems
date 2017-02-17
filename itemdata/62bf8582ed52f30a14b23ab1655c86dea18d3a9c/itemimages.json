@@ -1,0 +1,258 @@
+{
+"blazing_wing_blazing_egg_npc_dota_phoenix_sun": {
+"large": "icons/econ/items/phoenix/ultimate/blazing_wing_blazing_egg/blazing_wing_blazing_egg_npc_dota_phoenix_sun_large.4f777c75e1017a425e8a74e257b17ebbe72cbb26.png",
+"normal": "icons/econ/items/phoenix/ultimate/blazing_wing_blazing_egg/blazing_wing_blazing_egg_npc_dota_phoenix_sun.a9a4f31f50ba49c44f4d49d44ed52d5ad67f0555.png"
+},
+"blazing_wing_fire_wings": {
+"large": "icons/econ/items/phoenix/blazing_wing_fire_wings/blazing_wing_fire_wings_large.aa800a487226e52021c6cf94ea9dc05537019225.png",
+"normal": "icons/econ/items/phoenix/blazing_wing_fire_wings/blazing_wing_fire_wings.347634dfcba5fdd81736837699bb3445236dbdaa.png"
+},
+"blazing_wing_head": {
+"large": "icons/econ/items/phoenix/blazing_wing_head/blazing_wing_head_large.57a8967d5f84dbdf128d8c8f236b319a00fb5d7e.png",
+"normal": "icons/econ/items/phoenix/blazing_wing_head/blazing_wing_head.473c5645c95192d955537a2ab74c893e78936f95.png"
+},
+"bound_of_the_soul_keeper_armor": {
+"large": "icons/econ/items/visage/bound_of_the_soul_keeper_armor/bound_of_the_soul_keeper_armor_large.9219ae0a92e9cca92a708b5f382b54b7c7597e84.png",
+"normal": "icons/econ/items/visage/bound_of_the_soul_keeper_armor/bound_of_the_soul_keeper_armor.1d659d047bd5e4a10e38d7ff6008b002a6fdee2d.png"
+},
+"bound_of_the_soul_keeper_familiar_npc_dota_visage_familiar": {
+"large": "icons/econ/items/visage/bound_of_the_soul_keeper_familiar/bound_of_the_soul_keeper_familiar_npc_dota_visage_familiar_large.8569f5580fd34824884e77bfdc865376f240ae4e.png",
+"normal": "icons/econ/items/visage/bound_of_the_soul_keeper_familiar/bound_of_the_soul_keeper_familiar_npc_dota_visage_familiar.df730f3c7ff7326f2fe2cb25aeb078259dcefeb1.png"
+},
+"bound_of_the_soul_keeper_head": {
+"large": "icons/econ/items/visage/bound_of_the_soul_keeper_head/bound_of_the_soul_keeper_head_large.b02e1ddcd96050f1aa378f56daa8a74b530d7c77.png",
+"normal": "icons/econ/items/visage/bound_of_the_soul_keeper_head/bound_of_the_soul_keeper_head.f23fe46b72bab21a4359b3e8723e3357ebf0e798.png"
+},
+"demon_queller_arms": {
+"large": "icons/econ/items/pudge/demon_queller_arms/demon_queller_arms_large.ea43d34aa4f431e2093d72c06cc0a46fe247900d.png",
+"normal": "icons/econ/items/pudge/demon_queller_arms/demon_queller_arms.02391a3771de1d074134a717bfb511aeb2ef6ad6.png"
+},
+"demon_queller_back": {
+"large": "icons/econ/items/pudge/demon_queller_back/demon_queller_back_large.bcb2672566cf8aab09ab98e2defab616a657f755.png",
+"normal": "icons/econ/items/pudge/demon_queller_back/demon_queller_back.895646136deffdec12031b713a02319166ae57d5.png"
+},
+"demon_queller_belt": {
+"large": "icons/econ/items/pudge/demon_queller_belt/demon_queller_belt_large.ecb938a254dc349abc624aab178582af78ef1b03.png",
+"normal": "icons/econ/items/pudge/demon_queller_belt/demon_queller_belt.3dfeed424e755fa1fe8d385226626fdee8e171ad.png"
+},
+"demon_queller_head": {
+"large": "icons/econ/items/pudge/demon_queller_head/demon_queller_head_large.6d996885cc66b6661914b07f0d761177f0abba8e.png",
+"normal": "icons/econ/items/pudge/demon_queller_head/demon_queller_head.03f0f4b1c67f6321d503ecda3a3b538008eaec03.png"
+},
+"demon_queller_off_hand": {
+"large": "icons/econ/items/pudge/demon_queller_off_hand/demon_queller_off_hand_large.ffc813406696fb3ccff06b622d0c0b5464261a0b.png",
+"normal": "icons/econ/items/pudge/demon_queller_off_hand/demon_queller_off_hand.b0ba05f18ab6eeb41707806be8a3f7e89a585997.png"
+},
+"demon_queller_shoulder": {
+"large": "icons/econ/items/pudge/demon_queller_shoulder/demon_queller_shoulder_large.145e5475c2d5f084b6598e8cf9a03cf7bdce853c.png",
+"normal": "icons/econ/items/pudge/demon_queller_shoulder/demon_queller_shoulder.c4505c5c3ca4a02a9412ad28bc9e84dc63df1406.png"
+},
+"demon_queller_weapon": {
+"large": "icons/econ/items/pudge/demon_queller_weapon/demon_queller_weapon_large.22e7840c05fd0b101d74a6cc833dd1515d3feea2.png",
+"normal": "icons/econ/items/pudge/demon_queller_weapon/demon_queller_weapon.3b77e8387c3f3c2f457aa364eb0ba307a36defed.png"
+},
+"distinguished_conscript_armor": {
+"large": "icons/econ/items/antimage/distinguished_conscript_armor/distinguished_conscript_armor_large.e27427642e2cab72b5f617c5086c8be044b03e0e.png",
+"normal": "icons/econ/items/antimage/distinguished_conscript_armor/distinguished_conscript_armor.dd1d77234e07113c712caf2288087399f4024596.png"
+},
+"distinguished_conscript_arms": {
+"large": "icons/econ/items/antimage/distinguished_conscript_arms/distinguished_conscript_arms_large.55e41f22a3f8677b5ccb51896f56b06fae4755db.png",
+"normal": "icons/econ/items/antimage/distinguished_conscript_arms/distinguished_conscript_arms.1044624e8128c59ebd8b897c5674f6cc57277f97.png"
+},
+"distinguished_conscript_belt": {
+"large": "icons/econ/items/antimage/distinguished_conscript_belt/distinguished_conscript_belt_large.9f968b4a6a26977b9393ce8ea9d0e3e47422bf93.png",
+"normal": "icons/econ/items/antimage/distinguished_conscript_belt/distinguished_conscript_belt.3b2563bb13cf13a5828dedd12e53e9d960387014.png"
+},
+"distinguished_conscript_head_alt": {
+"large": "icons/econ/items/antimage/distinguished_conscript_head_alt/distinguished_conscript_head_alt_large.6e15a927128ce2359e799efe1882596252f11b80.png",
+"normal": "icons/econ/items/antimage/distinguished_conscript_head_alt/distinguished_conscript_head_alt.05d01908206544b820b2ddc1999359b1d9c407e3.png"
+},
+"distinguished_conscript_off_hand": {
+"large": "icons/econ/items/antimage/distinguished_conscript_off_hand/distinguished_conscript_off_hand_large.a2aef7cdabc2580395e587be7bf01c54fb30cbef.png",
+"normal": "icons/econ/items/antimage/distinguished_conscript_off_hand/distinguished_conscript_off_hand.44bdc5932ecd2d81c8f7addf6143bfe5eb2787c6.png"
+},
+"distinguished_conscript_shoulder": {
+"large": "icons/econ/items/antimage/distinguished_conscript_shoulder/distinguished_conscript_shoulder_large.1b495230a9d3133f0d998576b19ecd7a9a39cf52.png",
+"normal": "icons/econ/items/antimage/distinguished_conscript_shoulder/distinguished_conscript_shoulder.03beee60a797ae91449f2217bf241c7cef3f68ad.png"
+},
+"distinguished_conscript_weapon": {
+"large": "icons/econ/items/antimage/distinguished_conscript_weapon/distinguished_conscript_weapon_large.b51c6c510799dba0dedbca6413bd943432c3123a.png",
+"normal": "icons/econ/items/antimage/distinguished_conscript_weapon/distinguished_conscript_weapon.e3bbaf471d7ff03f4d12af56b21923f8470f5cae.png"
+},
+"gold_ripperbounty_hunter_armor": {
+"large": "icons/econ/items/bounty_hunter/gold_ripperbounty_hunter_armor/gold_ripperbounty_hunter_armor_large.9b128b724df168b94ad24c961611990717811645.png",
+"normal": "icons/econ/items/bounty_hunter/gold_ripperbounty_hunter_armor/gold_ripperbounty_hunter_armor.8ab8172e7ee871e0359a1e10a76fc9393733ffe1.png"
+},
+"gold_ripperbounty_hunter_back": {
+"large": "icons/econ/items/bounty_hunter/gold_ripperbounty_hunter_back/gold_ripperbounty_hunter_back_large.45859161922ecc587b4ea935f2901a9f8981d77e.png",
+"normal": "icons/econ/items/bounty_hunter/gold_ripperbounty_hunter_back/gold_ripperbounty_hunter_back.f79f6aba9cb5cc27f0fa8630e928f28be714dd8b.png"
+},
+"gold_ripperbounty_hunter_head": {
+"large": "icons/econ/items/bounty_hunter/gold_ripperbounty_hunter_head/gold_ripperbounty_hunter_head_large.b02741aa08de776ab0685372b233bb68f0357d63.png",
+"normal": "icons/econ/items/bounty_hunter/gold_ripperbounty_hunter_head/gold_ripperbounty_hunter_head.991a6d770e103f3fbffa870763d9e93d90d763c8.png"
+},
+"gold_ripperbounty_hunter_off_hand": {
+"large": "icons/econ/items/bounty_hunter/gold_ripperbounty_hunter_off_hand/gold_ripperbounty_hunter_off_hand_large.235ab87f70165c3926b44fd358388cf292a9fdb9.png",
+"normal": "icons/econ/items/bounty_hunter/gold_ripperbounty_hunter_off_hand/gold_ripperbounty_hunter_off_hand.4ad9712a99b836072d726ac7522744be190a1898.png"
+},
+"gold_ripperbounty_hunter_shoulder": {
+"large": "icons/econ/items/bounty_hunter/gold_ripperbounty_hunter_shoulder/gold_ripperbounty_hunter_shoulder_large.28d978d0b078c0435e8d7e2b4de091d4e0c8ab43.png",
+"normal": "icons/econ/items/bounty_hunter/gold_ripperbounty_hunter_shoulder/gold_ripperbounty_hunter_shoulder.cef20c26821219fe73032044018f5f27e09c1b2d.png"
+},
+"gold_ripperbounty_hunter_weapon": {
+"large": "icons/econ/items/bounty_hunter/gold_ripperbounty_hunter_weapon/gold_ripperbounty_hunter_weapon_large.e709b476bd5b0352764308433ee473117f92baa0.png",
+"normal": "icons/econ/items/bounty_hunter/gold_ripperbounty_hunter_weapon/gold_ripperbounty_hunter_weapon.a1e1f6c6455a48faca13f742e4f639d3763a040b.png"
+},
+"khans_champion_back": {
+"large": "icons/econ/items/clinkz/khans_champion_back/khans_champion_back_large.5976452c8a981e759bae5199f9695089e5f40143.png",
+"normal": "icons/econ/items/clinkz/khans_champion_back/khans_champion_back.8d69d643ec3be37a682eb915851897f320344aba.png"
+},
+"khans_champion_gloves": {
+"large": "icons/econ/items/clinkz/khans_champion_gloves/khans_champion_gloves_large.cab43e5218adbc45b400b8a2535135eca41b05de.png",
+"normal": "icons/econ/items/clinkz/khans_champion_gloves/khans_champion_gloves.ff3832a260f5f13cd6914737b438c70cce73b8e5.png"
+},
+"khans_champion_head": {
+"large": "icons/econ/items/clinkz/khans_champion_head/khans_champion_head_large.fb893cb175550e38541b27feef359fd0b3c76fde.png",
+"normal": "icons/econ/items/clinkz/khans_champion_head/khans_champion_head.53c9a48de4ade464ce77ac8eb9f969df62760225.png"
+},
+"khans_champion_shoulder": {
+"large": "icons/econ/items/clinkz/khans_champion_shoulder/khans_champion_shoulder_large.5fa4e290a5a65c617a8cb973a53becc1c5c72a95.png",
+"normal": "icons/econ/items/clinkz/khans_champion_shoulder/khans_champion_shoulder.9d1f3b413e6bce7a79c3c52648115eb6e332468f.png"
+},
+"khans_champion_weapon": {
+"large": "icons/econ/items/clinkz/khans_champion_weapon/khans_champion_weapon_large.15a1ad0da76f1913d0451048dbdde5ba4711e560.png",
+"normal": "icons/econ/items/clinkz/khans_champion_weapon/khans_champion_weapon.88349b25b48c8855ebf627bc46c768cd77126458.png"
+},
+"lord_of_ancient_treant_arms": {
+"large": "icons/econ/items/treant/lord_of_ancient_treant_arms/lord_of_ancient_treant_arms_large.bdda2ac59a092e474b83ac2fe15278614fb0e8b4.png",
+"normal": "icons/econ/items/treant/lord_of_ancient_treant_arms/lord_of_ancient_treant_arms.e2b5078956d998ab5325bf05a34baf636f231c80.png"
+},
+"lord_of_ancient_treant_head": {
+"large": "icons/econ/items/treant/lord_of_ancient_treant_head/lord_of_ancient_treant_head_large.5c19287ce840900c77d730013fd4850611ca31de.png",
+"normal": "icons/econ/items/treant/lord_of_ancient_treant_head/lord_of_ancient_treant_head.fe794e8da0b947eec40ad0ae6322c286e193fad0.png"
+},
+"lord_of_ancient_treant_legs": {
+"large": "icons/econ/items/treant/lord_of_ancient_treant_legs/lord_of_ancient_treant_legs_large.132444cfa3dd0f40e7ff0c092c053ba3a1b397e7.png",
+"normal": "icons/econ/items/treant/lord_of_ancient_treant_legs/lord_of_ancient_treant_legs.915e45759df0a8d410c7b9775597d469fda91f2e.png"
+},
+"lord_of_ancient_treant_shoulder": {
+"large": "icons/econ/items/treant/lord_of_ancient_treant_shoulder/lord_of_ancient_treant_shoulder_large.dc249ba3781812e7dfbc9baa2cdb5833311ee710.png",
+"normal": "icons/econ/items/treant/lord_of_ancient_treant_shoulder/lord_of_ancient_treant_shoulder.7296b38feb84147b0f9586533230a4d278cd3891.png"
+},
+"master_of_jiang_shi_lich_arms": {
+"large": "icons/econ/items/lich/master_of_jiang_shi_lich_arms/master_of_jiang_shi_lich_arms_large.30412eedab5dab60bbb48edbe97e406f872d5e99.png",
+"normal": "icons/econ/items/lich/master_of_jiang_shi_lich_arms/master_of_jiang_shi_lich_arms.448d803b98114416ac3742cc0c8fde64afe804a1.png"
+},
+"master_of_jiang_shi_lich_back": {
+"large": "icons/econ/items/lich/master_of_jiang_shi_lich_back/master_of_jiang_shi_lich_back_large.d668187c155a0267a4f7cc39add86f2760e5e5da.png",
+"normal": "icons/econ/items/lich/master_of_jiang_shi_lich_back/master_of_jiang_shi_lich_back.56039e02715c508ccff8434e3e95562a565156b0.png"
+},
+"master_of_jiang_shi_lich_belt": {
+"large": "icons/econ/items/lich/master_of_jiang_shi_lich_belt/master_of_jiang_shi_lich_belt_large.4438be54a3c72bd6d43ca7f0ec05f6f865245c36.png",
+"normal": "icons/econ/items/lich/master_of_jiang_shi_lich_belt/master_of_jiang_shi_lich_belt.bdd73e26777c43b7c95f4a708a05c85304f7e0dc.png"
+},
+"master_of_jiang_shi_lich_head": {
+"large": "icons/econ/items/lich/master_of_jiang_shi_lich_head/master_of_jiang_shi_lich_head_large.88f4d09893d2ea5679b97b4bbed346a47a98cc1e.png",
+"normal": "icons/econ/items/lich/master_of_jiang_shi_lich_head/master_of_jiang_shi_lich_head.5720eb6939d2d6ff55907491cefc513bac13f1cd.png"
+},
+"master_of_jiang_shi_lich_neck": {
+"large": "icons/econ/items/lich/master_of_jiang_shi_lich_neck/master_of_jiang_shi_lich_neck_large.3468dcf6521def276b477101183bfaf93c001fc4.png",
+"normal": "icons/econ/items/lich/master_of_jiang_shi_lich_neck/master_of_jiang_shi_lich_neck.971d2429fe1d86633334d06c5813fb810cf2de44.png"
+},
+"the_mythical_vanquisher_armor": {
+"large": "icons/econ/items/troll_warlord/the_mythical_vanquisher_armor/the_mythical_vanquisher_armor_large.dc09829b398f87aa934d92e372d84e7bf5f2d525.png",
+"normal": "icons/econ/items/troll_warlord/the_mythical_vanquisher_armor/the_mythical_vanquisher_armor.6dfe5e6ad463bed5e6486dc965503d5ba834b69e.png"
+},
+"the_mythical_vanquisher_head": {
+"large": "icons/econ/items/troll_warlord/the_mythical_vanquisher_head/the_mythical_vanquisher_head_large.8841407be852c7c995feadd60cc4d6107cf71cda.png",
+"normal": "icons/econ/items/troll_warlord/the_mythical_vanquisher_head/the_mythical_vanquisher_head.4c6832b3041c377125ea836be41b3cd31f2976b2.png"
+},
+"the_mythical_vanquisher_weapon": {
+"large": "icons/econ/items/troll_warlord/the_mythical_vanquisher_weapon/the_mythical_vanquisher_weapon_large.4fc81d75b1f815eaf678db1273a46e82adfa1e37.png",
+"normal": "icons/econ/items/troll_warlord/the_mythical_vanquisher_weapon/the_mythical_vanquisher_weapon.ad4e2be90dcc99b4cdbeaac0c7e10f20a4a362a4.png"
+},
+"the_return_of_the_king_of_gods_arms": {
+"large": "icons/econ/items/zuus/the_return_of_the_king_of_gods_arms/the_return_of_the_king_of_gods_arms_large.5a12c4323720df4a295b3a76f1560185d6582e42.png",
+"normal": "icons/econ/items/zuus/the_return_of_the_king_of_gods_arms/the_return_of_the_king_of_gods_arms.c7272c9ca89706b4f80ae0bf0fc3b5496ca9d4d9.png"
+},
+"the_return_of_the_king_of_gods_back": {
+"large": "icons/econ/items/zuus/the_return_of_the_king_of_gods_back/the_return_of_the_king_of_gods_back_large.3dd465e313bef576c6d276fda698a9d192516659.png",
+"normal": "icons/econ/items/zuus/the_return_of_the_king_of_gods_back/the_return_of_the_king_of_gods_back.6a469a4b82c99e1071b3f5644618ddc4635aaa3f.png"
+},
+"the_return_of_the_king_of_gods_belt": {
+"large": "icons/econ/items/zuus/the_return_of_the_king_of_gods_belt/the_return_of_the_king_of_gods_belt_large.ce5afb88758b0796c75ba22b2096ff465e372139.png",
+"normal": "icons/econ/items/zuus/the_return_of_the_king_of_gods_belt/the_return_of_the_king_of_gods_belt.7e0343cde4e33a2c16f0e4aa42c8167cb27d110a.png"
+},
+"the_return_of_the_king_of_gods_head": {
+"large": "icons/econ/items/zuus/the_return_of_the_king_of_gods_head/the_return_of_the_king_of_gods_head_large.a20b84c1a3f103e28ea30cc836de367bf2e08b58.png",
+"normal": "icons/econ/items/zuus/the_return_of_the_king_of_gods_head/the_return_of_the_king_of_gods_head.c0878bf8e1043c33b3ec8cc7b4787c1ef50e2cd5.png"
+},
+"tsukumo_the_moon_cloud": {
+"large": "icons/econ/items/mirana/tsukumo_the_moon_cloud/tsukumo_the_moon_cloud_large.e3d814510f77cbb98d208ff3b08bb626eaa319ea.png",
+"normal": "icons/econ/items/mirana/tsukumo_the_moon_cloud/tsukumo_the_moon_cloud.1ac0d912cf2df9ca1c6d87ed786d662e3c5be095.png"
+},
+"vermilion_juju_of_the_south_back": {
+"large": "icons/econ/items/witchdoctor/vermilion_juju_of_the_south_back/vermilion_juju_of_the_south_back_large.3a9a4cbdda1d53644c2f609e2b7f9e76293a0cbe.png",
+"normal": "icons/econ/items/witchdoctor/vermilion_juju_of_the_south_back/vermilion_juju_of_the_south_back.3ce068cac3a1f3c80cfbf7ee13e0595258e953fd.png"
+},
+"vermilion_juju_of_the_south_belt": {
+"large": "icons/econ/items/witchdoctor/vermilion_juju_of_the_south_belt/vermilion_juju_of_the_south_belt_large.3b8f09a94d718b864c9d36ac3b466801e1b86bd8.png",
+"normal": "icons/econ/items/witchdoctor/vermilion_juju_of_the_south_belt/vermilion_juju_of_the_south_belt.0073a2effeb437c0494795a13b0f18a75656efdc.png"
+},
+"vermilion_juju_of_the_south_head": {
+"large": "icons/econ/items/witchdoctor/vermilion_juju_of_the_south_head/vermilion_juju_of_the_south_head_large.d0c386fb45dbca69abb703ebfe622ad98e7491c1.png",
+"normal": "icons/econ/items/witchdoctor/vermilion_juju_of_the_south_head/vermilion_juju_of_the_south_head.eb17e2073aed2802758be9331dee8e87eeb58980.png"
+},
+"vermilion_juju_of_the_south_shoulder": {
+"large": "icons/econ/items/witchdoctor/vermilion_juju_of_the_south_shoulder/vermilion_juju_of_the_south_shoulder_large.b8c4ee9363965f89bc21ca0c3f296a2409312f4a.png",
+"normal": "icons/econ/items/witchdoctor/vermilion_juju_of_the_south_shoulder/vermilion_juju_of_the_south_shoulder.b37700d6e5a4ba731f231cabc092a8a31f734198.png"
+},
+"vermilion_juju_of_the_south_weapon": {
+"large": "icons/econ/items/witchdoctor/vermilion_juju_of_the_south_weapon/vermilion_juju_of_the_south_weapon_large.7bd5ffba4b8f441f33d2d03dd2480b062c39b3fc.png",
+"normal": "icons/econ/items/witchdoctor/vermilion_juju_of_the_south_weapon/vermilion_juju_of_the_south_weapon.4fc7687ab2c0032d199eca285007480246c2395d.png"
+},
+"warden_of_the_gong_arms": {
+"large": "icons/econ/items/elder_titan/warden_of_the_gong_arms/warden_of_the_gong_arms_large.a999dabb947ad55fa12376ff321c36e9b8620162.png",
+"normal": "icons/econ/items/elder_titan/warden_of_the_gong_arms/warden_of_the_gong_arms.a294c329d6d673215647d33dbee9223df7972910.png"
+},
+"warden_of_the_gong_back": {
+"large": "icons/econ/items/elder_titan/warden_of_the_gong_back/warden_of_the_gong_back_large.d6f17872516602946be57dfee596d5a9e0fe1f95.png",
+"normal": "icons/econ/items/elder_titan/warden_of_the_gong_back/warden_of_the_gong_back.ed4ff96c2ad28e5d2f369ace97e9fb77421871a1.png"
+},
+"warden_of_the_gong_head": {
+"large": "icons/econ/items/elder_titan/warden_of_the_gong_head/warden_of_the_gong_head_large.3f0630bc9ecf07772f3535e2f7115813503325b6.png",
+"normal": "icons/econ/items/elder_titan/warden_of_the_gong_head/warden_of_the_gong_head.44ac47ec622fdf3a40b85102879dfafdbded3a78.png"
+},
+"warden_of_the_gong_shoulder": {
+"large": "icons/econ/items/elder_titan/warden_of_the_gong_shoulder/warden_of_the_gong_shoulder_large.28c96f90b2ae4222e3bae533de3af40720815ed8.png",
+"normal": "icons/econ/items/elder_titan/warden_of_the_gong_shoulder/warden_of_the_gong_shoulder.8ff2d3e8a925605e69b27da7d2b9f9d0ec6ef898.png"
+},
+"warden_of_the_gong_weapon": {
+"large": "icons/econ/items/elder_titan/warden_of_the_gong_weapon/warden_of_the_gong_weapon_large.621fceb960f2b4ca73f8da9ff463302a5ab05af1.png",
+"normal": "icons/econ/items/elder_titan/warden_of_the_gong_weapon/warden_of_the_gong_weapon.1bb7779a07fa512ca51ed4e03ff93fbbd9b69f4a.png"
+},
+"wu_sheng_arms_v2": {
+"large": "icons/econ/items/ember_spirit/wu_sheng_arms_v2/wu_sheng_arms_v2_large.142be370f4a344dcc73a4cd8bd7f960e9bf795db.png",
+"normal": "icons/econ/items/ember_spirit/wu_sheng_arms_v2/wu_sheng_arms_v2.342a4e556ac5ec44cc908ddefb6bcda4602d5f2c.png"
+},
+"wu_sheng_belt_v2": {
+"large": "icons/econ/items/ember_spirit/wu_sheng_belt_v2/wu_sheng_belt_v2_large.4cd19ec4efa8a2d1b96566e30c9cc5fa3eca190f.png",
+"normal": "icons/econ/items/ember_spirit/wu_sheng_belt_v2/wu_sheng_belt_v2.faf655c28f83cc7ea06111006d54f099409f7631.png"
+},
+"wu_sheng_head_v2": {
+"large": "icons/econ/items/ember_spirit/wu_sheng_head_v2/wu_sheng_head_v2_large.7ed45f1285e074ea5bc58bc3c717e3a580c64ee6.png",
+"normal": "icons/econ/items/ember_spirit/wu_sheng_head_v2/wu_sheng_head_v2.afc6b2655b2623f30cdc3ffede8e99600ce0bdbd.png"
+},
+"wu_sheng_off_hand_v2": {
+"large": "icons/econ/items/ember_spirit/wu_sheng_off_hand_v2/wu_sheng_off_hand_v2_large.9e2b3d82f5f6502294248ad9daf9348fee8b8b05.png",
+"normal": "icons/econ/items/ember_spirit/wu_sheng_off_hand_v2/wu_sheng_off_hand_v2.de086a1244372f0a1d98df8d0f4386b902982e76.png"
+},
+"wu_sheng_shoulder_v2": {
+"large": "icons/econ/items/ember_spirit/wu_sheng_shoulder_v2/wu_sheng_shoulder_v2_large.7be2f9afb138872a2835a10a905d2f9aec9bb377.png",
+"normal": "icons/econ/items/ember_spirit/wu_sheng_shoulder_v2/wu_sheng_shoulder_v2.db0b2ab2e77ba304f43d1291a4d1ddf40da9e7dc.png"
+},
+"wu_sheng_weapon_v2": {
+"large": "icons/econ/items/ember_spirit/wu_sheng_weapon_v2/wu_sheng_weapon_v2_large.adee3ef5d6e980334357cde7c482315a34044f2a.png",
+"normal": "icons/econ/items/ember_spirit/wu_sheng_weapon_v2/wu_sheng_weapon_v2.1bd5c9ff1bd9146bbf5c27240ebaf4fe02c345ca.png"
+}
+}
