@@ -1,0 +1,1149 @@
+{
+"A": {
+"Abdomen of the Glutton's Larder": {
+"creation_date": "2016-04-27",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/broodmother/elder_blood_back/elder_blood_back",
+"item_description": "#DOTA_Item_Desc_Abdomen_of_the_Gluttons_Larder",
+"item_name": "#DOTA_Item_Abdomen_of_the_Gluttons_Larder",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/broodmother/elder_blood_back/elder_blood_back.vmdl",
+"name": "Abdomen of the Glutton's Larder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_broodmother": "1"
+}
+},
+"Ainidul the Eternal Expired": {
+"creation_date": "2013-06-06",
+"image_inventory": "econ/items/keeper_of_the_light/ainidul_the_eternal_retex/ainidul_the_eternal_retex",
+"item_name": "#DOTA_Item_Ainidul_the_Eternal_Expired",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_Mount",
+"model_player": "models/items/keeper_of_the_light/ainidul_the_eternal_retex/ainidul_the_eternal_retex.vmdl",
+"name": "Ainidul the Eternal Expired",
+"prefab": "wearable",
+"static_attributes": {
+"cannot craft": {
+"attribute_class": "cannot_craft",
+"value": "1"
+},
+"cannot delete": {
+"attribute_class": "cannot_delete",
+"value": "1"
+},
+"cannot trade": {
+"attribute_class": "cannot_trade",
+"value": "1"
+},
+"giftable": {
+"attribute_class": "giftable",
+"value": "0"
+},
+"not marketable": {
+"attribute_class": "not marketable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+}
+},
+"Armor of the Abyssal Scourge": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/underlord/abyss_tyrant_armor/abyss_tyrant_armor",
+"item_description": "#DOTA_Item_Desc_Armor_of_the_Abyssal_Scourge",
+"item_name": "#DOTA_Item_Armor_of_the_Abyssal_Scourge",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/underlord/abyss_tyrant_armor/abyss_tyrant_armor.vmdl",
+"name": "Armor of the Abyssal Scourge",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_abyssal_underlord": "1"
+}
+},
+"Armor of the Chainbreaker": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/lifestealer/mad_naix_of_the_fury_dungeon_back/mad_naix_of_the_fury_dungeon_back",
+"item_description": "#DOTA_Item_Desc_Armor_of_the_Chainbreaker",
+"item_name": "#DOTA_Item_Armor_of_the_Chainbreaker",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/lifestealer/mad_naix_of_the_fury_dungeon_back/mad_naix_of_the_fury_dungeon_back.vmdl",
+"name": "Armor of the Chainbreaker",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_life_stealer": "1"
+}
+},
+"Armor of the Mothbinder": {
+"creation_date": "2016-09-07",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/death_prophet/mothbinders_omen_armor/mothbinders_omen_armor",
+"item_description": "#DOTA_Item_Desc_Armor_of_the_Mothbinder",
+"item_name": "#DOTA_Item_Armor_of_the_Mothbinder",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_Armor",
+"model_player": "models/items/death_prophet/mothbinders_omen_armor/mothbinders_omen_armor.vmdl",
+"name": "Armor of the Mothbinder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+}
+}
+},
+"B": {
+"Belt of the Chainbreaker": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/lifestealer/mad_naix_of_the_fury_dungeon_belt/mad_naix_of_the_fury_dungeon_belt",
+"item_description": "#DOTA_Item_Desc_Belt_of_the_Chainbreaker",
+"item_name": "#DOTA_Item_Belt_of_the_Chainbreaker",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/lifestealer/mad_naix_of_the_fury_dungeon_belt/mad_naix_of_the_fury_dungeon_belt.vmdl",
+"name": "Belt of the Chainbreaker",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_life_stealer": "1"
+}
+},
+"Belt of the Hazhadal Magebreaker": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/silencer/the_hazhadal_magebreaker_belt/the_hazhadal_magebreaker_belt",
+"item_description": "#DOTA_Item_Desc_Belt_of_the_Hazhadal_Magebreaker",
+"item_name": "#DOTA_Item_Belt_of_the_Hazhadal_Magebreaker",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/silencer/the_hazhadal_magebreaker_belt/the_hazhadal_magebreaker_belt.vmdl",
+"name": "Belt of the Hazhadal Magebreaker",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_silencer": "1"
+}
+},
+"Belt of the Mothbinder": {
+"creation_date": "2016-09-07",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/death_prophet/mothbinders_omen_belt/mothbinders_omen_belt",
+"item_description": "#DOTA_Item_Desc_Belt_of_the_Mothbinder",
+"item_name": "#DOTA_Item_Belt_of_the_Mothbinder",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_Belt",
+"model_player": "models/items/death_prophet/mothbinders_omen_belt/mothbinders_omen_belt.vmdl",
+"name": "Belt of the Mothbinder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+}
+},
+"Blade of the Abyssal Scourge": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/underlord/abyss_tyrant_weapon/abyss_tyrant_weapon",
+"item_description": "#DOTA_Item_Desc_Blade_of_the_Abyssal_Scourge",
+"item_name": "#DOTA_Item_Blade_of_the_Abyssal_Scourge",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/underlord/abyss_tyrant_weapon/abyss_tyrant_weapon.vmdl",
+"name": "Blade of the Abyssal Scourge",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_abyssal_underlord": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/units/heroes/heroes_underlord/underlord_atrophy_weapon.vpcf",
+"modifier": "particles/econ/items/underlord/underlord_tyrant/underlord_tyrant_atrophy_weapon.vpcf",
+"style": "0",
+"type": "particle"
+}
+}
+},
+"Blade of the Stormcharge Dragoon": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/disruptor/guardian_of_the_living_monolith_weapon/guardian_of_the_living_monolith_weapon",
+"item_description": "#DOTA_Item_Desc_Blade_of_the_Stormcharge_Dragoon",
+"item_name": "#DOTA_Item_Blade_of_the_Stormcharge_Dragoon",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/disruptor/guardian_of_the_living_monolith_weapon/guardian_of_the_living_monolith_weapon.vmdl",
+"name": "Blade of the Stormcharge Dragoon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_disruptor": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/disruptor/disruptor_guardian_monolith_weapon/disruptor_guardian_monolith_weapon_ambient.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Bracelets of the Mothbinder": {
+"creation_date": "2016-09-07",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/death_prophet/mothbinders_omen_misc/mothbinders_omen_misc",
+"item_description": "#DOTA_Item_Desc_Bracelets_of_the_Mothbinder",
+"item_name": "#DOTA_Item_Bracelets_of_the_Mothbinder",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_misc",
+"model_player": "models/items/death_prophet/mothbinders_omen_misc/mothbinders_omen_misc.vmdl",
+"name": "Bracelets of the Mothbinder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+}
+},
+"Bracers of the Hazhadal Magebreaker": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/silencer/the_hazhadal_magebreaker_arms/the_hazhadal_magebreaker_arms",
+"item_description": "#DOTA_Item_Desc_Bracers_of_the_Hazhadal_Magebreaker",
+"item_name": "#DOTA_Item_Bracers_of_the_Hazhadal_Magebreaker",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/silencer/the_hazhadal_magebreaker_arms/the_hazhadal_magebreaker_arms.vmdl",
+"name": "Bracers of the Hazhadal Magebreaker",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_silencer": "1"
+}
+},
+"Bracers of the Occultist's Pursuit": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/sniper/witch_hunter_set_arms/witch_hunter_set_arms",
+"item_description": "#DOTA_Item_Desc_Bracers_of_the_Occultists_Pursuit",
+"item_name": "#DOTA_Item_Bracers_of_the_Occultists_Pursuit",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/sniper/witch_hunter_set_arms/witch_hunter_set_arms.vmdl",
+"name": "Bracers of the Occultist's Pursuit",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_sniper": "1"
+}
+}
+},
+"C": {
+"Cannon of the Occultist's Pursuit": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/sniper/witch_hunter_set_weapon/witch_hunter_set_weapon",
+"item_description": "#DOTA_Item_Desc_Cannon_of_the_Occultists_Pursuit",
+"item_name": "#DOTA_Item_Cannon_of_the_Occultists_Pursuit",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/sniper/witch_hunter_set_weapon/witch_hunter_set_weapon.vmdl",
+"name": "Cannon of the Occultist's Pursuit",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_sniper": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/units/heroes/hero_sniper/sniper_base_attack.vpcf",
+"modifier": "particles/econ/items/sniper/sniper_witch_hunter/sniper_witch_hunter_base_attack.vpcf",
+"style": "0",
+"type": "particle"
+}
+}
+},
+"Cape of the First Dawn": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/keeper_of_the_light/keeper_of_the_light_light_messenger_belt/keeper_of_the_light_light_messenger_belt",
+"item_description": "#DOTA_Item_Desc_Cape_of_the_First_Dawn",
+"item_name": "#DOTA_Item_Cape_of_the_First_Dawn",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_Cape",
+"model_player": "models/items/keeper_of_the_light/keeper_of_the_light_light_messenger_belt/keeper_of_the_light_light_messenger_belt.vmdl",
+"name": "Cape of the First Dawn",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+}
+},
+"Cape of the Hazhadal Magebreaker": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/silencer/the_hazhadal_magebreaker_shoulder/the_hazhadal_magebreaker_shoulder",
+"item_description": "#DOTA_Item_Desc_Cape_of_the_Hazhadal_Magebreaker",
+"item_name": "#DOTA_Item_Cape_of_the_Hazhadal_Magebreaker",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/silencer/the_hazhadal_magebreaker_shoulder/the_hazhadal_magebreaker_shoulder.vmdl",
+"name": "Cape of the Hazhadal Magebreaker",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_silencer": "1"
+}
+},
+"Cape of the Rowdy Firebrand": {
+"creation_date": "2015-07-31",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/batrider/pernicious_firebrand_shoulder/pernicious_firebrand_shoulder",
+"item_description": "#DOTA_Item_Desc_Cape_of_the_Rowdy_Firebrand",
+"item_name": "#DOTA_Item_Cape_of_the_Rowdy_Firebrand",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Cape",
+"model_player": "models/items/batrider/pernicious_firebrand_shoulder/pernicious_firebrand_shoulder.vmdl",
+"name": "Cape of the Rowdy Firebrand",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_batrider": "1"
+}
+},
+"Claws of the Chainbreaker": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/lifestealer/mad_naix_of_the_fury_dungeon_arms/mad_naix_of_the_fury_dungeon_arms",
+"item_description": "#DOTA_Item_Desc_Claws_of_the_Chainbreaker",
+"item_name": "#DOTA_Item_Claws_of_the_Chainbreaker",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/lifestealer/mad_naix_of_the_fury_dungeon_arms/mad_naix_of_the_fury_dungeon_arms.vmdl",
+"name": "Claws of the Chainbreaker",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_life_stealer": "1"
+}
+},
+"Cowl of the Glutton's Larder": {
+"creation_date": "2016-04-27",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/broodmother/elder_blood_misc/elder_blood_misc",
+"item_description": "#DOTA_Item_Desc_Cowl_of_the_Gluttons_Larder",
+"item_name": "#DOTA_Item_Cowl_of_the_Gluttons_Larder",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_misc",
+"model_player": "models/items/broodmother/elder_blood_misc/elder_blood_misc.vmdl",
+"name": "Cowl of the Glutton's Larder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_broodmother": "1"
+}
+},
+"Crown of the Glutton's Larder": {
+"creation_date": "2016-04-27",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/broodmother/elder_blood_head/elder_blood_head",
+"item_description": "#DOTA_Item_Desc_Crown_of_the_Gluttons_Larder",
+"item_name": "#DOTA_Item_Crown_of_the_Gluttons_Larder",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/broodmother/elder_blood_head/elder_blood_head.vmdl",
+"name": "Crown of the Glutton's Larder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_broodmother": "1"
+}
+}
+},
+"D": {},
+"E": {
+"Edge of the Hazhadal Magebreaker": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/silencer/the_hazhadal_magebreaker_weapon/the_hazhadal_magebreaker_weapon",
+"item_description": "#DOTA_Item_Desc_Edge_of_the_Hazhadal_Magebreaker",
+"item_name": "#DOTA_Item_Edge_of_the_Hazhadal_Magebreaker",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_Edge",
+"model_player": "models/items/silencer/the_hazhadal_magebreaker_weapon/the_hazhadal_magebreaker_weapon.vmdl",
+"name": "Edge of the Hazhadal Magebreaker",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_silencer": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+}
+},
+"F": {
+"First Dawn": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/keeper_of_the_light/keeper_of_the_light_light_messenger_mount/keeper_of_the_light_light_messenger_mount",
+"item_name": "#DOTA_Item_First_Dawn",
+"item_rarity": "mythical",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_mount",
+"model_player": "models/items/keeper_of_the_light/keeper_of_the_light_light_messenger_mount/keeper_of_the_light_light_messenger_mount.vmdl",
+"name": "First Dawn",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+}
+},
+"Flames of the Fireflight Scion": {
+"creation_date": "2017-01-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/lina/reborn_phoenixlina_arms/reborn_phoenixlina_arms",
+"item_description": "#DOTA_Item_Desc_Flames_of_the_Fireflight_Scion",
+"item_name": "#DOTA_Item_Flames_of_the_Fireflight_Scion",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/lina/reborn_phoenixlina_arms/reborn_phoenixlina_arms.vmdl",
+"name": "Flames of the Fireflight Scion",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lina": "1"
+}
+},
+"Fowl of the Stormcharge Dragoon": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/disruptor/guardian_of_the_living_monolith_legs/guardian_of_the_living_monolith_legs",
+"item_description": "#DOTA_Item_Desc_Fowl_of_the_Stormcharge_Dragoon",
+"item_name": "#DOTA_Item_Fowl_of_the_Stormcharge_Dragoon",
+"item_rarity": "mythical",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_legs",
+"model_player": "models/items/disruptor/guardian_of_the_living_monolith_legs/guardian_of_the_living_monolith_legs.vmdl",
+"name": "Fowl of the Stormcharge Dragoon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_disruptor": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/disruptor/disruptor_guardian_monolith_mount/disruptor_guardian_monolith_mount_ambient.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Freya": {
+"creation_date": "2015-07-31",
+"image_inventory": "econ/items/batrider/pernicious_firebrand_mount/pernicious_firebrand_mount",
+"item_name": "#DOTA_Item_Freya",
+"item_rarity": "rare",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_Mount",
+"model_player": "models/items/batrider/pernicious_firebrand_mount/pernicious_firebrand_mount.vmdl",
+"name": "Freya",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_batrider": "1"
+}
+}
+},
+"G": {
+"Gladys the Light-Bearing Mule Expired": {
+"creation_date": "2013-07-20",
+"image_inventory": "econ/items/keeper_of_the_light/gladys_the_lightbearing_mule/gladys_the_lightbearing_mule",
+"item_description": "#DOTA_Item_Desc_Gladys_the_LightBearing_Mule",
+"item_name": "#DOTA_Item_Gladys_the_LightBearing_Mule_Expired",
+"item_rarity": "uncommon",
+"item_type_name": "#DOTA_WearableType_Horse",
+"model_player": "models/items/keeper_of_the_light/gladys_the_lightbearing_mule/gladys_the_lightbearing_mule.vmdl",
+"name": "Gladys the Light-Bearing Mule Expired",
+"prefab": "wearable",
+"price_info": {
+"bucket": "Normal",
+"category_tags": "Equipment",
+"class": "NoPrice",
+"date": "1/13/2014",
+"price": "0"
+},
+"static_attributes": {
+"cannot craft": {
+"attribute_class": "cannot_craft",
+"value": "1"
+},
+"cannot delete": {
+"attribute_class": "cannot_delete",
+"value": "1"
+},
+"cannot trade": {
+"attribute_class": "cannot_trade",
+"value": "1"
+},
+"giftable": {
+"attribute_class": "giftable",
+"value": "0"
+},
+"not marketable": {
+"attribute_class": "not marketable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+}
+}
+},
+"H": {
+"Hair of the Fireflight Scion": {
+"creation_date": "2017-01-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/lina/reborn_phoenixlina_head/reborn_phoenixlina_head",
+"item_description": "#DOTA_Item_Desc_Hair_of_the_Fireflight_Scion",
+"item_name": "#DOTA_Item_Hair_of_the_Fireflight_Scion",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/lina/reborn_phoenixlina_head/reborn_phoenixlina_head.vmdl",
+"name": "Hair of the Fireflight Scion",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lina": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+},
+"Hat of the Stormcharge Dragoon": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/disruptor/guardian_of_the_living_monolith_head/guardian_of_the_living_monolith_head",
+"item_description": "#DOTA_Item_Desc_Hat_of_the_Stormcharge_Dragoon",
+"item_name": "#DOTA_Item_Hat_of_the_Stormcharge_Dragoon",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/disruptor/guardian_of_the_living_monolith_head/guardian_of_the_living_monolith_head.vmdl",
+"name": "Hat of the Stormcharge Dragoon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_disruptor": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/disruptor/disruptor_guardian_monolith_head/disruptor_guardian_monolith_head_ambient.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Helm of the Abyssal Scourge": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/underlord/abyss_tyrant_head/abyss_tyrant_head",
+"item_description": "#DOTA_Item_Desc_Helm_of_the_Abyssal_Scourge",
+"item_name": "#DOTA_Item_Helm_of_the_Abyssal_Scourge",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/underlord/abyss_tyrant_head/abyss_tyrant_head.vmdl",
+"name": "Helm of the Abyssal Scourge",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_abyssal_underlord": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/heroes_underlord/underlord_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Helm of the First Dawn": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/keeper_of_the_light/keeper_of_the_light_light_messenger_head/keeper_of_the_light_light_messenger_head",
+"item_description": "#DOTA_Item_Desc_Helm_of_the_First_Dawn",
+"item_name": "#DOTA_Item_Helm_of_the_First_Dawn",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Helm",
+"model_player": "models/items/keeper_of_the_light/keeper_of_the_light_light_messenger_head/keeper_of_the_light_light_messenger_head.vmdl",
+"name": "Helm of the First Dawn",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+}
+},
+"Hood of the Mothbinder": {
+"creation_date": "2016-09-07",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/death_prophet/mothbinders_omen_head/mothbinders_omen_head",
+"item_description": "#DOTA_Item_Desc_Hood_of_the_Mothbinder",
+"item_name": "#DOTA_Item_Hood_of_the_Mothbinder",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/death_prophet/mothbinders_omen_head/mothbinders_omen_head.vmdl",
+"name": "Hood of the Mothbinder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+}
+},
+"Hood of the Rowdy Firebrand": {
+"creation_date": "2015-07-31",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/batrider/pernicious_firebrand_head/pernicious_firebrand_head",
+"item_description": "#DOTA_Item_Desc_Hood_of_the_Rowdy_Firebrand",
+"item_name": "#DOTA_Item_Hood_of_the_Rowdy_Firebrand",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Hood",
+"model_player": "models/items/batrider/pernicious_firebrand_head/pernicious_firebrand_head.vmdl",
+"name": "Hood of the Rowdy Firebrand",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_batrider": "1"
+}
+}
+},
+"I": {},
+"J": {},
+"K": {},
+"L": {
+"Legs of the Glutton's Larder": {
+"creation_date": "2016-04-27",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/broodmother/elder_blood_legs/elder_blood_legs",
+"item_description": "#DOTA_Item_Desc_Legs_of_the_Gluttons_Larder",
+"item_name": "#DOTA_Item_Legs_of_the_Gluttons_Larder",
+"item_rarity": "mythical",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_legs",
+"model_player": "models/items/broodmother/elder_blood_legs/elder_blood_legs.vmdl",
+"name": "Legs of the Glutton's Larder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_broodmother": "1"
+}
+}
+},
+"M": {
+"Mantle of the Stormcharge Dragoon": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/disruptor/guardian_of_the_living_monolith_shoulder/guardian_of_the_living_monolith_shoulder",
+"item_description": "#DOTA_Item_Desc_Mantle_of_the_Stormcharge_Dragoon",
+"item_name": "#DOTA_Item_Mantle_of_the_Stormcharge_Dragoon",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/disruptor/guardian_of_the_living_monolith_shoulder/guardian_of_the_living_monolith_shoulder.vmdl",
+"name": "Mantle of the Stormcharge Dragoon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_disruptor": "1"
+}
+},
+"Mask of the Chainbreaker": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/lifestealer/mad_naix_of_the_fury_dungeon_head/mad_naix_of_the_fury_dungeon_head",
+"item_description": "#DOTA_Item_Desc_Mask_of_the_Chainbreaker",
+"item_name": "#DOTA_Item_Mask_of_the_Chainbreaker",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/lifestealer/mad_naix_of_the_fury_dungeon_head/mad_naix_of_the_fury_dungeon_head.vmdl",
+"name": "Mask of the Chainbreaker",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_life_stealer": "1"
+}
+},
+"Mask of the Hazhadal Magebreaker": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/silencer/the_hazhadal_magebreaker_head/the_hazhadal_magebreaker_head",
+"item_description": "#DOTA_Item_Desc_Mask_of_the_Hazhadal_Magebreaker",
+"item_name": "#DOTA_Item_Mask_of_the_Hazhadal_Magebreaker",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/silencer/the_hazhadal_magebreaker_head/the_hazhadal_magebreaker_head.vmdl",
+"name": "Mask of the Hazhadal Magebreaker",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_silencer": "1"
+}
+}
+},
+"N": {},
+"O": {
+"One Horn Expired": {
+"creation_date": "2013-07-20",
+"image_inventory": "econ/items/keeper_of_the_light/the_one_horn/the_one_horn",
+"item_description": "#DOTA_Item_Desc_The_One_Horn",
+"item_name": "#DOTA_Item_One_Horn_Expired",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_Poke",
+"model_player": "models/items/keeper_of_the_light/the_one_horn/the_one_horn.vmdl",
+"name": "One Horn Expired",
+"prefab": "wearable",
+"propername": "1",
+"static_attributes": {
+"cannot craft": {
+"attribute_class": "cannot_craft",
+"value": "1"
+},
+"cannot delete": {
+"attribute_class": "cannot_delete",
+"value": "1"
+},
+"cannot trade": {
+"attribute_class": "cannot_trade",
+"value": "1"
+},
+"giftable": {
+"attribute_class": "giftable",
+"value": "0"
+},
+"international tag": {
+"attribute_class": "international tag",
+"value": "2013"
+},
+"not marketable": {
+"attribute_class": "not marketable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+}
+}
+},
+"P": {
+"Pack of the Occultist's Pursuit": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/sniper/witch_hunter_set_back/witch_hunter_set_back",
+"item_description": "#DOTA_Item_Desc_Pack_of_the_Occultists_Pursuit",
+"item_name": "#DOTA_Item_Pack_of_the_Occultists_Pursuit",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/sniper/witch_hunter_set_back/witch_hunter_set_back.vmdl",
+"name": "Pack of the Occultist's Pursuit",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_sniper": "1"
+}
+},
+"Pauldrons of the Occultist's Pursuit": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/sniper/witch_hunter_set_shoulder/witch_hunter_set_shoulder",
+"item_description": "#DOTA_Item_Desc_Pauldrons_of_the_Occultists_Pursuit",
+"item_name": "#DOTA_Item_Pauldrons_of_the_Occultists_Pursuit",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/sniper/witch_hunter_set_shoulder/witch_hunter_set_shoulder.vmdl",
+"name": "Pauldrons of the Occultist's Pursuit",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_sniper": "1"
+}
+}
+},
+"Q": {},
+"R": {
+"Roehrin the Pale Stallion Expired": {
+"creation_date": "2013-03-19",
+"image_inventory": "econ/items/keeper_of_the_light/horse_roehringods/horse_roehringods",
+"item_description": "#DOTA_Item_Desc_Roehrin_the_Pale_Stallion",
+"item_name": "#DOTA_Item_Roehrin_the_Pale_Stallion_Expired",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_Horse",
+"model_player": "models/items/keeper_of_the_light/horse_roehringods/horse_roehringods.vmdl",
+"name": "Roehrin the Pale Stallion Expired",
+"prefab": "wearable",
+"price_info": {
+"bucket": "Normal",
+"category_tags": "Equipment",
+"class": "NoPrice",
+"date": "1/13/2014",
+"price": "0"
+},
+"static_attributes": {
+"cannot craft": {
+"attribute_class": "cannot_craft",
+"value": "1"
+},
+"cannot delete": {
+"attribute_class": "cannot_delete",
+"value": "1"
+},
+"cannot trade": {
+"attribute_class": "cannot_trade",
+"value": "1"
+},
+"giftable": {
+"attribute_class": "giftable",
+"value": "0"
+},
+"not marketable": {
+"attribute_class": "not marketable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+}
+}
+},
+"S": {
+"Scabbards of the Stormcharge Dragoon": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/disruptor/guardian_of_the_living_monolith_back/guardian_of_the_living_monolith_back",
+"item_description": "#DOTA_Item_Desc_Scabbards_of_the_Stormcharge_Dragoon",
+"item_name": "#DOTA_Item_Scabbards_of_the_Stormcharge_Dragoon",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/disruptor/guardian_of_the_living_monolith_back/guardian_of_the_living_monolith_back.vmdl",
+"name": "Scabbards of the Stormcharge Dragoon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_disruptor": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/disruptor/disruptor_guardian_monolith_back/disruptor_guardian_monolith_back_ambient.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Shield of the Hazhadal Magebreaker": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/silencer/the_hazhadal_magebreaker_off_hand/the_hazhadal_magebreaker_off_hand",
+"item_description": "#DOTA_Item_Desc_Shield_of_the_Hazhadal_Magebreaker",
+"item_name": "#DOTA_Item_Shield_of_the_Hazhadal_Magebreaker",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_Shield",
+"model_player": "models/items/silencer/the_hazhadal_magebreaker_off_hand/the_hazhadal_magebreaker_off_hand.vmdl",
+"name": "Shield of the Hazhadal Magebreaker",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_silencer": "1"
+}
+},
+"Skirt of the Fireflight Scion": {
+"creation_date": "2017-01-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/lina/reborn_phoenixlina_belt/reborn_phoenixlina_belt",
+"item_description": "#DOTA_Item_Desc_Skirt_of_the_Fireflight_Scion",
+"item_name": "#DOTA_Item_Skirt_of_the_Fireflight_Scion",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/lina/reborn_phoenixlina_belt/reborn_phoenixlina_belt.vmdl",
+"name": "Skirt of the Fireflight Scion",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lina": "1"
+}
+},
+"Skirt of the Mothbinder": {
+"creation_date": "2016-09-07",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/death_prophet/mothbinders_omen_legs/mothbinders_omen_legs",
+"item_description": "#DOTA_Item_Desc_Skirt_of_the_Mothbinder",
+"item_name": "#DOTA_Item_Skirt_of_the_Mothbinder",
+"item_rarity": "mythical",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_Skirt",
+"model_player": "models/items/death_prophet/mothbinders_omen_legs/mothbinders_omen_legs.vmdl",
+"name": "Skirt of the Mothbinder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "models/items/death_prophet/mothbinders_omen_legs/mothbinders_omen_legs_vortex.vmdl",
+"type": "additional_wearable"
+}
+}
+},
+"Spidering of the Glutton's Larder": {
+"creation_date": "2016-04-27",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/broodmother/spiderling/elder_blood_heir_of_elder_blood/elder_blood_heir_of_elder_blood_npc_dota_broodmother_spiderling",
+"item_description": "#DOTA_Item_Desc_Spidering_of_the_Gluttons_Larder",
+"item_name": "#DOTA_Item_Spidering_of_the_Gluttons_Larder",
+"item_rarity": "mythical",
+"item_slot": "ability1",
+"name": "Spidering of the Glutton's Larder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_broodmother": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "npc_dota_broodmother_spiderling",
+"modifier": "models/items/broodmother/spiderling/elder_blood_heir_of_elder_blood/elder_blood_heir_of_elder_blood.vmdl",
+"type": "entity_model"
+},
+"asset_modifier1": {
+"asset": "npc_dota_broodmother_spiderite",
+"modifier": "models/items/broodmother/spiderling/elder_blood_heir_of_elder_blood/elder_blood_heir_of_elder_blood.vmdl",
+"type": "entity_model"
+}
+}
+},
+"Spirits of the Mothbinder": {
+"creation_date": "2016-09-07",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/death_prophet/exorcism/mothbinders_omen_mothbinders_spirits/mothbinders_omen_mothbinders_spirits_dota_death_prophet_exorcism_spirit",
+"item_description": "#DOTA_Item_Desc_Spirits_of_the_Mothbinder",
+"item_name": "#DOTA_Item_Spirits_of_the_Mothbinder",
+"item_rarity": "mythical",
+"item_slot": "ability_ultimate",
+"item_type_name": "#DOTA_WearableType_Spirits",
+"name": "Spirits of the Mothbinder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "dota_death_prophet_exorcism_spirit",
+"modifier": "models/items/death_prophet/exorcism/mothbinders_omen_mothbinders_spirits/mothbinders_omen_mothbinders_spirits.vmdl",
+"type": "entity_model"
+}
+}
+},
+"Staff of the First Dawn": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/keeper_of_the_light/keeper_of_the_light_light_messenger_weapon/keeper_of_the_light_light_messenger_weapon",
+"item_description": "#DOTA_Item_Desc_Staff_of_the_First_Dawn",
+"item_name": "#DOTA_Item_Staff_of_the_First_Dawn",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/keeper_of_the_light/keeper_of_the_light_light_messenger_weapon/keeper_of_the_light_light_messenger_weapon.vmdl",
+"name": "Staff of the First Dawn",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+}
+},
+"Stag of the Northlight Expired": {
+"creation_date": "2013-12-02",
+"image_inventory": "econ/items/keeper_of_the_light/northlight_stag_mount/northlight_stag_mount",
+"item_description": "#DOTA_Item_Desc_Stag_of_the_Northlight",
+"item_name": "#DOTA_Item_Stag_of_the_Northlight_Expired",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_Mount",
+"model_player": "models/items/keeper_of_the_light/northlight_stag_mount/northlight_stag_mount.vmdl",
+"name": "Stag of the Northlight Expired",
+"prefab": "wearable",
+"price_info": {
+"bucket": "Normal",
+"category_tags": "Equipment",
+"class": "NoPrice",
+"date": "1/13/2014",
+"price": "0"
+},
+"static_attributes": {
+"cannot craft": {
+"attribute_class": "cannot_craft",
+"value": "1"
+},
+"cannot delete": {
+"attribute_class": "cannot_delete",
+"value": "1"
+},
+"cannot trade": {
+"attribute_class": "cannot_trade",
+"value": "1"
+},
+"giftable": {
+"attribute_class": "giftable",
+"value": "0"
+},
+"not marketable": {
+"attribute_class": "not marketable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+}
+}
+},
+"T": {
+"Tendrillar Expired": {
+"creation_date": "2015-01-22",
+"image_inventory": "econ/items/keeper_of_the_light/cradle_of_lights_mount/cradle_of_lights_mount",
+"item_name": "#DOTA_Item_Tendrillar_Expired",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_Mount",
+"model_player": "models/items/keeper_of_the_light/cradle_of_lights_mount/cradle_of_lights_mount.vmdl",
+"name": "Tendrillar Expired",
+"prefab": "wearable",
+"static_attributes": {
+"cannot craft": {
+"attribute_class": "cannot_craft",
+"value": "1"
+},
+"cannot delete": {
+"attribute_class": "cannot_delete",
+"value": "1"
+},
+"cannot trade": {
+"attribute_class": "cannot_trade",
+"value": "1"
+},
+"giftable": {
+"attribute_class": "giftable",
+"value": "0"
+},
+"not marketable": {
+"attribute_class": "not marketable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+}
+},
+"Tinek the Unmastered Expired": {
+"creation_date": "2013-04-30",
+"image_inventory": "econ/items/keeper_of_the_light/horse_foretold/horse_foretold",
+"item_description": "#DOTA_Item_Desc_Tinek_the_Unmastered",
+"item_name": "#DOTA_Item_Tinek_the_Unmastered_Expired",
+"item_rarity": "uncommon",
+"item_type_name": "#DOTA_WearableType_Horse",
+"model_player": "models/items/keeper_of_the_light/horse_foretold/horse_foretold.vmdl",
+"name": "Tinek the Unmastered Expired",
+"prefab": "wearable",
+"price_info": {
+"bucket": "Normal",
+"category_tags": "Equipment",
+"class": "NoPrice",
+"date": "1/13/2014",
+"price": "0"
+},
+"static_attributes": {
+"cannot craft": {
+"attribute_class": "cannot_craft",
+"value": "1"
+},
+"cannot delete": {
+"attribute_class": "cannot_delete",
+"value": "1"
+},
+"cannot trade": {
+"attribute_class": "cannot_trade",
+"value": "1"
+},
+"giftable": {
+"attribute_class": "giftable",
+"value": "0"
+},
+"not marketable": {
+"attribute_class": "not marketable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+}
+},
+"Tools of the Rowdy Firebrand": {
+"creation_date": "2015-07-31",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/batrider/pernicious_firebrand_belt/pernicious_firebrand_belt",
+"item_description": "#DOTA_Item_Desc_Tools_of_the_Rowdy_Firebrand",
+"item_name": "#DOTA_Item_Tools_of_the_Rowdy_Firebrand",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_Tools",
+"model_player": "models/items/batrider/pernicious_firebrand_belt/pernicious_firebrand_belt.vmdl",
+"name": "Tools of the Rowdy Firebrand",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_batrider": "1"
+}
+},
+"Top Hat of the Occultist's Pursuit": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/sniper/witch_hunter_set_head/witch_hunter_set_head",
+"item_description": "#DOTA_Item_Desc_Top_Hat_of_the_Occultists_Pursuit",
+"item_name": "#DOTA_Item_Top_Hat_of_the_Occultists_Pursuit",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/sniper/witch_hunter_set_head/witch_hunter_set_head.vmdl",
+"name": "Top Hat of the Occultist's Pursuit",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_sniper": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/sniper/sniper_witch_hunter/sniper_witch_hunter_head_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+}
+},
+"V": {},
+"W": {
+"Wings of the Fireflight Scion": {
+"creation_date": "2017-01-05",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/lina/reborn_phoenixlina_neck/reborn_phoenixlina_neck",
+"item_description": "#DOTA_Item_Desc_Wings_of_the_Fireflight_Scion",
+"item_name": "#DOTA_Item_Wings_of_the_Fireflight_Scion",
+"item_rarity": "mythical",
+"item_slot": "neck",
+"item_type_name": "#DOTA_WearableType_neck",
+"model_player": "models/items/lina/reborn_phoenixlina_neck/reborn_phoenixlina_neck.vmdl",
+"name": "Wings of the Fireflight Scion",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_lina": "1"
+}
+},
+"Wraps of the Stormcharge Dragoon": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/disruptor/guardian_of_the_living_monolith_arms/guardian_of_the_living_monolith_arms",
+"item_description": "#DOTA_Item_Desc_Wraps_of_the_Stormcharge_Dragoon",
+"item_name": "#DOTA_Item_Wraps_of_the_Stormcharge_Dragoon",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/disruptor/guardian_of_the_living_monolith_arms/guardian_of_the_living_monolith_arms.vmdl",
+"name": "Wraps of the Stormcharge Dragoon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_disruptor": "1"
+}
+}
+},
+"Y": {}
+}
