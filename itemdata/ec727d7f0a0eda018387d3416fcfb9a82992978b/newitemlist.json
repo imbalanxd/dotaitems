@@ -1,0 +1,938 @@
+{
+"A": {
+"Abdomen of the Loomkeeper": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/weaver/the_dusk_crawler_misc/the_dusk_crawler_misc",
+"item_name": "#DOTA_Item_Abdomen_of_the_Loomkeeper",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_misc",
+"model_player": "models/items/weaver/the_dusk_crawler_misc/the_dusk_crawler_misc.vmdl",
+"name": "Abdomen of the Loomkeeper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_weaver": "1"
+}
+},
+"Antennae of the Loomkeeper": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/weaver/the_dusk_crawler_head/the_dusk_crawler_head",
+"item_name": "#DOTA_Item_Antennae_of_the_Loomkeeper",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/weaver/the_dusk_crawler_head/the_dusk_crawler_head.vmdl",
+"name": "Antennae of the Loomkeeper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_weaver": "1"
+}
+},
+"Armor of the Outland Ravager": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/dragon_knight/aurora_warrior_set_shoulder/aurora_warrior_set_shoulder",
+"item_name": "#DOTA_Item_Armor_of_the_Outland_Ravager",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/dragon_knight/aurora_warrior_set_shoulder/aurora_warrior_set_shoulder.vmdl",
+"name": "Armor of the Outland Ravager",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dragon_knight": "1"
+}
+},
+"Armor of the Progenitor's Gaze": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/chen/chen_eye_of_power_shoulder/chen_eye_of_power_shoulder",
+"item_name": "#DOTA_Item_Armor_of_the_Progenitors_Gaze",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/chen/chen_eye_of_power_shoulder/chen_eye_of_power_shoulder.vmdl",
+"name": "Armor of the Progenitor's Gaze",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_chen": "1"
+}
+}
+},
+"B": {
+"Belt of the Overseer": {
+"creation_date": "2016-04-25",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/razor/maze_watcher_belt/maze_watcher_belt",
+"item_name": "#DOTA_Item_Belt_of_the_Overseer",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/razor/maze_watcher_belt/maze_watcher_belt.vmdl",
+"name": "Belt of the Overseer",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_razor": "1"
+}
+},
+"Blade of the Partisan Guard": {
+"creation_date": "2016-09-13",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/siren/light_of_eleanor_weapon/light_of_eleanor_weapon",
+"item_name": "#DOTA_Item_Blade_of_the_Partisan_Guard",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/siren/light_of_eleanor_weapon/light_of_eleanor_weapon.vmdl",
+"name": "Blade of the Partisan Guard",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_naga_siren": "1"
+}
+},
+"Bracers of the Outland Ravager": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/dragon_knight/aurora_warrior_set_arms/aurora_warrior_set_arms",
+"item_name": "#DOTA_Item_Bracers_of_the_Outland_Ravager",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/dragon_knight/aurora_warrior_set_arms/aurora_warrior_set_arms.vmdl",
+"name": "Bracers of the Outland Ravager",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dragon_knight": "1"
+}
+},
+"Bracers of the Overseer": {
+"creation_date": "2016-04-25",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/razor/maze_watcher_arms/maze_watcher_arms",
+"item_name": "#DOTA_Item_Bracers_of_the_Overseer",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/razor/maze_watcher_arms/maze_watcher_arms.vmdl",
+"name": "Bracers of the Overseer",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_razor": "1"
+}
+},
+"Burning Shield of the Outland Ravager": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/dragon_knight/aurora_warrior_set_off_hand/aurora_warrior_set_off_hand",
+"item_name": "#DOTA_Item_Burning_Shield_of_the_Outland_Ravager",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_shield",
+"model_player": "models/items/dragon_knight/aurora_warrior_set_off_hand/aurora_warrior_set_off_hand.vmdl",
+"name": "Burning Shield of the Outland Ravager",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dragon_knight": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/dragon_knight/dk_aurora_warrior/dk_aurora_warrior_shield_ambient.vpcf",
+"type": "particle_create"
+}
+}
+}
+},
+"C": {
+"Cape of the Itinerant Scholar": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/rubick/mushis_wayfaring_scholar_back/mushis_wayfaring_scholar_back",
+"item_name": "#DOTA_Item_Cape_of_the_Itinerant_Scholar",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/rubick/mushis_wayfaring_scholar_back/mushis_wayfaring_scholar_back.vmdl",
+"name": "Cape of the Itinerant Scholar",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_rubick": "1"
+}
+},
+"Carapace of Kaktos": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/nerubian_assassin/burnichus_sicarius_back/burnichus_sicarius_back",
+"item_name": "#DOTA_Item_Carapace_of_Kaktos",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/nerubian_assassin/burnichus_sicarius_back/burnichus_sicarius_back.vmdl",
+"name": "Carapace of Kaktos",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+}
+},
+"Claws of Kaktos": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/nerubian_assassin/burnichus_sicarius_weapon/burnichus_sicarius_weapon",
+"item_name": "#DOTA_Item_Claws_of_Kaktos",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/nerubian_assassin/burnichus_sicarius_weapon/burnichus_sicarius_weapon.vmdl",
+"name": "Claws of Kaktos",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+}
+},
+"Claws of the Loomkeeper": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/weaver/the_dusk_crawler_arms/the_dusk_crawler_arms",
+"item_name": "#DOTA_Item_Claws_of_the_Loomkeeper",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/weaver/the_dusk_crawler_arms/the_dusk_crawler_arms.vmdl",
+"name": "Claws of the Loomkeeper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_weaver": "1"
+}
+},
+"Crown of the Progenitor's Gaze": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/chen/chen_eye_of_power_head/chen_eye_of_power_head",
+"item_name": "#DOTA_Item_Crown_of_the_Progenitors_Gaze",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/chen/chen_eye_of_power_head/chen_eye_of_power_head.vmdl",
+"name": "Crown of the Progenitor's Gaze",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_chen": "1"
+}
+},
+"Cuirass of the Overseer": {
+"creation_date": "2016-04-25",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/razor/maze_watcher_armor/maze_watcher_armor",
+"item_name": "#DOTA_Item_Cuirass_of_the_Overseer",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/razor/maze_watcher_armor/maze_watcher_armor.vmdl",
+"name": "Cuirass of the Overseer",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_razor": "1"
+}
+}
+},
+"D": {
+"Desert Gale Mount": {
+"creation_date": "2017-02-27",
+"image_inventory": "econ/items/chen/desert_gale_mount/desert_gale_mount",
+"item_name": "#DOTA_Item_Desert_Gale_Mount",
+"item_rarity": "uncommon",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_Armor",
+"model_player": "models/items/chen/desert_gale_mount/desert_gale_mount.vmdl",
+"name": "Desert Gale Mount",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_chen": "1"
+},
+"visuals": {
+"skip_model_combine": "0"
+}
+},
+"Dragon of the Outland Ravager": {
+"creation_date": "2017-02-21",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/dragon_knight/aurora_warrior_set_dragon_style2_aurora_warrior_set/aurora_warrior_set_dragon_style2_aurora_warrior_set",
+"item_name": "#DOTA_Item_Dragon_of_the_Outland_Ravager",
+"item_rarity": "mythical",
+"item_slot": "shapeshift",
+"item_type_name": "#DOTA_WearableType_Elder_Form_Dragon",
+"name": "Dragon of the Outland Ravager",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dragon_knight": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "models/heroes/dragon_knight/dragon_knight_dragon.vmdl",
+"modifier": "models/items/dragon_knight/aurora_warrior_set_dragon_style2_aurora_warrior_set/aurora_warrior_set_dragon_style2_aurora_warrior_set.vmdl",
+"type": "hero_model_change"
+}
+}
+},
+"Drape of the Progenitor's Gaze": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/chen/chen_eye_of_power_misc/chen_eye_of_power_misc",
+"item_name": "#DOTA_Item_Drape_of_the_Progenitors_Gaze",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_misc",
+"model_player": "models/items/chen/chen_eye_of_power_misc/chen_eye_of_power_misc.vmdl",
+"name": "Drape of the Progenitor's Gaze",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_chen": "1"
+}
+},
+"Dress of the Partisan Guard": {
+"creation_date": "2016-04-28",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/siren/light_of_eleanor_armor/light_of_eleanor_armor",
+"item_name": "#DOTA_Item_Dress_of_the_Partisan_Guard",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/siren/light_of_eleanor_armor/light_of_eleanor_armor.vmdl",
+"name": "Dress of the Partisan Guard",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_naga_siren": "1"
+}
+}
+},
+"E": {
+"Expired Buttercup": {
+"image_inventory": "econ/items/chen/buttercup",
+"item_description": "#DOTA_Item_Desc_Buttercup",
+"item_name": "#DOTA_Item_Expired_Buttercup",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_Noble_Beast",
+"model_player": "models/items/chen/buttercup.vmdl",
+"name": "Expired Buttercup",
+"prefab": "wearable"
+},
+"Expired Buttercup's Barding": {
+"image_inventory": "econ/items/chen/buttercup_armor",
+"item_description": "#DOTA_Item_Desc_Buttercups_Barding",
+"item_name": "#DOTA_Item_Expired_Buttercups_Barding",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_Barding",
+"model_player": "models/items/chen/buttercup_armor.vmdl",
+"name": "Expired Buttercup's Barding",
+"prefab": "wearable"
+},
+"Expired Desert Gale Armor": {
+"creation_date": "2014-01-21",
+"image_inventory": "econ/items/chen/desert_gale_armor/desert_gale_armor",
+"item_name": "#DOTA_Item_Expired_Desert_Gale_Armor",
+"item_rarity": "uncommon",
+"item_type_name": "#DOTA_WearableType_Armor",
+"model_player": "models/items/chen/desert_gale_armor/desert_gale_armor.vmdl",
+"name": "Expired Desert Gale Armor",
+"prefab": "wearable",
+"price_info": {
+"bucket": "Normal",
+"category_tags": "Equipment",
+"class": "NoPrice",
+"date": "1/24/2014",
+"price": "0"
+}
+},
+"Expired Locuthi Barding of the Penitent Nomad": {
+"image_inventory": "econ/items/chen/armor_nomad/armor_nomad",
+"item_description": "#DOTA_Item_Desc_Locuthi_Barding_of_the_Penitent_Nomad",
+"item_name": "#DOTA_Item_Expired_Locuthi_Barding_of_the_Penitent_Nomad",
+"item_rarity": "uncommon",
+"item_type_name": "#DOTA_WearableType_Barding",
+"model_player": "models/items/chen/armor_nomad/armor_nomad.vmdl",
+"name": "Expired Locuthi Barding of the Penitent Nomad",
+"prefab": "wearable",
+"price_info": {
+"bucket": "Normal",
+"category_tags": "Equipment",
+"class": "NoPrice",
+"date": "1/13/2014",
+"price": "0"
+}
+},
+"Expired Sanurok the Ever Able": {
+"creation_date": "2013-06-05",
+"image_inventory": "econ/items/chen/mount_desert/mount_desert",
+"item_description": "#DOTA_Item_Desc_Sanurok_the_Ever_Able",
+"item_name": "#DOTA_Item_Expired_Sanurok_the_Ever_Able",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_Riding_Cat",
+"model_player": "models/items/chen/mount_desert/mount_desert.vmdl",
+"name": "Expired Sanurok the Ever Able",
+"prefab": "wearable",
+"price_info": {
+"bucket": "Normal",
+"category_tags": "Equipment",
+"class": "NoPrice",
+"date": "1/13/2014",
+"price": "0"
+}
+},
+"Expired Thrice-Gemmed Barding of Sanurok": {
+"creation_date": "2013-06-05",
+"image_inventory": "econ/items/chen/armor_desert/armor_desert",
+"item_description": "#DOTA_Item_Desc_ThriceGemmed_Barding_of_Sanurok",
+"item_name": "#DOTA_Item_Expired_ThriceGemmed_Barding_of_Sanurok",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_Barding",
+"model_player": "models/items/chen/armor_desert/armor_desert.vmdl",
+"name": "Expired Thrice-Gemmed Barding of Sanurok",
+"prefab": "wearable",
+"price_info": {
+"bucket": "Normal",
+"category_tags": "Equipment",
+"class": "NoPrice",
+"date": "1/13/2014",
+"price": "0"
+}
+},
+"Expired Wings of Obelis Mount": {
+"branding": {
+"team_id": "36"
+},
+"creation_date": "2013-11-29",
+"image_inventory": "econ/items/chen/mount_navi_new/mount_navi_new",
+"item_description": "#DOTA_Item_Desc_Wings_of_Obelis_Mount",
+"item_name": "#DOTA_Item_Expired_Wings_of_Obelis_Mount",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_Mount",
+"model_player": "models/items/chen/mount_navi_new/mount_navi_new.vmdl",
+"name": "Expired Wings of Obelis Mount",
+"prefab": "wearable",
+"price_info": {
+"bucket": "Normal",
+"category_tags": "Equipment",
+"class": "NoPrice",
+"date": "1/13/2014",
+"price": "0"
+}
+},
+"Expired Wings of Obelis Mount Armor": {
+"branding": {
+"team_id": "36"
+},
+"creation_date": "2013-11-29",
+"image_inventory": "econ/items/chen/armor_navi/armor_navi",
+"item_description": "#DOTA_Item_Desc_Wings_of_Obelis_Mount_Armor",
+"item_name": "#DOTA_Item_Expired_Wings_of_Obelis_Mount_Armor",
+"item_type_name": "#DOTA_WearableType_Mount_Armor",
+"model_player": "models/items/chen/armor_navi/armor_navi.vmdl",
+"name": "Expired Wings of Obelis Mount Armor",
+"prefab": "wearable",
+"price_info": {
+"bucket": "Normal",
+"category_tags": "Equipment",
+"class": "NoPrice",
+"date": "1/13/2014",
+"price": "0"
+}
+},
+"Eye of the Progenitor's Gaze": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/chen/chen_eye_of_power_weapon/chen_eye_of_power_weapon",
+"item_name": "#DOTA_Item_Eye_of_the_Progenitors_Gaze",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/chen/chen_eye_of_power_weapon/chen_eye_of_power_weapon.vmdl",
+"name": "Eye of the Progenitor's Gaze",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_chen": "1"
+}
+}
+},
+"F": {},
+"G": {
+"Goggles of the Gunboat Hegemon": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/gyrocopter/flamed_falcon_patrol_head/flamed_falcon_patrol_head",
+"item_name": "#DOTA_Item_Goggles_of_the_Gunboat_Hegemon",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/gyrocopter/flamed_falcon_patrol_head/flamed_falcon_patrol_head.vmdl",
+"name": "Goggles of the Gunboat Hegemon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_gyrocopter": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+}
+},
+"H": {
+"Hat of the Itinerant Scholar": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/rubick/mushis_wayfaring_scholar_head/mushis_wayfaring_scholar_head",
+"item_name": "#DOTA_Item_Hat_of_the_Itinerant_Scholar",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/rubick/mushis_wayfaring_scholar_head/mushis_wayfaring_scholar_head.vmdl",
+"name": "Hat of the Itinerant Scholar",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_rubick": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "ALL",
+"modifier": "scholar",
+"style": "0",
+"type": "activity"
+}
+}
+},
+"Helm of the Outland Ravager": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/dragon_knight/aurora_warrior_set_head/aurora_warrior_set_head",
+"item_name": "#DOTA_Item_Helm_of_the_Outland_Ravager",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/dragon_knight/aurora_warrior_set_head/aurora_warrior_set_head.vmdl",
+"name": "Helm of the Outland Ravager",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dragon_knight": "1"
+}
+},
+"Helm of the Overseer": {
+"creation_date": "2016-04-25",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/razor/maze_watcher_head/maze_watcher_head",
+"item_name": "#DOTA_Item_Helm_of_the_Overseer",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/razor/maze_watcher_head/maze_watcher_head.vmdl",
+"name": "Helm of the Overseer",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_razor": "1"
+}
+},
+"Hull of the Gunboat Hegemon": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/gyrocopter/flamed_falcon_patrol_back/flamed_falcon_patrol_back",
+"item_name": "#DOTA_Item_Hull_of_the_Gunboat_Hegemon",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/gyrocopter/flamed_falcon_patrol_back/flamed_falcon_patrol_back.vmdl",
+"name": "Hull of the Gunboat Hegemon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_gyrocopter": "1"
+}
+}
+},
+"I": {},
+"J": {
+"Jaw of Kaktos": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/nerubian_assassin/burnichus_sicarius_head/burnichus_sicarius_head",
+"item_name": "#DOTA_Item_Jaw_of_Kaktos",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/nerubian_assassin/burnichus_sicarius_head/burnichus_sicarius_head.vmdl",
+"name": "Jaw of Kaktos",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+}
+},
+"Jewels of the Partisan Guard": {
+"creation_date": "2016-04-28",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/siren/light_of_eleanor_head/light_of_eleanor_head",
+"item_name": "#DOTA_Item_Jewels_of_the_Partisan_Guard",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/siren/light_of_eleanor_head/light_of_eleanor_head.vmdl",
+"name": "Jewels of the Partisan Guard",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_naga_siren": "1"
+}
+}
+},
+"K": {},
+"L": {
+"Legs of the Loomkeeper": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/weaver/the_dusk_crawler_legs/the_dusk_crawler_legs",
+"item_name": "#DOTA_Item_Legs_of_the_Loomkeeper",
+"item_rarity": "mythical",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_legs",
+"model_player": "models/items/weaver/the_dusk_crawler_legs/the_dusk_crawler_legs.vmdl",
+"name": "Legs of the Loomkeeper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_weaver": "1"
+}
+},
+"Locuthi Mount of the Penitent Nomad": {
+"creation_date": "2017-02-27",
+"image_inventory": "econ/items/chen/nomad_mount/nomad_mount",
+"item_description": "#DOTA_Item_Desc_Locuthi_Mount_of_the_Penitent_Nomad",
+"item_name": "#DOTA_Item_Locuthi_Mount_of_the_Penitent_Nomad",
+"item_rarity": "uncommon",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_Barding",
+"model_player": "models/items/chen/nomad_mount/nomad_mount.vmdl",
+"name": "Locuthi Mount of the Penitent Nomad",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_chen": "1"
+},
+"visuals": {
+"skip_model_combine": "0"
+}
+},
+"Longbow of the Roving Pathfinder": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/windrunner/the_swift_pathfinder_swift_pathfinders_bow/the_swift_pathfinder_swift_pathfinders_bow",
+"item_name": "#DOTA_Item_Longbow_of_the_Roving_Pathfinder",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/windrunner/the_swift_pathfinder_swift_pathfinders_bow/the_swift_pathfinder_swift_pathfinders_bow.vmdl",
+"name": "Longbow of the Roving Pathfinder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_windrunner": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_windrunner/windrunner_bowstring.vpcf",
+"type": "particle_create"
+}
+}
+}
+},
+"M": {
+"Mantle of the Outland Ravager": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/dragon_knight/aurora_warrior_set_back/aurora_warrior_set_back",
+"item_name": "#DOTA_Item_Mantle_of_the_Outland_Ravager",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/dragon_knight/aurora_warrior_set_back/aurora_warrior_set_back.vmdl",
+"name": "Mantle of the Outland Ravager",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dragon_knight": "1"
+}
+},
+"Mantle of the Roving Pathfinder": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/windrunner/the_swift_pathfinder_swift_pathfinders_coat/the_swift_pathfinder_swift_pathfinders_coat",
+"item_name": "#DOTA_Item_Mantle_of_the_Roving_Pathfinder",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/windrunner/the_swift_pathfinder_swift_pathfinders_coat/the_swift_pathfinder_swift_pathfinders_coat.vmdl",
+"name": "Mantle of the Roving Pathfinder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_windrunner": "1"
+}
+},
+"Missile of the Gunboat Hegemon": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/gyrocopter/flamed_falcon_patrol_off_hand/flamed_falcon_patrol_off_hand",
+"item_name": "#DOTA_Item_Missile_of_the_Gunboat_Hegemon",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/gyrocopter/flamed_falcon_patrol_off_hand/flamed_falcon_patrol_off_hand.vmdl",
+"name": "Missile of the Gunboat Hegemon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_gyrocopter": "1"
+}
+}
+},
+"N": {},
+"O": {
+"Off-Hand Blade of the Partisan Guard": {
+"creation_date": "2016-04-28",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/siren/light_of_eleanor_off_hand/light_of_eleanor_off_hand",
+"item_name": "#DOTA_Item_OffHand_Blade_of_the_Partisan_Guard",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/siren/light_of_eleanor_off_hand/light_of_eleanor_off_hand.vmdl",
+"name": "Off-Hand Blade of the Partisan Guard",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_naga_siren": "1"
+}
+}
+},
+"P": {
+"Pilgrim": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/chen/chen_eye_of_power_mount/chen_eye_of_power_mount",
+"item_name": "#DOTA_Item_Pilgrim",
+"item_rarity": "mythical",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_mount",
+"model_player": "models/items/chen/chen_eye_of_power_mount/chen_eye_of_power_mount.vmdl",
+"name": "Pilgrim",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_chen": "1"
+}
+},
+"Propeller of the Gunboat Hegemon": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/gyrocopter/flamed_falcon_patrol_misc/flamed_falcon_patrol_misc",
+"item_name": "#DOTA_Item_Propeller_of_the_Gunboat_Hegemon",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_misc",
+"model_player": "models/items/gyrocopter/flamed_falcon_patrol_misc/flamed_falcon_patrol_misc.vmdl",
+"name": "Propeller of the Gunboat Hegemon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_gyrocopter": "1"
+}
+}
+},
+"Q": {
+"Quiver of the Roving Pathfinder": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/windrunner/the_swift_pathfinder_swift_pathfinders_quiver/the_swift_pathfinder_swift_pathfinders_quiver",
+"item_name": "#DOTA_Item_Quiver_of_the_Roving_Pathfinder",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/windrunner/the_swift_pathfinder_swift_pathfinders_quiver/the_swift_pathfinder_swift_pathfinders_quiver.vmdl",
+"name": "Quiver of the Roving Pathfinder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_windrunner": "1"
+}
+}
+},
+"R": {},
+"S": {
+"Scarf of the Roving Pathfinder": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/windrunner/the_swift_pathfinder_swift_pathfinders_cape/the_swift_pathfinder_swift_pathfinders_cape",
+"item_name": "#DOTA_Item_Scarf_of_the_Roving_Pathfinder",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/windrunner/the_swift_pathfinder_swift_pathfinders_cape/the_swift_pathfinder_swift_pathfinders_cape.vmdl",
+"name": "Scarf of the Roving Pathfinder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_windrunner": "1"
+}
+},
+"Shell of Kaktos": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/nerubian_assassin/burnichus_sicarius_misc/burnichus_sicarius_misc",
+"item_name": "#DOTA_Item_Shell_of_Kaktos",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_misc",
+"model_player": "models/items/nerubian_assassin/burnichus_sicarius_misc/burnichus_sicarius_misc.vmdl",
+"name": "Shell of Kaktos",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+}
+},
+"Sleeves of the Progenitor's Gaze": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/chen/chen_eye_of_power_arms/chen_eye_of_power_arms",
+"item_name": "#DOTA_Item_Sleeves_of_the_Progenitors_Gaze",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/chen/chen_eye_of_power_arms/chen_eye_of_power_arms.vmdl",
+"name": "Sleeves of the Progenitor's Gaze",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_chen": "1"
+}
+},
+"Staff of the Itinerant Scholar": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/rubick/mushis_wayfaring_scholar_weapon/mushis_wayfaring_scholar_weapon",
+"item_name": "#DOTA_Item_Staff_of_the_Itinerant_Scholar",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/rubick/mushis_wayfaring_scholar_weapon/mushis_wayfaring_scholar_weapon.vmdl",
+"name": "Staff of the Itinerant Scholar",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_rubick": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/rubick/rubick_wayfaring/rubick_wayfaring_staff_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Sword of the Outland Ravager": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/dragon_knight/aurora_warrior_set_weapon/aurora_warrior_set_weapon",
+"item_name": "#DOTA_Item_Sword_of_the_Outland_Ravager",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/dragon_knight/aurora_warrior_set_weapon/aurora_warrior_set_weapon.vmdl",
+"name": "Sword of the Outland Ravager",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_dragon_knight": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/dragon_knight/dk_aurora_warrior/dk_aurora_warrior_weapon_ambient.vpcf",
+"type": "particle_create"
+}
+}
+}
+},
+"T": {
+"Tail of the Partisan Guard": {
+"creation_date": "2016-04-28",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/siren/light_of_eleanor_legs/light_of_eleanor_legs",
+"item_name": "#DOTA_Item_Tail_of_the_Partisan_Guard",
+"item_rarity": "mythical",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_tail",
+"model_player": "models/items/siren/light_of_eleanor_legs/light_of_eleanor_legs.vmdl",
+"name": "Tail of the Partisan Guard",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_naga_siren": "1"
+}
+},
+"Thorax of the Loomkeeper": {
+"creation_date": "2017-01-12",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/weaver/the_dusk_crawler_back/the_dusk_crawler_back",
+"item_name": "#DOTA_Item_Thorax_of_the_Loomkeeper",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/weaver/the_dusk_crawler_back/the_dusk_crawler_back.vmdl",
+"name": "Thorax of the Loomkeeper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_weaver": "1"
+}
+},
+"Tome of the Itinerant Scholar": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/rubick/mushis_wayfaring_scholar_shoulder/mushis_wayfaring_scholar_shoulder",
+"item_name": "#DOTA_Item_Tome_of_the_Itinerant_Scholar",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/rubick/mushis_wayfaring_scholar_shoulder/mushis_wayfaring_scholar_shoulder.vmdl",
+"name": "Tome of the Itinerant Scholar",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_rubick": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/rubick/rubick_wayfaring/rubick_wayfaring_back_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Tricorn of the Roving Pathfinder": {
+"creation_date": "2016-09-14",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/windrunner/the_swift_pathfinder_swift_pathfinders_hat_v2/the_swift_pathfinder_swift_pathfinders_hat_v2",
+"item_name": "#DOTA_Item_Tricorn_of_the_Roving_Pathfinder",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/windrunner/the_swift_pathfinder_swift_pathfinders_hat_v2/the_swift_pathfinder_swift_pathfinders_hat_v2.vmdl",
+"name": "Tricorn of the Roving Pathfinder",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_windrunner": "1"
+}
+}
+},
+"V": {},
+"W": {
+"Whip of the Overseer": {
+"creation_date": "2016-04-25",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/razor/maze_watcher_weapon/maze_watcher_weapon",
+"item_name": "#DOTA_Item_Whip_of_the_Overseer",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/razor/maze_watcher_weapon/maze_watcher_weapon.vmdl",
+"name": "Whip of the Overseer",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_razor": "1"
+}
+},
+"Wings of the Gunboat Hegemon": {
+"creation_date": "2017-02-02",
+"event_id": "EVENT_ID_WINTER_MAJOR_2017",
+"image_inventory": "econ/items/gyrocopter/flamed_falcon_patrol_weapon/flamed_falcon_patrol_weapon",
+"item_name": "#DOTA_Item_Wings_of_the_Gunboat_Hegemon",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/gyrocopter/flamed_falcon_patrol_weapon/flamed_falcon_patrol_weapon.vmdl",
+"name": "Wings of the Gunboat Hegemon",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_gyrocopter": "1"
+}
+}
+},
+"Y": {}
+}

@@ -1,0 +1,55 @@
+{
+"A": {},
+"B": {
+"Bladeform Legacy": {
+"creation_date": "2017-01-29",
+"forced_item_quality": "unique",
+"image_inventory": "econ/items/juggernaut/arcana/juggernaut_arcana_mask",
+"item_description": "#DOTA_Item_Desc_Bladeform_Legacy",
+"item_name": "#DOTA_Item_Bladeform_Legacy",
+"item_rarity": "arcana",
+"item_slot": "head",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/juggernaut/arcana/juggernaut_arcana_mask.vmdl",
+"name": "Bladeform Legacy",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_juggernaut": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/juggernaut/arcana/juggernaut_arcana_mask"
+}
+},
+"asset_modifier": {
+"asset": "models/heroes/pedestal/effigy_pedestal_juggernaut_arcana.vmdl",
+"style": "0",
+"type": "portrait_background_model"
+},
+"skip_model_combine": "1"
+}
+}
+},
+"C": {},
+"D": {},
+"E": {},
+"F": {},
+"G": {},
+"H": {},
+"I": {},
+"J": {},
+"K": {},
+"L": {},
+"M": {},
+"N": {},
+"O": {},
+"P": {},
+"Q": {},
+"R": {},
+"S": {},
+"T": {},
+"V": {},
+"W": {},
+"Y": {}
+}

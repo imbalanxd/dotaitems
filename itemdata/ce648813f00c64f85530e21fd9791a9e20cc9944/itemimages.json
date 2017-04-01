@@ -1,0 +1,150 @@
+{
+"armor_of_the_wrought_legion_armor": {
+"large": "icons/econ/items/axe/armor_of_the_wrought_legion_armor/armor_of_the_wrought_legion_armor_large.1b7aef3621a23d3e55b6408cbe06f6f538dfbfaa.png",
+"normal": "icons/econ/items/axe/armor_of_the_wrought_legion_armor/armor_of_the_wrought_legion_armor.2994f33421a14202d04ef844aaf846736bcc0de8.png"
+},
+"armor_of_the_wrought_legion_belt": {
+"large": "icons/econ/items/axe/armor_of_the_wrought_legion_belt/armor_of_the_wrought_legion_belt_large.979cf370fd9bfd41e8344dfce3de752c02312cf6.png",
+"normal": "icons/econ/items/axe/armor_of_the_wrought_legion_belt/armor_of_the_wrought_legion_belt.e300976ea7b2df08a4c2534533e3c01a6f5c8489.png"
+},
+"armor_of_the_wrought_legion_head": {
+"large": "icons/econ/items/axe/armor_of_the_wrought_legion_head/armor_of_the_wrought_legion_head_large.c84122e6f9dde5e2995efd5446e9117c736af3a2.png",
+"normal": "icons/econ/items/axe/armor_of_the_wrought_legion_head/armor_of_the_wrought_legion_head.df4433ef6757f3bd4d9c72e9cf0501ff96060695.png"
+},
+"armor_of_the_wrought_legion_misc": {
+"large": "icons/econ/items/axe/armor_of_the_wrought_legion_misc/armor_of_the_wrought_legion_misc_large.a566b268bae0636ad2d6142fa3771f689612d972.png",
+"normal": "icons/econ/items/axe/armor_of_the_wrought_legion_misc/armor_of_the_wrought_legion_misc.25bf330dc65750af89ac0b6bb13cfd3f388c1f2b.png"
+},
+"armor_of_the_wrought_legion_weapon": {
+"large": "icons/econ/items/axe/armor_of_the_wrought_legion_weapon/armor_of_the_wrought_legion_weapon_large.79c9b4e1c27721ef8583f08ab76ddc8814843fa2.png",
+"normal": "icons/econ/items/axe/armor_of_the_wrought_legion_weapon/armor_of_the_wrought_legion_weapon.c128ff76b7b76ffc733c804185a38a8f5d0ed6b7.png"
+},
+"teller_of_the_auspice_ability_npc_dota_witch_doctor_death_ward": {
+"large": "icons/econ/items/witchdoctor/wd_ward/teller_of_the_auspice_ability/teller_of_the_auspice_ability_npc_dota_witch_doctor_death_ward_large.09361cfdc0c13f0fd1c3cffa5f53dcb1d0682806.png",
+"normal": "icons/econ/items/witchdoctor/wd_ward/teller_of_the_auspice_ability/teller_of_the_auspice_ability_npc_dota_witch_doctor_death_ward.6583f563dd1f39578bae62444af90b88fd63a1c0.png"
+},
+"teller_of_the_auspice_back": {
+"large": "icons/econ/items/witchdoctor/teller_of_the_auspice_back/teller_of_the_auspice_back_large.ff75fe6b78ab8eb8a1e69351c5ea5564f9f45a87.png",
+"normal": "icons/econ/items/witchdoctor/teller_of_the_auspice_back/teller_of_the_auspice_back.7142ce2621015cf1ec7f8ec51f235902f9d30154.png"
+},
+"teller_of_the_auspice_belt": {
+"large": "icons/econ/items/witchdoctor/teller_of_the_auspice_belt/teller_of_the_auspice_belt_large.f261623454768a1aa5748cbfbdb2c4b9e2cf6368.png",
+"normal": "icons/econ/items/witchdoctor/teller_of_the_auspice_belt/teller_of_the_auspice_belt.cace0aadb1493a3095944943d57339d7d39a0f95.png"
+},
+"teller_of_the_auspice_head": {
+"large": "icons/econ/items/witchdoctor/teller_of_the_auspice_head/teller_of_the_auspice_head_large.c8b02551515061e8e51dd7c027950001e43f1cab.png",
+"normal": "icons/econ/items/witchdoctor/teller_of_the_auspice_head/teller_of_the_auspice_head.a4a870ff4850dadc593217b18d37b5cb5c2d3e01.png"
+},
+"teller_of_the_auspice_shoulder": {
+"large": "icons/econ/items/witchdoctor/teller_of_the_auspice_shoulder/teller_of_the_auspice_shoulder_large.d551cb8aba72f5402b37fd8583a23de98e71f9b2.png",
+"normal": "icons/econ/items/witchdoctor/teller_of_the_auspice_shoulder/teller_of_the_auspice_shoulder.b20c4e4920c29e19fd83fcd450769bb242f9302a.png"
+},
+"teller_of_the_auspice_weapon": {
+"large": "icons/econ/items/witchdoctor/teller_of_the_auspice_weapon/teller_of_the_auspice_weapon_large.7369aa6cafbda6ecc7fb976e778a890e850ae520.png",
+"normal": "icons/econ/items/witchdoctor/teller_of_the_auspice_weapon/teller_of_the_auspice_weapon.6b6ba3f4b42e2841cc5237ac6a71b203451e2455.png"
+},
+"the_armors_of_zhuzhou_arms": {
+"large": "icons/econ/items/legion_commander/the_armors_of_zhuzhou_arms/the_armors_of_zhuzhou_arms_large.b24c54438e79621af26be52ae335e34ca82e77dc.png",
+"normal": "icons/econ/items/legion_commander/the_armors_of_zhuzhou_arms/the_armors_of_zhuzhou_arms.2eda87c0e2aef4db98ef5b30e1bbc1debe4a156a.png"
+},
+"the_armors_of_zhuzhou_back": {
+"large": "icons/econ/items/legion_commander/the_armors_of_zhuzhou_back/the_armors_of_zhuzhou_back_large.8832d6bb9a419b3cba033d34d3879c43d78f4eef.png",
+"normal": "icons/econ/items/legion_commander/the_armors_of_zhuzhou_back/the_armors_of_zhuzhou_back.e648873f4d74653012329b2c3eba1ec8f4e25cc6.png"
+},
+"the_armors_of_zhuzhou_head": {
+"large": "icons/econ/items/legion_commander/the_armors_of_zhuzhou_head/the_armors_of_zhuzhou_head_large.0751e9bdc0cc9271757b250b933aee49a4185c11.png",
+"normal": "icons/econ/items/legion_commander/the_armors_of_zhuzhou_head/the_armors_of_zhuzhou_head.9866c139d1535f5b3650d6c2da7fdae0ef522b9e.png"
+},
+"the_armors_of_zhuzhou_shoulder": {
+"large": "icons/econ/items/legion_commander/the_armors_of_zhuzhou_shoulder/the_armors_of_zhuzhou_shoulder_large.c603742519ee899143b3beb269af59ad66e739a8.png",
+"normal": "icons/econ/items/legion_commander/the_armors_of_zhuzhou_shoulder/the_armors_of_zhuzhou_shoulder.3e9ddb42c2af8465e5c92d811fd12e604711641c.png"
+},
+"the_armors_of_zhuzhou_weapon": {
+"large": "icons/econ/items/legion_commander/the_armors_of_zhuzhou_weapon/the_armors_of_zhuzhou_weapon_large.3f34f9f27b047c59e141cb1cf4cc835fffab6979.png",
+"normal": "icons/econ/items/legion_commander/the_armors_of_zhuzhou_weapon/the_armors_of_zhuzhou_weapon.4aa491de70ccc2f7c92e666386c8d8aa72b2d136.png"
+},
+"the_devarque_fugitive_arms": {
+"large": "icons/econ/items/pudge/the_devarque_fugitive_arms/the_devarque_fugitive_arms_large.11ab1723766f83a7eb50f2c5caba6efcc85c2980.png",
+"normal": "icons/econ/items/pudge/the_devarque_fugitive_arms/the_devarque_fugitive_arms.234f75cf1fb28f860a0723301f4600660edd201e.png"
+},
+"the_devarque_fugitive_back": {
+"large": "icons/econ/items/pudge/the_devarque_fugitive_back/the_devarque_fugitive_back_large.2c5a035e223d611555dfcc762ea6e9dd1c9a3633.png",
+"normal": "icons/econ/items/pudge/the_devarque_fugitive_back/the_devarque_fugitive_back.b5bd0e6632596f2ef0353b0525d86f3747fbc324.png"
+},
+"the_devarque_fugitive_belt": {
+"large": "icons/econ/items/pudge/the_devarque_fugitive_belt/the_devarque_fugitive_belt_large.d867d35f52f30d52fb93d04f5ed3cc15d4be2527.png",
+"normal": "icons/econ/items/pudge/the_devarque_fugitive_belt/the_devarque_fugitive_belt.9f3443c1ba285e787ff30db0ded35186c00904e7.png"
+},
+"the_devarque_fugitive_head": {
+"large": "icons/econ/items/pudge/the_devarque_fugitive_head/the_devarque_fugitive_head_large.2944a5f4ac3ac8268c0e38ca3b0004f52716511e.png",
+"normal": "icons/econ/items/pudge/the_devarque_fugitive_head/the_devarque_fugitive_head.48c2c5aec655427e36633b62e14010ec4df843a5.png"
+},
+"the_devarque_fugitive_off_hand": {
+"large": "icons/econ/items/pudge/the_devarque_fugitive_off_hand/the_devarque_fugitive_off_hand_large.f80d9d2b9ab3b930bbdc3865dca1869db628f301.png",
+"normal": "icons/econ/items/pudge/the_devarque_fugitive_off_hand/the_devarque_fugitive_off_hand.4063c0a9e13122a61f99bab55fce681b79d51af5.png"
+},
+"the_devarque_fugitive_shoulder": {
+"large": "icons/econ/items/pudge/the_devarque_fugitive_shoulder/the_devarque_fugitive_shoulder_large.4e971f2eab9af645aa9d9d9c4e8ebdb2b7550802.png",
+"normal": "icons/econ/items/pudge/the_devarque_fugitive_shoulder/the_devarque_fugitive_shoulder.626a5d4598846936c6c6344aa9bab6c673ef9436.png"
+},
+"the_devarque_fugitive_weapon": {
+"large": "icons/econ/items/pudge/the_devarque_fugitive_weapon/the_devarque_fugitive_weapon_large.a9615dbe6e0336923ec18639b6c93455dec060f0.png",
+"normal": "icons/econ/items/pudge/the_devarque_fugitive_weapon/the_devarque_fugitive_weapon.64700679f9eef735e7b53ace35c58c1f23eacfb5.png"
+},
+"the_dragon_ascension_belt": {
+"large": "icons/econ/items/keeper_of_the_light/the_dragon_ascension_belt/the_dragon_ascension_belt_large.7da35b03f1ead0fa91510d947c8629d9a1c3cc48.png",
+"normal": "icons/econ/items/keeper_of_the_light/the_dragon_ascension_belt/the_dragon_ascension_belt.8a4ceea7d60e24c4cb5ec7fe3fc1c58bda115007.png"
+},
+"the_dragon_ascension_head": {
+"large": "icons/econ/items/keeper_of_the_light/the_dragon_ascension_head/the_dragon_ascension_head_large.2c41fe5947c5491eecbc391f6073b03debde2fbb.png",
+"normal": "icons/econ/items/keeper_of_the_light/the_dragon_ascension_head/the_dragon_ascension_head.2b4feaae8c32910bec4f229464cc133e57915c46.png"
+},
+"the_dragon_ascension_mount": {
+"large": "icons/econ/items/keeper_of_the_light/the_dragon_ascension_mount/the_dragon_ascension_mount_large.27e6385d321d9857dc309b5654b8efeb3c3c09f5.png",
+"normal": "icons/econ/items/keeper_of_the_light/the_dragon_ascension_mount/the_dragon_ascension_mount.e4d0db8f6f11e60bcec579c625f90f3e8e9c8775.png"
+},
+"the_dragon_ascension_weapon": {
+"large": "icons/econ/items/keeper_of_the_light/the_dragon_ascension_weapon/the_dragon_ascension_weapon_large.c649a2dd090634dfb56ed46e44584d6bbba9e7ac.png",
+"normal": "icons/econ/items/keeper_of_the_light/the_dragon_ascension_weapon/the_dragon_ascension_weapon.66047786b98039c2b1cd9a77da7f6d4b927eeebe.png"
+},
+"the_jade_general_arms": {
+"large": "icons/econ/items/earth_spirit/the_jade_general_arms/the_jade_general_arms_large.84e9c7130f5b87bde771783bcef825c04c0e3624.png",
+"normal": "icons/econ/items/earth_spirit/the_jade_general_arms/the_jade_general_arms.0f502da675abc9516ac74ecbbf74285d03dc7af0.png"
+},
+"the_jade_general_belt": {
+"large": "icons/econ/items/earth_spirit/the_jade_general_belt/the_jade_general_belt_large.e7cdfdbfb3112f8b2a0347245f8d9f10c604d5a5.png",
+"normal": "icons/econ/items/earth_spirit/the_jade_general_belt/the_jade_general_belt.4aa2d468f7ae7ea4e3d91fe0d4f9e7075914a03c.png"
+},
+"the_jade_general_head": {
+"large": "icons/econ/items/earth_spirit/the_jade_general_head/the_jade_general_head_large.3bcf419c97d75baabb343c3c7f29b00bfeb49198.png",
+"normal": "icons/econ/items/earth_spirit/the_jade_general_head/the_jade_general_head.2c7eacda6e14e3299ffca70de41f99758ce05b83.png"
+},
+"the_jade_general_neck": {
+"large": "icons/econ/items/earth_spirit/the_jade_general_neck/the_jade_general_neck_large.7a78bbd86abbfe98bc94c5cf431616d2bb336f3b.png",
+"normal": "icons/econ/items/earth_spirit/the_jade_general_neck/the_jade_general_neck.c0494205882009e9ba750b30280ab7b1c307c125.png"
+},
+"the_jade_general_weapon": {
+"large": "icons/econ/items/earth_spirit/the_jade_general_weapon/the_jade_general_weapon_large.8a7ecc3bb2a36507691b0eba50f3daa69e8968c3.png",
+"normal": "icons/econ/items/earth_spirit/the_jade_general_weapon/the_jade_general_weapon.f8f8a58c7799041b541b1a851aa95720e6b193da.png"
+},
+"treasures_of_the_east_arms": {
+"large": "icons/econ/items/brewmaster/treasures_of_the_east_arms/treasures_of_the_east_arms_large.dcdce6efae5624f1693de7b84fe709aa075062c6.png",
+"normal": "icons/econ/items/brewmaster/treasures_of_the_east_arms/treasures_of_the_east_arms.8b444b614bcd1ef3f213e08310662de70f0dc45d.png"
+},
+"treasures_of_the_east_back": {
+"large": "icons/econ/items/brewmaster/treasures_of_the_east_back/treasures_of_the_east_back_large.40d4f37c75a493edc4f99ee2726ee3f086339e1e.png",
+"normal": "icons/econ/items/brewmaster/treasures_of_the_east_back/treasures_of_the_east_back.7d8ebd0cb1a980f96cc5c479ccbbc91f51c0d0f3.png"
+},
+"treasures_of_the_east_off_hand": {
+"large": "icons/econ/items/brewmaster/treasures_of_the_east_off_hand/treasures_of_the_east_off_hand_large.0ecda02d2b76d0356f8331e215f66045b96df3d7.png",
+"normal": "icons/econ/items/brewmaster/treasures_of_the_east_off_hand/treasures_of_the_east_off_hand.0c6e1b049261a6959771af09c9990df0bf0f4d44.png"
+},
+"treasures_of_the_east_shoulder": {
+"large": "icons/econ/items/brewmaster/treasures_of_the_east_shoulder/treasures_of_the_east_shoulder_large.17be2271cde39c8f2de59fa67d5b659241735ad6.png",
+"normal": "icons/econ/items/brewmaster/treasures_of_the_east_shoulder/treasures_of_the_east_shoulder.bb4096a3b913e0192c2ea1d144c56927adbd2291.png"
+},
+"treasures_of_the_east_weapon": {
+"large": "icons/econ/items/brewmaster/treasures_of_the_east_weapon/treasures_of_the_east_weapon_large.306c1d964d5b175c6a519109b157aa492b0af34c.png",
+"normal": "icons/econ/items/brewmaster/treasures_of_the_east_weapon/treasures_of_the_east_weapon.344b9ef3977db93126023b501819af1279d3ce1d.png"
+}
+}

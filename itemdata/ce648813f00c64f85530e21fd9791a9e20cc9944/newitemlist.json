@@ -1,0 +1,559 @@
+{
+"A": {
+"Armor of Zhuzhou": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/legion_commander/the_armors_of_zhuzhou_shoulder/the_armors_of_zhuzhou_shoulder",
+"item_name": "#DOTA_Item_Armor_of_Zhuzhou",
+"item_rarity": "rare",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/legion_commander/the_armors_of_zhuzhou_shoulder/the_armors_of_zhuzhou_shoulder.vmdl",
+"name": "Armor of Zhuzhou",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_legion_commander": "1"
+}
+},
+"Armor of the Jade General": {
+"creation_date": "2017-01-05",
+"image_inventory": "econ/items/earth_spirit/the_jade_general_neck/the_jade_general_neck",
+"item_name": "#DOTA_Item_Armor_of_the_Jade_General",
+"item_rarity": "rare",
+"item_slot": "neck",
+"item_type_name": "#DOTA_WearableType_neck",
+"model_player": "models/items/earth_spirit/the_jade_general_neck/the_jade_general_neck.vmdl",
+"name": "Armor of the Jade General",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_earth_spirit": "1"
+}
+},
+"Arms of the Ghastly Gourmand": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/pudge/the_devarque_fugitive_shoulder/the_devarque_fugitive_shoulder",
+"item_name": "#DOTA_Item_Arms_of_the_Ghastly_Gourmand",
+"item_rarity": "rare",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/pudge/the_devarque_fugitive_shoulder/the_devarque_fugitive_shoulder.vmdl",
+"name": "Arms of the Ghastly Gourmand",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Arms of the Jade General": {
+"creation_date": "2017-01-05",
+"image_inventory": "econ/items/earth_spirit/the_jade_general_arms/the_jade_general_arms",
+"item_name": "#DOTA_Item_Arms_of_the_Jade_General",
+"item_rarity": "rare",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/earth_spirit/the_jade_general_arms/the_jade_general_arms.vmdl",
+"name": "Arms of the Jade General",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_earth_spirit": "1"
+}
+},
+"Axe of the Shattered Vanguard": {
+"creation_date": "2017-01-05",
+"image_inventory": "econ/items/axe/armor_of_the_wrought_legion_weapon/armor_of_the_wrought_legion_weapon",
+"item_name": "#DOTA_Item_Axe_of_the_Shattered_Vanguard",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/axe/armor_of_the_wrought_legion_weapon/armor_of_the_wrought_legion_weapon.vmdl",
+"name": "Axe of the Shattered Vanguard",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_axe": "1"
+}
+}
+},
+"B": {
+"Basket of the Foreteller's Oath": {
+"creation_date": "2017-01-10",
+"image_inventory": "econ/items/witchdoctor/teller_of_the_auspice_back/teller_of_the_auspice_back",
+"item_name": "#DOTA_Item_Basket_of_the_Foretellers_Oath",
+"item_rarity": "rare",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/witchdoctor/teller_of_the_auspice_back/teller_of_the_auspice_back.vmdl",
+"name": "Basket of the Foreteller's Oath",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+}
+},
+"Belt of the Foreteller's Oath": {
+"creation_date": "2017-01-10",
+"image_inventory": "econ/items/witchdoctor/teller_of_the_auspice_belt/teller_of_the_auspice_belt",
+"item_name": "#DOTA_Item_Belt_of_the_Foretellers_Oath",
+"item_rarity": "rare",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/witchdoctor/teller_of_the_auspice_belt/teller_of_the_auspice_belt.vmdl",
+"name": "Belt of the Foreteller's Oath",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+}
+},
+"Belt of the Ghastly Gourmand": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/pudge/the_devarque_fugitive_belt/the_devarque_fugitive_belt",
+"item_name": "#DOTA_Item_Belt_of_the_Ghastly_Gourmand",
+"item_rarity": "rare",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/pudge/the_devarque_fugitive_belt/the_devarque_fugitive_belt.vmdl",
+"name": "Belt of the Ghastly Gourmand",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Belt of the Jade General": {
+"creation_date": "2017-01-05",
+"image_inventory": "econ/items/earth_spirit/the_jade_general_belt/the_jade_general_belt",
+"item_name": "#DOTA_Item_Belt_of_the_Jade_General",
+"item_rarity": "rare",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/earth_spirit/the_jade_general_belt/the_jade_general_belt.vmdl",
+"name": "Belt of the Jade General",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_earth_spirit": "1"
+}
+},
+"Belt of the Shattered Vanguard": {
+"creation_date": "2017-01-05",
+"image_inventory": "econ/items/axe/armor_of_the_wrought_legion_belt/armor_of_the_wrought_legion_belt",
+"item_name": "#DOTA_Item_Belt_of_the_Shattered_Vanguard",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/axe/armor_of_the_wrought_legion_belt/armor_of_the_wrought_legion_belt.vmdl",
+"name": "Belt of the Shattered Vanguard",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_axe": "1"
+}
+},
+"Belt of the Skyfire Apostate": {
+"creation_date": "2017-01-10",
+"image_inventory": "econ/items/keeper_of_the_light/the_dragon_ascension_belt/the_dragon_ascension_belt",
+"item_name": "#DOTA_Item_Belt_of_the_Skyfire_Apostate",
+"item_rarity": "rare",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/keeper_of_the_light/the_dragon_ascension_belt/the_dragon_ascension_belt.vmdl",
+"name": "Belt of the Skyfire Apostate",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+}
+},
+"Blade of Zhuzhou": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/legion_commander/the_armors_of_zhuzhou_weapon/the_armors_of_zhuzhou_weapon",
+"item_name": "#DOTA_Item_Blade_of_Zhuzhou",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/legion_commander/the_armors_of_zhuzhou_weapon/the_armors_of_zhuzhou_weapon.vmdl",
+"name": "Blade of Zhuzhou",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_legion_commander": "1"
+}
+},
+"Bracers of Zhuzhou": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/legion_commander/the_armors_of_zhuzhou_arms/the_armors_of_zhuzhou_arms",
+"item_name": "#DOTA_Item_Bracers_of_Zhuzhou",
+"item_rarity": "rare",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/legion_commander/the_armors_of_zhuzhou_arms/the_armors_of_zhuzhou_arms.vmdl",
+"name": "Bracers of Zhuzhou",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_legion_commander": "1"
+}
+},
+"Bracers of the Four Corners": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/brewmaster/treasures_of_the_east_arms/treasures_of_the_east_arms",
+"item_name": "#DOTA_Item_Bracers_of_the_Four_Corners",
+"item_rarity": "rare",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/brewmaster/treasures_of_the_east_arms/treasures_of_the_east_arms.vmdl",
+"name": "Bracers of the Four Corners",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+}
+},
+"Bracers of the Ghastly Gourmand": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/pudge/the_devarque_fugitive_arms/the_devarque_fugitive_arms",
+"item_name": "#DOTA_Item_Bracers_of_the_Ghastly_Gourmand",
+"item_rarity": "rare",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/pudge/the_devarque_fugitive_arms/the_devarque_fugitive_arms.vmdl",
+"name": "Bracers of the Ghastly Gourmand",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Bracers of the Shattered Vanguard": {
+"creation_date": "2017-01-05",
+"image_inventory": "econ/items/axe/armor_of_the_wrought_legion_misc/armor_of_the_wrought_legion_misc",
+"item_name": "#DOTA_Item_Bracers_of_the_Shattered_Vanguard",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_misc",
+"model_player": "models/items/axe/armor_of_the_wrought_legion_misc/armor_of_the_wrought_legion_misc.vmdl",
+"name": "Bracers of the Shattered Vanguard",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_axe": "1"
+}
+}
+},
+"C": {
+"Covers of the Foreteller's Oath": {
+"creation_date": "2017-01-10",
+"image_inventory": "econ/items/witchdoctor/teller_of_the_auspice_shoulder/teller_of_the_auspice_shoulder",
+"item_name": "#DOTA_Item_Covers_of_the_Foretellers_Oath",
+"item_rarity": "rare",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/witchdoctor/teller_of_the_auspice_shoulder/teller_of_the_auspice_shoulder.vmdl",
+"name": "Covers of the Foreteller's Oath",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+}
+},
+"Crown of the Skyfire Apostate": {
+"creation_date": "2017-01-10",
+"image_inventory": "econ/items/keeper_of_the_light/the_dragon_ascension_head/the_dragon_ascension_head",
+"item_name": "#DOTA_Item_Crown_of_the_Skyfire_Apostate",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/keeper_of_the_light/the_dragon_ascension_head/the_dragon_ascension_head.vmdl",
+"name": "Crown of the Skyfire Apostate",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+}
+}
+},
+"D": {
+"Death Ward of the Foreteller's Oath": {
+"creation_date": "2017-01-10",
+"image_inventory": "econ/items/witchdoctor/wd_ward/teller_of_the_auspice_ability/teller_of_the_auspice_ability_npc_dota_witch_doctor_death_ward",
+"item_name": "#DOTA_Item_Death_Ward_of_the_Foretellers_Oath",
+"item_rarity": "rare",
+"item_slot": "summon",
+"name": "Death Ward of the Foreteller's Oath",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "npc_dota_witch_doctor_death_ward",
+"modifier": "models/items/witchdoctor/wd_ward/teller_of_the_auspice_ability/teller_of_the_auspice_ability.vmdl",
+"type": "entity_model"
+}
+}
+}
+},
+"E": {},
+"F": {},
+"G": {},
+"H": {
+"Hat of the Foreteller's Oath": {
+"creation_date": "2017-01-10",
+"image_inventory": "econ/items/witchdoctor/teller_of_the_auspice_head/teller_of_the_auspice_head",
+"item_name": "#DOTA_Item_Hat_of_the_Foretellers_Oath",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/witchdoctor/teller_of_the_auspice_head/teller_of_the_auspice_head.vmdl",
+"name": "Hat of the Foreteller's Oath",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+}
+},
+"Hatchet of the Ghastly Gourmand": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/pudge/the_devarque_fugitive_off_hand/the_devarque_fugitive_off_hand",
+"item_name": "#DOTA_Item_Hatchet_of_the_Ghastly_Gourmand",
+"item_rarity": "rare",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/pudge/the_devarque_fugitive_off_hand/the_devarque_fugitive_off_hand.vmdl",
+"name": "Hatchet of the Ghastly Gourmand",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Head of the Ghastly Gourmand": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/pudge/the_devarque_fugitive_head/the_devarque_fugitive_head",
+"item_name": "#DOTA_Item_Head_of_the_Ghastly_Gourmand",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/pudge/the_devarque_fugitive_head/the_devarque_fugitive_head.vmdl",
+"name": "Head of the Ghastly Gourmand",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Helm of Zhuzhou": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/legion_commander/the_armors_of_zhuzhou_head/the_armors_of_zhuzhou_head",
+"item_name": "#DOTA_Item_Helm_of_Zhuzhou",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/legion_commander/the_armors_of_zhuzhou_head/the_armors_of_zhuzhou_head.vmdl",
+"name": "Helm of Zhuzhou",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_legion_commander": "1"
+}
+},
+"Helm of the Shattered Vanguard": {
+"creation_date": "2017-01-05",
+"image_inventory": "econ/items/axe/armor_of_the_wrought_legion_head/armor_of_the_wrought_legion_head",
+"item_name": "#DOTA_Item_Helm_of_the_Shattered_Vanguard",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/axe/armor_of_the_wrought_legion_head/armor_of_the_wrought_legion_head.vmdl",
+"name": "Helm of the Shattered Vanguard",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_axe": "1"
+}
+},
+"Hook of the Ghastly Gourmand": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/pudge/the_devarque_fugitive_weapon/the_devarque_fugitive_weapon",
+"item_name": "#DOTA_Item_Hook_of_the_Ghastly_Gourmand",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/pudge/the_devarque_fugitive_weapon/the_devarque_fugitive_weapon.vmdl",
+"name": "Hook of the Ghastly Gourmand",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+}
+},
+"I": {},
+"J": {},
+"K": {
+"Keg of the Four Corners": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/brewmaster/treasures_of_the_east_off_hand/treasures_of_the_east_off_hand",
+"item_name": "#DOTA_Item_Keg_of_the_Four_Corners",
+"item_rarity": "rare",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/brewmaster/treasures_of_the_east_off_hand/treasures_of_the_east_off_hand.vmdl",
+"name": "Keg of the Four Corners",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+}
+}
+},
+"L": {},
+"M": {
+"Mantle of Zhuzhou": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/legion_commander/the_armors_of_zhuzhou_back/the_armors_of_zhuzhou_back",
+"item_name": "#DOTA_Item_Mantle_of_Zhuzhou",
+"item_rarity": "rare",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/legion_commander/the_armors_of_zhuzhou_back/the_armors_of_zhuzhou_back.vmdl",
+"name": "Mantle of Zhuzhou",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_legion_commander": "1"
+}
+},
+"Medallion of the Ghastly Gourmand": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/pudge/the_devarque_fugitive_back/the_devarque_fugitive_back",
+"item_name": "#DOTA_Item_Medallion_of_the_Ghastly_Gourmand",
+"item_rarity": "rare",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/pudge/the_devarque_fugitive_back/the_devarque_fugitive_back.vmdl",
+"name": "Medallion of the Ghastly Gourmand",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Mount of the Skyfire Apostate": {
+"creation_date": "2017-01-10",
+"image_inventory": "econ/items/keeper_of_the_light/the_dragon_ascension_mount/the_dragon_ascension_mount",
+"item_name": "#DOTA_Item_Mount_of_the_Skyfire_Apostate",
+"item_rarity": "rare",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_mount",
+"model_player": "models/items/keeper_of_the_light/the_dragon_ascension_mount/the_dragon_ascension_mount.vmdl",
+"name": "Mount of the Skyfire Apostate",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+}
+}
+},
+"N": {},
+"O": {},
+"P": {
+"Pauldron of the Four Corners": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/brewmaster/treasures_of_the_east_shoulder/treasures_of_the_east_shoulder",
+"item_name": "#DOTA_Item_Pauldron_of_the_Four_Corners",
+"item_rarity": "rare",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/brewmaster/treasures_of_the_east_shoulder/treasures_of_the_east_shoulder.vmdl",
+"name": "Pauldron of the Four Corners",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+}
+},
+"Pauldrons of the Shattered Vanguard": {
+"creation_date": "2017-01-05",
+"image_inventory": "econ/items/axe/armor_of_the_wrought_legion_armor/armor_of_the_wrought_legion_armor",
+"item_name": "#DOTA_Item_Pauldrons_of_the_Shattered_Vanguard",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/axe/armor_of_the_wrought_legion_armor/armor_of_the_wrought_legion_armor.vmdl",
+"name": "Pauldrons of the Shattered Vanguard",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_axe": "1"
+}
+},
+"Pipe of the Four Corners": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/brewmaster/treasures_of_the_east_back/treasures_of_the_east_back",
+"item_name": "#DOTA_Item_Pipe_of_the_Four_Corners",
+"item_rarity": "rare",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/brewmaster/treasures_of_the_east_back/treasures_of_the_east_back.vmdl",
+"name": "Pipe of the Four Corners",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+}
+}
+},
+"Q": {},
+"R": {},
+"S": {
+"Staff  of the Skyfire Apostate": {
+"creation_date": "2017-01-10",
+"image_inventory": "econ/items/keeper_of_the_light/the_dragon_ascension_weapon/the_dragon_ascension_weapon",
+"item_name": "#DOTA_Item_Staff__of_the_Skyfire_Apostate",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/keeper_of_the_light/the_dragon_ascension_weapon/the_dragon_ascension_weapon.vmdl",
+"name": "Staff  of the Skyfire Apostate",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+}
+},
+"Staff of the Foreteller's Oath": {
+"creation_date": "2017-01-10",
+"image_inventory": "econ/items/witchdoctor/teller_of_the_auspice_weapon/teller_of_the_auspice_weapon",
+"item_name": "#DOTA_Item_Staff_of_the_Foretellers_Oath",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/witchdoctor/teller_of_the_auspice_weapon/teller_of_the_auspice_weapon.vmdl",
+"name": "Staff of the Foreteller's Oath",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+}
+},
+"Staff of the Four Corners": {
+"creation_date": "2017-02-01",
+"image_inventory": "econ/items/brewmaster/treasures_of_the_east_weapon/treasures_of_the_east_weapon",
+"item_name": "#DOTA_Item_Staff_of_the_Four_Corners",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/brewmaster/treasures_of_the_east_weapon/treasures_of_the_east_weapon.vmdl",
+"name": "Staff of the Four Corners",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+}
+},
+"Staff of the Jade General": {
+"creation_date": "2017-01-05",
+"image_inventory": "econ/items/earth_spirit/the_jade_general_weapon/the_jade_general_weapon",
+"item_name": "#DOTA_Item_Staff_of_the_Jade_General",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_Staff",
+"model_player": "models/items/earth_spirit/the_jade_general_weapon/the_jade_general_weapon.vmdl",
+"name": "Staff of the Jade General",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_earth_spirit": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_earth_spirit/espirit_ambient_weapon.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Style of the Jade General": {
+"creation_date": "2017-01-05",
+"image_inventory": "econ/items/earth_spirit/the_jade_general_head/the_jade_general_head",
+"item_name": "#DOTA_Item_Style_of_the_Jade_General",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/earth_spirit/the_jade_general_head/the_jade_general_head.vmdl",
+"name": "Style of the Jade General",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_earth_spirit": "1"
+}
+}
+},
+"T": {},
+"V": {},
+"W": {},
+"Y": {}
+}

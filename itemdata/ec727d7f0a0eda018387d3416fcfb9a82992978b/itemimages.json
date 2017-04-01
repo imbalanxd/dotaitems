@@ -1,0 +1,226 @@
+{
+"armor_desert": {
+"large": "icons/econ/items/chen/armor_desert/armor_desert_large.587dffcb47f198d96040771c6afefc03312f880c.png",
+"normal": "icons/econ/items/chen/armor_desert/armor_desert.0090f2f1afc6ca28bb6e8bb990b25ca5e6596093.png"
+},
+"armor_navi": {
+"large": "icons/econ/items/chen/armor_navi/armor_navi_large.7ed454d066cc409d6f575a0693d4cbe137526608.png",
+"normal": "icons/econ/items/chen/armor_navi/armor_navi.1d304cda7ae834cf1819e317b8fa7e24c6d62f92.png"
+},
+"armor_nomad": {
+"large": "icons/econ/items/chen/armor_nomad/armor_nomad_large.5afff0cbee169de3493e2cb92325c6a5aefc93ec.png",
+"normal": "icons/econ/items/chen/armor_nomad/armor_nomad.9e8d7ae1d34ec088bc5b435a090d47d306661fb7.png"
+},
+"aurora_warrior_set_arms": {
+"large": "icons/econ/items/dragon_knight/aurora_warrior_set_arms/aurora_warrior_set_arms_large.3860a9851be43a9e62397d6d0d6f8bb5e8b5f06b.png",
+"normal": "icons/econ/items/dragon_knight/aurora_warrior_set_arms/aurora_warrior_set_arms.c4624d124892ecb4cb96ed1c9686d67dbf03d2e0.png"
+},
+"aurora_warrior_set_back": {
+"large": "icons/econ/items/dragon_knight/aurora_warrior_set_back/aurora_warrior_set_back_large.d4dfd2cbce345cb28a2f127af9f0c344da790838.png",
+"normal": "icons/econ/items/dragon_knight/aurora_warrior_set_back/aurora_warrior_set_back.67a2d3bf30913bdb86fd74984af3e3c171e9746e.png"
+},
+"aurora_warrior_set_dragon_style2_aurora_warrior_set": {
+"large": "icons/econ/items/dragon_knight/aurora_warrior_set_dragon_style2_aurora_warrior_set/aurora_warrior_set_dragon_style2_aurora_warrior_set_large.c3a2b2632146178c42377f8cae9d0d20954b1945.png",
+"normal": "icons/econ/items/dragon_knight/aurora_warrior_set_dragon_style2_aurora_warrior_set/aurora_warrior_set_dragon_style2_aurora_warrior_set.67ea58c9638c449346e5b0d383c6ba92244a576a.png"
+},
+"aurora_warrior_set_head": {
+"large": "icons/econ/items/dragon_knight/aurora_warrior_set_head/aurora_warrior_set_head_large.26b865d18552a66e889848c636cc495f74542480.png",
+"normal": "icons/econ/items/dragon_knight/aurora_warrior_set_head/aurora_warrior_set_head.aaef2ee356ad51363eaaab76f9f2488a936bd165.png"
+},
+"aurora_warrior_set_off_hand": {
+"large": "icons/econ/items/dragon_knight/aurora_warrior_set_off_hand/aurora_warrior_set_off_hand_large.8cdcd95db695bb5d008cf0b79ced0926db8a1fe3.png",
+"normal": "icons/econ/items/dragon_knight/aurora_warrior_set_off_hand/aurora_warrior_set_off_hand.07525f41684270e16bdef3cbf111014b34cd2726.png"
+},
+"aurora_warrior_set_shoulder": {
+"large": "icons/econ/items/dragon_knight/aurora_warrior_set_shoulder/aurora_warrior_set_shoulder_large.4c3e2c0240596daad3da012e378c24ac72f9fd2a.png",
+"normal": "icons/econ/items/dragon_knight/aurora_warrior_set_shoulder/aurora_warrior_set_shoulder.55289f4b927952180b0bad02400789ee73ec81b5.png"
+},
+"aurora_warrior_set_weapon": {
+"large": "icons/econ/items/dragon_knight/aurora_warrior_set_weapon/aurora_warrior_set_weapon_large.53868cb1b0b9246b3228b2fb245636950ed0f780.png",
+"normal": "icons/econ/items/dragon_knight/aurora_warrior_set_weapon/aurora_warrior_set_weapon.a6662f76ad18ca84339fc9edd39bb6ba3769cea7.png"
+},
+"burnichus_sicarius_back": {
+"large": "icons/econ/items/nerubian_assassin/burnichus_sicarius_back/burnichus_sicarius_back_large.684472979102c4bd00cb348c6cd6b9119fc2ae34.png",
+"normal": "icons/econ/items/nerubian_assassin/burnichus_sicarius_back/burnichus_sicarius_back.f2984a2f77068254f6f250ea92aaf03101af2b28.png"
+},
+"burnichus_sicarius_head": {
+"large": "icons/econ/items/nerubian_assassin/burnichus_sicarius_head/burnichus_sicarius_head_large.5f4c13c89699ccd2070a896c745548ee05ae519d.png",
+"normal": "icons/econ/items/nerubian_assassin/burnichus_sicarius_head/burnichus_sicarius_head.192ad09b7deac0556d9e66ddc46e0d0f6faa4736.png"
+},
+"burnichus_sicarius_misc": {
+"large": "icons/econ/items/nerubian_assassin/burnichus_sicarius_misc/burnichus_sicarius_misc_large.27c145205f2b8c68581554ecf9ef52cc4ec43a23.png",
+"normal": "icons/econ/items/nerubian_assassin/burnichus_sicarius_misc/burnichus_sicarius_misc.20806667c52263c1fe32d1796e1de456be08459e.png"
+},
+"burnichus_sicarius_weapon": {
+"large": "icons/econ/items/nerubian_assassin/burnichus_sicarius_weapon/burnichus_sicarius_weapon_large.3251a0dd38e5660b700d2f82b24c99e0a01fd4b8.png",
+"normal": "icons/econ/items/nerubian_assassin/burnichus_sicarius_weapon/burnichus_sicarius_weapon.b6c68621d76fde37a561b59abff04327326fd567.png"
+},
+"buttercup": {
+"large": "icons/econ/items/chen/buttercup_large.bbba96abba02c04234781a08859a32cfd333b78b.png",
+"normal": "icons/econ/items/chen/buttercup.30be52eed2e1479a56b751c24cf54aec4fb4444b.png"
+},
+"buttercup_armor": {
+"large": "icons/econ/items/chen/buttercup_armor_large.cd0f243f6099f8bae0ae87d7ba3755fa490de5f3.png",
+"normal": "icons/econ/items/chen/buttercup_armor.7c6c12eeb7f821faad1b5ad729e6af4e1064b207.png"
+},
+"chen_eye_of_power_arms": {
+"large": "icons/econ/items/chen/chen_eye_of_power_arms/chen_eye_of_power_arms_large.e878a25e53b058660953305153d85369751c47de.png",
+"normal": "icons/econ/items/chen/chen_eye_of_power_arms/chen_eye_of_power_arms.6958205355e5f1e8b87652b7c8f100c27eb3f0eb.png"
+},
+"chen_eye_of_power_head": {
+"large": "icons/econ/items/chen/chen_eye_of_power_head/chen_eye_of_power_head_large.f0c12b9e6f8b1054ead5c9e545297bd4ae8ce9b1.png",
+"normal": "icons/econ/items/chen/chen_eye_of_power_head/chen_eye_of_power_head.c69341efe6aa03d106701873dc3acd4e6bf8b833.png"
+},
+"chen_eye_of_power_misc": {
+"large": "icons/econ/items/chen/chen_eye_of_power_misc/chen_eye_of_power_misc_large.6ce80d0b842098a21730e83f5ff29048df76a9b8.png",
+"normal": "icons/econ/items/chen/chen_eye_of_power_misc/chen_eye_of_power_misc.631ea6e9218371bf58e9b82f663316f07e927de4.png"
+},
+"chen_eye_of_power_mount": {
+"large": "icons/econ/items/chen/chen_eye_of_power_mount/chen_eye_of_power_mount_large.37cc7da94be497e5d1994381bb1bab66b728414d.png",
+"normal": "icons/econ/items/chen/chen_eye_of_power_mount/chen_eye_of_power_mount.494ae46fdc6bfe1c43bdd444ce7f8219b47e9f72.png"
+},
+"chen_eye_of_power_shoulder": {
+"large": "icons/econ/items/chen/chen_eye_of_power_shoulder/chen_eye_of_power_shoulder_large.c7db5122acd8c9922f4e83122465cd420a8a82d2.png",
+"normal": "icons/econ/items/chen/chen_eye_of_power_shoulder/chen_eye_of_power_shoulder.d5a8701ac18fd5e4e832e1cb4f0dd9be4d9047aa.png"
+},
+"chen_eye_of_power_weapon": {
+"large": "icons/econ/items/chen/chen_eye_of_power_weapon/chen_eye_of_power_weapon_large.bc4c286bd04ad49e1d91c40644a2cce4e1f3207e.png",
+"normal": "icons/econ/items/chen/chen_eye_of_power_weapon/chen_eye_of_power_weapon.61e5c64bbdc2c32f70b8af83451ed28ac390d3e7.png"
+},
+"desert_gale_armor": {
+"large": "icons/econ/items/chen/desert_gale_armor/desert_gale_armor_large.6d1b3c8060e3730d141ff7f21cc36a1bc61da238.png",
+"normal": "icons/econ/items/chen/desert_gale_armor/desert_gale_armor.49d718d051d8c8bba08595dffbd4a9d43315012b.png"
+},
+"desert_gale_mount": {
+"large": "icons/econ/items/chen/desert_gale_mount/desert_gale_mount_large.181acd0d85e5e1f37f3ae5e1fe4280cd9e1bfc8f.png",
+"normal": "icons/econ/items/chen/desert_gale_mount/desert_gale_mount.ad44672ca56f562e1113a2243fd33187bb45dfbd.png"
+},
+"flamed_falcon_patrol_back": {
+"large": "icons/econ/items/gyrocopter/flamed_falcon_patrol_back/flamed_falcon_patrol_back_large.de2b229ea70e89c9cb6d60deb37682322c414b56.png",
+"normal": "icons/econ/items/gyrocopter/flamed_falcon_patrol_back/flamed_falcon_patrol_back.c8cfaef787a872b6a463757d35cab37d38b48e96.png"
+},
+"flamed_falcon_patrol_head": {
+"large": "icons/econ/items/gyrocopter/flamed_falcon_patrol_head/flamed_falcon_patrol_head_large.1e67015574b67a57fc741924854529f502dfe76c.png",
+"normal": "icons/econ/items/gyrocopter/flamed_falcon_patrol_head/flamed_falcon_patrol_head.5d2782d3107d77bfd70d1c67e4795912a6b9d0b2.png"
+},
+"flamed_falcon_patrol_misc": {
+"large": "icons/econ/items/gyrocopter/flamed_falcon_patrol_misc/flamed_falcon_patrol_misc_large.7efb3fd18c6246a30c0f63eea20d413443a31c08.png",
+"normal": "icons/econ/items/gyrocopter/flamed_falcon_patrol_misc/flamed_falcon_patrol_misc.4e321c63b333623c4023c2ac97431c81ab5e67f5.png"
+},
+"flamed_falcon_patrol_off_hand": {
+"large": "icons/econ/items/gyrocopter/flamed_falcon_patrol_off_hand/flamed_falcon_patrol_off_hand_large.d57a6feb24911b2afd5f3db040d665a0489d6900.png",
+"normal": "icons/econ/items/gyrocopter/flamed_falcon_patrol_off_hand/flamed_falcon_patrol_off_hand.a4d6df572ffe0c523b23dc598aaa233e77dd6060.png"
+},
+"flamed_falcon_patrol_weapon": {
+"large": "icons/econ/items/gyrocopter/flamed_falcon_patrol_weapon/flamed_falcon_patrol_weapon_large.7cc47f66d37e5139dde8a04dd93bfea2f40a4488.png",
+"normal": "icons/econ/items/gyrocopter/flamed_falcon_patrol_weapon/flamed_falcon_patrol_weapon.3e68767e352f61061746d12f60ab201678de66c0.png"
+},
+"light_of_eleanor_armor": {
+"large": "icons/econ/items/siren/light_of_eleanor_armor/light_of_eleanor_armor_large.2205c65e34ee8fbf8e72ebbcc6af664c32c36fbe.png",
+"normal": "icons/econ/items/siren/light_of_eleanor_armor/light_of_eleanor_armor.bf6699280fc034ff464e7ff04c52653d892fdb07.png"
+},
+"light_of_eleanor_head": {
+"large": "icons/econ/items/siren/light_of_eleanor_head/light_of_eleanor_head_large.0c07b8af9d9c959900b3a91f55b886a5f08955c8.png",
+"normal": "icons/econ/items/siren/light_of_eleanor_head/light_of_eleanor_head.6ce259fe57cbc0a284c07f1cf60ba2e2a41fc3ca.png"
+},
+"light_of_eleanor_legs": {
+"large": "icons/econ/items/siren/light_of_eleanor_legs/light_of_eleanor_legs_large.b039afd1a8609c19c4261edf9780f0c6b2fb296b.png",
+"normal": "icons/econ/items/siren/light_of_eleanor_legs/light_of_eleanor_legs.ca6378cd0b39c7398def3f4801ef2a416b914b9e.png"
+},
+"light_of_eleanor_off_hand": {
+"large": "icons/econ/items/siren/light_of_eleanor_off_hand/light_of_eleanor_off_hand_large.a528fd1329c18030d05d06e3e57af04d2c367ea1.png",
+"normal": "icons/econ/items/siren/light_of_eleanor_off_hand/light_of_eleanor_off_hand.525780c427f757c9d9b565544a8fc6ceca075430.png"
+},
+"light_of_eleanor_weapon": {
+"large": "icons/econ/items/siren/light_of_eleanor_weapon/light_of_eleanor_weapon_large.93917806ca06da4a98928641222191d9fd80e374.png",
+"normal": "icons/econ/items/siren/light_of_eleanor_weapon/light_of_eleanor_weapon.3a5000e51e8f1c0bec2e517e66f67c6bdb61223a.png"
+},
+"maze_watcher_armor": {
+"large": "icons/econ/items/razor/maze_watcher_armor/maze_watcher_armor_large.8c31c0090ea5f17580149322be785a1face288c4.png",
+"normal": "icons/econ/items/razor/maze_watcher_armor/maze_watcher_armor.1b3d834d2ac4839cf5a4c02a39c66e485718c968.png"
+},
+"maze_watcher_arms": {
+"large": "icons/econ/items/razor/maze_watcher_arms/maze_watcher_arms_large.fbf4ad67b4af01e61af03548fc3eee7d990afb3a.png",
+"normal": "icons/econ/items/razor/maze_watcher_arms/maze_watcher_arms.d5f548fd665e5d8388624fad67de8ecdbf3b8a80.png"
+},
+"maze_watcher_belt": {
+"large": "icons/econ/items/razor/maze_watcher_belt/maze_watcher_belt_large.c78ea3b4cc794f67a645812b6bf2e2c9ce166333.png",
+"normal": "icons/econ/items/razor/maze_watcher_belt/maze_watcher_belt.99cdd6bf004fe7c259de440e7bb8b816f2f65fe0.png"
+},
+"maze_watcher_head": {
+"large": "icons/econ/items/razor/maze_watcher_head/maze_watcher_head_large.c51f54d6a6b1deeb2afea53f82e70abd1a654718.png",
+"normal": "icons/econ/items/razor/maze_watcher_head/maze_watcher_head.ce4ad47460e075e6d00e1f26fe4a81dad798e5c6.png"
+},
+"maze_watcher_weapon": {
+"large": "icons/econ/items/razor/maze_watcher_weapon/maze_watcher_weapon_large.eee75977c918a2542729dde50d770d602220ce2d.png",
+"normal": "icons/econ/items/razor/maze_watcher_weapon/maze_watcher_weapon.1bfb88698955f04a4da85ab093debf83e3146869.png"
+},
+"mount_desert": {
+"large": "icons/econ/items/chen/mount_desert/mount_desert_large.8eae2478488b8b1bc24b78643515ad5f3f8ef65a.png",
+"normal": "icons/econ/items/chen/mount_desert/mount_desert.7712a46ec97ed768ba8284d76eb548302c75ed2d.png"
+},
+"mount_navi_new": {
+"large": "icons/econ/items/chen/mount_navi_new/mount_navi_new_large.b0b336ff294c47e464026b22e32033a32121380b.png",
+"normal": "icons/econ/items/chen/mount_navi_new/mount_navi_new.a8942cd288daa5e3e5ff6e7c46ed030c462f47c1.png"
+},
+"mushis_wayfaring_scholar_back": {
+"large": "icons/econ/items/rubick/mushis_wayfaring_scholar_back/mushis_wayfaring_scholar_back_large.44339656f2a9ab834dc029b6f23c0e6d6d1b4abb.png",
+"normal": "icons/econ/items/rubick/mushis_wayfaring_scholar_back/mushis_wayfaring_scholar_back.8eade5b8546bf76c52af8ec5f2ea08137be8b755.png"
+},
+"mushis_wayfaring_scholar_head": {
+"large": "icons/econ/items/rubick/mushis_wayfaring_scholar_head/mushis_wayfaring_scholar_head_large.ce8601dbbbca998f8f7923cdb844270706c4b4bc.png",
+"normal": "icons/econ/items/rubick/mushis_wayfaring_scholar_head/mushis_wayfaring_scholar_head.51f70d8810800364b50039f6416697446271443c.png"
+},
+"mushis_wayfaring_scholar_shoulder": {
+"large": "icons/econ/items/rubick/mushis_wayfaring_scholar_shoulder/mushis_wayfaring_scholar_shoulder_large.e71a433e2fe3838f8351ac5af3889792ae90105d.png",
+"normal": "icons/econ/items/rubick/mushis_wayfaring_scholar_shoulder/mushis_wayfaring_scholar_shoulder.c40eeb3a8e26b8b7963993da3aaac0b144927684.png"
+},
+"mushis_wayfaring_scholar_weapon": {
+"large": "icons/econ/items/rubick/mushis_wayfaring_scholar_weapon/mushis_wayfaring_scholar_weapon_large.def87205a1c43d6e23797ab992b035bc2c8c5538.png",
+"normal": "icons/econ/items/rubick/mushis_wayfaring_scholar_weapon/mushis_wayfaring_scholar_weapon.a6fee13c510933a5604380199111aa81b13eb952.png"
+},
+"nomad_mount": {
+"large": "icons/econ/items/chen/nomad_mount/nomad_mount_large.2f344fd06255dced41f4b13c0550237395899b8a.png",
+"normal": "icons/econ/items/chen/nomad_mount/nomad_mount.ac3f6588882291f90da462a77d46ab549bc859c1.png"
+},
+"the_dusk_crawler_arms": {
+"large": "icons/econ/items/weaver/the_dusk_crawler_arms/the_dusk_crawler_arms_large.61f1d60aed2c6479b19876faff50b5b324dc36a8.png",
+"normal": "icons/econ/items/weaver/the_dusk_crawler_arms/the_dusk_crawler_arms.4e8a5e1c2c8e45fbabb83737ffdc0c83089ce392.png"
+},
+"the_dusk_crawler_back": {
+"large": "icons/econ/items/weaver/the_dusk_crawler_back/the_dusk_crawler_back_large.3127fb15c22cf9ec4638b3944c18f884bc6c7245.png",
+"normal": "icons/econ/items/weaver/the_dusk_crawler_back/the_dusk_crawler_back.9689b100f64d79a675a7ebb1170c411b531f6c23.png"
+},
+"the_dusk_crawler_head": {
+"large": "icons/econ/items/weaver/the_dusk_crawler_head/the_dusk_crawler_head_large.5b00e5c2c1a4125a81393c330bb4bc6d220a018c.png",
+"normal": "icons/econ/items/weaver/the_dusk_crawler_head/the_dusk_crawler_head.c2d6b9a74cb344cdff90f4843d8e5b2e4ad377bb.png"
+},
+"the_dusk_crawler_legs": {
+"large": "icons/econ/items/weaver/the_dusk_crawler_legs/the_dusk_crawler_legs_large.9e536eeeb7203a58c8b78b26b5067baf3bf8b89c.png",
+"normal": "icons/econ/items/weaver/the_dusk_crawler_legs/the_dusk_crawler_legs.7f4c27c65c2469495e3dc1d5d8e568982be58d07.png"
+},
+"the_dusk_crawler_misc": {
+"large": "icons/econ/items/weaver/the_dusk_crawler_misc/the_dusk_crawler_misc_large.cd2afa65858a5ec65d2d8c6710d77d91d6b10794.png",
+"normal": "icons/econ/items/weaver/the_dusk_crawler_misc/the_dusk_crawler_misc.3ddc3507aab4d286d37cf21b84a95bfe943432cf.png"
+},
+"the_swift_pathfinder_swift_pathfinders_bow": {
+"large": "icons/econ/items/windrunner/the_swift_pathfinder_swift_pathfinders_bow/the_swift_pathfinder_swift_pathfinders_bow_large.917259274ba79df9b45c3885b21b4b73c111db34.png",
+"normal": "icons/econ/items/windrunner/the_swift_pathfinder_swift_pathfinders_bow/the_swift_pathfinder_swift_pathfinders_bow.9ca612a2cf882e214af9db58cba36fbe1973e925.png"
+},
+"the_swift_pathfinder_swift_pathfinders_cape": {
+"large": "icons/econ/items/windrunner/the_swift_pathfinder_swift_pathfinders_cape/the_swift_pathfinder_swift_pathfinders_cape_large.ef8f686a3f4e7d4d114e527cef218450be125a9e.png",
+"normal": "icons/econ/items/windrunner/the_swift_pathfinder_swift_pathfinders_cape/the_swift_pathfinder_swift_pathfinders_cape.7314e178a6a78eca1128bdfa6b045b86fb0e47e2.png"
+},
+"the_swift_pathfinder_swift_pathfinders_coat": {
+"large": "icons/econ/items/windrunner/the_swift_pathfinder_swift_pathfinders_coat/the_swift_pathfinder_swift_pathfinders_coat_large.e00aae3f39a67698990b222dcd59f4789ace2271.png",
+"normal": "icons/econ/items/windrunner/the_swift_pathfinder_swift_pathfinders_coat/the_swift_pathfinder_swift_pathfinders_coat.242462568442968580aa70389446aaefa4a1fb3f.png"
+},
+"the_swift_pathfinder_swift_pathfinders_hat_v2": {
+"large": "icons/econ/items/windrunner/the_swift_pathfinder_swift_pathfinders_hat_v2/the_swift_pathfinder_swift_pathfinders_hat_v2_large.43d33dd0ee4f7f51e2040ac4c4af12d31fbc9c65.png",
+"normal": "icons/econ/items/windrunner/the_swift_pathfinder_swift_pathfinders_hat_v2/the_swift_pathfinder_swift_pathfinders_hat_v2.d0c9b43ca299c9a0214841cc99fdbc2cd887db97.png"
+},
+"the_swift_pathfinder_swift_pathfinders_quiver": {
+"large": "icons/econ/items/windrunner/the_swift_pathfinder_swift_pathfinders_quiver/the_swift_pathfinder_swift_pathfinders_quiver_large.dff9cbd6e47faaaa7a6e8b77d3a76f7a0bcb367a.png",
+"normal": "icons/econ/items/windrunner/the_swift_pathfinder_swift_pathfinders_quiver/the_swift_pathfinder_swift_pathfinders_quiver.8ffca0b5a6cd1e78b8a65fe4db7ee4dabd565d04.png"
+}
+}
