@@ -1,4 +1,4 @@
-import os, sys, urllib.request, json, vdf, copy, IndexPatch
+import os, sys, vdf, urllib.request, json, copy, IndexPatch
 
 demo = False
 currentVersionId = None
@@ -10,15 +10,16 @@ def main():
 	getIndexData()
 	currentVersionId = getCurrentVersionId(indexData)
 	latestVersionId = getLatestVersionId();
-	
 	updateState = {}
 	if(currentVersionId == latestVersionId):
 		updateState["update"] = 0;
 		print(json.dumps(updateState))
+		sys.stdout.flush();
 	else:
 		updateState["update"] = 1;
 		updateState["id"] = latestVersionId;
 		print(json.dumps(updateState))
+		sys.stdout.flush();
 		if(demo):
 			gameItemsDict = getFullDataFromFile()
 		else:
@@ -65,7 +66,8 @@ def getLatestVersionId(schemaUrl = None):
 	if(demo):
 		return "demo"
 	else:
-		return (getSchemaURL() if schemaUrl is None else schemaUrl).replace("http://cdn.dota2.com/apps/570/scripts/items/items_game.", "").replace(".txt", "")
+		schemaUrl = (getSchemaURL() if schemaUrl is None else schemaUrl)
+		return schemaUrl[schemaUrl.rindex("items_game.") + 11: schemaUrl.rindex(".")]
 
 def getSchemaURL():
 	if(latestVersionId is not None):

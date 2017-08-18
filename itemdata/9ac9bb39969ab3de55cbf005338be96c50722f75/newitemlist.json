@@ -1,0 +1,5598 @@
+{
+"A": {
+"Alluvion Prophecy": {
+"creation_date": "2017-04-26",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/oracle/ti7_immortal_weapon/oracle_ti7_immortal_weapon",
+"item_description": "#DOTA_Item_Desc_Alluvion_Prophecy",
+"item_name": "#DOTA_Item_Alluvion_Prophecy",
+"item_rarity": "immortal",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/oracle/ti7_immortal_weapon/oracle_ti7_immortal_weapon.vmdl",
+"name": "Alluvion Prophecy",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_oracle": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "oracle_fortunes_end",
+"modifier": "oracle/immortal/oracle_fortunes_end",
+"style": "0",
+"type": "ability_icon"
+},
+"skip_model_combine": "1"
+}
+},
+"Anchor-hook of the Jolly Reaver": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/pudge/pudge_deep_sea_abomination_weapon/pudge_deep_sea_abomination_weapon",
+"item_name": "#DOTA_Item_Anchorhook_of_the_Jolly_Reaver",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/pudge/pudge_deep_sea_abomination_weapon/pudge_deep_sea_abomination_weapon.vmdl",
+"name": "Anchor-hook of the Jolly Reaver",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+},
+"Armor of Abyssal Vortex": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/enigma/artifacts_of_crushing_depths_armor/artifacts_of_crushing_depths_armor",
+"item_name": "#DOTA_Item_Armor_of_Abyssal_Vortex",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/enigma/artifacts_of_crushing_depths_armor/artifacts_of_crushing_depths_armor.vmdl",
+"name": "Armor of Abyssal Vortex",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_enigma": "1"
+}
+},
+"Armor of Seablight Procession": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/undying/davy_jones_set_armor/davy_jones_set_armor",
+"item_name": "#DOTA_Item_Armor_of_Seablight_Procession",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/undying/davy_jones_set_armor/davy_jones_set_armor.vmdl",
+"name": "Armor of Seablight Procession",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_undying": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/undying/undying_davy_jones/undying_davy_jones_armor_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Armor of the Chitinous Stalker": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/nerubian_assassin/reef_stalker_exoskeleton_back/reef_stalker_exoskeleton_back",
+"item_name": "#DOTA_Item_Armor_of_the_Chitinous_Stalker",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/nerubian_assassin/reef_stalker_exoskeleton_back/reef_stalker_exoskeleton_back.vmdl",
+"name": "Armor of the Chitinous Stalker",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+}
+},
+"Armor of the Riptide Raider": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/monkey_king/monkey_king_king_of_the_dark_reef_ti_2017_armor/monkey_king_king_of_the_dark_reef_ti_2017_armor",
+"item_name": "#DOTA_Item_Armor_of_the_Riptide_Raider",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/monkey_king/monkey_king_king_of_the_dark_reef_ti_2017_armor/monkey_king_king_of_the_dark_reef_ti_2017_armor.vmdl",
+"name": "Armor of the Riptide Raider",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_monkey_king": "1"
+},
+"visuals": {
+"skip_model_combine": "0"
+}
+},
+"Armor of the Shadowforce Gale": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/luna/storm_whisperer_shoulder/storm_whisperer_shoulder",
+"item_name": "#DOTA_Item_Armor_of_the_Shadowforce_Gale",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/luna/storm_whisperer_shoulder/storm_whisperer_shoulder.vmdl",
+"name": "Armor of the Shadowforce Gale",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_luna": "1"
+}
+},
+"Arrows of the Coastal Kingdom": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/mirana/bohemian_summer_mirana_misc/bohemian_summer_mirana_misc",
+"item_name": "#DOTA_Item_Arrows_of_the_Coastal_Kingdom",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_misc",
+"model_player": "models/items/mirana/bohemian_summer_mirana_misc/bohemian_summer_mirana_misc.vmdl",
+"name": "Arrows of the Coastal Kingdom",
+"prefab": "wearable",
+"static_attributes": {
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_mirana": "1"
+}
+}
+},
+"B": {
+"Back Buoy of the Shoreline Sapper": {
+"creation_date": "2017-04-19",
+"image_inventory": "econ/items/ogre_magi/ogre_magi_set_back/ogre_magi_set_back",
+"item_description": "#DOTA_Item_Desc_Back_Buoy_of_the_",
+"item_name": "#DOTA_Item_Back_Buoy_of_the_Shoreline_Sapper",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/ogre_magi/ogre_magi_set_back/ogre_magi_set_back.vmdl",
+"name": "Back Buoy of the Shoreline Sapper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ogre_magi": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/ogre_magi/ogre_ti7_set/ogre_ti7_set_back_ambient.vpcf",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_TI7_Default",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_TI7_Upgraded",
+"skin": "1",
+"unlock": {
+"item_def": "17342",
+"price": "1"
+}
+}
+}
+}
+},
+"Bandana of the Rumrunner's Carronade": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/brewmaster/pirate_cannoneer_head/pirate_cannoneer_head",
+"item_name": "#DOTA_Item_Bandana_of_the_Rumrunners_Carronade",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/brewmaster/pirate_cannoneer_head/pirate_cannoneer_head.vmdl",
+"name": "Bandana of the Rumrunner's Carronade",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+},
+"visuals": {
+"skip_model_combine": "0"
+}
+},
+"Baneful Devotion": {
+"creation_date": "2017-04-29",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/legion_commander/lc_immortal_head_ti7/lc_immortal_head_ti7",
+"item_description": "#DOTA_Item_Desc_Baneful_Devotion",
+"item_name": "#DOTA_Item_Baneful_Devotion",
+"item_rarity": "immortal",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Head",
+"model_player": "models/items/legion_commander/lc_immortal_head_ti7/lc_immortal_head_ti7.vmdl",
+"name": "Baneful Devotion",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_legion_commander": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/legion_commander/legacy_of_the_fallen_legion/legacy_of_the_fallen_legion"
+},
+"1": {
+"icon_path": "econ/items/legion_commander/legacy_of_the_fallen_legion/legacy_of_the_fallen_legion_style1"
+}
+},
+"asset_modifier": {
+"asset": "particles/units/heroes/hero_legion_commander/legion_commander_odds_buff.vpcf",
+"modifier": "particles/econ/items/legion/legion_overwhelming_odds_ti7/legion_commander_odds_ti7_buff.vpcf",
+"style": "0",
+"type": "particle"
+},
+"skip_model_combine": "1"
+}
+},
+"Beard of the Dread Prophet": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/furion/abyssal_prophet_neck/abyssal_prophet_neck",
+"item_name": "#DOTA_Item_Beard_of_the_Dread_Prophet",
+"item_rarity": "mythical",
+"item_slot": "neck",
+"item_type_name": "#DOTA_WearableType_neck",
+"model_player": "models/items/furion/abyssal_prophet_neck/abyssal_prophet_neck.vmdl",
+"name": "Beard of the Dread Prophet",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_furion": "1"
+}
+},
+"Beard of the Vodou Rover": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/witchdoctor/salted_voodoo_dog_head/salted_voodoo_dog_head",
+"item_name": "#DOTA_Item_Beard_of_the_Vodou_Rover",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/witchdoctor/salted_voodoo_dog_head/salted_voodoo_dog_head.vmdl",
+"name": "Beard of the Vodou Rover",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+}
+},
+"Bellows of Creation": {
+"creation_date": "2017-05-02",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/elder_titan/elder_titan_immortal_back/elder_titan_immortal_back",
+"item_description": "#DOTA_Item_Desc_Bellows_of_Creation",
+"item_name": "#DOTA_Item_Bellows_of_Creation",
+"item_rarity": "immortal",
+"item_slot": "back",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/elder_titan/elder_titan_immortal_back/elder_titan_immortal_back.vmdl",
+"name": "Bellows of Creation",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_elder_titan": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/units/heroes/hero_elder_titan/elder_titan_echo_stomp_cast_combined_detail.vpcf",
+"modifier": "particles/econ/items/elder_titan/elder_titan_ti7/elder_titan_echo_stomp_cast_combined_detail_ti7.vpcf",
+"style": "0",
+"type": "particle"
+},
+"skip_model_combine": "1"
+}
+},
+"Belt of Seaborne Reprisal": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/kunkka/vengeful_ghost_captain_belt/vengeful_ghost_captain_belt",
+"item_name": "#DOTA_Item_Belt_of_Seaborne_Reprisal",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/kunkka/vengeful_ghost_captain_belt/vengeful_ghost_captain_belt.vmdl",
+"name": "Belt of Seaborne Reprisal",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_kunkka": "1"
+}
+},
+"Belt of the Coastal Kingdom": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/mirana/bohemian_summer_mirana_back/bohemian_summer_mirana_back",
+"item_name": "#DOTA_Item_Belt_of_the_Coastal_Kingdom",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/mirana/bohemian_summer_mirana_back/bohemian_summer_mirana_back.vmdl",
+"name": "Belt of the Coastal Kingdom",
+"prefab": "wearable",
+"static_attributes": {
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_mirana": "1"
+}
+},
+"Belt of the Jolly Reaver": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/pudge/pudge_deep_sea_abomination_belt/pudge_deep_sea_abomination_belt",
+"item_name": "#DOTA_Item_Belt_of_the_Jolly_Reaver",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/pudge/pudge_deep_sea_abomination_belt/pudge_deep_sea_abomination_belt.vmdl",
+"name": "Belt of the Jolly Reaver",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Belt of the Manta Marauder": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/batrider/manta_rayder_ti7_belt/manta_rayder_ti7_belt",
+"item_name": "#DOTA_Item_Belt_of_the_Manta_Marauder",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/batrider/manta_rayder_ti7_belt/manta_rayder_ti7_belt.vmdl",
+"name": "Belt of the Manta Marauder",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_batrider": "1"
+}
+},
+"Benevolent Companion": {
+"creation_date": "2017-04-28",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/io/io_ti7/io_ti7",
+"item_description": "#DOTA_Item_Desc_Benevolent_Companion",
+"item_name": "#DOTA_Item_Benevolent_Companion",
+"item_rarity": "arcana",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Cube",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/io/io_ti7/io_ti7.vmdl",
+"name": "Benevolent Companion",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Prestige_Exclusive_To_TI7_BattlePass_Owners"
+},
+"cannot trade": {
+"attribute_class": "cannot_trade",
+"value": "1"
+},
+"giftable": {
+"attribute_class": "giftable",
+"value": "0"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+},
+"not marketable": {
+"attribute_class": "not marketable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_wisp": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "cubelife",
+"force_display": "1",
+"level": "1",
+"modifier": "npc_dota_hero_wisp_alt",
+"style": "0",
+"type": "response_criteria"
+},
+"asset_modifier0": {
+"asset": "particles/units/heroes/hero_wisp/wisp_guardian.vpcf",
+"modifier": "particles/econ/items/wisp/wisp_guardian_ti7.vpcf",
+"style": "0",
+"type": "particle"
+},
+"asset_modifier1": {
+"asset": "particles/units/heroes/hero_wisp/wisp_overcharge.vpcf",
+"modifier": "particles/econ/items/wisp/wisp_overcharge_ti7.vpcf",
+"style": "0",
+"type": "particle"
+},
+"asset_modifier2": {
+"asset": "particles/units/heroes/hero_wisp/wisp_relocate_channel.vpcf",
+"modifier": "particles/econ/items/wisp/wisp_relocate_channel_ti7.vpcf",
+"style": "0",
+"type": "particle"
+},
+"asset_modifier3": {
+"asset": "particles/units/heroes/hero_wisp/wisp_relocate_marker.vpcf",
+"modifier": "particles/econ/items/wisp/wisp_relocate_marker_ti7.vpcf",
+"style": "0",
+"type": "particle"
+},
+"asset_modifier4": {
+"asset": "particles/units/heroes/hero_wisp/wisp_relocate_teleport.vpcf",
+"modifier": "particles/econ/items/wisp/wisp_relocate_teleport_ti7.vpcf",
+"style": "0",
+"type": "particle"
+},
+"asset_modifier8": {
+"asset": "particles/units/heroes/hero_wisp/wisp_relocate_teleport_out.vpcf",
+"modifier": "particles/econ/items/wisp/wisp_relocate_teleport_ti7_out.vpcf",
+"style": "0",
+"type": "particle"
+},
+"skip_model_combine": "1"
+}
+},
+"Bitter Lineage": {
+"creation_date": "2017-07-15",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/troll_warlord/troll_warlord_ti7_immortal_weapon/troll_warlord_ti7_immortal_weapon",
+"item_description": "#DOTA_Item_Desc_Bitter_Lineage",
+"item_name": "#DOTA_Item_Bitter_Lineage",
+"item_rarity": "immortal",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/troll_warlord/troll_warlord_ti7_immortal_weapon/troll_warlord_ti7_immortal_weapon.vmdl",
+"name": "Bitter Lineage",
+"prefab": "wearable",
+"static_attributes": {
+"giftable": {
+"attribute_class": "giftable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_troll_warlord": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/troll_warlord/troll_warlord_ti7_immortal_weapon/troll_warlord_ti7_immortal_weapon"
+}
+},
+"asset_modifier": {
+"asset": "ALL",
+"control_point_number": "1",
+"cp_position": "239 56 15",
+"modifier": "ti7",
+"skin": "1",
+"style": "1",
+"type": "activity"
+},
+"hide_styles_from_ui": "1",
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"auto_style_rule": "modifier_troll_warlord_berserkers_rage == 0",
+"name": "#DOTA_Style_Troll_Warlord_TI7_Immortal_0",
+"skin": "0"
+},
+"1": {
+"auto_style_rule": "modifier_troll_warlord_berserkers_rage > 0",
+"name": "#DOTA_Style_Troll_Warlord_TI7_Immortal_1",
+"skin": "1"
+}
+}
+}
+},
+"Blastforge Exhaler": {
+"creation_date": "2017-05-04",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"hide_tradecraftdelete": "1",
+"image_inventory": "econ/items/bristleback/bristleback_immortal_helmet/bristleback_immortal_helmet",
+"item_description": "#DOTA_Item_Desc_Blastforge_Exhaler",
+"item_name": "#DOTA_Item_Blastforge_Exhaler",
+"item_rarity": "immortal",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Goo",
+"model_player": "models/items/bristleback/bristleback_immortal_helmet/bristleback_immortal_helmet.vmdl",
+"name": "Blastforge Exhaler",
+"particle_folder": "particles/econ/items/bristleback/bristle_spikey_spray",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_bristleback": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "bristleback_viscous_nasal_goo",
+"modifier": "bristleback_viscous_nasal_oo_immortal",
+"style": "0",
+"type": "ability_icon"
+},
+"skip_model_combine": "1"
+}
+},
+"Blastforge Exhaler of the Crimson Witness": {
+"creation_date": "2017-07-24",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"hide_tradecraftdelete": "1",
+"image_inventory": "econ/items/bristleback/bristleback_immortal_helmet/bristleback_immortal_helmet1",
+"item_description": "#DOTA_Item_Desc_Blastforge_Exhaler_of_the_Crimson_Witness",
+"item_name": "#DOTA_Item_Blastforge_Exhaler_of_the_Crimson_Witness",
+"item_rarity": "immortal",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Goo",
+"model_player": "models/items/bristleback/bristleback_immortal_helmet/bristleback_immortal_helmet.vmdl",
+"name": "Blastforge Exhaler of the Crimson Witness",
+"particle_folder": "particles/econ/items/bristleback/bristle_spikey_spray",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_bristleback": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "bristleback_viscous_nasal_goo",
+"modifier": "bristleback_viscous_nasal_goo_crimson",
+"style": "0",
+"type": "ability_icon"
+},
+"skin": "1",
+"skip_model_combine": "1"
+}
+},
+"Blouse of Eternal Testament": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/death_prophet/drowned_siren_armor/drowned_siren_armor",
+"item_name": "#DOTA_Item_Blouse_of_Eternal_Testament",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/death_prophet/drowned_siren_armor/drowned_siren_armor.vmdl",
+"name": "Blouse of Eternal Testament",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+}
+},
+"Bow of the Coastal Kingdom": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/mirana/bohemian_summer_mirana_weapon/bohemian_summer_mirana_weapon",
+"item_name": "#DOTA_Item_Bow_of_the_Coastal_Kingdom",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/mirana/bohemian_summer_mirana_weapon/bohemian_summer_mirana_weapon.vmdl",
+"name": "Bow of the Coastal Kingdom",
+"prefab": "wearable",
+"static_attributes": {
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_mirana": "1"
+}
+},
+"Bracelets of the Coastal Kingdom": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/mirana/bohemian_summer_mirana_arms/bohemian_summer_mirana_arms",
+"item_name": "#DOTA_Item_Bracelets_of_the_Coastal_Kingdom",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/mirana/bohemian_summer_mirana_arms/bohemian_summer_mirana_arms.vmdl",
+"name": "Bracelets of the Coastal Kingdom",
+"prefab": "wearable",
+"static_attributes": {
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_mirana": "1"
+}
+},
+"Bracer of Abyssal Vortex": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/enigma/artifacts_of_crushing_depths_arms/artifacts_of_crushing_depths_arms",
+"item_name": "#DOTA_Item_Bracer_of_Abyssal_Vortex",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/enigma/artifacts_of_crushing_depths_arms/artifacts_of_crushing_depths_arms.vmdl",
+"name": "Bracer of Abyssal Vortex",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_enigma": "1"
+}
+},
+"Bracers of Aeons": {
+"creation_date": "2017-07-14",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/faceless_void/bracers_of_aeons/bracers_of_aeons",
+"item_description": "#DOTA_Item_Desc_Bracers_of_Aeons",
+"item_name": "#DOTA_Item_Bracers_of_Aeons",
+"item_rarity": "immortal",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_Bracers",
+"model_player": "models/items/faceless_void/bracers_of_aeons/bracers_of_aeons.vmdl",
+"name": "Bracers of Aeons",
+"prefab": "wearable",
+"static_attributes": {
+"giftable": {
+"attribute_class": "giftable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_faceless_void": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "Hero_FacelessVoid.TimeDilation.Cast",
+"modifier": "Hero_FacelessVoid.TimeDilation.Cast.ti7",
+"style": "0",
+"type": "sound"
+},
+"skip_model_combine": "1"
+}
+},
+"Bracers of Aeons of the Crimson Witness": {
+"creation_date": "2017-08-02",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/faceless_void/bracers_of_aeons/bracers_of_aeons1",
+"item_description": "#DOTA_Item_Desc_Bracers_of_Aeons_Crimson_Witness",
+"item_name": "#DOTA_Item_Bracers_of_Aeons_of_the_Crimson_Witness",
+"item_rarity": "immortal",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_Bracers",
+"model_player": "models/items/faceless_void/bracers_of_aeons/bracers_of_aeons.vmdl",
+"name": "Bracers of Aeons of the Crimson Witness",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_faceless_void": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/units/heroes/hero_faceless_void/faceless_void_backtrack.vpcf",
+"modifier": "particles/econ/items/faceless_void/faceless_void_bracers_of_aeons/fv_bracers_of_aeons_red_backtrack.vpcf",
+"style": "0",
+"type": "particle"
+},
+"skin": "1",
+"skip_model_combine": "1"
+}
+},
+"Bracers of Seablight Procession": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/undying/davy_jones_set_arms/davy_jones_set_arms",
+"item_name": "#DOTA_Item_Bracers_of_Seablight_Procession",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/undying/davy_jones_set_arms/davy_jones_set_arms.vmdl",
+"name": "Bracers of Seablight Procession",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_undying": "1"
+},
+"visuals": {
+"skip_model_combine": "0"
+}
+},
+"Bracers of the Dread Prophet": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/furion/abyssal_prophet_arms/abyssal_prophet_arms",
+"item_name": "#DOTA_Item_Bracers_of_the_Dread_Prophet",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/furion/abyssal_prophet_arms/abyssal_prophet_arms.vmdl",
+"name": "Bracers of the Dread Prophet",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_furion": "1"
+}
+},
+"Bracers of the Rumrunner's Carronade": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/brewmaster/pirate_cannoneer_arms/pirate_cannoneer_arms",
+"item_name": "#DOTA_Item_Bracers_of_the_Rumrunners_Carronade",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/brewmaster/pirate_cannoneer_arms/pirate_cannoneer_arms.vmdl",
+"name": "Bracers of the Rumrunner's Carronade",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+}
+},
+"Bracers of the Samareen Sacrifice": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/huskar/huskar_poseidon_arms/huskar_poseidon_arms",
+"item_name": "#DOTA_Item_Bracers_of_the_Samareen_Sacrifice",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/huskar/huskar_poseidon_arms/huskar_poseidon_arms.vmdl",
+"name": "Bracers of the Samareen Sacrifice",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_huskar": "1"
+}
+},
+"Bracers of the Sunken Gaoler": {
+"creation_date": "2017-04-19",
+"image_inventory": "econ/items/slardar/slardar_set_arms/slardar_set_arms",
+"item_description": "#DOTA_Item_Desc_Bracers_of_the_Sunken_Gaoler",
+"item_name": "#DOTA_Item_Bracers_of_the_Sunken_Gaoler",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/slardar/slardar_set_arms/slardar_set_arms.vmdl",
+"name": "Bracers of the Sunken Gaoler",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_slardar": "1"
+},
+"visuals": {
+"alternate_icons": {
+"1": {
+"icon_path": "econ/items/slardar/slardar_set_arms/slardar_set_arms_style1"
+}
+},
+"skip_model_combine": "0",
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_TI7_Default",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_TI7_Upgraded",
+"skin": "1",
+"unlock": {
+"item_def": "17340",
+"price": "1"
+}
+}
+}
+}
+},
+"Braids of the Coastal Kingdom": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/mirana/bohemian_summer_mirana_head/bohemian_summer_mirana_head",
+"item_name": "#DOTA_Item_Braids_of_the_Coastal_Kingdom",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/mirana/bohemian_summer_mirana_head/bohemian_summer_mirana_head.vmdl",
+"name": "Braids of the Coastal Kingdom",
+"prefab": "wearable",
+"static_attributes": {
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_mirana": "1"
+}
+}
+},
+"C": {
+"Cannon of the Jolly Reaver": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/pudge/pudge_deep_sea_abomination_back/pudge_deep_sea_abomination_back",
+"item_name": "#DOTA_Item_Cannon_of_the_Jolly_Reaver",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/pudge/pudge_deep_sea_abomination_back/pudge_deep_sea_abomination_back.vmdl",
+"name": "Cannon of the Jolly Reaver",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/pudge/pudge_deep_sea_abomination_back/pudge_deep_sea_back_ambient.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Cape of the Dread Prophet": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/furion/abyssal_prophet_back/abyssal_prophet_back",
+"item_name": "#DOTA_Item_Cape_of_the_Dread_Prophet",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/furion/abyssal_prophet_back/abyssal_prophet_back.vmdl",
+"name": "Cape of the Dread Prophet",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_furion": "1"
+}
+},
+"Carriage of the Rumrunner's Carronade": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/brewmaster/pirate_cannoneer_back/pirate_cannoneer_back",
+"item_name": "#DOTA_Item_Carriage_of_the_Rumrunners_Carronade",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/brewmaster/pirate_cannoneer_back/pirate_cannoneer_back.vmdl",
+"name": "Carriage of the Rumrunner's Carronade",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+}
+},
+"Chains of the Jolly Reaver": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/pudge/pudge_deep_sea_abomination_arms/pudge_deep_sea_abomination_arms",
+"item_name": "#DOTA_Item_Chains_of_the_Jolly_Reaver",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/pudge/pudge_deep_sea_abomination_arms/pudge_deep_sea_abomination_arms.vmdl",
+"name": "Chains of the Jolly Reaver",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Chaos Fulcrum": {
+"creation_date": "2017-01-24",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/chaos_knight/chaos_knight_ti7_shield/chaos_knight_ti7_shield",
+"item_description": "#DOTA_Item_Desc_Chaos_Fulcrum",
+"item_name": "#DOTA_Item_Chaos_Fulcrum",
+"item_rarity": "immortal",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_Shield",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/chaos_knight/chaos_knight_ti7_shield/chaos_knight_ti7_shield.vmdl",
+"name": "Chaos Fulcrum",
+"particle_folder": "particles/econ/items/chaos_knight/chaos_knight_entropic",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_chaos_knight": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "chaos_knight_reality_rift",
+"modifier": "chaos_knight/ck_ti7_immortal/chaos_knight_reality_rift_alt",
+"style": "0",
+"type": "ability_icon"
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/chaos_knight/chaos_knight_ti7_shield/chaos_knight_ti7_shield_ambient.vpcf",
+"type": "particle_create"
+},
+"skip_model_combine": "1"
+}
+},
+"Chitin of the Kray Legions": {
+"creation_date": "2017-05-22",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/sand_king/sandking_shrimp_king_shoulder_v2/sandking_shrimp_king_shoulder_v2",
+"item_name": "#DOTA_Item_Chitin_of_the_Kray_Legions",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/sand_king/sandking_shrimp_king_shoulder_v2/sandking_shrimp_king_shoulder_v2.vmdl",
+"name": "Chitin of the Kray Legions",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_sand_king": "1"
+}
+},
+"Claw of Seaborne Reprisal": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/kunkka/vengeful_ghost_captain_gloves/vengeful_ghost_captain_gloves",
+"item_name": "#DOTA_Item_Claw_of_Seaborne_Reprisal",
+"item_rarity": "mythical",
+"item_slot": "gloves",
+"item_type_name": "#DOTA_WearableType_gloves",
+"model_player": "models/items/kunkka/vengeful_ghost_captain_gloves/vengeful_ghost_captain_gloves.vmdl",
+"name": "Claw of Seaborne Reprisal",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_kunkka": "1"
+}
+},
+"Coat of Seaborne Reprisal": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/kunkka/vengeful_ghost_captain_shoulder/vengeful_ghost_captain_shoulder",
+"item_name": "#DOTA_Item_Coat_of_Seaborne_Reprisal",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/kunkka/vengeful_ghost_captain_shoulder/vengeful_ghost_captain_shoulder.vmdl",
+"name": "Coat of Seaborne Reprisal",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_kunkka": "1"
+}
+},
+"Coat of the Vodou Rover": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/witchdoctor/salted_voodoo_dog_shoulder/salted_voodoo_dog_shoulder",
+"item_name": "#DOTA_Item_Coat_of_the_Vodou_Rover",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/witchdoctor/salted_voodoo_dog_shoulder/salted_voodoo_dog_shoulder.vmdl",
+"name": "Coat of the Vodou Rover",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+},
+"Concord Dominion": {
+"creation_date": "2017-07-15",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/phantom_lancer/phantom_lancer_ti7_immortal_shoulder/phantom_lancer_ti7_immortal_shoulder",
+"item_description": "#DOTA_Item_Desc_Concord_Dominion",
+"item_name": "#DOTA_Item_Concord_Dominion",
+"item_rarity": "immortal",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Shoulders",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/phantom_lancer/phantom_lancer_ti7_immortal_shoulder/phantom_lancer_ti7_immortal_shoulder.vmdl",
+"name": "Concord Dominion",
+"prefab": "wearable",
+"static_attributes": {
+"giftable": {
+"attribute_class": "giftable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_phantom_lancer": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "phantom_lancer_phantom_edge",
+"modifier": "phantom_lancer/immortal/phantom_lancer_phantom_edge",
+"style": "0",
+"type": "ability_icon"
+},
+"skip_model_combine": "1"
+}
+},
+"Coralents of the Dread Prophet": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/furion/treant/abyssal_prophet_abyssal_prophet_treant/abyssal_prophet_abyssal_prophet_treant_npc_dota_furion_treant",
+"item_name": "#DOTA_Item_Coralents_of_the_Dread_Prophet",
+"item_rarity": "mythical",
+"item_slot": "ability3",
+"item_type_name": "#DOTA_WearableType_Treants",
+"name": "Coralents of the Dread Prophet",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_furion": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "npc_dota_furion_treant",
+"modifier": "models/items/furion/treant/abyssal_prophet_abyssal_prophet_treant/abyssal_prophet_abyssal_prophet_treant.vmdl",
+"type": "entity_model"
+},
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_furion/natures_prophet_treant_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Covenant of the Depths Belt": {
+"creation_date": "2017-05-23",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/invoker/covenant_of_the_depths_belt_v2/covenant_of_the_depths_belt_v2",
+"item_name": "#DOTA_Item_Covenant_of_the_Depths_Belt",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/invoker/covenant_of_the_depths_belt_v2/covenant_of_the_depths_belt_v2.vmdl",
+"name": "Covenant of the Depths Belt",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_invoker": "1"
+}
+},
+"Covenant of the Depths Bracers": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/invoker/covenant_of_the_depths_arms/covenant_of_the_depths_arms",
+"item_name": "#DOTA_Item_Covenant_of_the_Depths_Bracers",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/invoker/covenant_of_the_depths_arms/covenant_of_the_depths_arms.vmdl",
+"name": "Covenant of the Depths Bracers",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_invoker": "1"
+}
+},
+"Covenant of the Depths Mantle": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/invoker/covenant_of_the_depths_back/covenant_of_the_depths_back",
+"item_name": "#DOTA_Item_Covenant_of_the_Depths_Mantle",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/invoker/covenant_of_the_depths_back/covenant_of_the_depths_back.vmdl",
+"name": "Covenant of the Depths Mantle",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_invoker": "1"
+}
+},
+"Covenant of the Depths Mask": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/invoker/covenant_of_the_depths_head/covenant_of_the_depths_head",
+"item_name": "#DOTA_Item_Covenant_of_the_Depths_Mask",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/invoker/covenant_of_the_depths_head/covenant_of_the_depths_head.vmdl",
+"name": "Covenant of the Depths Mask",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_invoker": "1"
+}
+},
+"Covenant of the Depths Robes": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/invoker/covenant_of_the_depths_shoulder/covenant_of_the_depths_shoulder",
+"item_name": "#DOTA_Item_Covenant_of_the_Depths_Robes",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/invoker/covenant_of_the_depths_shoulder/covenant_of_the_depths_shoulder.vmdl",
+"name": "Covenant of the Depths Robes",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_invoker": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/invoker/invoker_depths/invoker_depths_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Covenant of the Depths Spirit": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/invoker/forge_spirit/covenant_of_the_depths_deep_forged/covenant_of_the_depths_deep_forged_npc_dota_invoker_forged_spirit",
+"item_name": "#DOTA_Item_Covenant_of_the_Depths_Spirit",
+"item_rarity": "mythical",
+"item_slot": "summon",
+"item_type_name": "#DOTA_WearableType_Forged_Spirit",
+"name": "Covenant of the Depths Spirit",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_invoker": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "npc_dota_invoker_forged_spirit",
+"modifier": "models/items/invoker/forge_spirit/covenant_of_the_depths_deep_forged/covenant_of_the_depths_deep_forged.vmdl",
+"type": "entity_model"
+}
+}
+},
+"Crawlers of the Kray Legions": {
+"creation_date": "2017-05-22",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/sand_king/sandking_shrimp_king_legs_v2/sandking_shrimp_king_legs_v2",
+"item_name": "#DOTA_Item_Crawlers_of_the_Kray_Legions",
+"item_rarity": "mythical",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_legs",
+"model_player": "models/items/sand_king/sandking_shrimp_king_legs_v2/sandking_shrimp_king_legs_v2.vmdl",
+"name": "Crawlers of the Kray Legions",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_sand_king": "1"
+}
+},
+"Crimson Cyrridae": {
+"creation_date": "2017-06-21",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/weaver/weaver_immortal_head_ti7/weaver_immortal_head_ti7",
+"item_description": "#DOTA_Item_Desc_Crimson_Cyrridae",
+"item_name": "#DOTA_Item_Crimson_Cyrridae",
+"item_rarity": "immortal",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/weaver/weaver_immortal_head_ti7/weaver_immortal_head_ti7.vmdl",
+"name": "Crimson Cyrridae",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_weaver": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "weaver_the_swarm",
+"modifier": "weaver/immortal/weaver_geminate_attack",
+"style": "0",
+"type": "ability_icon"
+},
+"skip_model_combine": "1"
+}
+},
+"Crown of the Riptide Raider": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/monkey_king/monkey_king_king_of_the_dark_reef_ti_2017_head/monkey_king_king_of_the_dark_reef_ti_2017_head",
+"item_name": "#DOTA_Item_Crown_of_the_Riptide_Raider",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/monkey_king/monkey_king_king_of_the_dark_reef_ti_2017_head/monkey_king_king_of_the_dark_reef_ti_2017_head.vmdl",
+"name": "Crown of the Riptide Raider",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_monkey_king": "1"
+},
+"visuals": {
+"skip_model_combine": "0"
+}
+},
+"Cuffs of the Cunning Corsair": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/rikimaru/riki_cunning_corsair_ti_2017_arms/riki_cunning_corsair_ti_2017_arms",
+"item_name": "#DOTA_Item_Cuffs_of_the_Cunning_Corsair",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/rikimaru/riki_cunning_corsair_ti_2017_arms/riki_cunning_corsair_ti_2017_arms.vmdl",
+"name": "Cuffs of the Cunning Corsair",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_riki": "1"
+}
+},
+"Culverin of the Rumrunner's Carronade": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/brewmaster/pirate_cannoneer_weapon/pirate_cannoneer_weapon",
+"item_name": "#DOTA_Item_Culverin_of_the_Rumrunners_Carronade",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/brewmaster/pirate_cannoneer_weapon/pirate_cannoneer_weapon.vmdl",
+"name": "Culverin of the Rumrunner's Carronade",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/brewmaster/brewmaster_pirate_cannon/brewmaster_pirate_cannon_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Cutlass of the Jolly Reaver": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/pudge/pudge_deep_sea_abomination_off_hand/pudge_deep_sea_abomination_off_hand",
+"item_name": "#DOTA_Item_Cutlass_of_the_Jolly_Reaver",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/pudge/pudge_deep_sea_abomination_off_hand/pudge_deep_sea_abomination_off_hand.vmdl",
+"name": "Cutlass of the Jolly Reaver",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Cutter of the Mechalodon Interdictor": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/gyrocopter/submersible_aircraft_08_misc/submersible_aircraft_08_misc",
+"item_name": "#DOTA_Item_Cutter_of_the_Mechalodon_Interdictor",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_misc",
+"model_player": "models/items/gyrocopter/submersible_aircraft_08_misc/submersible_aircraft_08_misc.vmdl",
+"name": "Cutter of the Mechalodon Interdictor",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_gyrocopter": "1"
+}
+}
+},
+"D": {
+"Dagger of the Cunning Corsair": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/rikimaru/riki_cunning_corsair_ti_2017_weapon/riki_cunning_corsair_ti_2017_weapon",
+"item_name": "#DOTA_Item_Dagger_of_the_Cunning_Corsair",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/rikimaru/riki_cunning_corsair_ti_2017_weapon/riki_cunning_corsair_ti_2017_weapon.vmdl",
+"name": "Dagger of the Cunning Corsair",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_riki": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/riki/riki_cunning_crosair/riki_cunning_crosair_weapon_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"skip_model_combine": "1"
+}
+},
+"Dagger of the Samareen Sacrifice": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/huskar/huskar_poseidon_off_hand/huskar_poseidon_off_hand",
+"item_name": "#DOTA_Item_Dagger_of_the_Samareen_Sacrifice",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/huskar/huskar_poseidon_off_hand/huskar_poseidon_off_hand.vmdl",
+"name": "Dagger of the Samareen Sacrifice",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_huskar": "1"
+}
+},
+"Diving Helm of the Pressure Regulator": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/rattletrap/scubawerk_ti7_head/scubawerk_ti7_head",
+"item_name": "#DOTA_Item_Diving_Helm_of_the_Pressure_Regulator",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/rattletrap/scubawerk_ti7_head/scubawerk_ti7_head.vmdl",
+"name": "Diving Helm of the Pressure Regulator",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_rattletrap": "1"
+}
+},
+"Dress of Eternal Testament": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/death_prophet/drowned_siren_drowned_siren_skirt/drowned_siren_drowned_siren_skirt",
+"item_name": "#DOTA_Item_Dress_of_Eternal_Testament",
+"item_rarity": "mythical",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_legs",
+"model_player": "models/items/death_prophet/drowned_siren_drowned_siren_skirt/drowned_siren_drowned_siren_skirt.vmdl",
+"name": "Dress of Eternal Testament",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/death_prophet/drowned_siren_drowned_siren/drowned_siren_drowned_siren_ambient.vpcf",
+"type": "particle_create"
+}
+}
+}
+},
+"E": {
+"Eidolons of Abyssal Vortex": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/enigma/eidolon/artifacts_of_crushing_depths_eidolon_of_crushing_depths/artifacts_of_crushing_depths_eidolon_of_crushing_depths_npc_dota_eidolon",
+"item_name": "#DOTA_Item_Eidolons_of_Abyssal_Vortex",
+"item_rarity": "mythical",
+"item_slot": "ability2",
+"item_type_name": "#DOTA_WearableType_Eidolons",
+"name": "Eidolons of Abyssal Vortex",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_enigma": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "npc_dota_lesser_eidolon",
+"modifier": "models/items/enigma/eidolon/artifacts_of_crushing_depths_eidolon_of_crushing_depths/artifacts_of_crushing_depths_eidolon_of_crushing_depths.vmdl",
+"type": "entity_model"
+}
+}
+}
+},
+"F": {
+"Fiery keg of the Rumrunner's Carronade": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/brewmaster/pirate_cannoneer_off_hand/pirate_cannoneer_off_hand",
+"item_name": "#DOTA_Item_Fiery_keg_of_the_Rumrunners_Carronade",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/brewmaster/pirate_cannoneer_off_hand/pirate_cannoneer_off_hand.vmdl",
+"name": "Fiery keg of the Rumrunner's Carronade",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+}
+},
+"Fintail Reef Kyte": {
+"creation_date": "2017-04-19",
+"image_inventory": "econ/items/luna/luna_set_mount/luna_set_mount",
+"item_description": "#DOTA_Item_Desc_Fintail_Reef_Kyte",
+"item_name": "#DOTA_Item_Fintail_Reef_Kyte",
+"item_rarity": "mythical",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_mount",
+"model_player": "models/items/luna/luna_ti7_set_mount/luna_ti7_set_mount.vmdl",
+"name": "Fintail Reef Kyte",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_luna": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/luna/luna_ti7_set/luna_ti7_set_style_mount_ambient.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_TI7_Default",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_TI7_Upgraded",
+"skin": "1",
+"unlock": {
+"item_def": "17341",
+"price": "1"
+}
+}
+}
+}
+},
+"Floathide Bands of the Shoreline Sapper": {
+"creation_date": "2017-04-19",
+"image_inventory": "econ/items/ogre_magi/ogre_magi_set_arms/ogre_magi_set_arms",
+"item_description": "#DOTA_Item_Desc_Floathide_Bands_of_the_Shoreline_Sapper",
+"item_name": "#DOTA_Item_Floathide_Bands_of_the_Shoreline_Sapper",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/ogre_magi/ogre_magi_set_arms/ogre_magi_set_arms.vmdl",
+"name": "Floathide Bands of the Shoreline Sapper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ogre_magi": "1"
+},
+"visuals": {
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_TI7_Default",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_TI7_Upgraded",
+"skin": "1",
+"unlock": {
+"item_def": "17342",
+"price": "1"
+}
+}
+}
+}
+},
+"Floathide Belt of the Shoreline Sapper": {
+"creation_date": "2017-04-19",
+"image_inventory": "econ/items/ogre_magi/ogre_magi_set_belt/ogre_magi_set_belt",
+"item_description": "#DOTA_Item_Desc_Floathide_Belt_of_the_Shoreline_Sapper",
+"item_name": "#DOTA_Item_Floathide_Belt_of_the_Shoreline_Sapper",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/ogre_magi/ogre_magi_set_belt/ogre_magi_set_belt.vmdl",
+"name": "Floathide Belt of the Shoreline Sapper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ogre_magi": "1"
+},
+"visuals": {
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_TI7_Default",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_TI7_Upgraded",
+"skin": "1",
+"unlock": {
+"item_def": "17342",
+"price": "1"
+}
+}
+}
+}
+},
+"Folds of Seaborne Reprisal": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/kunkka/vengeful_ghost_captain_back/vengeful_ghost_captain_back",
+"item_name": "#DOTA_Item_Folds_of_Seaborne_Reprisal",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/kunkka/vengeful_ghost_captain_back/vengeful_ghost_captain_back.vmdl",
+"name": "Folds of Seaborne Reprisal",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_kunkka": "1"
+}
+},
+"Full-Bore Bonanza": {
+"creation_date": "2017-05-04",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"hide_tradecraftdelete": "1",
+"image_inventory": "econ/items/sniper/sniper_cape_immortal/sniper_cape_immortal",
+"item_description": "#DOTA_Item_Desc_FullBore_Bonanza",
+"item_name": "#DOTA_Item_FullBore_Bonanza",
+"item_rarity": "immortal",
+"item_slot": "back",
+"model_player": "models/items/sniper/sniper_cape_immortal/sniper_cape_immortal.vmdl",
+"name": "Full-Bore Bonanza",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_sniper": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "sniper_headshot",
+"modifier": "sniper_headshot_immortal",
+"style": "0",
+"type": "ability_icon"
+},
+"skip_model_combine": "0"
+}
+}
+},
+"G": {
+"Ghost Blade of Seaborne Reprisal": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/kunkka/vengeful_ghost_captain_weapon/vengeful_ghost_captain_weapon",
+"item_name": "#DOTA_Item_Ghost_Blade_of_Seaborne_Reprisal",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/kunkka/vengeful_ghost_captain_weapon/vengeful_ghost_captain_weapon.vmdl",
+"name": "Ghost Blade of Seaborne Reprisal",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_kunkka": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/models/heroes/kunkka/kunkka_sword_default.psf",
+"modifier": "particles/models/items/kunkka/vengeful_ghost_captain_weapon/vengeful_ghost_captain_weapon_fx.psf",
+"type": "particle_snapshot"
+},
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_kunkka/kunkka_weapon_glow_ambient.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Ghosts of Eternal Testament": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/death_prophet/exorcism/drowned_siren_drowned_siren_crowned_fish/drowned_siren_drowned_siren_crowned_fish_dota_death_prophet_exorcism_spirit",
+"item_name": "#DOTA_Item_Ghosts_of_Eternal_Testament",
+"item_rarity": "mythical",
+"item_slot": "ability_ultimate",
+"name": "Ghosts of Eternal Testament",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "dota_death_prophet_exorcism_spirit",
+"modifier": "models/items/death_prophet/exorcism/drowned_siren_drowned_siren_crowned_fish/drowned_siren_drowned_siren_crowned_fish.vmdl",
+"type": "entity_model"
+}
+}
+},
+"Glaive of the Reef Kyte Rider": {
+"creation_date": "2017-04-19",
+"image_inventory": "econ/items/luna/luna_set_weapon/luna_set_weapon",
+"item_description": "#DOTA_Item_Desc_Glaive_of_the_Reef_Kyte_Rider",
+"item_name": "#DOTA_Item_Glaive_of_the_Reef_Kyte_Rider",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/luna/luna_ti7_set_weapon/luna_ti7_set_weapon.vmdl",
+"name": "Glaive of the Reef Kyte Rider",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_luna": "1"
+},
+"visuals": {
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_TI7_Default",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_TI7_Upgraded",
+"skin": "1",
+"unlock": {
+"item_def": "17341",
+"price": "1"
+}
+}
+}
+}
+},
+"Glaives of the Shadowforce Gale": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/luna/storm_whisperer_weapon/storm_whisperer_weapon",
+"item_name": "#DOTA_Item_Glaives_of_the_Shadowforce_Gale",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/luna/storm_whisperer_weapon/storm_whisperer_weapon.vmdl",
+"name": "Glaives of the Shadowforce Gale",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_luna": "1"
+}
+},
+"Golden Chaos Fulcrum": {
+"creation_date": "2017-06-06",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/chaos_knight/chaos_knight_ti7_shield/chaos_knight_ti7_shield_gold",
+"item_description": "#DOTA_Item_Desc_Golden_Chaos_Fulcrum",
+"item_name": "#DOTA_Item_Golden_Chaos_Fulcrum",
+"item_rarity": "immortal",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_Shield",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/chaos_knight/chaos_knight_ti7_shield/chaos_knight_ti7_shield.vmdl",
+"name": "Golden Chaos Fulcrum",
+"particle_folder": "particles/econ/items/chaos_knight/chaos_knight_entropic",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_chaos_knight": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "chaos_knight_reality_rift",
+"modifier": "chaos_knight/ck_ti7_immortal_gold/chaos_knight_reality_rift_alt2",
+"style": "0",
+"type": "ability_icon"
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/chaos_knight/chaos_knight_ti7_shield/chaos_knight_ti7_golden_shield_ambient.vpcf",
+"type": "particle_create"
+},
+"skin": "1",
+"skip_model_combine": "1"
+}
+},
+"Golden Cyrridae": {
+"creation_date": "2017-07-10",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/weaver/weaver_immortal_head_ti7/weaver_ti7_immortal_head_gold",
+"item_description": "#DOTA_Item_Desc_Golden_Cyrridae",
+"item_name": "#DOTA_Item_Golden_Cyrridae",
+"item_rarity": "immortal",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/weaver/weaver_immortal_head_ti7/weaver_immortal_head_ti7.vmdl",
+"name": "Golden Cyrridae",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_weaver": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "weaver_the_swarm",
+"modifier": "weaver/immortal/weaver_geminate_attack_gold",
+"style": "0",
+"type": "ability_icon"
+},
+"skin": "1",
+"skip_model_combine": "1"
+}
+},
+"Golden Full-Bore Bonanza": {
+"creation_date": "2017-08-03",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"hide_tradecraftdelete": "1",
+"image_inventory": "econ/items/sniper/sniper_cape_immortal/sniper_cape_immortal1",
+"item_description": "#DOTA_Item_Desc_Golden_FullBore_Bonanza",
+"item_name": "#DOTA_Item_Golden_FullBore_Bonanza",
+"item_rarity": "immortal",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_Wearable",
+"model_player": "models/items/sniper/sniper_cape_immortal/sniper_cape_immortal.vmdl",
+"name": "Golden Full-Bore Bonanza",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_sniper": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "sniper_headshot",
+"modifier": "sniper_headshot_immortal_gold",
+"style": "0",
+"type": "ability_icon"
+},
+"skin": "1",
+"skip_model_combine": "0"
+}
+},
+"Golden Mantle of Grim Facade": {
+"creation_date": "2017-08-03",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/shadow_demon/ti7_immortal_back/sd_ti7_immortal_back1",
+"item_description": "#DOTA_Item_Desc_Golden_Mantle_of_Grim_Facade",
+"item_name": "#DOTA_Item_Golden_Mantle_of_Grim_Facade",
+"item_rarity": "immortal",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/shadow_demon/ti7_immortal_back/sd_ti7_immortal_back.vmdl",
+"name": "Golden Mantle of Grim Facade",
+"prefab": "wearable",
+"static_attributes": {
+"giftable": {
+"attribute_class": "giftable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_shadow_demon": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "shadow_demon_shadow_poison_release",
+"modifier": "shadow_demon/immortal/shadow_demon_shadow_poison_release_gold",
+"style": "0",
+"type": "ability_icon"
+},
+"skin": "1",
+"skip_model_combine": "1"
+}
+},
+"Golden Origins of Faith": {
+"creation_date": "2017-08-03",
+"image_inventory": "econ/items/antimage/ti7_antimage_immortal/ti7_immortal_armor1",
+"item_description": "#DOTA_Item_Desc_Origins_of_Faith",
+"item_name": "#DOTA_Item_Golden_Origins_of_Faith",
+"item_rarity": "immortal",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_Wearable",
+"model_player": "models/items/antimage/ti7_antimage_immortal/ti7_immortal_armor.vmdl",
+"name": "Golden Origins of Faith",
+"prefab": "wearable",
+"static_attributes": {
+"giftable": {
+"attribute_class": "giftable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_antimage": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "antimage_blink",
+"modifier": "antimage/immortal/antimage_blink_gold",
+"style": "0",
+"type": "ability_icon"
+},
+"skin": "1",
+"skip_model_combine": "1"
+}
+},
+"Golden Profane Union": {
+"creation_date": "2017-05-04",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"hide_tradecraftdelete": "1",
+"image_inventory": "econ/items/lifestealer/immortal_back/lifestealer_immortal_back_golden",
+"item_description": "#DOTA_Item_Desc_Golden_Profane_Union",
+"item_name": "#DOTA_Item_Golden_Profane_Union",
+"item_rarity": "immortal",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/lifestealer/immortal_back/lifestealer_immortal_back_golden.vmdl",
+"name": "Golden Profane Union",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_life_stealer": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/lifestealer/immortal_back/lifestealer_immortal_back_golden"
+}
+},
+"asset_modifier": {
+"asset": "life_stealer_rage",
+"modifier": "life_stealer_rage_immortal_gold",
+"skin": "1",
+"style": "0",
+"type": "ability_icon"
+},
+"hide_styles_from_ui": "1",
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"auto_style_reason": "#DOTA_AutoStyle_Initial_Style_Reason",
+"auto_style_rule": "modifier_life_stealer_rage <= 0",
+"model_player": "models/items/lifestealer/immortal_back/lifestealer_immortal_back_golden.vmdl",
+"name": "#DOTA_Style_Lifestealer_Immortal_Base",
+"skin": "0"
+},
+"1": {
+"auto_style_reason": "#DOTA_Style_LifeStealer_Rage_Reason",
+"auto_style_rule": "modifier_life_stealer_rage > 0",
+"model_player": "models/items/lifestealer/immortal_back/lifestealer_immortal_back_rage_golden.vmdl",
+"name": "#DOTA_Style_Lifestealer_Immortal_Rage",
+"skin": "1"
+}
+}
+}
+},
+"Golden Scavenging Guttleslug": {
+"creation_date": "2017-06-15",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/pudge/immortal_arm/immortal_arm1",
+"item_description": "#DOTA_Item_Desc_Copy_of_Scavenging_Guttleslug",
+"item_name": "#DOTA_Item_Golden_Scavenging_Guttleslug",
+"item_rarity": "immortal",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Wearable",
+"model_player": "models/items/pudge/immortal_arm/immortal_arm.vmdl",
+"name": "Golden Scavenging Guttleslug",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "pudge_rot",
+"modifier": "pudge/ti7_pudge_immortal/pudge_rot_alt2",
+"style": "0",
+"type": "ability_icon"
+},
+"skin": "1",
+"skip_model_combine": "1"
+}
+},
+"Golden Staff of Gun-Yu": {
+"creation_date": "2017-08-03",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"hide_tradecraftdelete": "1",
+"image_inventory": "econ/items/monkey_king/monkey_king_immortal_weapon/monkey_king_immortal_weapon2",
+"item_description": "#DOTA_Item_Desc_Copy_of_Crimson_Staff_of_GunYu",
+"item_name": "#DOTA_Item_Golden_Staff_of_GunYu",
+"item_rarity": "immortal",
+"item_type_name": "#DOTA_WearableType_Wearable",
+"model_player": "models/items/monkey_king/monkey_king_immortal_weapon/monkey_king_immortal_weapon.vmdl",
+"name": "Golden Staff of Gun-Yu",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_monkey_king": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "monkey_king_boundless_strike",
+"modifier": "monkey_king_strike_immortal_gold",
+"type": "ability_icon"
+},
+"skin": "2",
+"skip_model_combine": "1"
+}
+},
+"Golden Wyrmwrought Flare": {
+"creation_date": "2017-06-12",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/lina/lina_ti7/lina_ti71",
+"item_description": "#DOTA_Item_Desc_Golden_Wyrmwrought_Flare",
+"item_name": "#DOTA_Item_Golden_Wyrmwrought_Flare",
+"item_rarity": "immortal",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_Skirt",
+"model_player": "models/items/lina/lina_ti7/lina_ti7.vmdl",
+"name": "Golden Wyrmwrought Flare",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_lina": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "Ability.PreLightStrikeArray",
+"modifier": "Ability.PreLightStrikeArray.ti7",
+"style": "0",
+"type": "sound"
+},
+"skin": "1",
+"skip_model_combine": "1"
+}
+},
+"Golem of Seablight Procession": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/undying/flesh_golem/davy_jones_set_davy_jones_set_kraken/davy_jones_set_davy_jones_set_kraken",
+"item_name": "#DOTA_Item_Golem_of_Seablight_Procession",
+"item_rarity": "mythical",
+"item_slot": "ability4",
+"item_type_name": "#DOTA_WearableType_Flesh_Golem",
+"name": "Golem of Seablight Procession",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_undying": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "models/heroes/undying/undying_flesh_golem.vmdl",
+"modifier": "models/items/undying/flesh_golem/davy_jones_set_davy_jones_set_kraken/davy_jones_set_davy_jones_set_kraken.vmdl",
+"type": "hero_model_change"
+},
+"asset_modifier1": {
+"modifier": "particles/units/heroes/hero_undying/undying_fg_ambient_mouthgas.vpcf",
+"spawn_in_alternate_loadout_only": "1",
+"spawn_in_loadout_only": "1",
+"type": "particle_create"
+},
+"asset_modifier2": {
+"modifier": "particles/units/heroes/hero_undying/undying_fg_ambient_gas02.vpcf",
+"spawn_in_alternate_loadout_only": "1",
+"spawn_in_loadout_only": "1",
+"type": "particle_create"
+}
+}
+}
+},
+"H": {
+"Harpoon of the Pressure Regulator": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/rattletrap/scubawerk_ti7_weapon/scubawerk_ti7_weapon",
+"item_name": "#DOTA_Item_Harpoon_of_the_Pressure_Regulator",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/rattletrap/scubawerk_ti7_weapon/scubawerk_ti7_weapon.vmdl",
+"name": "Harpoon of the Pressure Regulator",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_rattletrap": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+},
+"Hat of the Cunning Corsair": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/rikimaru/riki_cunning_corsair_ti_2017_head/riki_cunning_corsair_ti_2017_head",
+"item_name": "#DOTA_Item_Hat_of_the_Cunning_Corsair",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/rikimaru/riki_cunning_corsair_ti_2017_head/riki_cunning_corsair_ti_2017_head.vmdl",
+"name": "Hat of the Cunning Corsair",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_riki": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/riki/riki_cunning_crosair/riki_cunning_crosair_head_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Hat of the Jolly Reaver": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/pudge/pudge_deep_sea_abomination_head/pudge_deep_sea_abomination_head",
+"item_name": "#DOTA_Item_Hat_of_the_Jolly_Reaver",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/pudge/pudge_deep_sea_abomination_head/pudge_deep_sea_abomination_head.vmdl",
+"name": "Hat of the Jolly Reaver",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"Headgear of the Shoreline Sapper": {
+"creation_date": "2017-04-19",
+"image_inventory": "econ/items/ogre_magi/ogre_magi_set_head/ogre_magi_set_head",
+"item_description": "#DOTA_Item_Desc_Headgear_of_the_",
+"item_name": "#DOTA_Item_Headgear_of_the_Shoreline_Sapper",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/ogre_magi/ogre_magi_set_head/ogre_magi_set_head.vmdl",
+"name": "Headgear of the Shoreline Sapper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ogre_magi": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/ogre_magi/ogre_ti7_set/ogre_ti7_set_style_head_ambient.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_TI7_Default",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_TI7_Upgraded",
+"skin": "1",
+"unlock": {
+"item_def": "17342",
+"price": "1"
+}
+}
+}
+}
+},
+"Helm of Abyssal Vortex": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/enigma/artifacts_of_crushing_depths_head/artifacts_of_crushing_depths_head",
+"item_name": "#DOTA_Item_Helm_of_Abyssal_Vortex",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/enigma/artifacts_of_crushing_depths_head/artifacts_of_crushing_depths_head.vmdl",
+"name": "Helm of Abyssal Vortex",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_enigma": "1"
+}
+},
+"Helm of the Reef Kyte Rider": {
+"creation_date": "2017-04-19",
+"image_inventory": "econ/items/luna/luna_set_head/luna_set_head",
+"item_description": "#DOTA_Item_Desc_Helm_of_the_Reef_Kyte_Rider",
+"item_name": "#DOTA_Item_Helm_of_the_Reef_Kyte_Rider",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/luna/luna_ti7_set_head/luna_ti7_set_head.vmdl",
+"name": "Helm of the Reef Kyte Rider",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_luna": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/luna/luna_ti7_set/luna_ti7_set_style_head_ambient.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"name": "#DOTA_Style_TI7_Default"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_TI7_Upgraded",
+"skin": "1",
+"unlock": {
+"item_def": "17341",
+"price": "1"
+}
+}
+}
+}
+},
+"Helm of the Shadowforce Gale": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/luna/storm_whisperer_head/storm_whisperer_head",
+"item_name": "#DOTA_Item_Helm_of_the_Shadowforce_Gale",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/luna/storm_whisperer_head/storm_whisperer_head.vmdl",
+"name": "Helm of the Shadowforce Gale",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_luna": "1"
+}
+},
+"Hook of the Cunning Corsair": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/rikimaru/riki_cunning_corsair_ti_2017_off_hand/riki_cunning_corsair_ti_2017_off_hand",
+"item_name": "#DOTA_Item_Hook_of_the_Cunning_Corsair",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/rikimaru/riki_cunning_corsair_ti_2017_off_hand/riki_cunning_corsair_ti_2017_off_hand.vmdl",
+"name": "Hook of the Cunning Corsair",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_riki": "1"
+}
+},
+"Horn of the Katekhein": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/winter_wyvern/wyvern_of_the_sea_head/wyvern_of_the_sea_head",
+"item_name": "#DOTA_Item_Horn_of_the_Katekhein",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/winter_wyvern/wyvern_of_the_sea_head/wyvern_of_the_sea_head.vmdl",
+"name": "Horn of the Katekhein",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_winter_wyvern": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+}
+},
+"I": {
+"Iceflight Edifice": {
+"creation_date": "2016-08-01",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/winter_wyvern/winter_wyvern_ti7_immortal/winter_wyvern_immortal_ti7",
+"item_description": "#DOTA_Item_Desc_Iceflight_Edifice",
+"item_name": "#DOTA_Item_Iceflight_Edifice",
+"item_rarity": "immortal",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_Crown",
+"model_player": "models/items/winter_wyvern/winter_wyvern_ti7_immortal/winter_wyvern_immortal_ti7.vmdl",
+"name": "Iceflight Edifice",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_winter_wyvern": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/status_fx/status_effect_wyvern_cold_embrace.vpcf",
+"modifier": "particles/econ/items/winter_wyvern/winter_wyvern_ti7/status_effect_winter_wyvern_cold_embrace_ti7.vpcf",
+"style": "0",
+"type": "particle"
+},
+"asset_modifier0": {
+"asset": "particles/units/heroes/hero_winter_wyvern/wyvern_cold_embrace_buff.vpcf",
+"modifier": "particles/econ/items/winter_wyvern/winter_wyvern_ti7/wyvern_cold_embrace_ti7buff.vpcf",
+"style": "0",
+"type": "particle"
+},
+"asset_modifier1": {
+"asset": "winter_wyvern_cold_embrace",
+"modifier": "winter_wyvern/immortal/winter_wyvern_cold_embrace",
+"style": "0",
+"type": "ability_icon"
+},
+"skip_model_combine": "1"
+}
+},
+"Image of Seaborne Reprisal": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/kunkka/vengeful_ghost_captain_head/vengeful_ghost_captain_head",
+"item_name": "#DOTA_Item_Image_of_Seaborne_Reprisal",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/kunkka/vengeful_ghost_captain_head/vengeful_ghost_captain_head.vmdl",
+"name": "Image of Seaborne Reprisal",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_kunkka": "1"
+}
+}
+},
+"J": {
+"Jaws of the Kray Legions": {
+"creation_date": "2017-05-22",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/sand_king/sandking_shrimp_king_body_head_v2/sandking_shrimp_king_body_head_v2",
+"item_name": "#DOTA_Item_Jaws_of_the_Kray_Legions",
+"item_rarity": "mythical",
+"item_slot": "body_head",
+"item_type_name": "#DOTA_WearableType_body_head",
+"model_player": "models/items/sand_king/sandking_shrimp_king_body_head_v2/sandking_shrimp_king_body_head_v2.vmdl",
+"name": "Jaws of the Kray Legions",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_sand_king": "1"
+}
+},
+"Jaws of the Virulent Krait": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/venomancer/venomancer_hydra_switch_color_head/venomancer_hydra_switch_color_head",
+"item_name": "#DOTA_Item_Jaws_of_the_Virulent_Krait",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/venomancer/venomancer_hydra_switch_color_head/venomancer_hydra_switch_color_head.vmdl",
+"name": "Jaws of the Virulent Krait",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_venomancer": "1"
+}
+}
+},
+"K": {},
+"L": {
+"Legs of the Seaborne Reprisal": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/kunkka/vengeful_ghost_captain_legs/vengeful_ghost_captain_legs",
+"item_name": "#DOTA_Item_Legs_of_the_Seaborne_Reprisal",
+"item_rarity": "mythical",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_legs",
+"model_player": "models/items/kunkka/vengeful_ghost_captain_legs/vengeful_ghost_captain_legs.vmdl",
+"name": "Legs of the Seaborne Reprisal",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_kunkka": "1"
+}
+},
+"Lycosidae's Brood": {
+"creation_date": "2017-05-04",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"hide_tradecraftdelete": "1",
+"image_inventory": "econ/items/broodmother/lycosidae_back/lycosidae_back",
+"item_description": "#DOTA_Item_Desc_Lycosidaes_Brood",
+"item_name": "#DOTA_Item_Lycosidaes_Brood",
+"item_rarity": "immortal",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_Abdomen",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/broodmother/lycosidae_back/lycosidae_back.vmdl",
+"name": "Lycosidae's Brood",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_broodmother": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/units/heroes/hero_broodmother/broodmother_web_cast.vpcf",
+"modifier": "particles/econ/items/broodmother/bm_lycosidaes/bm_lycosidaes_web_cast.vpcf",
+"style": "0",
+"type": "particle"
+},
+"skip_model_combine": "1"
+}
+},
+"Lycosidae's Spiderling": {
+"creation_date": "2017-05-04",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"hide_tradecraftdelete": "1",
+"image_inventory": "econ/items/broodmother/spiderling/lycosidae_spiderling/lycosidae_spiderling_npc_dota_broodmother_spiderling",
+"item_description": "#DOTA_Item_Desc_Lycosidaes_Spiderling",
+"item_name": "#DOTA_Item_Lycosidaes_Spiderling",
+"item_rarity": "immortal",
+"item_slot": "ability1",
+"item_type_name": "#DOTA_WearableType_Spiderling",
+"name": "Lycosidae's Spiderling",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_broodmother": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "broodmother_spawn_spiderlings",
+"modifier": "broodmother_spawn_spiderlings_immortal",
+"scale_size": "0.205000",
+"type": "ability_icon"
+},
+"asset_modifier0": {
+"asset": "npc_dota_broodmother_spiderling",
+"modifier": "models/items/broodmother/spiderling/lycosidae_spiderling/lycosidae_spiderling.vmdl",
+"type": "entity_model"
+},
+"asset_modifier1": {
+"asset": "npc_dota_broodmother_spiderite",
+"modifier": "models/items/broodmother/spiderling/lycosidae_spiderling/lycosidae_spiderling.vmdl",
+"type": "entity_model"
+}
+}
+}
+},
+"M": {
+"Magus Accord": {
+"creation_date": "2017-07-18",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/invoker/immortal_arms_ti7/immortal_arms_ti7",
+"item_description": "#DOTA_Item_Desc_Magus_Accord",
+"item_name": "#DOTA_Item_Magus_Accord",
+"item_rarity": "immortal",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/invoker/immortal_arms_ti7/immortal_arms_ti7.vmdl",
+"name": "Magus Accord",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_invoker": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/units/heroes/hero_invoker/invoker_alacrity_cast.vpcf",
+"modifier": "particles/econ/items/invoker/invoker_ti7/invoker_ti7_alacrity_cast.vpcf",
+"style": "0",
+"type": "particle"
+},
+"skip_model_combine": "1"
+}
+},
+"Malefic Drake's Hood": {
+"creation_date": "2017-06-21",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/viper/viper_immortal_head_ti7/viper_immortal_head_ti7",
+"item_description": "#DOTA_Item_Desc_viper_immortal_head_ti7",
+"item_name": "#DOTA_Item_Malefic_Drakes_Hood",
+"item_rarity": "immortal",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/viper/viper_immortal_head_ti7/viper_immortal_head_ti7.vmdl",
+"name": "Malefic Drake's Hood",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_viper": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "hero_viper.PoisonAttack.Target",
+"modifier": "hero_viper.PoisonAttack.Target.ti7",
+"style": "0",
+"type": "sound"
+},
+"skip_model_combine": "1"
+}
+},
+"Malefic Drake's Hood of the Crimson Witness": {
+"creation_date": "2017-07-25",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/viper/viper_immortal_head_ti7/viper_immortal_head_ti71",
+"item_description": "#DOTA_Item_Desc_Malefic_Drakes_Hood_of_the_Crimson_Witness",
+"item_name": "#DOTA_Item_Malefic_Drakes_Hood_of_the_Crimson_Witness",
+"item_rarity": "immortal",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/viper/viper_immortal_head_ti7/viper_immortal_head_ti7.vmdl",
+"name": "Malefic Drake's Hood of the Crimson Witness",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_viper": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "hero_viper.PoisonAttack.Target",
+"modifier": "hero_viper.PoisonAttack.Target.ti7",
+"style": "0",
+"type": "sound"
+},
+"skin": "1",
+"skip_model_combine": "1"
+}
+},
+"Mane of the Samareen Sacrifice": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/huskar/huskar_poseidon_head/huskar_poseidon_head",
+"item_name": "#DOTA_Item_Mane_of_the_Samareen_Sacrifice",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/huskar/huskar_poseidon_head/huskar_poseidon_head.vmdl",
+"name": "Mane of the Samareen Sacrifice",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_huskar": "1"
+}
+},
+"Manta Marauder's Manta Ray": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/batrider/manta_rayder_ti7_mount/manta_rayder_ti7_mount",
+"item_name": "#DOTA_Item_Manta_Marauders_Manta_Ray",
+"item_rarity": "mythical",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_mount",
+"model_player": "models/items/batrider/manta_rayder_ti7_mount/manta_rayder_ti7_mount.vmdl",
+"name": "Manta Marauder's Manta Ray",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_batrider": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "ALL",
+"modifier": "ti7",
+"style": "0",
+"type": "activity"
+},
+"skip_model_combine": "1"
+}
+},
+"Mantle of Grim Facade": {
+"creation_date": "2017-03-23",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/shadow_demon/ti7_immortal_back/sd_ti7_immortal_back",
+"item_description": "#DOTA_Item_Desc_Mantle_of_Grim_Facade",
+"item_name": "#DOTA_Item_Mantle_of_Grim_Facade",
+"item_quality": "base",
+"item_rarity": "immortal",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/shadow_demon/ti7_immortal_back/sd_ti7_immortal_back.vmdl",
+"name": "Mantle of Grim Facade",
+"prefab": "wearable",
+"static_attributes": {
+"giftable": {
+"attribute_class": "giftable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_shadow_demon": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "shadow_demon_shadow_poison_release",
+"modifier": "shadow_demon/immortal/shadow_demon_shadow_poison_release",
+"style": "0",
+"type": "ability_icon"
+},
+"skip_model_combine": "1"
+}
+},
+"Mantle of the Reef Kyte Rider": {
+"creation_date": "2017-04-19",
+"forced_item_quality": "unique",
+"image_inventory": "econ/items/luna/luna_set_shoulder/luna_set_shoulder",
+"item_description": "#DOTA_Item_Desc_Mantle_of_the_Reef_Kyte_Rider",
+"item_name": "#DOTA_Item_Mantle_of_the_Reef_Kyte_Rider",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/luna/luna_ti7_set_shoulder/luna_ti7_set_shoulder.vmdl",
+"name": "Mantle of the Reef Kyte Rider",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_luna": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/luna/luna_ti7_set/luna_ti7_set_shoulder_ambient.vpcf",
+"type": "particle_create"
+},
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_TI7_Default",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_TI7_Upgraded",
+"skin": "1",
+"unlock": {
+"item_def": "17341",
+"price": "1"
+}
+}
+}
+}
+},
+"Maraxiform's Ire": {
+"creation_date": "2017-05-04",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"hide_tradecraftdelete": "1",
+"image_inventory": "econ/items/clinkz/ti7_clinkz_immortal/ti7_clinkz_immortal",
+"item_description": "#DOTA_Item_Desc_Maraxiforms_Ire",
+"item_name": "#DOTA_Item_Maraxiforms_Ire",
+"item_rarity": "immortal",
+"item_slot": "back",
+"model_player": "models/items/clinkz/ti7_clinkz_immortal/ti7_clinkz_immortal.vmdl",
+"name": "Maraxiform's Ire",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_clinkz": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/items_fx/desolator_projectile.vpcf",
+"modifier": "particles/econ/items/clinkz/clinkz_maraxiform/clinkz_maraxiform_searing_arrow_deso.vpcf",
+"style": "0",
+"type": "particle"
+},
+"skip_model_combine": "0"
+}
+},
+"Mask of the Manta Marauder": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/batrider/manta_rayder_ti7_head/manta_rayder_ti7_head",
+"item_name": "#DOTA_Item_Mask_of_the_Manta_Marauder",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/batrider/manta_rayder_ti7_head/manta_rayder_ti7_head.vmdl",
+"name": "Mask of the Manta Marauder",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_batrider": "1"
+}
+},
+"Mask of the Mechalodon Interdictor": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/gyrocopter/submersible_aircraft_08_head/submersible_aircraft_08_head",
+"item_name": "#DOTA_Item_Mask_of_the_Mechalodon_Interdictor",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/gyrocopter/submersible_aircraft_08_head/submersible_aircraft_08_head.vmdl",
+"name": "Mask of the Mechalodon Interdictor",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_gyrocopter": "1"
+}
+},
+"Mast of the Vodou Rover": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/witchdoctor/salted_voodoo_dog_weapon/salted_voodoo_dog_weapon",
+"item_name": "#DOTA_Item_Mast_of_the_Vodou_Rover",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/witchdoctor/salted_voodoo_dog_weapon/salted_voodoo_dog_weapon.vmdl",
+"name": "Mast of the Vodou Rover",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+}
+},
+"Maw of Eztzhok": {
+"creation_date": "2017-05-02",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/blood_seeker/bloodseeker_immortal_head/bloodseeker_immortal_head",
+"item_description": "#DOTA_Item_Desc_Maw_of_Eztzhok",
+"item_name": "#DOTA_Item_Maw_of_Eztzhok",
+"item_rarity": "immortal",
+"item_slot": "head",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/blood_seeker/bloodseeker_immortal_head/bloodseeker_immortal_head.vmdl",
+"name": "Maw of Eztzhok",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_bloodseeker": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "ALL",
+"modifier": "ti7",
+"style": "0",
+"type": "activity"
+},
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"auto_style_reason": "#DOTA_AutoStyle_Initial_Style_Reason",
+"auto_style_rule": "loadout purposes only",
+"name": "#DOTA_Style_Bloodseekers_Head_Immortal_0",
+"skin": "0"
+},
+"1": {
+"auto_style_reason": "#DOTA_Style_Bloodseeker_Thirst_Vision_Reason",
+"auto_style_rule": "loadout purposes only",
+"name": "#DOTA_Style_Bloodseekers_Head_Immortal_1",
+"skin": "1"
+}
+}
+}
+},
+"Meranth Dragoon Armor": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/sven/meranth_dragoon_sven_back/meranth_dragoon_sven_back",
+"item_name": "#DOTA_Item_Meranth_Dragoon_Armor",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/sven/meranth_dragoon_sven_back/meranth_dragoon_sven_back.vmdl",
+"name": "Meranth Dragoon Armor",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_sven": "1"
+}
+},
+"Meranth Dragoon Belt": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/sven/meranth_dragoon_sven_belt/meranth_dragoon_sven_belt",
+"item_name": "#DOTA_Item_Meranth_Dragoon_Belt",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/sven/meranth_dragoon_sven_belt/meranth_dragoon_sven_belt.vmdl",
+"name": "Meranth Dragoon Belt",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_sven": "1"
+}
+},
+"Meranth Dragoon Finblade": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/sven/meranth_dragoon_sven_weapon/meranth_dragoon_sven_weapon",
+"item_name": "#DOTA_Item_Meranth_Dragoon_Finblade",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/sven/meranth_dragoon_sven_weapon/meranth_dragoon_sven_weapon.vmdl",
+"name": "Meranth Dragoon Finblade",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_sven": "1"
+}
+},
+"Meranth Dragoon Helm": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/sven/meranth_dragoon_sven_head/meranth_dragoon_sven_head",
+"item_name": "#DOTA_Item_Meranth_Dragoon_Helm",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/sven/meranth_dragoon_sven_head/meranth_dragoon_sven_head.vmdl",
+"name": "Meranth Dragoon Helm",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_sven": "1"
+}
+},
+"Meranth Dragoon Pauldrons": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/sven/meranth_dragoon_sven_shoulder/meranth_dragoon_sven_shoulder",
+"item_name": "#DOTA_Item_Meranth_Dragoon_Pauldrons",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/sven/meranth_dragoon_sven_shoulder/meranth_dragoon_sven_shoulder.vmdl",
+"name": "Meranth Dragoon Pauldrons",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_sven": "1"
+}
+},
+"Meranth Dragoon Shield": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/sven/meranth_dragoon_sven_arms/meranth_dragoon_sven_arms",
+"item_name": "#DOTA_Item_Meranth_Dragoon_Shield",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/sven/meranth_dragoon_sven_arms/meranth_dragoon_sven_arms.vmdl",
+"name": "Meranth Dragoon Shield",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_sven": "1"
+}
+},
+"Mines of the Pressure Regulator": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/rattletrap/scubawerk_ti7_scubawerk_power_cog/scubawerk_ti7_scubawerk_power_cog_npc_dota_rattletrap_cog",
+"item_name": "#DOTA_Item_Mines_of_the_Pressure_Regulator",
+"item_rarity": "mythical",
+"item_slot": "ability2",
+"name": "Mines of the Pressure Regulator",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_rattletrap": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "npc_dota_rattletrap_cog",
+"modifier": "models/items/rattletrap/scubawerk_ti7_scubawerk_power_cog/scubawerk_ti7_scubawerk_power_cog.vmdl",
+"type": "entity_model"
+}
+}
+}
+},
+"N": {
+"Necklaces of the Coastal Kingdom": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/mirana/bohemian_summer_mirana_shoulder/bohemian_summer_mirana_shoulder",
+"item_name": "#DOTA_Item_Necklaces_of_the_Coastal_Kingdom",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/mirana/bohemian_summer_mirana_shoulder/bohemian_summer_mirana_shoulder.vmdl",
+"name": "Necklaces of the Coastal Kingdom",
+"prefab": "wearable",
+"static_attributes": {
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_mirana": "1"
+}
+}
+},
+"O": {
+"Oculi of the Chitinous Stalker": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/nerubian_assassin/reef_stalker_exoskeleton_head/reef_stalker_exoskeleton_head",
+"item_name": "#DOTA_Item_Oculi_of_the_Chitinous_Stalker",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/nerubian_assassin/reef_stalker_exoskeleton_head/reef_stalker_exoskeleton_head.vmdl",
+"name": "Oculi of the Chitinous Stalker",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+}
+},
+"Origins of Faith": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/antimage/ti7_antimage_immortal/ti7_immortal_armor",
+"item_description": "#DOTA_Item_Desc_Origins_of_Faith",
+"item_name": "#DOTA_Item_Origins_of_Faith",
+"item_rarity": "immortal",
+"item_slot": "armor",
+"model_player": "models/items/antimage/ti7_antimage_immortal/ti7_immortal_armor.vmdl",
+"name": "Origins of Faith",
+"prefab": "wearable",
+"static_attributes": {
+"giftable": {
+"attribute_class": "giftable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_antimage": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "antimage_blink",
+"modifier": "antimage/immortal/antimage_blink",
+"style": "0",
+"type": "ability_icon"
+},
+"skip_model_combine": "1"
+}
+}
+},
+"P": {
+"Pantaloons of the Vodou Rover": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/witchdoctor/salted_voodoo_dog_belt/salted_voodoo_dog_belt",
+"item_name": "#DOTA_Item_Pantaloons_of_the_Vodou_Rover",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_belt",
+"model_player": "models/items/witchdoctor/salted_voodoo_dog_belt/salted_voodoo_dog_belt.vmdl",
+"name": "Pantaloons of the Vodou Rover",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+}
+},
+"Parrot of the Vodou Rover": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/witchdoctor/salted_voodoo_dog_back/salted_voodoo_dog_back",
+"item_name": "#DOTA_Item_Parrot_of_the_Vodou_Rover",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/witchdoctor/salted_voodoo_dog_back/salted_voodoo_dog_back.vmdl",
+"name": "Parrot of the Vodou Rover",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_witch_doctor": "1"
+}
+},
+"Pauldrons of the Dread Prophet": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/furion/abyssal_prophet_shoulder/abyssal_prophet_shoulder",
+"item_name": "#DOTA_Item_Pauldrons_of_the_Dread_Prophet",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/furion/abyssal_prophet_shoulder/abyssal_prophet_shoulder.vmdl",
+"name": "Pauldrons of the Dread Prophet",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_furion": "1"
+}
+},
+"Pike of the Sunken Gaoler": {
+"creation_date": "2017-04-19",
+"image_inventory": "econ/items/slardar/slardar_set_weapon/slardar_set_weapon",
+"item_description": "#DOTA_Item_Desc_Pike_of_the_Sunken_Gaoler",
+"item_name": "#DOTA_Item_Pike_of_the_Sunken_Gaoler",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/slardar/slardar_set_weapon/slardar_set_weapon.vmdl",
+"name": "Pike of the Sunken Gaoler",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_slardar": "1"
+},
+"visuals": {
+"alternate_icons": {
+"1": {
+"icon_path": "econ/items/slardar/slardar_set_weapon/slardar_set_weapon_style1"
+}
+},
+"asset_modifier": {
+"modifier": "particles/econ/items/slardar/slardar_ti7_set/slardar_ti7_set_style_weapon_ambient.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"skip_model_combine": "0",
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_TI7_Default",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_TI7_Upgraded",
+"skin": "1",
+"unlock": {
+"item_def": "17340",
+"price": "1"
+}
+}
+}
+}
+},
+"Pincers of the Chitinous Stalker": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/nerubian_assassin/reef_stalker_exoskeleton_weapon/reef_stalker_exoskeleton_weapon",
+"item_name": "#DOTA_Item_Pincers_of_the_Chitinous_Stalker",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/nerubian_assassin/reef_stalker_exoskeleton_weapon/reef_stalker_exoskeleton_weapon.vmdl",
+"name": "Pincers of the Chitinous Stalker",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+}
+},
+"Pincers of the Kray Legions": {
+"creation_date": "2017-05-22",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/sand_king/sandking_shrimp_king_arms_v2/sandking_shrimp_king_arms_v2",
+"item_name": "#DOTA_Item_Pincers_of_the_Kray_Legions",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/sand_king/sandking_shrimp_king_arms_v2/sandking_shrimp_king_arms_v2.vmdl",
+"name": "Pincers of the Kray Legions",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_sand_king": "1"
+}
+},
+"Plates of the Sunken Gaoler": {
+"creation_date": "2017-04-19",
+"image_inventory": "econ/items/slardar/slardar_set_head/slardar_set_head",
+"item_description": "#DOTA_Item_Desc_Plates_of_the_Sunken_Gaoler",
+"item_name": "#DOTA_Item_Plates_of_the_Sunken_Gaoler",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/slardar/slardar_set_head/slardar_set_head.vmdl",
+"name": "Plates of the Sunken Gaoler",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_slardar": "1"
+},
+"visuals": {
+"alternate_icons": {
+"1": {
+"icon_path": "econ/items/slardar/slardar_set_head/slardar_set_head_style1"
+}
+},
+"skip_model_combine": "0",
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_TI7_Default",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_TI7_Upgraded",
+"skin": "1",
+"unlock": {
+"item_def": "17340",
+"price": "1"
+}
+}
+}
+}
+},
+"Primal Paean": {
+"creation_date": "2017-07-14",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/beastmaster/bm_ti7_immortal_shoulder/bm_ti7_immortal_shoulder",
+"item_description": "#DOTA_Item_Desc_Primal_Paean",
+"item_name": "#DOTA_Item_Primal_Paean",
+"item_rarity": "immortal",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Shoulders",
+"model_player": "models/items/beastmaster/bm_ti7_immortal_shoulder/bm_ti7_immortal_shoulder.vmdl",
+"name": "Primal Paean",
+"prefab": "wearable",
+"static_attributes": {
+"giftable": {
+"attribute_class": "giftable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_beastmaster": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "beastmaster_primal_roar",
+"modifier": "beastmaster/immortal/beastmaster_primal_roar",
+"style": "0",
+"type": "ability_icon"
+},
+"skip_model_combine": "1"
+}
+},
+"Prize of the Saltworn Mariner": {
+"creation_date": "2017-03-03",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/kunkka/kunkka_immortal/kunkka_shoulder_immortal",
+"item_description": "#DOTA_Item_Desc_Prize_of_the_Saltworn_Mariner",
+"item_name": "#DOTA_Item_Prize_of_the_Saltworn_Mariner",
+"item_rarity": "immortal",
+"item_slot": "shoulder",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/kunkka/kunkka_immortal/kunkka_shoulder_immortal.vmdl",
+"name": "Prize of the Saltworn Mariner",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Prestige_Exclusive_To_TI7_BattlePass_Owners"
+},
+"cannot trade": {
+"attribute_class": "cannot_trade",
+"value": "1"
+},
+"giftable": {
+"attribute_class": "giftable",
+"value": "0"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+},
+"not marketable": {
+"attribute_class": "not marketable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_kunkka": "1"
+},
+"visuals": {
+"alternate_icons": {
+"1": {
+"icon_path": "econ/items/kunkka/kunkka_immortal/kunkka_shoulder_immortal_style1"
+}
+},
+"asset_modifier": {
+"asset": "particles/units/heroes/hero_kunkka/kunkka_ghostship_marker.vpcf",
+"gesture": "1",
+"modifier": "particles/econ/items/kunkka/kunkka_immortal/kunkka_immortal_ambient_alt.vpcf",
+"style": "1",
+"type": "particle_create"
+},
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_Prize_of_the_Saltworn_Mariner_0",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_Prize_of_the_Saltworn_Mariner_1",
+"skin": "1",
+"unlock": {
+"item_def": "17363",
+"price": "1"
+}
+}
+}
+}
+},
+"Profane Union": {
+"creation_date": "2017-05-04",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"hide_tradecraftdelete": "1",
+"image_inventory": "econ/items/lifestealer/immortal_back/lifestealer_immortal_back",
+"item_description": "#DOTA_Item_Desc_Profane_Union",
+"item_name": "#DOTA_Item_Profane_Union",
+"item_rarity": "immortal",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/lifestealer/immortal_back/lifestealer_immortal_back.vmdl",
+"name": "Profane Union",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_life_stealer": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/lifestealer/immortal_back/lifestealer_immortal_back"
+}
+},
+"asset_modifier": {
+"asset": "life_stealer_rage",
+"modifier": "life_stealer_rage_immortal",
+"style": "1",
+"type": "ability_icon"
+},
+"hide_styles_from_ui": "1",
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"auto_style_reason": "#DOTA_AutoStyle_Initial_Style_Reason",
+"auto_style_rule": "modifier_life_stealer_rage <= 0",
+"model_player": "models/items/lifestealer/immortal_back/lifestealer_immortal_back.vmdl",
+"name": "#DOTA_Style_Lifestealer_Immortal_Base",
+"skin": "0"
+},
+"1": {
+"auto_style_reason": "#DOTA_Style_LifeStealer_Rage_Reason",
+"auto_style_rule": "modifier_life_stealer_rage > 0",
+"model_player": "models/items/lifestealer/immortal_back/lifestealer_immortal_back_rage.vmdl",
+"name": "#DOTA_Style_Lifestealer_Immortal_Rage",
+"skin": "1"
+}
+}
+}
+},
+"Pterois of the Coastal Kingdom": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/mirana/bohemian_summer_mirana_mount/bohemian_summer_mirana_mount",
+"item_name": "#DOTA_Item_Pterois_of_the_Coastal_Kingdom",
+"item_rarity": "mythical",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_mount",
+"model_player": "models/items/mirana/bohemian_summer_mirana_mount/bohemian_summer_mirana_mount.vmdl",
+"name": "Pterois of the Coastal Kingdom",
+"prefab": "wearable",
+"static_attributes": {
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_mirana": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/mirana/mirana_bohemian/mirana_bohemian_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Pyrexaec Floe": {
+"creation_date": "2017-07-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/jakiro/jakiro_ti7_immortal_head/jakiro_ti7_immortal_head_ice",
+"item_description": "#DOTA_Item_Desc_Pyrexaec_Floe",
+"item_name": "#DOTA_Item_Pyrexaec_Floe",
+"item_rarity": "immortal",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_RightHead",
+"model_player": "models/items/jakiro/jakiro_ti7_immortal_head/jakiro_ti7_immortal_head_ice.vmdl",
+"name": "Pyrexaec Floe",
+"prefab": "wearable",
+"static_attributes": {
+"giftable": {
+"attribute_class": "giftable",
+"value": "1"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_jakiro": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/units/heroes/hero_jakiro/jakiro_ambient.vpcf",
+"modifier": "particles/econ/items/jakiro/jakiro_ti7_immortal_head/jakiro_ti7_immortal_body_ambient.vpcf",
+"style": "0",
+"type": "particle"
+},
+"skip_model_combine": "1"
+}
+}
+},
+"Q": {},
+"R": {
+"Razor Spines of the Sunken Gaoler": {
+"creation_date": "2017-04-19",
+"image_inventory": "econ/items/slardar/slardar_set_back/slardar_set_back",
+"item_description": "#DOTA_Item_Desc_Slardar_Set_Back",
+"item_name": "#DOTA_Item_Razor_Spines_of_the_Sunken_Gaoler",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/slardar/slardar_set_back/slardar_set_back.vmdl",
+"name": "Razor Spines of the Sunken Gaoler",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_slardar": "1"
+},
+"visuals": {
+"alternate_icons": {
+"1": {
+"icon_path": "econ/items/slardar/slardar_set_back/slardar_set_back_style1"
+}
+},
+"skip_model_combine": "0",
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_TI7_Default",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_TI7_Upgraded",
+"skin": "1",
+"unlock": {
+"item_def": "17340",
+"price": "1"
+}
+}
+}
+}
+}
+},
+"S": {
+"Sash of the Rumrunner's Carronade": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/brewmaster/pirate_cannoneer_shoulder/pirate_cannoneer_shoulder",
+"item_name": "#DOTA_Item_Sash_of_the_Rumrunners_Carronade",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/brewmaster/pirate_cannoneer_shoulder/pirate_cannoneer_shoulder.vmdl",
+"name": "Sash of the Rumrunner's Carronade",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_brewmaster": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+},
+"Scavenging Guttleslug": {
+"creation_date": "2017-04-26",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/pudge/immortal_arm/immortal_arm",
+"item_description": "#DOTA_Item_Desc_Scavenging_Guttleslug",
+"item_name": "#DOTA_Item_Scavenging_Guttleslug",
+"item_rarity": "immortal",
+"item_slot": "shoulder",
+"model_player": "models/items/pudge/immortal_arm/immortal_arm.vmdl",
+"name": "Scavenging Guttleslug",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "pudge_rot",
+"modifier": "pudge/ti7_pudge_immortal/pudge_rot_alt",
+"style": "0",
+"type": "ability_icon"
+},
+"skip_model_combine": "1"
+}
+},
+"Sea Rake's Bridle": {
+"creation_date": "2017-05-04",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/slark/slark_head_immortal/slark_head_immortal",
+"item_description": "#DOTA_Item_Desc_Sea_Rakes_Bridle",
+"item_name": "#DOTA_Item_Sea_Rakes_Bridle",
+"item_rarity": "immortal",
+"item_slot": "head",
+"model_player": "models/items/slark/slark_head_immortal/slark_head_immortal.vmdl",
+"name": "Sea Rake's Bridle",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_slark": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "Hero_Slark.DarkPact.Cast",
+"modifier": "Hero_Slark.DarkPact.Cast.Immortal",
+"style": "0",
+"type": "sound"
+},
+"skip_model_combine": "0"
+}
+},
+"Shield of the Reef Kyte Rider": {
+"creation_date": "2017-04-19",
+"image_inventory": "econ/items/luna/luna_set_off_hand/luna_set_off_hand",
+"item_description": "#DOTA_Item_Desc_Shield_of_the_Reef_Kyte_Rider",
+"item_name": "#DOTA_Item_Shield_of_the_Reef_Kyte_Rider",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/luna/luna_ti7_set_offhand/luna_ti7_set_offhand.vmdl",
+"name": "Shield of the Reef Kyte Rider",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_luna": "1"
+},
+"visuals": {
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_TI7_Default",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_TI7_Upgraded",
+"skin": "1",
+"unlock": {
+"item_def": "17341",
+"price": "1"
+}
+}
+}
+}
+},
+"Shield of the Samareen Sacrifice": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/huskar/huskar_poseidon_shoulder/huskar_poseidon_shoulder",
+"item_name": "#DOTA_Item_Shield_of_the_Samareen_Sacrifice",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/huskar/huskar_poseidon_shoulder/huskar_poseidon_shoulder.vmdl",
+"name": "Shield of the Samareen Sacrifice",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_huskar": "1"
+}
+},
+"Shield of the Shadowforce Gale": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/luna/storm_whisperer_off_hand/storm_whisperer_off_hand",
+"item_name": "#DOTA_Item_Shield_of_the_Shadowforce_Gale",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/luna/storm_whisperer_off_hand/storm_whisperer_off_hand.vmdl",
+"name": "Shield of the Shadowforce Gale",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_luna": "1"
+}
+},
+"Shoulder Pads of the Cunning Corsair": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/rikimaru/riki_cunning_corsair_ti_2017_shoulder/riki_cunning_corsair_ti_2017_shoulder",
+"item_name": "#DOTA_Item_Shoulder_Pads_of_the_Cunning_Corsair",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/rikimaru/riki_cunning_corsair_ti_2017_shoulder/riki_cunning_corsair_ti_2017_shoulder.vmdl",
+"name": "Shoulder Pads of the Cunning Corsair",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_riki": "1"
+}
+},
+"Shovel of the Shoreline Sapper": {
+"creation_date": "2017-04-19",
+"image_inventory": "econ/items/ogre_magi/ogre_magi_set_weapon/ogre_magi_set_weapon",
+"item_description": "#DOTA_Item_Desc_Ogre_Magi_Set_Weapon",
+"item_name": "#DOTA_Item_Shovel_of_the_Shoreline_Sapper",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/ogre_magi/ogre_magi_set_weapon/ogre_magi_set_weapon.vmdl",
+"name": "Shovel of the Shoreline Sapper",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_ogre_magi": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/units/heroes/hero_ogre_magi/ogre_magi_weapon.vpcf",
+"modifier": "particles/econ/items/ogre_magi/ogre_ti7_set/ogre_ti7_set_weapon_ambient.vpcf",
+"style": "0",
+"type": "particle"
+},
+"styles": {
+"0": {
+"alternate_icon": "0",
+"name": "#DOTA_Style_TI7_Default",
+"skin": "0"
+},
+"1": {
+"alternate_icon": "1",
+"name": "#DOTA_Style_TI7_Upgraded",
+"skin": "1",
+"unlock": {
+"item_def": "17342",
+"price": "1"
+}
+}
+}
+}
+},
+"Spines of the Virulent Krait": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/venomancer/venomancer_hydra_switch_color_shoulder/venomancer_hydra_switch_color_shoulder",
+"item_name": "#DOTA_Item_Spines_of_the_Virulent_Krait",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/venomancer/venomancer_hydra_switch_color_shoulder/venomancer_hydra_switch_color_shoulder.vmdl",
+"name": "Spines of the Virulent Krait",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_venomancer": "1"
+}
+},
+"Spitters of the Virulent Krait": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/venomancer/venomancer_hydra_switch_color_arms/venomancer_hydra_switch_color_arms",
+"item_name": "#DOTA_Item_Spitters_of_the_Virulent_Krait",
+"item_rarity": "mythical",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/venomancer/venomancer_hydra_switch_color_arms/venomancer_hydra_switch_color_arms.vmdl",
+"name": "Spitters of the Virulent Krait",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_venomancer": "1"
+}
+},
+"Squid of the Dread Prophet": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/furion/abyssal_prophet_head/abyssal_prophet_head",
+"item_name": "#DOTA_Item_Squid_of_the_Dread_Prophet",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/furion/abyssal_prophet_head/abyssal_prophet_head.vmdl",
+"name": "Squid of the Dread Prophet",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_furion": "1"
+}
+},
+"Staff of Gun-Yu": {
+"creation_date": "2017-05-04",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"hide_tradecraftdelete": "1",
+"image_inventory": "econ/items/monkey_king/monkey_king_immortal_weapon/monkey_king_immortal_weapon",
+"item_description": "#DOTA_Item_Desc_Staff_of_GunYu",
+"item_name": "#DOTA_Item_Staff_of_GunYu",
+"item_rarity": "immortal",
+"model_player": "models/items/monkey_king/monkey_king_immortal_weapon/monkey_king_immortal_weapon.vmdl",
+"name": "Staff of Gun-Yu",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_monkey_king": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "monkey_king_boundless_strike",
+"modifier": "monkey_king_strike_immortal",
+"type": "ability_icon"
+},
+"skip_model_combine": "1"
+}
+},
+"Staff of Gun-Yu of the Crimson Witness": {
+"creation_date": "2017-07-24",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"hide_tradecraftdelete": "1",
+"image_inventory": "econ/items/monkey_king/monkey_king_immortal_weapon/monkey_king_immortal_weapon1",
+"item_description": "#DOTA_Item_Desc_Staff_of_GunYu_of_the_Crimson_Witness",
+"item_name": "#DOTA_Item_Staff_of_GunYu_of_the_Crimson_Witness",
+"item_rarity": "immortal",
+"item_type_name": "#DOTA_WearableType_Wearable",
+"model_player": "models/items/monkey_king/monkey_king_immortal_weapon/monkey_king_immortal_weapon.vmdl",
+"name": "Staff of Gun-Yu of the Crimson Witness",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_monkey_king": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "monkey_king_boundless_strike",
+"modifier": "monkey_king_strike_crimson",
+"type": "ability_icon"
+},
+"skin": "1",
+"skip_model_combine": "1"
+}
+},
+"Staff of the Dread Prophet": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/furion/abyssal_prophet_weapon/abyssal_prophet_weapon",
+"item_name": "#DOTA_Item_Staff_of_the_Dread_Prophet",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/furion/abyssal_prophet_weapon/abyssal_prophet_weapon.vmdl",
+"name": "Staff of the Dread Prophet",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_furion": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/natures_prophet/natures_prophet_abyssal/natures_prophet_abyssal_weapon_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Storm of the Shadowforce Gale": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/luna/storm_whisperer_mount/storm_whisperer_mount",
+"item_name": "#DOTA_Item_Storm_of_the_Shadowforce_Gale",
+"item_rarity": "mythical",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_mount",
+"model_player": "models/items/luna/storm_whisperer_mount/storm_whisperer_mount.vmdl",
+"name": "Storm of the Shadowforce Gale",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_luna": "1"
+}
+},
+"Stuntwood Sanctuary": {
+"creation_date": "2017-03-21",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/treant/immortal_shoulder/treant_ti7_immortal_shoulder",
+"item_description": "#DOTA_Item_Desc_treant_ti7_immortal",
+"item_name": "#DOTA_Item_Stuntwood_Sanctuary",
+"item_rarity": "immortal",
+"item_slot": "shoulder",
+"model_player": "models/items/treant/immortal_shoulder/treant_ti7_immortal_shoulder.vmdl",
+"name": "Stuntwood Sanctuary",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_treant": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "treant_living_armor",
+"modifier": "treant/treant_ti7_immortal/treant_living_armor",
+"offset": "260",
+"style": "0",
+"type": "healthbar_offset"
+},
+"skip_model_combine": "1"
+}
+},
+"Stuntwood Sanctuary of the Crimson Witness": {
+"creation_date": "2017-08-03",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/treant/immortal_shoulder/treant_ti7_immortal_shoulder1",
+"item_description": "#DOTA_Item_Desc_Stuntwood_Sanctuary_of_the_Crimson_Witness",
+"item_name": "#DOTA_Item_Stuntwood_Sanctuary_of_the_Crimson_Witness",
+"item_rarity": "immortal",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_Wearable",
+"model_player": "models/items/treant/immortal_shoulder/treant_ti7_immortal_shoulder.vmdl",
+"name": "Stuntwood Sanctuary of the Crimson Witness",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_treant": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "treant_living_armor",
+"modifier": "treant/treant_ti7_immortal/treant_living_armor_crimson",
+"offset": "260",
+"style": "0",
+"type": "ability_icon"
+},
+"skin": "1",
+"skip_model_combine": "1"
+}
+},
+"Subfin Cannons of the Mechalodon Interdictor": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/gyrocopter/submersible_aircraft_08_weapon/submersible_aircraft_08_weapon",
+"item_name": "#DOTA_Item_Subfin_Cannons_of_the_Mechalodon_Interdictor",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/gyrocopter/submersible_aircraft_08_weapon/submersible_aircraft_08_weapon.vmdl",
+"name": "Subfin Cannons of the Mechalodon Interdictor",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_gyrocopter": "1"
+}
+},
+"Submerged Hazard Hull": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/tinker/deep_sea_robot_shoulder/deep_sea_robot_shoulder",
+"item_name": "#DOTA_Item_Submerged_Hazard_Hull",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/tinker/deep_sea_robot_shoulder/deep_sea_robot_shoulder.vmdl",
+"name": "Submerged Hazard Hull",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_tinker": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/tinker/tinker_deepsea/tinker_deepsea_shoulder_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Submerged Hazard Laser": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/tinker/deep_sea_robot_weapon/deep_sea_robot_weapon",
+"item_name": "#DOTA_Item_Submerged_Hazard_Laser",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/tinker/deep_sea_robot_weapon/deep_sea_robot_weapon.vmdl",
+"name": "Submerged Hazard Laser",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_tinker": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/tinker/tinker_deepsea/tinker_deepsea_weapon_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"skip_model_combine": "1"
+}
+},
+"Submerged Hazard Launcher": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/tinker/deep_sea_robot_off_hand/deep_sea_robot_off_hand",
+"item_name": "#DOTA_Item_Submerged_Hazard_Launcher",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/tinker/deep_sea_robot_off_hand/deep_sea_robot_off_hand.vmdl",
+"name": "Submerged Hazard Launcher",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_tinker": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/tinker/tinker_deepsea/tinker_deepsea_offhand_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"skip_model_combine": "1"
+}
+},
+"Submerged Hazard Mask": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/tinker/deep_sea_robot_head/deep_sea_robot_head",
+"item_name": "#DOTA_Item_Submerged_Hazard_Mask",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/tinker/deep_sea_robot_head/deep_sea_robot_head.vmdl",
+"name": "Submerged Hazard Mask",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_tinker": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/tinker/tinker_deepsea/tinker_deepsea_head_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Submerged Hazard Propeller": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/tinker/deep_sea_robot_back/deep_sea_robot_back",
+"item_name": "#DOTA_Item_Submerged_Hazard_Propeller",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/tinker/deep_sea_robot_back/deep_sea_robot_back.vmdl",
+"name": "Submerged Hazard Propeller",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_tinker": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/tinker/tinker_deepsea/tinker_deepsea_back_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"skip_model_combine": "1"
+}
+},
+"Sullen Harvest": {
+"creation_date": "2017-02-08",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/necrolyte/immortal_scythe/immortal_scythe",
+"item_description": "#DOTA_Item_Desc_Sullen_Harvest",
+"item_name": "#DOTA_Item_Sullen_Harvest",
+"item_rarity": "immortal",
+"item_type_name": "#DOTA_WearableType_weapon",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/necrolyte/immortal_scythe/immortal_scythe.vmdl",
+"name": "Sullen Harvest",
+"particle_folder": "particles/econ/items/necrolyte/necrophos_sullen",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_necrolyte": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "necrolyte_reapers_scythe",
+"modifier": "necrolyte/necro_ti7_immortal/necrolyte_reapers_scythe",
+"style": "0",
+"type": "ability_icon"
+},
+"skip_model_combine": "1"
+}
+}
+},
+"T": {
+"Tail of the Chitinous Stalker": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/nerubian_assassin/reef_stalker_exoskeleton_misc/reef_stalker_exoskeleton_misc",
+"item_name": "#DOTA_Item_Tail_of_the_Chitinous_Stalker",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_misc",
+"model_player": "models/items/nerubian_assassin/reef_stalker_exoskeleton_misc/reef_stalker_exoskeleton_misc.vmdl",
+"name": "Tail of the Chitinous Stalker",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_nyx_assassin": "1"
+}
+},
+"Tail of the Cunning Corsair": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/rikimaru/riki_cunning_corsair_ti_2017_tail/riki_cunning_corsair_ti_2017_tail",
+"item_name": "#DOTA_Item_Tail_of_the_Cunning_Corsair",
+"item_rarity": "mythical",
+"item_slot": "tail",
+"item_type_name": "#DOTA_WearableType_tail",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/rikimaru/riki_cunning_corsair_ti_2017_tail/riki_cunning_corsair_ti_2017_tail.vmdl",
+"name": "Tail of the Cunning Corsair",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_riki": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/riki/riki_cunning_crosair/riki_cunning_crosair_tail_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"skip_model_combine": "1"
+}
+},
+"Tail of the Kray Legions": {
+"creation_date": "2017-05-22",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/sand_king/sandking_shrimp_king_back_v2/sandking_shrimp_king_back_v2",
+"item_name": "#DOTA_Item_Tail_of_the_Kray_Legions",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/sand_king/sandking_shrimp_king_back_v2/sandking_shrimp_king_back_v2.vmdl",
+"name": "Tail of the Kray Legions",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_sand_king": "1"
+}
+},
+"Tail of the Virulent Krait": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/venomancer/venomancer_hydra_switch_color_tail/venomancer_hydra_switch_color_tail",
+"item_name": "#DOTA_Item_Tail_of_the_Virulent_Krait",
+"item_rarity": "mythical",
+"item_slot": "tail",
+"item_type_name": "#DOTA_WearableType_tail",
+"model_player": "models/items/venomancer/venomancer_hydra_switch_color_tail/venomancer_hydra_switch_color_tail.vmdl",
+"name": "Tail of the Virulent Krait",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_venomancer": "1"
+}
+},
+"Tailfin of the Mechalodon Interdictor": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/gyrocopter/submersible_aircraft_08_back/submersible_aircraft_08_back",
+"item_name": "#DOTA_Item_Tailfin_of_the_Mechalodon_Interdictor",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/gyrocopter/submersible_aircraft_08_back/submersible_aircraft_08_back.vmdl",
+"name": "Tailfin of the Mechalodon Interdictor",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_gyrocopter": "1"
+}
+},
+"Tank of the Manta Marauder": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/batrider/manta_rayder_ti7_shoulder/manta_rayder_ti7_shoulder",
+"item_name": "#DOTA_Item_Tank_of_the_Manta_Marauder",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/batrider/manta_rayder_ti7_shoulder/manta_rayder_ti7_shoulder.vmdl",
+"name": "Tank of the Manta Marauder",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_batrider": "1"
+}
+},
+"Tentacles of the Jolly Reaver": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/pudge/pudge_deep_sea_abomination_shoulder/pudge_deep_sea_abomination_shoulder",
+"item_name": "#DOTA_Item_Tentacles_of_the_Jolly_Reaver",
+"item_rarity": "mythical",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/pudge/pudge_deep_sea_abomination_shoulder/pudge_deep_sea_abomination_shoulder.vmdl",
+"name": "Tentacles of the Jolly Reaver",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_pudge": "1"
+}
+},
+"The Barren Vector": {
+"creation_date": "2017-06-21",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/sand_king/sand_king_immortal_arms_ti7/sand_king_ti7_immortal_arms",
+"item_description": "#DOTA_Item_Desc_The_Barren_Pincer",
+"item_name": "#DOTA_Item_The_Barren_Vector",
+"item_rarity": "immortal",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/sand_king/sand_king_immortal_arms_ti7/sand_king_ti7_immortal_arms.vmdl",
+"name": "The Barren Vector",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_sand_king": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "sandking_caustic_finale",
+"modifier": "sand_king/immortal/sandking_caustic_finale",
+"style": "0",
+"type": "ability_icon"
+},
+"skip_model_combine": "1"
+}
+},
+"Torpedo of the Mechalodon Interdictor": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/gyrocopter/submersible_aircraft_08_off_hand/submersible_aircraft_08_off_hand",
+"item_name": "#DOTA_Item_Torpedo_of_the_Mechalodon_Interdictor",
+"item_rarity": "mythical",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/gyrocopter/submersible_aircraft_08_off_hand/submersible_aircraft_08_off_hand.vmdl",
+"name": "Torpedo of the Mechalodon Interdictor",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_gyrocopter": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "npc_dota_gyrocopter_homing_missile",
+"modifier": "models/items/gyrocopter/submersible_aircraft_08_off_hand/submersible_aircraft_08_off_hand.vmdl",
+"type": "entity_model"
+}
+}
+},
+"Torpedo of the Pressure Regulator": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/rattletrap/scubawerk_ti7_misc/scubawerk_ti7_misc",
+"item_name": "#DOTA_Item_Torpedo_of_the_Pressure_Regulator",
+"item_rarity": "mythical",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_misc",
+"model_player": "models/items/rattletrap/scubawerk_ti7_misc/scubawerk_ti7_misc.vmdl",
+"name": "Torpedo of the Pressure Regulator",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_rattletrap": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+},
+"Transversant Soul": {
+"creation_date": "2017-02-20",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/spectre/immortal_shoulders/immortal_shoulders",
+"item_description": "#DOTA_Item_Desc_Transversant_Soul",
+"item_name": "#DOTA_Item_Transversant_Soul",
+"item_rarity": "immortal",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/spectre/immortal_shoulders/immortal_shoulders.vmdl",
+"name": "Transversant Soul",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_spectre": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/units/heroes/hero_spectre/spectre_shadow_path_owner.vpcf",
+"modifier": "particles/econ/items/spectre/spectre_transversant_soul/spectre_transversant_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"skip_model_combine": "1"
+}
+},
+"Transversant Soul of the Crimson Witness": {
+"creation_date": "2017-08-02",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/spectre/immortal_shoulders/immortal_shoulders1",
+"item_description": "#DOTA_Item_Desc_Transversant_Soul_of_the_Crimson_Witness",
+"item_name": "#DOTA_Item_Transversant_Soul_of_the_Crimson_Witness",
+"item_rarity": "immortal",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/spectre/immortal_shoulders/immortal_shoulders.vmdl",
+"name": "Transversant Soul of the Crimson Witness",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_spectre": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/units/heroes/hero_spectre/spectre_shadow_path_owner.vpcf",
+"modifier": "particles/econ/items/spectre/spectre_transversant_soul/spectre_ti7_golden_transversant_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"skin": "1",
+"skip_model_combine": "1"
+}
+},
+"Trident of the Riptide Raider": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/monkey_king/monkey_king_king_of_the_dark_reef_ti_2017_weapon/monkey_king_king_of_the_dark_reef_ti_2017_weapon",
+"item_name": "#DOTA_Item_Trident_of_the_Riptide_Raider",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/monkey_king/monkey_king_king_of_the_dark_reef_ti_2017_weapon/monkey_king_king_of_the_dark_reef_ti_2017_weapon.vmdl",
+"name": "Trident of the Riptide Raider",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_monkey_king": "1"
+},
+"visuals": {
+"skip_model_combine": "0"
+}
+},
+"Trident of the Samareen Sacrifice": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/huskar/huskar_poseidon_weapon/huskar_poseidon_weapon",
+"item_name": "#DOTA_Item_Trident_of_the_Samareen_Sacrifice",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/huskar/huskar_poseidon_weapon/huskar_poseidon_weapon.vmdl",
+"name": "Trident of the Samareen Sacrifice",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_huskar": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "ALL",
+"modifier": "spear",
+"type": "activity"
+},
+"skip_model_combine": "1"
+}
+}
+},
+"V": {
+"Valves of the Pressure Regulator": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/rattletrap/scubawerk_ti7_armor/scubawerk_ti7_armor",
+"item_name": "#DOTA_Item_Valves_of_the_Pressure_Regulator",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/rattletrap/scubawerk_ti7_armor/scubawerk_ti7_armor.vmdl",
+"name": "Valves of the Pressure Regulator",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_rattletrap": "1"
+},
+"visuals": {
+"asset_modifier": {
+"modifier": "particles/econ/items/clockwerk/clockwerk_scubawerk/clockwerk_scubawerk_armor_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+}
+}
+},
+"Veil of Eternal Testament": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/death_prophet/drowned_siren_head/drowned_siren_head",
+"item_name": "#DOTA_Item_Veil_of_Eternal_Testament",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/death_prophet/drowned_siren_head/drowned_siren_head.vmdl",
+"name": "Veil of Eternal Testament",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_death_prophet/death_prophet_ambient_hair.vpcf",
+"type": "particle_create"
+},
+"skip_model_combine": "1"
+}
+},
+"Vigil Triumph": {
+"creation_date": "2017-06-26",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/sven/sven_ti7_immortal_sword/sven_ti7_immortal_sword",
+"item_description": "#DOTA_Item_Desc_Sven_TI7_Immortal_Sword",
+"item_name": "#DOTA_Item_Vigil_Triumph",
+"item_rarity": "immortal",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/sven/sven_ti7_immortal_sword/sven_ti7_immortal_sword.vmdl",
+"name": "Vigil Triumph",
+"prefab": "wearable",
+"static_attributes": {
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_sven": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/sven/sven_ti7_immortal_sword/sven_ti7_immortal_sword"
+}
+},
+"asset_modifier": {
+"asset": "sven_great_cleave",
+"control_point_number": "2",
+"cp_position": "1 0 0",
+"modifier": "sven/immortal/sven_great_cleave",
+"style": "0",
+"type": "ability_icon"
+},
+"hide_styles_from_ui": "1",
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"auto_style_rule": "modifier_sven_gods_strength == 0",
+"name": "#DOTA_Style_Monkey_King_Arcana_Base"
+},
+"1": {
+"auto_style_rule": "modifier_sven_gods_strength > 0",
+"name": "#DOTA_Style_Monkey_King_Arcana_Water"
+}
+}
+}
+}
+},
+"W": {
+"Watcher of the Virulent Krait": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/venomancer/ward/venomancer_hydra_snakeward/venomancer_hydra_snakeward_npc_dota_venomancer_plague_ward",
+"item_name": "#DOTA_Item_Watcher_of_the_Virulent_Krait",
+"item_rarity": "mythical",
+"item_slot": "ability3",
+"name": "Watcher of the Virulent Krait",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_venomancer": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "npc_dota_venomancer_plague_ward",
+"modifier": "models/items/venomancer/ward/venomancer_hydra_snakeward/venomancer_hydra_snakeward.vmdl",
+"type": "entity_model"
+}
+}
+},
+"Weeds of Eternal Testament": {
+"creation_date": "2017-05-16",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/death_prophet/drowned_siren_misc/drowned_siren_misc",
+"item_name": "#DOTA_Item_Weeds_of_Eternal_Testament",
+"item_rarity": "mythical",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_misc",
+"model_player": "models/items/death_prophet/drowned_siren_misc/drowned_siren_misc.vmdl",
+"name": "Weeds of Eternal Testament",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_death_prophet": "1"
+}
+},
+"Wings of Daybreak": {
+"creation_date": "2017-03-22",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/keeper_of_the_light/ti7_immortal_mount/kotl_ti7_immortal_horse",
+"item_description": "#DOTA_Item_Desc_Wings_of_Daybreak",
+"item_name": "#DOTA_Item_Wings_of_Daybreak",
+"item_rarity": "immortal",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_Mount",
+"model_player": "models/items/keeper_of_the_light/ti7_immortal_mount/kotl_ti7_immortal_horse.vmdl",
+"name": "Wings of Daybreak",
+"prefab": "wearable",
+"propername": "1",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_keeper_of_the_light": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "keeper_of_the_light_spirit_form_illuminate_end",
+"modifier": "keeper_of_the_light/kotl_ti7_immortal/keeper_of_the_light_illuminate_end_alt",
+"style": "0",
+"type": "ability_icon"
+},
+"skip_model_combine": "1"
+}
+},
+"Wings of the Katekhein": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/winter_wyvern/wyvern_of_the_sea_back/wyvern_of_the_sea_back",
+"item_name": "#DOTA_Item_Wings_of_the_Katekhein",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/winter_wyvern/wyvern_of_the_sea_back/wyvern_of_the_sea_back.vmdl",
+"name": "Wings of the Katekhein",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_winter_wyvern": "1"
+}
+},
+"Wraps of Seablight Procession": {
+"creation_date": "2017-05-17",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/undying/davy_jones_set_head/davy_jones_set_head",
+"item_name": "#DOTA_Item_Wraps_of_Seablight_Procession",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/undying/davy_jones_set_head/davy_jones_set_head.vmdl",
+"name": "Wraps of Seablight Procession",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Exclusive_To_TI7_BattlePass_Owners"
+},
+"international tag": {
+"attribute_class": "international_tag",
+"value": "2017"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_undying": "1"
+}
+},
+"Wyrmwrought Flare": {
+"creation_date": "2017-05-10",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/lina/lina_ti7/lina_ti7",
+"item_description": "#DOTA_Item_Desc_Wyrmwrought_Flare",
+"item_name": "#DOTA_Item_Wyrmwrought_Flare",
+"item_rarity": "immortal",
+"item_slot": "belt",
+"item_type_name": "#DOTA_WearableType_Skirt",
+"model_player": "models/items/lina/lina_ti7/lina_ti7.vmdl",
+"name": "Wyrmwrought Flare",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_lina": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "lina_light_strike_array",
+"modifier": "lina/lina_ti7_immortal/lina_light_strike_array",
+"style": "0",
+"type": "ability_icon"
+},
+"skip_model_combine": "1"
+}
+}
+},
+"Y": {
+"Yulsaria's Mantle": {
+"creation_date": "2017-05-04",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"hide_tradecraftdelete": "1",
+"image_inventory": "econ/items/crystal_maiden/immortal_shoulders/cm_immortal_shoulders",
+"item_description": "#DOTA_Item_Desc_Yulsarias_Mantle",
+"item_name": "#DOTA_Item_Yulsarias_Mantle",
+"item_rarity": "immortal",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shawl",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/crystal_maiden/immortal_shoulders/cm_immortal_shoulders.vmdl",
+"name": "Yulsaria's Mantle",
+"particle_folder": "particles/econ/items/crystal_maiden/crystal_maiden_cowl_of_ice",
+"prefab": "wearable",
+"static_attributes": {
+"additional_tooltip_text": {
+"attribute_class": "additional_tooltip_text",
+"value": "#DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners"
+},
+"tradable after date": {
+"attribute_class": "tradable_after_date",
+"value": "1535796000"
+}
+},
+"used_by_heroes": {
+"npc_dota_hero_crystal_maiden": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/units/heroes/hero_crystalmaiden/maiden_base_attack.vpcf",
+"modifier": "particles/econ/items/crystal_maiden/ti7_immortal_shoulder/cm_ti7_immortal_base_attack.vpcf",
+"style": "0",
+"type": "particle"
+},
+"skip_model_combine": "1"
+}
+}
+}
+}
