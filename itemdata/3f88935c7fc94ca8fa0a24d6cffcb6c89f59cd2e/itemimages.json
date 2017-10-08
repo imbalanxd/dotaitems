@@ -1,0 +1,154 @@
+{
+"allure_of_the_deep_armor": {
+"large": "icons/econ/items/siren/allure_of_the_deep_armor/allure_of_the_deep_armor_large.8b9a0b617d08fe2be3dc9bb87814e31418bb8858.png",
+"normal": "icons/econ/items/siren/allure_of_the_deep_armor/allure_of_the_deep_armor.23a5bc39dad366f4d87918ccea9c3922fd2952f7.png"
+},
+"allure_of_the_deep_head": {
+"large": "icons/econ/items/siren/allure_of_the_deep_head/allure_of_the_deep_head_large.ee1b3cfc2f30f92f747bdb1f18a1e912cd511445.png",
+"normal": "icons/econ/items/siren/allure_of_the_deep_head/allure_of_the_deep_head.c0540a975673e06bd44967a18baf2878ddf76859.png"
+},
+"allure_of_the_deep_legs": {
+"large": "icons/econ/items/siren/allure_of_the_deep_legs/allure_of_the_deep_legs_large.1da0aa5413be76e50c83804f6f6c8e86e707f3e2.png",
+"normal": "icons/econ/items/siren/allure_of_the_deep_legs/allure_of_the_deep_legs.4820ffce829683f1bd511fbfcb97358b17c9f8b0.png"
+},
+"allure_of_the_deep_off_hand": {
+"large": "icons/econ/items/siren/allure_of_the_deep_off_hand/allure_of_the_deep_off_hand_large.f5420d4d2a567cc837fcd409988a20a90e9ede04.png",
+"normal": "icons/econ/items/siren/allure_of_the_deep_off_hand/allure_of_the_deep_off_hand.84e69e90436d58891bb8f459f364cdcddb769c37.png"
+},
+"allure_of_the_deep_weapon": {
+"large": "icons/econ/items/siren/allure_of_the_deep_weapon/allure_of_the_deep_weapon_large.70e893471d9dc2f1d782f6eb168dae034b22b0a3.png",
+"normal": "icons/econ/items/siren/allure_of_the_deep_weapon/allure_of_the_deep_weapon.4888b7352f5b71b278304f8b74dd7bcdbdc64d01.png"
+},
+"clockwerk_red_baron_armor": {
+"large": "icons/econ/items/rattletrap/clockwerk_red_baron_armor/clockwerk_red_baron_armor_large.aff6e85352708f295856c704a666f5dd90b9e6f2.png",
+"normal": "icons/econ/items/rattletrap/clockwerk_red_baron_armor/clockwerk_red_baron_armor.422643d6cb6dfe870911f9cad5d971a0a0b7eed3.png"
+},
+"clockwerk_red_baron_clockwerk_red_baron_cog": {
+"large": "icons/econ/items/rattletrap/clockwerk_red_baron_clockwerk_red_baron_cog/clockwerk_red_baron_clockwerk_red_baron_cog_large.7008d6943018ec50ac0c32f71bfb47208556ebd8.png",
+"normal": "icons/econ/items/rattletrap/clockwerk_red_baron_clockwerk_red_baron_cog/clockwerk_red_baron_clockwerk_red_baron_cog.4e20b64eddc424a52d596f0b1f80058f7537e564.png"
+},
+"clockwerk_red_baron_head": {
+"large": "icons/econ/items/rattletrap/clockwerk_red_baron_head/clockwerk_red_baron_head_large.78aac498a71689fd2e510837ee78401ef15e38e3.png",
+"normal": "icons/econ/items/rattletrap/clockwerk_red_baron_head/clockwerk_red_baron_head.5951803e562d2133c50c41d1ebd447b675061c48.png"
+},
+"clockwerk_red_baron_misc": {
+"large": "icons/econ/items/rattletrap/clockwerk_red_baron_misc/clockwerk_red_baron_misc_large.4127d92ae8045c6ac7a9c2e013edd6bc9f193780.png",
+"normal": "icons/econ/items/rattletrap/clockwerk_red_baron_misc/clockwerk_red_baron_misc.50eb83fbc292d4a1d706067747e19f372846e31b.png"
+},
+"clockwerk_red_baron_weapon": {
+"large": "icons/econ/items/rattletrap/clockwerk_red_baron_weapon/clockwerk_red_baron_weapon_large.e80d29c837c7fad4be7cff6976fe5d146db64891.png",
+"normal": "icons/econ/items/rattletrap/clockwerk_red_baron_weapon/clockwerk_red_baron_weapon.54c090d9f1b44bedc0f2b8bacdd614c57442c579.png"
+},
+"gambling_mage_rubick_back": {
+"large": "icons/econ/items/rubick/gambling_mage_rubick_back/gambling_mage_rubick_back_large.360f36f6edf004ba586afc96ba6f2debbbba2f1c.png",
+"normal": "icons/econ/items/rubick/gambling_mage_rubick_back/gambling_mage_rubick_back.a947c5edec4ba4273f3a932832a290bc942eae6a.png"
+},
+"gambling_mage_rubick_head": {
+"large": "icons/econ/items/rubick/gambling_mage_rubick_head/gambling_mage_rubick_head_large.081c0d621edc3d0eb1fa5f0c72a003f13d8e934d.png",
+"normal": "icons/econ/items/rubick/gambling_mage_rubick_head/gambling_mage_rubick_head.7daf6bc1d29ee5f92d5a71c68efba3b3bcf90ad7.png"
+},
+"gambling_mage_rubick_shoulder": {
+"large": "icons/econ/items/rubick/gambling_mage_rubick_shoulder/gambling_mage_rubick_shoulder_large.c3cbe4c08e8469e0017b6947f36bc123d02c4f25.png",
+"normal": "icons/econ/items/rubick/gambling_mage_rubick_shoulder/gambling_mage_rubick_shoulder.c294cad3bfbdeaba53a4a7da61542a775a07afa3.png"
+},
+"gambling_mage_rubick_weapon": {
+"large": "icons/econ/items/rubick/gambling_mage_rubick_weapon/gambling_mage_rubick_weapon_large.92f60d3a44634d9fd5ae7a0cd1a985b2bde23014.png",
+"normal": "icons/econ/items/rubick/gambling_mage_rubick_weapon/gambling_mage_rubick_weapon.171d4d057730d9b73e9b8e2c9aa52568f1199947.png"
+},
+"knight_of_foulfell_demon": {
+"large": "icons/econ/items/terrorblade/knight_of_foulfell_demon/knight_of_foulfell_demon_large.7683f91c49c50f7870e0d0f431197dca1db1c175.png",
+"normal": "icons/econ/items/terrorblade/knight_of_foulfell_demon/knight_of_foulfell_demon.929c47877f9d9d55b9095cf503c308856b77a8db.png"
+},
+"knight_of_foulfell_terrorblade_armor": {
+"large": "icons/econ/items/terrorblade/knight_of_foulfell_terrorblade_armor/knight_of_foulfell_terrorblade_armor_large.597011bb7f29c6801eac55988e28cb7d6d489ce5.png",
+"normal": "icons/econ/items/terrorblade/knight_of_foulfell_terrorblade_armor/knight_of_foulfell_terrorblade_armor.2e49395bf42e8fae4cdd84a7f4d0d1f13d52d5f1.png"
+},
+"knight_of_foulfell_terrorblade_back": {
+"large": "icons/econ/items/terrorblade/knight_of_foulfell_terrorblade_back/knight_of_foulfell_terrorblade_back_large.ae9f4691e041fcb202e97f5c39fb06f9e5e3a76b.png",
+"normal": "icons/econ/items/terrorblade/knight_of_foulfell_terrorblade_back/knight_of_foulfell_terrorblade_back.25a5fec8b21d78f208a0de52d69c58f4979cfab0.png"
+},
+"knight_of_foulfell_terrorblade_head": {
+"large": "icons/econ/items/terrorblade/knight_of_foulfell_terrorblade_head/knight_of_foulfell_terrorblade_head_large.6abaf3aa834816050699fe2ef2ee255147902d43.png",
+"normal": "icons/econ/items/terrorblade/knight_of_foulfell_terrorblade_head/knight_of_foulfell_terrorblade_head.f0a2f51cc69aa77a7498ab1effe2bb3763ece3b8.png"
+},
+"knight_of_foulfell_terrorblade_weapon": {
+"large": "icons/econ/items/terrorblade/knight_of_foulfell_terrorblade_weapon/knight_of_foulfell_terrorblade_weapon_large.fb91e9ae5f447a9a357ae3b643c24ad65202f3cd.png",
+"normal": "icons/econ/items/terrorblade/knight_of_foulfell_terrorblade_weapon/knight_of_foulfell_terrorblade_weapon.77fd272df47b2b23797964a9a219d08c2712097b.png"
+},
+"krakens_ravager_arms": {
+"large": "icons/econ/items/nevermore/krakens_ravager_arms/krakens_ravager_arms_large.0b23e8127a89f756a518a5d03218d4941f398584.png",
+"normal": "icons/econ/items/nevermore/krakens_ravager_arms/krakens_ravager_arms.4c05208afb891f25e270b7f98da483994c8f8d20.png"
+},
+"krakens_ravager_head": {
+"large": "icons/econ/items/nevermore/krakens_ravager_head/krakens_ravager_head_large.c49d4059451f40197eaa0e2f26955dc0653ea5ef.png",
+"normal": "icons/econ/items/nevermore/krakens_ravager_head/krakens_ravager_head.241caaa3d41991d5d5ea5ed42c7b42bf2e712591.png"
+},
+"krakens_ravager_shoulder": {
+"large": "icons/econ/items/nevermore/krakens_ravager_shoulder/krakens_ravager_shoulder_large.27e4fb64682ed1e0d2966dca230284c92a58b13b.png",
+"normal": "icons/econ/items/nevermore/krakens_ravager_shoulder/krakens_ravager_shoulder.5e9b1ec8f82769a47d9d365cba80d51271454506.png"
+},
+"tentacular_conqueror_armor": {
+"large": "icons/econ/items/enigma/tentacular_conqueror_armor/tentacular_conqueror_armor_large.85c11aea95a2c40fd664e6dfd18f11e6fd9c9535.png",
+"normal": "icons/econ/items/enigma/tentacular_conqueror_armor/tentacular_conqueror_armor.7b60413d43f364d7d0a652634ed3dd61b8b2e8a4.png"
+},
+"tentacular_conqueror_arms": {
+"large": "icons/econ/items/enigma/tentacular_conqueror_arms/tentacular_conqueror_arms_large.422ca3efe5b2d2e14cb76029fd82e4166b9858df.png",
+"normal": "icons/econ/items/enigma/tentacular_conqueror_arms/tentacular_conqueror_arms.194f6de78a10d438b42e2fb4dafbc3b83e729c0c.png"
+},
+"tentacular_conqueror_head": {
+"large": "icons/econ/items/enigma/tentacular_conqueror_head/tentacular_conqueror_head_large.4dca137157b51a97ccc0eb95b818e3bd9a4a53d1.png",
+"normal": "icons/econ/items/enigma/tentacular_conqueror_head/tentacular_conqueror_head.7c916ebb5bbe4cd10faae3804622c97f7c4ee426.png"
+},
+"tentacular_conqueror_tentacular_conqueror_eidolons_npc_dota_eidolon": {
+"large": "icons/econ/items/enigma/eidolon/tentacular_conqueror_tentacular_conqueror_eidolons/tentacular_conqueror_tentacular_conqueror_eidolons_npc_dota_eidolon_large.14ff3cc3d699fbe71f64c593b7b509a958f09538.png",
+"normal": "icons/econ/items/enigma/eidolon/tentacular_conqueror_tentacular_conqueror_eidolons/tentacular_conqueror_tentacular_conqueror_eidolons_npc_dota_eidolon.11d0b6f37565bba0f934a36d7ebc8f8135063b23.png"
+},
+"the_havoc_of_dragon_palacesix_ear_armor": {
+"large": "icons/econ/items/monkey_king/the_havoc_of_dragon_palacesix_ear_armor/the_havoc_of_dragon_palacesix_ear_armor_large.a6aec8f99ebf7719c9aeeba508fae29e6fb36726.png",
+"normal": "icons/econ/items/monkey_king/the_havoc_of_dragon_palacesix_ear_armor/the_havoc_of_dragon_palacesix_ear_armor.1e193c8c6c1117516ecf37fc85af67db7feb5cff.png"
+},
+"the_havoc_of_dragon_palacesix_ear_head": {
+"large": "icons/econ/items/monkey_king/the_havoc_of_dragon_palacesix_ear_head/the_havoc_of_dragon_palacesix_ear_head_large.11c55048edc488849811e75cfcace5aeee2317e4.png",
+"normal": "icons/econ/items/monkey_king/the_havoc_of_dragon_palacesix_ear_head/the_havoc_of_dragon_palacesix_ear_head.13edd99a7e902bbf759194470460f3207bebea15.png"
+},
+"the_havoc_of_dragon_palacesix_ear_weapon": {
+"large": "icons/econ/items/monkey_king/the_havoc_of_dragon_palacesix_ear_weapon/the_havoc_of_dragon_palacesix_ear_weapon_large.a9c51b1af5072a2dd41b73f4a9eb054619de3611.png",
+"normal": "icons/econ/items/monkey_king/the_havoc_of_dragon_palacesix_ear_weapon/the_havoc_of_dragon_palacesix_ear_weapon.19f877060136a0c211ad8eafbe8740450daa3422.png"
+},
+"the_plaguemonger_plaguemongers_beard": {
+"large": "icons/econ/items/necrolyte/the_plaguemonger_plaguemongers_beard/the_plaguemonger_plaguemongers_beard_large.6ee573898ff3a29d76bd2519ba49d816baf5935d.png",
+"normal": "icons/econ/items/necrolyte/the_plaguemonger_plaguemongers_beard/the_plaguemonger_plaguemongers_beard.3f47e14030838d0741b255d1dd7dfa1d7f423c4b.png"
+},
+"the_plaguemonger_plaguemongers_headdress": {
+"large": "icons/econ/items/necrolyte/the_plaguemonger_plaguemongers_headdress/the_plaguemonger_plaguemongers_headdress_large.ad9a1ac529d9aa3740cf2fffe77752991576cc0f.png",
+"normal": "icons/econ/items/necrolyte/the_plaguemonger_plaguemongers_headdress/the_plaguemonger_plaguemongers_headdress.dd64ad7db293ce4b705f9559972b3b75a631f882.png"
+},
+"the_plaguemonger_plaguemongers_robe": {
+"large": "icons/econ/items/necrolyte/the_plaguemonger_plaguemongers_robe/the_plaguemonger_plaguemongers_robe_large.5b57681c4a80deed4d13ac6ad54fe43c7a105d61.png",
+"normal": "icons/econ/items/necrolyte/the_plaguemonger_plaguemongers_robe/the_plaguemonger_plaguemongers_robe.6517bd9fecfba761fea8cd33588711005c44956a.png"
+},
+"the_plaguemonger_plaguemongers_scythe": {
+"large": "icons/econ/items/necrolyte/the_plaguemonger_plaguemongers_scythe/the_plaguemonger_plaguemongers_scythe_large.a015038634d3dc92937f9ec5380308b6f4fb609e.png",
+"normal": "icons/econ/items/necrolyte/the_plaguemonger_plaguemongers_scythe/the_plaguemonger_plaguemongers_scythe.52505efaeadf7fc5d94aa4471ff2fec2ed734378.png"
+},
+"the_sunken_horseman_abaddon_back": {
+"large": "icons/econ/items/abaddon/the_sunken_horseman_abaddon_back/the_sunken_horseman_abaddon_back_large.56b869dbc4f5c7c0c9c1e534dcfed516efb5b4e1.png",
+"normal": "icons/econ/items/abaddon/the_sunken_horseman_abaddon_back/the_sunken_horseman_abaddon_back.d08533a18b21e1fde4b38d835bc75ca0ef8176df.png"
+},
+"the_sunken_horseman_abaddon_head": {
+"large": "icons/econ/items/abaddon/the_sunken_horseman_abaddon_head/the_sunken_horseman_abaddon_head_large.76ef88b9ec8e3a843cc808a200577b16852768d2.png",
+"normal": "icons/econ/items/abaddon/the_sunken_horseman_abaddon_head/the_sunken_horseman_abaddon_head.08b0edd9af968df2c96545640a87ff530a53ed71.png"
+},
+"the_sunken_horseman_abaddon_mount": {
+"large": "icons/econ/items/abaddon/the_sunken_horseman_abaddon_mount/the_sunken_horseman_abaddon_mount_large.e797189370f1252ca9f92392a680dda225385ab1.png",
+"normal": "icons/econ/items/abaddon/the_sunken_horseman_abaddon_mount/the_sunken_horseman_abaddon_mount.92f50be9ad15027f9a86e915fd84ba812c5ac552.png"
+},
+"the_sunken_horseman_abaddon_shoulder": {
+"large": "icons/econ/items/abaddon/the_sunken_horseman_abaddon_shoulder/the_sunken_horseman_abaddon_shoulder_large.dcd80160a196c9036bcac78925f8e9fb57a73467.png",
+"normal": "icons/econ/items/abaddon/the_sunken_horseman_abaddon_shoulder/the_sunken_horseman_abaddon_shoulder.33692167d9e06cf63dd3180e61324671b4c8f57d.png"
+},
+"the_sunken_horseman_abaddon_weapon": {
+"large": "icons/econ/items/abaddon/the_sunken_horseman_abaddon_weapon/the_sunken_horseman_abaddon_weapon_large.b9fcff20c5ebb4e8d754569ce552833f729762be.png",
+"normal": "icons/econ/items/abaddon/the_sunken_horseman_abaddon_weapon/the_sunken_horseman_abaddon_weapon.858ff376596f86ff50e6c475ae478a54b5fd3510.png"
+}
+}

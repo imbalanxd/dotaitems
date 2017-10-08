@@ -1,0 +1,62 @@
+{
+"A": {},
+"B": {},
+"C": {},
+"D": {},
+"E": {},
+"F": {},
+"G": {
+"Golden Wings of the Manticore": {
+"creation_date": "2017-09-14",
+"event_id": "EVENT_ID_INTERNATIONAL_2017",
+"image_inventory": "econ/items/skywrath_mage/manticore_of_the_eyrie_wings/manticore_of_the_eyrie_wings_golden",
+"item_description": "#DOTA_Item_Desc_Copy_of_Wings_of_the_Manticore",
+"item_name": "#DOTA_Item_Golden_Wings_of_the_Manticore",
+"item_rarity": "legendary",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_Wings",
+"model_player": "models/items/skywrath_mage/manticore_of_the_eyrie_wings/manticore_of_the_eyrie_wings.vmdl",
+"name": "Golden Wings of the Manticore",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_skywrath_mage": "1"
+},
+"visuals": {
+"alternate_icons": {
+"0": {
+"icon_path": "econ/items/skywrath_mage/manticore_of_the_eyrie_wings/manticore_of_the_eyrie_wings"
+},
+"1": {
+"icon_path": "econ/items/skywrath_mage/manticore_of_the_eyrie_wings/manticore_of_the_eyrie_wings_style1"
+}
+},
+"asset_modifier0": {
+"modifier": "particles/econ/items/skywrath_mage/manticore/wings_of_the_manticore_golden_ambientfx.vpcf",
+"type": "particle_create"
+},
+"skip_model_combine": "1",
+"styles": {
+"0": {
+"skin": "1"
+}
+}
+}
+}
+},
+"H": {},
+"I": {},
+"J": {},
+"K": {},
+"L": {},
+"M": {},
+"N": {},
+"O": {},
+"P": {},
+"Q": {},
+"R": {},
+"S": {},
+"T": {},
+"V": {},
+"W": {},
+"Y": {}
+}

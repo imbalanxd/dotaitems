@@ -1,0 +1,683 @@
+{
+"A": {
+"Armor of Endless Stars": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/enigma/tentacular_conqueror_armor/tentacular_conqueror_armor",
+"item_name": "#DOTA_Item_Armor_of_Endless_Stars",
+"item_rarity": "rare",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/enigma/tentacular_conqueror_armor/tentacular_conqueror_armor.vmdl",
+"name": "Armor of Endless Stars",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_enigma": "1"
+}
+},
+"Armor of the Dragon Palace": {
+"creation_date": "2017-09-11",
+"image_inventory": "econ/items/monkey_king/the_havoc_of_dragon_palacesix_ear_armor/the_havoc_of_dragon_palacesix_ear_armor",
+"item_name": "#DOTA_Item_Armor_of_the_Dragon_Palace",
+"item_rarity": "rare",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/monkey_king/the_havoc_of_dragon_palacesix_ear_armor/the_havoc_of_dragon_palacesix_ear_armor.vmdl",
+"name": "Armor of the Dragon Palace",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_monkey_king": "1"
+},
+"visuals": {
+"skip_model_combine": "0"
+}
+},
+"Armor of the Foulfell Corruptor": {
+"creation_date": "2017-09-11",
+"image_inventory": "econ/items/terrorblade/knight_of_foulfell_terrorblade_armor/knight_of_foulfell_terrorblade_armor",
+"item_name": "#DOTA_Item_Armor_of_the_Foulfell_Corruptor",
+"item_rarity": "mythical",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/terrorblade/knight_of_foulfell_terrorblade_armor/knight_of_foulfell_terrorblade_armor.vmdl",
+"name": "Armor of the Foulfell Corruptor",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_terrorblade": "1"
+}
+}
+},
+"B": {
+"Beard of the the Plaguemonger": {
+"creation_date": "2017-09-18",
+"image_inventory": "econ/items/necrolyte/the_plaguemonger_plaguemongers_beard/the_plaguemonger_plaguemongers_beard",
+"item_name": "#DOTA_Item_Beard_of_the_the_Plaguemonger",
+"item_rarity": "rare",
+"item_slot": "body_head",
+"item_type_name": "#DOTA_WearableType_body_head",
+"model_player": "models/items/necrolyte/the_plaguemonger_plaguemongers_beard/the_plaguemonger_plaguemongers_beard.vmdl",
+"name": "Beard of the the Plaguemonger",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_necrolyte": "1"
+}
+},
+"Blades of the Foulfell Corruptor": {
+"creation_date": "2017-09-11",
+"image_inventory": "econ/items/terrorblade/knight_of_foulfell_terrorblade_weapon/knight_of_foulfell_terrorblade_weapon",
+"item_name": "#DOTA_Item_Blades_of_the_Foulfell_Corruptor",
+"item_rarity": "mythical",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/terrorblade/knight_of_foulfell_terrorblade_weapon/knight_of_foulfell_terrorblade_weapon.vmdl",
+"name": "Blades of the Foulfell Corruptor",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_terrorblade": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/units/heroes/hero_terrorblade/terrorblade_ambient_sword_r.vpcf",
+"modifier": "particles/error/null.vpcf",
+"type": "particle"
+},
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_terrorblade/terrorblade_ambient_sword_l.vpcf",
+"type": "particle_create"
+},
+"asset_modifier1": {
+"modifier": "particles/units/heroes/hero_terrorblade/terrorblade_ambient_sword_r.vpcf",
+"type": "particle_create"
+},
+"asset_modifier2": {
+"modifier": "particles/units/heroes/hero_terrorblade/terrorblade_ambient_sword_blade.vpcf",
+"type": "particle_create"
+},
+"asset_modifier3": {
+"modifier": "particles/units/heroes/hero_terrorblade/terrorblade_ambient_sword_blade_2.vpcf",
+"type": "particle_create"
+},
+"skip_model_combine": "0"
+}
+},
+"Bracers of Endless Stars": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/enigma/tentacular_conqueror_arms/tentacular_conqueror_arms",
+"item_name": "#DOTA_Item_Bracers_of_Endless_Stars",
+"item_rarity": "rare",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/enigma/tentacular_conqueror_arms/tentacular_conqueror_arms.vmdl",
+"name": "Bracers of Endless Stars",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_enigma": "1"
+}
+},
+"Breastplate of the Fathomless Ravager": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/nevermore/krakens_ravager_shoulder/krakens_ravager_shoulder",
+"item_name": "#DOTA_Item_Breastplate_of_the_Fathomless_Ravager",
+"item_rarity": "rare",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/nevermore/krakens_ravager_shoulder/krakens_ravager_shoulder.vmdl",
+"name": "Breastplate of the Fathomless Ravager",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nevermore": "1"
+}
+}
+},
+"C": {
+"Cap of the Keen Commander": {
+"creation_date": "2017-09-21",
+"image_inventory": "econ/items/rattletrap/clockwerk_red_baron_head/clockwerk_red_baron_head",
+"item_name": "#DOTA_Item_Cap_of_the_Keen_Commander",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/rattletrap/clockwerk_red_baron_head/clockwerk_red_baron_head.vmdl",
+"name": "Cap of the Keen Commander",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_rattletrap": "1"
+}
+},
+"Cape of the Brinebred Cavalier": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/abaddon/the_sunken_horseman_abaddon_back/the_sunken_horseman_abaddon_back",
+"item_name": "#DOTA_Item_Cape_of_the_Brinebred_Cavalier",
+"item_rarity": "rare",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/abaddon/the_sunken_horseman_abaddon_back/the_sunken_horseman_abaddon_back.vmdl",
+"name": "Cape of the Brinebred Cavalier",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_abaddon": "1"
+}
+},
+"Cape of the Rambling Fatebender": {
+"creation_date": "2017-09-11",
+"image_inventory": "econ/items/rubick/gambling_mage_rubick_back/gambling_mage_rubick_back",
+"item_name": "#DOTA_Item_Cape_of_the_Rambling_Fatebender",
+"item_rarity": "rare",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/rubick/gambling_mage_rubick_back/gambling_mage_rubick_back.vmdl",
+"name": "Cape of the Rambling Fatebender",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_rubick": "1"
+}
+},
+"Claws of the Fathomless Ravager": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/nevermore/krakens_ravager_arms/krakens_ravager_arms",
+"item_name": "#DOTA_Item_Claws_of_the_Fathomless_Ravager",
+"item_rarity": "rare",
+"item_slot": "arms",
+"item_type_name": "#DOTA_WearableType_arms",
+"model_player": "models/items/nevermore/krakens_ravager_arms/krakens_ravager_arms.vmdl",
+"name": "Claws of the Fathomless Ravager",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nevermore": "1"
+}
+},
+"Cog of the Keen Commander": {
+"creation_date": "2017-09-26",
+"image_inventory": "econ/items/rattletrap/clockwerk_red_baron_clockwerk_red_baron_cog/clockwerk_red_baron_clockwerk_red_baron_cog",
+"item_name": "#DOTA_Item_Cog_of_the_Keen_Commander",
+"item_rarity": "rare",
+"item_slot": "ability2",
+"name": "Cog of the Keen Commander",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_rattletrap": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "npc_dota_rattletrap_cog",
+"modifier": "models/items/rattletrap/clockwerk_red_baron_clockwerk_red_baron_cog/clockwerk_red_baron_clockwerk_red_baron_cog.vmdl",
+"style": "0",
+"type": "entity_model"
+},
+"skip_model_combine": "0"
+}
+},
+"Crown of the Brinebred Cavalier": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/abaddon/the_sunken_horseman_abaddon_head/the_sunken_horseman_abaddon_head",
+"item_name": "#DOTA_Item_Crown_of_the_Brinebred_Cavalier",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/abaddon/the_sunken_horseman_abaddon_head/the_sunken_horseman_abaddon_head.vmdl",
+"name": "Crown of the Brinebred Cavalier",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_abaddon": "1"
+}
+}
+},
+"D": {
+"Demon Form of the Foulfell Corruptor": {
+"creation_date": "2017-09-11",
+"image_inventory": "econ/items/terrorblade/knight_of_foulfell_demon/knight_of_foulfell_demon",
+"item_name": "#DOTA_Item_Demon_Form_of_the_Foulfell_Corruptor",
+"item_rarity": "mythical",
+"item_slot": "ability3",
+"name": "Demon Form of the Foulfell Corruptor",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_terrorblade": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"asset": "models/heroes/terrorblade/demon.vmdl",
+"modifier": "models/items/terrorblade/knight_of_foulfell_demon/knight_of_foulfell_demon.vmdl",
+"type": "hero_model_change"
+},
+"asset_modifier1": {
+"modifier": "particles/units/heroes/hero_terrorblade/terrorblade_metamorphosis.vpcf",
+"spawn_in_alternate_loadout_only": "1",
+"spawn_in_loadout_only": "1",
+"type": "particle_create"
+},
+"asset_modifier2": {
+"modifier": "particles/units/heroes/hero_terrorblade/terrorblade_metamorphosis_head.vpcf",
+"spawn_in_alternate_loadout_only": "1",
+"spawn_in_loadout_only": "1",
+"type": "particle_create"
+}
+}
+},
+"Dress of the Allure": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/siren/allure_of_the_deep_armor/allure_of_the_deep_armor",
+"item_name": "#DOTA_Item_Dress_of_the_Allure",
+"item_rarity": "rare",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"model_player": "models/items/siren/allure_of_the_deep_armor/allure_of_the_deep_armor.vmdl",
+"name": "Dress of the Allure",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_naga_siren": "1"
+}
+}
+},
+"E": {},
+"F": {},
+"G": {
+"Gear of the Keen Commander": {
+"creation_date": "2017-09-21",
+"image_inventory": "econ/items/rattletrap/clockwerk_red_baron_armor/clockwerk_red_baron_armor",
+"item_name": "#DOTA_Item_Gear_of_the_Keen_Commander",
+"item_rarity": "rare",
+"item_slot": "armor",
+"item_type_name": "#DOTA_WearableType_armor",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/rattletrap/clockwerk_red_baron_armor/clockwerk_red_baron_armor.vmdl",
+"name": "Gear of the Keen Commander",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_rattletrap": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+}
+},
+"H": {
+"Harpoon of the Keen Commander": {
+"creation_date": "2017-09-21",
+"image_inventory": "econ/items/rattletrap/clockwerk_red_baron_weapon/clockwerk_red_baron_weapon",
+"item_name": "#DOTA_Item_Harpoon_of_the_Keen_Commander",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/rattletrap/clockwerk_red_baron_weapon/clockwerk_red_baron_weapon.vmdl",
+"name": "Harpoon of the Keen Commander",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_rattletrap": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+},
+"Headdress of the Plaguemonger": {
+"creation_date": "2017-09-18",
+"image_inventory": "econ/items/necrolyte/the_plaguemonger_plaguemongers_headdress/the_plaguemonger_plaguemongers_headdress",
+"item_name": "#DOTA_Item_Headdress_of_the_Plaguemonger",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/necrolyte/the_plaguemonger_plaguemongers_headdress/the_plaguemonger_plaguemongers_headdress.vmdl",
+"name": "Headdress of the Plaguemonger",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_necrolyte": "1"
+}
+},
+"Helm of the Dragon Palace": {
+"creation_date": "2017-09-11",
+"image_inventory": "econ/items/monkey_king/the_havoc_of_dragon_palacesix_ear_head/the_havoc_of_dragon_palacesix_ear_head",
+"item_name": "#DOTA_Item_Helm_of_the_Dragon_Palace",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/monkey_king/the_havoc_of_dragon_palacesix_ear_head/the_havoc_of_dragon_palacesix_ear_head.vmdl",
+"name": "Helm of the Dragon Palace",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_monkey_king": "1"
+},
+"visuals": {
+"skip_model_combine": "0"
+}
+},
+"Helm of the Fathomless Ravager": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/nevermore/krakens_ravager_head/krakens_ravager_head",
+"item_name": "#DOTA_Item_Helm_of_the_Fathomless_Ravager",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/nevermore/krakens_ravager_head/krakens_ravager_head.vmdl",
+"name": "Helm of the Fathomless Ravager",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_nevermore": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_nevermore/shadow_fiend_ambient_eyes.vpcf",
+"type": "particle_create"
+}
+}
+},
+"Helm of the Foulfell Corruptor": {
+"creation_date": "2017-09-11",
+"image_inventory": "econ/items/terrorblade/knight_of_foulfell_terrorblade_head/knight_of_foulfell_terrorblade_head",
+"item_name": "#DOTA_Item_Helm_of_the_Foulfell_Corruptor",
+"item_rarity": "mythical",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/terrorblade/knight_of_foulfell_terrorblade_head/knight_of_foulfell_terrorblade_head.vmdl",
+"name": "Helm of the Foulfell Corruptor",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_terrorblade": "1"
+},
+"visuals": {
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_terrorblade/terrorblade_ambient_eyes.vpcf",
+"type": "particle_create"
+}
+}
+}
+},
+"I": {},
+"J": {
+"Jewels of Endless Stars": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/enigma/tentacular_conqueror_head/tentacular_conqueror_head",
+"item_name": "#DOTA_Item_Jewels_of_Endless_Stars",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/enigma/tentacular_conqueror_head/tentacular_conqueror_head.vmdl",
+"name": "Jewels of Endless Stars",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_enigma": "1"
+}
+}
+},
+"K": {},
+"L": {},
+"M": {
+"Mask of the Rambling Fatebender": {
+"creation_date": "2017-09-11",
+"image_inventory": "econ/items/rubick/gambling_mage_rubick_head/gambling_mage_rubick_head",
+"item_name": "#DOTA_Item_Mask_of_the_Rambling_Fatebender",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/rubick/gambling_mage_rubick_head/gambling_mage_rubick_head.vmdl",
+"name": "Mask of the Rambling Fatebender",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_rubick": "1"
+}
+}
+},
+"N": {
+"Naginata of the Allure": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/siren/allure_of_the_deep_weapon/allure_of_the_deep_weapon",
+"item_name": "#DOTA_Item_Naginata_of_the_Allure",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/siren/allure_of_the_deep_weapon/allure_of_the_deep_weapon.vmdl",
+"name": "Naginata of the Allure",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_naga_siren": "1"
+}
+},
+"Naginata of the Allure Off-Hand": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/siren/allure_of_the_deep_off_hand/allure_of_the_deep_off_hand",
+"item_name": "#DOTA_Item_Naginata_of_the_Allure_OffHand",
+"item_rarity": "rare",
+"item_slot": "offhand_weapon",
+"item_type_name": "#DOTA_WearableType_offhand_weapon",
+"model_player": "models/items/siren/allure_of_the_deep_off_hand/allure_of_the_deep_off_hand.vmdl",
+"name": "Naginata of the Allure Off-Hand",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_naga_siren": "1"
+}
+}
+},
+"O": {},
+"P": {
+"Pauldrons of the Brinebred Cavalier": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/abaddon/the_sunken_horseman_abaddon_shoulder/the_sunken_horseman_abaddon_shoulder",
+"item_name": "#DOTA_Item_Pauldrons_of_the_Brinebred_Cavalier",
+"item_rarity": "rare",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/abaddon/the_sunken_horseman_abaddon_shoulder/the_sunken_horseman_abaddon_shoulder.vmdl",
+"name": "Pauldrons of the Brinebred Cavalier",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_abaddon": "1"
+}
+},
+"Pauldrons of the Rambling Fatebender": {
+"creation_date": "2017-09-11",
+"image_inventory": "econ/items/rubick/gambling_mage_rubick_shoulder/gambling_mage_rubick_shoulder",
+"item_name": "#DOTA_Item_Pauldrons_of_the_Rambling_Fatebender",
+"item_rarity": "rare",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"model_player": "models/items/rubick/gambling_mage_rubick_shoulder/gambling_mage_rubick_shoulder.vmdl",
+"name": "Pauldrons of the Rambling Fatebender",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_rubick": "1"
+}
+}
+},
+"Q": {},
+"R": {
+"Robe of the Plaguemonger": {
+"creation_date": "2017-09-18",
+"image_inventory": "econ/items/necrolyte/the_plaguemonger_plaguemongers_robe/the_plaguemonger_plaguemongers_robe",
+"item_name": "#DOTA_Item_Robe_of_the_Plaguemonger",
+"item_rarity": "rare",
+"item_slot": "shoulder",
+"item_type_name": "#DOTA_WearableType_shoulder",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/necrolyte/the_plaguemonger_plaguemongers_robe/the_plaguemonger_plaguemongers_robe.vmdl",
+"name": "Robe of the Plaguemonger",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_necrolyte": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+},
+"Rocket of the Keen Commander": {
+"creation_date": "2017-09-21",
+"image_inventory": "econ/items/rattletrap/clockwerk_red_baron_misc/clockwerk_red_baron_misc",
+"item_name": "#DOTA_Item_Rocket_of_the_Keen_Commander",
+"item_rarity": "rare",
+"item_slot": "misc",
+"item_type_name": "#DOTA_WearableType_misc",
+"model_player": "models/items/rattletrap/clockwerk_red_baron_misc/clockwerk_red_baron_misc.vmdl",
+"name": "Rocket of the Keen Commander",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_rattletrap": "1"
+},
+"visuals": {
+"skip_model_combine": "1"
+}
+}
+},
+"S": {
+"Scythe of the Plaguemonger": {
+"creation_date": "2017-09-18",
+"image_inventory": "econ/items/necrolyte/the_plaguemonger_plaguemongers_scythe/the_plaguemonger_plaguemongers_scythe",
+"item_name": "#DOTA_Item_Scythe_of_the_Plaguemonger",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/necrolyte/the_plaguemonger_plaguemongers_scythe/the_plaguemonger_plaguemongers_scythe.vmdl",
+"name": "Scythe of the Plaguemonger",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_necrolyte": "1"
+}
+},
+"Servants of Endless Stars": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/enigma/eidolon/tentacular_conqueror_tentacular_conqueror_eidolons/tentacular_conqueror_tentacular_conqueror_eidolons_npc_dota_eidolon",
+"item_name": "#DOTA_Item_Servants_of_Endless_Stars",
+"item_rarity": "rare",
+"item_slot": "ability2",
+"name": "Servants of Endless Stars",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_enigma": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "npc_dota_lesser_eidolon",
+"modifier": "models/items/enigma/eidolon/tentacular_conqueror_tentacular_conqueror_eidolons/tentacular_conqueror_tentacular_conqueror_eidolons.vmdl",
+"type": "entity_model"
+}
+}
+},
+"Staff of the Dragon Palace": {
+"creation_date": "2017-09-11",
+"image_inventory": "econ/items/monkey_king/the_havoc_of_dragon_palacesix_ear_weapon/the_havoc_of_dragon_palacesix_ear_weapon",
+"item_name": "#DOTA_Item_Staff_of_the_Dragon_Palace",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/monkey_king/the_havoc_of_dragon_palacesix_ear_weapon/the_havoc_of_dragon_palacesix_ear_weapon.vmdl",
+"name": "Staff of the Dragon Palace",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_monkey_king": "1"
+},
+"visuals": {
+"skip_model_combine": "0"
+}
+},
+"Staff of the Rambling Fatebender": {
+"creation_date": "2017-09-11",
+"image_inventory": "econ/items/rubick/gambling_mage_rubick_weapon/gambling_mage_rubick_weapon",
+"item_name": "#DOTA_Item_Staff_of_the_Rambling_Fatebender",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_weapon",
+"match_cycle_to_parent": "0",
+"model_player": "models/items/rubick/gambling_mage_rubick_weapon/gambling_mage_rubick_weapon.vmdl",
+"name": "Staff of the Rambling Fatebender",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_rubick": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/units/heroes/hero_rubick/rubick_staff_ambient.vpcf",
+"modifier": "particles/econ/items/rubick/rubick_gambling_mage/rubick_gambling_mage_ambient.vpcf",
+"style": "0",
+"type": "particle_create"
+},
+"skip_model_combine": "1"
+}
+},
+"Steed of the Brinebred Cavalier": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/abaddon/the_sunken_horseman_abaddon_mount/the_sunken_horseman_abaddon_mount",
+"item_name": "#DOTA_Item_Steed_of_the_Brinebred_Cavalier",
+"item_rarity": "rare",
+"item_slot": "mount",
+"item_type_name": "#DOTA_WearableType_mount",
+"model_player": "models/items/abaddon/the_sunken_horseman_abaddon_mount/the_sunken_horseman_abaddon_mount.vmdl",
+"name": "Steed of the Brinebred Cavalier",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_abaddon": "1"
+}
+},
+"Style of the Allure": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/siren/allure_of_the_deep_head/allure_of_the_deep_head",
+"item_name": "#DOTA_Item_Style_of_the_Allure",
+"item_rarity": "rare",
+"item_slot": "head",
+"item_type_name": "#DOTA_WearableType_head",
+"model_player": "models/items/siren/allure_of_the_deep_head/allure_of_the_deep_head.vmdl",
+"name": "Style of the Allure",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_naga_siren": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/units/heroes/hero_siren/siren_ambient_lamp.vpcf",
+"modifier": "particles/error/null.vpcf",
+"style": "0",
+"type": "particle"
+}
+}
+},
+"Sword of the Brinebred Cavalier": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/abaddon/the_sunken_horseman_abaddon_weapon/the_sunken_horseman_abaddon_weapon",
+"item_name": "#DOTA_Item_Sword_of_the_Brinebred_Cavalier",
+"item_rarity": "rare",
+"item_type_name": "#DOTA_WearableType_weapon",
+"model_player": "models/items/abaddon/the_sunken_horseman_abaddon_weapon/the_sunken_horseman_abaddon_weapon.vmdl",
+"name": "Sword of the Brinebred Cavalier",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_abaddon": "1"
+},
+"visuals": {
+"asset_modifier": {
+"asset": "particles/models/heroes/abaddon/abaddon_sword_default.psf",
+"modifier": "particles/models/items/abaddon/the_sunken_horseman_abaddon_weapon/the_sunken_horseman_abaddon_weapon_fx.psf",
+"type": "particle_snapshot"
+},
+"asset_modifier0": {
+"modifier": "particles/units/heroes/hero_abaddon/abaddon_blade.vpcf",
+"type": "particle_create"
+},
+"skip_model_combine": "1"
+}
+}
+},
+"T": {
+"Tail of the Allure": {
+"creation_date": "2017-05-17",
+"image_inventory": "econ/items/siren/allure_of_the_deep_legs/allure_of_the_deep_legs",
+"item_name": "#DOTA_Item_Tail_of_the_Allure",
+"item_rarity": "rare",
+"item_slot": "legs",
+"item_type_name": "#DOTA_WearableType_legs",
+"model_player": "models/items/siren/allure_of_the_deep_legs/allure_of_the_deep_legs.vmdl",
+"name": "Tail of the Allure",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_naga_siren": "1"
+}
+}
+},
+"V": {},
+"W": {
+"Wings of the Foulfell Corruptor": {
+"creation_date": "2017-09-11",
+"image_inventory": "econ/items/terrorblade/knight_of_foulfell_terrorblade_back/knight_of_foulfell_terrorblade_back",
+"item_name": "#DOTA_Item_Wings_of_the_Foulfell_Corruptor",
+"item_rarity": "mythical",
+"item_slot": "back",
+"item_type_name": "#DOTA_WearableType_back",
+"model_player": "models/items/terrorblade/knight_of_foulfell_terrorblade_back/knight_of_foulfell_terrorblade_back.vmdl",
+"name": "Wings of the Foulfell Corruptor",
+"prefab": "wearable",
+"used_by_heroes": {
+"npc_dota_hero_terrorblade": "1"
+}
+}
+},
+"Y": {}
+}
